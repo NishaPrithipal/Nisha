@@ -76,12 +76,7 @@ Ik heb een aantal verschillende versies gemaakt van de menu van Wok To Walk. Ik 
 ## Wo 2 Sept - Workshop 2: Klassikaal
 S0 - CSS: fonts met kleur en effecten (Sanne)
 
-### Notities:
-
-
-## FOTO'S PLAATSEN !! 
-
-Opdracht 1:
+Opdracht 1: Font Properties
 
 <img width="509" height="560" alt="Scherm­afbeelding 2026-09-02 om 12 07 59" src="https://github.com/user-attachments/assets/a4621c91-e9ed-4cba-bd77-b7ca7f8021cf" />
 
@@ -89,7 +84,7 @@ Opdracht 1:
 
 <img width="561" height="849" alt="Scherm­afbeelding 2026-09-02 om 12 08 26" src="https://github.com/user-attachments/assets/ab305ed4-fe6a-4794-883c-3bc276ccb59e" />
 
-Opdracht 2:
+Opdracht 2: Fonts, kleur en effecten
 
 <img width="64" height="93" alt="Scherm­afbeelding 2026-09-02 om 12 30 20" src="https://github.com/user-attachments/assets/9b276ebc-513a-4239-8075-3f01078092c9" />
 
@@ -97,10 +92,16 @@ Opdracht 2:
 
 <img width="460" height="284" alt="Scherm­afbeelding 2026-09-02 om 12 43 56" src="https://github.com/user-attachments/assets/aa83a3f8-b5e8-4383-8234-2e2457141e25" />
 
+<img width="503" height="840" alt="Scherm­afbeelding 2026-09-11 om 18 15 27" src="https://github.com/user-attachments/assets/4f3c0b4e-7081-40cd-a48d-28c036157174" />
+
+Opdracht 3: Mini-posters
 
 
 
+### Notities:
 
+
+## FOTO'S PLAATSEN !! 
 
 
 
