@@ -1,7 +1,7 @@
-# Model
+<img width="1003" height="696" alt="Scherm­afbeelding 2026-09-13 om 23 45 23" src="https://github.com/user-attachments/assets/925d91a5-fdbd-48b7-bced-8121ab1369e3" /># Model
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
-# Learning Log
+# Learning Log / Check Out 
 ## Ma 31 Aug - Kick Off
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
 <img width="585" height="33" alt="Scherm­afbeelding 2026-09-10 om 20 54 21" src="https://github.com/user-attachments/assets/2d2485f8-723c-4592-a2e7-e2a5a0f0afcf" />
@@ -16,6 +16,31 @@ Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github o
 
 3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
 - Ik maak mijn aanpassingen in VSCodium. Als ik iets heb aangepast aan bijvoorbeeld mijn HTML of CSS, sla ik dit eerst op. Daarna klikte ik op menu items met de wijzigingen en voegde ik pagina titel aangepast en klikte ik op commit. Vervolgens klikte ik op sync changes, waardoor mijn wijzigingen naar Github werden gestuurd. Daarna kwam de nieuwe versie van mijn website online te staan en heb ik gecheckt of de aanpassingen goed op de website staan.
+
+## Sprint 1.1:
+1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+- Een digital garden is een persoonlijke website waar je je eigen ideeën, interesses en kennis kan laten zien. Het hoeft niet helemaal perfect te zijn en je kan steeds nieuwe dingen toevoegen en aanpassen. Het is anders dan een normale blog of social media. Een reguliere website heeft een duidelijke structuur en staat de informatie vast en overzichtelijk. Bij een digital garden mag het speelser, persoonlijker en chaotischer zijn. Het is meer een digitale verzameling van iemand of dus hun persoonlijke digitale wereld. 
+
+2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+- Een website is webby als door leuke interacties, animaties, persoonlijke dingen en ook iets waar je zelf op kunt klikken of ontdekken. De websites die mij het meest inspireren zijn een aantal websites, maar ik vond voornamelijk die van jen.dev fijn door de optie aan instellingen, de persoonlijke stijl, kleuren en animaties interessant. 
+
+3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
+- Voor mijn eigen digital garden wil ik vooral aan de slag met handheld consoles en games. Ik ben de laatste tijd daar weer erg geïnteresseerd in en heb een eigen collectie. Ik gebruik mijn PS4 dagelijks en ik word nostalgisch als ik op mijn oude DS speel. Het maakt mij niet alleen nostalgisch, maar brengt mij ook samen met anderen en geeft mij ontspanning. Dit speelt een rol in mijn leven en hierdoor wil ik het graag een plekje geven in mijn digital garden. Ik had eerst het idee om het over films en series te hebben, maar deze interesse pakt mij meer, alhoewel het een bekend thema is wil ik dit toch graag in mijn garden hebben.
+
+- Verder wil ik niet alleen informatie over games en consoles laten zien, maar ook mijn eigen gevoel of herinneringen overbrengen. Ik dacht aan korte tekstjes en leuke interacties, zoals afbeeldingen, kleuren, geluiden, kleine animaties, hoverelementen en andere interactieve elementen. Ik denk dat het een soort van mijn eigen kleine gamewereld is die toch overzichtelijk is, want ik kan niet tegen te chaotisch.
+
+Dit is het idee dat ik nu heb en kan in de loop van tijd nog veranderen, vooral wanneer ik echt bezig ben met mijn website, maar ik kan dus altijd extra’s toevoegen aan mijn digital garden.
+
+## Sprint 1.2: NOG INVULLEN !!!
+1. Leg uit waar het Visual Research in 3 stappen naartoe werkt
+- 
+2. Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+- 
+3. Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+- s
+
+4. Welke feedback heb je gehad?
+- Ik was ziek :/ ga het nog bespreken en vragen
 
 # Deep Dives / Workshops:
 
@@ -245,6 +270,39 @@ Ik wil niet alleen tekst hebben ik wil ongeveer het volgende:
 - Verborgen easter eggs / achievements unlocked
 - Interactieve gamecards
 - Scrollen door verschillende generaties / tijdlijn
+
+## Opdracht 3: 
+
+50 FOTO'S PLAATSEN !!! --> Collage 
+Presentatie maken 
+
+10 Links: Bronnen
+1. 
+
+## Opdracht 4: 
+Presentatie + vragen
+
+## Opdracht 5: 
+Miro !!! 
+## Opdracht 6: 
+Miro !!! 
+
+## Opdracht 7: 
+Miro !!! 
+
+## Opdracht 8: 
+Miro !!! 
+
+## Opdracht 9: 
+### Crazy 8's:
+<img width="1003" height="696" alt="Scherm­afbeelding 2026-09-13 om 23 45 23" src="https://github.com/user-attachments/assets/af940dc8-637a-4eb4-aa37-88904ca207f1" />
+
+## Opdracht 10: 
+
+## Opdracht 11: 
+<img width="1352" height="647" alt="Scherm­afbeelding 2026-09-14 om 00 16 25" src="https://github.com/user-attachments/assets/ed8e2880-4dca-4455-8ae3-ed486f1643b7" />
+
+Dit zijn er 4 ipv 5 --> opnieuw doen of eentje toevoegen !!!
 
 
 
