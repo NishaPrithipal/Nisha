@@ -105,6 +105,150 @@ Opdracht 3: Mini-posters
 
 
 
+# Digital Garden:
+
+## Opdracht 1:
+Ik was ziek, dus heb ik het via Figma gemaakt. 
+### Werkvel 1
+<img width="1059" height="751" alt="Scherm­afbeelding 2026-09-13 om 16 51 49" src="https://github.com/user-attachments/assets/576debca-94e6-4e6f-8d70-39e80662ce57" />
+
+### Werkvel 2
+FOTO PLAATSEN
+
+
+
+## Opdracht 2: 
+Mijn eerste idee was om een website te bouwen die ging over films en/of series. Het is niet alleen entertainment, maar kunnen bij mij ook een herinnering, sfeer en emotie oproepen. Sommige films geven mij comfort en andere maken mij juist verdrietig. Ik besloot toch om mijn thema rond gaming te houden, want ik heb daar toch meer interesse in. 
+
+### Titel opties:
+My Game World (1ste versie naam), Nisha’s Games, Nisha Productions.
+
+### Website: 
+Mijn eigen wereld / tuintje waar verschillende consoles, controllers, games en herinneringen op speelse en interactieve wijze laat zien.
+
+Ik wil denk ik deze elementen terug laten komen: 
+### Consoles:
+- PS4 --> Dit is mijn ‘main’ console en gebruik ik dagelijks.
+- Xbox 360 --> Dit was vroeger mijn main console totdat ik mijn PS4 heb gekregen. 
+- Wii --> Ik gebruikte die heel erg vaak en geeft mij een nostalgisch gevoel, omdat ik die voornamelijk met mijn nichten speelde. 
+- Ik twijfel om ook een Nintendo Switch erin te doen, want ik heb er zelf geen maar ik speel die wel vaak met mijn nichten als ik bij hun slaap.
+
+### Handheld consoles:
+- Diverse nintendo DS (DSi Lite, New 3ds, XL versie, etc.) 
+- Verschillende PSP versies (3001, street, fat, etc.)
+- PS Vita (Het verschil tussen deze en de oude PSP)
+- Game Boy (Minste ervaring, heb een gb advance)
+
+### Games:
+- Games die ik vroeger VS nu speel.
+- Fysieke game verzameling.
+- Mijn all time favoriete games / Nostalgische games.
+- Games die ik na het kopen van oude consoles weer opnieuw heb ontdekt
+
+### Mogelijke extra’s:
+- Mijn favoriete (handheld) consoles en waarom.
+- Fysieke DVD verzameling
+- Andere collecties
+Ik twijfel om ook een DVD sectie te doen bij mijn fysieke game verzameling aangezien dat mijn 1ste gedachte was.
+
+### Mijn onderwerp:
+Voor mijn digital garden heb ik gekozen voor de thema gaming. De reden dat ik heb gekozen voor dit onderwerp is omdat ik laatste tijd weer mijn liefde voor de oudere tech heb gevonden. Ik ga voornamelijk steeds vaker terug naar mijn oude handheld consoles. Ik ben ook op zoek gegaan naar diverse oude handheld consoles die ik nog niet had en heb nu ook een aardige verzameling hiervan. Verder heb ik ook opgemerkt dat er weer een trend is om weer terug te gaan naar oudere single purpose technologie. Bij elke generatie komt er een trend die terug gaat naar het ‘oude’. 
+ 
+Ik heb gebruik mijn PS4 elke dag en de oudere tech gebruiken geeft mij een nostalgisch gevoel. Ik wil niet alleen vertellen welke consoles en games ik leuk vind. Ik wil graag mijn gaming collectie laten zien en de nostalgie hiervan.
+
+### De toon:
+De toon wordt persoonlijk, gericht op mijzelf, speels, nostalgisch en soms wat retro. Ik denk dat ik de website wil laten voelen als een soort digitale game wereld waarin je rond kunt kijken en dingen kunt ontdekken, maar ik wil het wel netjes houden net zoals de web museum. 
+
+### Voorbeelden andere websites:
+Uit de voorbeelden van Digital Gardens zie ik dat een website volledig naar eigen stijl kan worden gemaakt. Melonland was een goed voorbeeld waarbij het echt voelt als een eigen internetwereld. Het Web Design Museum vond ik interessant, omdat het laat zien hoe webdesign en de digitale wereld door de tijd heen zich heeft verandert. Dat sluit goed aan bij mijn eigen interesse in oudere consoles en games. Ik vond ook fijn hoe georganiseerd alles was, want melonland was toch iets te voor mij. Ik zal mijn website naar eigen stijl maken. 
+
+### Ik heb gekeken naar wat ik van de verschillende sites nog zou kunnen leren en wat ik zelf tijdens het gebruik interessant en interactief vond:
+
+https://karro.neocities.org 
+- Leuk de regenboog swoosh die de muis volgt.
+
+https://bonics.org/aboutme/
+- De animaties.
+
+https://stegrainer.com/media/
+- Hoe de film beweegt als de muis hovert.
+
+https://stegrainer.com/media/games/
+- Manier waarop ik games kan displayen
+
+https://jen.dev
+- Aesthetics
+- Settings
+- Donkere modus en juiste contrast 
+
+https://paavandesign.com
+- Hoe de foto’s grijs worden als je op een foto hovert.
+- Shuffle knop komen andere foto’s.
+
+https://churchbasement.org
+- Vlinder animatie is eigenlijk ook een knop.
+
+https://mikemai.net
+- Gradient die overloopt.
+
+https://dithernaut.com
+- Titel verandert en lijkt op een glitch.
+
+### Mijn richting en mogelijke onderdelen:
+- Mijn consoles
+- Handhelds
+- Favoriete games
+- Fysieke games
+- Herinneringen
+- Game muziek
+- Favoriete game personages
+- Andere dingen die ik wil verzamelen
+
+### Webby dingen die ik wil gebruiken:
+- Verborgen links bijv. door het klikken van een animatie
+- Hover effecten
+- Pixel art
+- Kleine animaties
+- Typografie die bij de stijl past
+- Geluid of muziek waar passend is
+- Onverwachte klikbare elementen
+- Eigen cursor of andere kleine details
+- Interessante lay-out
+- Interactieve consoles of gamecards
+
+### Eigen content:
+Ik wil vooral eigen teksten schrijven over mijn ervaringen met games en consoles. Ook wil ik eigen foto's maken van mijn consoles en collectie. Daardoor wordt de website persoonlijker. Wellicht ook eigen art die ik kan maken met de inspiratie op mijn eigen collectie. Het is binnenkort ook Halloween en ik houd van horror spelletjes, dus misschien daar iets mee. Ik kan ook foto’s maken met de oude psp en ds. 
+
+### Games en consoles zijn voor mij meer dan alleen spelen. Ze geven mij ontspanning, brengen oude herinneringen naar boven, zijn een verzameling en houden mij nieuwsgierig. Van mijn PS4 die ik dagelijks gebruik tot mijn oudere handhelds heeft elke console een eigen gevoel.
+
+### Wat wil ik leren?
+Ik wil leren hoe ik met HTML en CSS een persoonlijke digitale wereld kan maken. Daarnaast wil ik leren hoe ik interactie kan gebruiken om een onderwerp goed over te brengen.
+
+### Content van anderen:
+Ik kan officiële afbeeldingen, screenshots, trailers en video recensies gebruiken als bronmateriaal. Er staat veel op TikTok en YouTube qua de ‘resurgence’ van de oude tech.
+
+### Hoe wil ik de ervaring hebben?
+Ik wil niet alleen tekst hebben ik wil ongeveer het volgende:
+
+### Visueel:
+- (Handheld) Consoles
+- Cartridges / Discs
+- Game covers
+
+### Audio:
+- Links naar soundtracks of korte audio die zich afspeelt.
+- Geluiden die aan oude consoles doen denken.
+
+### Interacties:
+- Klikken op consoles
+- Hoveren over games
+- Verborgen easter eggs / achievements unlocked
+- Interactieve gamecards
+- Scrollen door verschillende generaties / tijdlijn
+
+
+
+
 
 
 
