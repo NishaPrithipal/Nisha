@@ -387,7 +387,11 @@ Kenmerken:
 2de keer:
 <img width="1003" height="703" alt="Scherm­afbeelding 2026-09-15 om 15 55 41" src="https://github.com/user-attachments/assets/e6399380-8cd2-47c7-8fdb-7299d8793ac6" />
 
-
+## Opdracht 12: Verder aan werken!!
+1. zijn je schetsen Webby genoeg? Beoordeel o.b.v. het invulvel.
+2. Je hebt je opzet in html gemaakt. Bespreek met elkaar hoe schermontwerp kunt opbouwen/realiseren in html en css.
+3. Schrijf vragen of moeilijke onderdelen op en vraag advies aan een docent/student assistent.
+4. Maak waar nodig een laatste iteratie, zodat het helder is wat je definitieve bouwplan is in htm/css.
 
 
 
