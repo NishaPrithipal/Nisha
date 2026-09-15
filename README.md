@@ -1,4 +1,4 @@
-# Model
+<img width="820" height="855" alt="Scherm­afbeelding 2026-09-15 om 17 10 20" src="https://github.com/user-attachments/assets/7e99fc6a-b97c-4821-8cde-a25b744b2397" /># Model
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 # Learning Log / Check Out 
@@ -31,24 +31,27 @@ Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github o
 
 Dit is het idee dat ik nu heb en kan in de loop van tijd nog veranderen, vooral wanneer ik echt bezig ben met mijn website, maar ik kan dus altijd extra’s toevoegen aan mijn digital garden.
 
-## Sprint 1.2: NOG INVULLEN !!!
+## Sprint 1.2: NOG INVULLEN
 1. Leg uit waar het Visual Research in 3 stappen naartoe werkt
-- 
+- Bij visual research werk je in 3 stappen naar duidelijke visuele uitgangspunten voor mijn digital garden. Je gaat met sfeerwoorden kijken naar beelden, merk je een patroon op, daarna kijk je naar abstracte beelden met kleur, vorm en typografie en uiteindelijk kan je die kenmerken gebruiken om je eigen schetsen te maken. Visuele research is helpt je dus om geïnspireerd te raken en je een beter beeld te geven.
+
 2. Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
-- 
+- Mijn Digital Garden gaat over mijn gaming wereld en mijn liefde voor verschillende consoles en games waar ik herinneringen aan heb. Ik wil dit laten zien door mijn eigen collectie te fotograferen en korte teksten, links, geluiden of andere interactieve elementen erbij zetten. 
+
 3. Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
-- s
+- Het idee dat ik het liefst verder wil onderzoeken is mijn collectie. Het lijkt mij een leuk idee om al mijn consoles en games als een soort digitale collectie te laten zien, waarbij ik graag zou willen dat als je op een console of game klikt, je dan foto's, herinneringen, informatie of geluiden kan ontdekken.
 
 4. Welke feedback heb je gehad?
 - Ik was ziek :/ ga het nog bespreken en vragen
+# NOG DOEN!!!
 
-# Bi weekly: 
+# Bi weekly: 14 september
 1. Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
-- Geen interactie, is niet fluïde en adaptief. Zorg voor kleine interacties, fleur het op met animaties en zorg dat het op elke scherm past. 
+- Wanneer het rommelig eruit ziet, er geen interactie is en het niet fluïde en adaptief is. Je kan zorgen voor kleine interacties, fleur het op met animaties en zorg dat het op elke scherm past. 
 2. Vertel welke volgende stap je neemt om je website responsive te maken.
-- 
+- Ik wil graag een begin maken met het maken van mijn website en als ik grids gebruik dat het op elke scherm past, dus zowel op laptop als op je telefoon.
 3. Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
-- 
+- Ik wil graag werken met interactie, afbeeldingen, links, easter eggs en een responsive layout. Het gaat er persoonlijk en expressief uitzien door mijn eigen stijl qua kleuren, foto's, game afbeeldingen, kleuren en typografie. Ik hoop dat mijn website een combinatie zal zijn van dit. Verder moet het ook fluïde en adaptief zijn zodat het op elke scherm werkt en dat het ook verrassend is door interactieve elementen, maar niet te overweldigend is en het volwassen blijft. 
 
 # Deep Dives / Workshops:
 
@@ -109,7 +112,7 @@ Ik heb een aantal verschillende versies gemaakt van de menu van Wok To Walk. Ik 
 ## Wo 2 Sept - Workshop 2: Klassikaal
 S0 - CSS: fonts met kleur en effecten (Sanne)
 
-Opdracht 1: Font Properties
+### Opdracht 1: Font Properties
 
 <img width="509" height="560" alt="Scherm­afbeelding 2026-09-02 om 12 07 59" src="https://github.com/user-attachments/assets/a4621c91-e9ed-4cba-bd77-b7ca7f8021cf" />
 
@@ -117,7 +120,7 @@ Opdracht 1: Font Properties
 
 <img width="561" height="849" alt="Scherm­afbeelding 2026-09-02 om 12 08 26" src="https://github.com/user-attachments/assets/ab305ed4-fe6a-4794-883c-3bc276ccb59e" />
 
-Opdracht 2: Fonts, kleur en effecten
+### Opdracht 2: Fonts, kleur en effecten
 
 <img width="64" height="93" alt="Scherm­afbeelding 2026-09-02 om 12 30 20" src="https://github.com/user-attachments/assets/9b276ebc-513a-4239-8075-3f01078092c9" />
 
@@ -127,34 +130,26 @@ Opdracht 2: Fonts, kleur en effecten
 
 <img width="503" height="840" alt="Scherm­afbeelding 2026-09-11 om 18 15 27" src="https://github.com/user-attachments/assets/4f3c0b4e-7081-40cd-a48d-28c036157174" />
 
-Opdracht 3: Mini-posters
+
+### Opdracht 3: Mini-posters NOG DOENN
 
 
 
 ### Notities:
 
-
 ## FOTO'S PLAATSEN !! 
-
 
 
 # Digital Garden:
 
 ## Opdracht 1:
-Ik was ziek, dus heb ik het via Figma gemaakt. 
-### Werkvel 1
 <img width="1059" height="751" alt="Scherm­afbeelding 2026-09-13 om 16 51 49" src="https://github.com/user-attachments/assets/576debca-94e6-4e6f-8d70-39e80662ce57" />
 
-### Werkvel 2
-FOTO PLAATSEN
-
-
-
 ## Opdracht 2: 
-Mijn eerste idee was om een website te bouwen die ging over films en/of series. Het is niet alleen entertainment, maar kunnen bij mij ook een herinnering, sfeer en emotie oproepen. Sommige films geven mij comfort en andere maken mij juist verdrietig. Ik besloot toch om mijn thema rond gaming te houden, want ik heb daar toch meer interesse in. 
+Mijn eerste idee was om een website te bouwen die ging over films en/of series. Het is niet alleen entertainment, maar kunnen bij mij ook een herinnering, sfeer en emotie oproepen. Sommige films geven mij comfort en andere maken mij juist verdrietig. Aan de andere kant dacht ik aan mijn gaming consoles. Ik spendeer daar veel tijd, geld en energie aan en die hebben mij veel meer herinneringen en emoties gebracht. Ik besloot om mijn thema rond gaming te doen, want ik heb daar meer interesse in. 
 
 ### Titel opties:
-My Game World (1ste versie naam), Nisha’s Games, Nisha Productions.
+My Game World (1ste versie naam), Nisha’s Games, Nisha Productions, Game Station.
 
 ### Website: 
 Mijn eigen wereld / tuintje waar verschillende consoles, controllers, games en herinneringen op speelse en interactieve wijze laat zien.
@@ -164,7 +159,7 @@ Ik wil denk ik deze elementen terug laten komen:
 - PS4 --> Dit is mijn ‘main’ console en gebruik ik dagelijks.
 - Xbox 360 --> Dit was vroeger mijn main console totdat ik mijn PS4 heb gekregen. 
 - Wii --> Ik gebruikte die heel erg vaak en geeft mij een nostalgisch gevoel, omdat ik die voornamelijk met mijn nichten speelde. 
-- Ik twijfel om ook een Nintendo Switch erin te doen, want ik heb er zelf geen maar ik speel die wel vaak met mijn nichten als ik bij hun slaap.
+- Ik twijfel om ook een Nintendo Switch erin te doen, want ik heb er zelf geen maar ik speel die wel vaak met mijn nichten als ik bij hun ben.
 
 ### Handheld consoles:
 - Diverse nintendo DS (DSi Lite, New 3ds, XL versie, etc.) 
@@ -280,37 +275,119 @@ Ik wil niet alleen tekst hebben ik wil ongeveer het volgende:
 - Scrollen door verschillende generaties / tijdlijn
 
 ## Opdracht 3: 
+<img width="820" height="855" alt="Scherm­afbeelding 2026-09-15 om 17 10 20" src="https://github.com/user-attachments/assets/af61e18c-6189-4357-b96a-fe6175d70aa6" />
 
-50 FOTO'S PLAATSEN !!! --> Collage 
-Presentatie maken 
+Bronnen:
+1. Superheroes: More than nostalgia: Why gen z is turning to old tech.
+- https://hellosuperheroes.com/news/In-between-Generation
+- Gen Z wordt vaak gezien als een volledig digitale generatie, maar de oudere Gen Z is eigenlijk een “in-between generation”. Zij zijn opgegroeid met oudere technologie zoals Nintendo DS, Tamagotchi en digitale camera's, maar maakten daarna de grote overgang naar moderne technologie zoals, smartphones en sociale media. Ze zijn bewust van de voor- en nadelen van moderne technologie. De oude technologie voelt aantrekkelijk aan omdat het minder stimulatie, afleiding, meldingen en sociale media heeft. Terwijl flip phones, draad oortjes en andere simpele technologie hen het gevoel geeft dat zij juist meer controle hebben. Dus het gaat niet alleen om nostalgie, ze zijn op zoek naar simpelheid en balans.
 
-10 Links: Bronnen
-1. 
+2. Reddit: What old technology is making a comeback?
+- https://www.reddit.com/r/CasualConversation/comments/1t7rlea/what_old_technology_is_making_a_comeback_or_do/
+- Dit is een discussie waarin 'gewone' mensen vertellen welke oude technologie volgens hen terugkomt, bijvoorbeeld telefoons met fysieke knoppen, DVD's en andere fysieke media. Een van de belangrijkste redenen voor de opkomst van oude tech is dat mensen genoeg hebben van streaming abonnementen en de constante online verbinding. Juist als je fysieke media bezit ben je niet afhankelijk van een dienst en het maakt je bewuster. 
+
+3. BBC: Why do gen Z have a growing appetite for retro tech?
+- https://www.bbc.com/news/articles/ckgl8nj8nvzo
+- Jongeren hebben steeds meer interesse in oude technologie. Gen Z gebruikt retro tech niet alleen omdat het er 'cool' uitziet, maar ook omdat het een manier kan zijn om even afstand te nemen van de moderne digitale wereld.
+
+4. The Hollywood Reporter: Why Gen-Z is embracing old tech: Fighting the Algorithm With Analog
+- https://www.hollywoodreporter.com/music/music-features/gen-z-old-technology-1236663883/#
+- Gen z heeft een groeiende interesse in oudere en analoge technologie. Het wordt bewust gekozen vanwege de stijl, uniekheid en nostalgie.
+
+5. Fast Company: "It's like their escape": Retro gaming is back thanks to Gen Z
+- https://www.fastcompany.com/91282155/retro-gaming-is-back-thanks-to-gen-z
+- Volgens een Britse enquête bezit 24% van Gen Z een retro gameconsole en 89% ziet retro games als een goeie break van het internet. Verder is het omdat retro games nostalgisch en ontspannen aanvoelen, mensen het fijn vinden om niet alleen op hun telefoon te zitten, het voelt als een veilige ontsnapping en omdat ze emotionele waarden hechten aan hun consoles en games.
+
+6. Gamespace: Why handheld gaming consoles are making a huge comeback in 2025
+- https://gamespace.com/all-articles/news/why-handheld-gaming-consoles-are-making-a-huge-comeback-in-2025/
+- Handhelds worden weer populair omdat ze draagbaar zijn, je makkelijk korte speelsessies kan hebben, nostalgisch zijn, een meer persoonlijke gaming ervaring geven en je minder verbonden bent met grote schermen en de online wereld. De combo van oude handhelds en moderne hardware wordt steeds belangrijker, want nieuwe apparaten proberen het gevoel van bijv. een Game Boy, DS of PSP te combineren met betere schermen, krachtigere hardware en moderne functies.
+
+7. United Ceres College: The Clamshell Revival: Merging Nostalgia and Innovation in Handheld Gaming
+- https://unitedceres.edu.sg/clamshell-gaming-devices-revival-nostalgia-innovation/
+- De aantrekkingskracht komt uit de combinatie van nostalgie en moderne technologie. Moderne clamshell-apparaten kunnen betere schermen en krachtigere hardware hebben, terwijl ze nog steeds dat oude vertrouwde gevoel hebben. Mensen willen niet de oude technologie, maar meer het oude design en gevoel van oude technologie met alle voordelen van de moderne technologie.
+
+8. Reddit: Is there still a good reason to use original retro hardware?
+- https://www.reddit.com/r/SBCGaming/comments/1gmnkz3/today_is_there_still_a_good_reason_to_use/
+- Hier is er een discussie of je de originele console beter kan gebruiken of dat emulatie beter is. Voorstanders van de originele hardware zeggen hebben het over het originele gevoel, de controllers, CRT-schermen, specifieke vormen DS, fysieke knoppen, motion controls, betere compatibiliteit bij sommige games en nostalgie. Terwijl anderen juist emulatie beter vinden door de hogere resolutie, minder input lag, OLED/backlit schermen en een apparaat hebben voor meerdere consoles. Wel is het zo dat voor de DS/3DS sommige de originele hardware veel beter vinden, omdat de twee schermen, touchscreen en stylus onderdeel zijn van de gehele game ervaring. Dit laat zien dat retro tech dus niet alleen over de games gaan, maar ook over de extra onderdelen zoals de hardware, vorm, controller en andere fysieke interacties die deel kunnen zijn van het nostalgische gevoel.
+
+9. Tech Fairy: Why I prefer playing retro games on emulators over real hardware? To Emulate Or Not To Emulate, This Is The Question.
+- https://tech-fairy.com/why-i-prefer-playing-retro-games-on-emulator-over-real-hardware/
+- De schrijver kiest persoonlijk voor emulatie, omdat je bestaande consoles kan gebruiken, je duizenden games hebt op een apparaat, je geen oude consoles moet zoeken en betalen die vaak nu duur zijn,  het goedkoop, toegankelijk, draagbaar is en ze hogere resolutie en moderne functies hebben. De schrijver vindt voor hem zelf dat het belangrijkste onderdeel van retro gaming de games zelf en niet per se de originele hardware, maar hij vindt wel dat de originele hardware voordelen heeft, vooral voor mensen die emotionele waarde hechten aan de fysieke ervaring.
+
+10. Benny Ling Bling: The retro handheld console and software emulation rabbit hole.
+- https://bennylingbling.com/2024/the-retro-handheld-console-and-software-emulation-rabbit-hole/
+- Hier wordt gekeken naar de ontwikkeling van moderne en retro handhelds. Vroeger waren goedkope emulatie handhelds vaak te zwak voor veel systemen. Tegenwoordig zijn moderne chips veel krachtiger, waardoor kleine handhelds veel oudere systemen nu wel kunnen emuleren. Er blijft wel een risico, want software emulatie is nooit gegarandeerd perfect waardoor sommige kunnen glitchen, crashen of andere slechte prestaties hebben. De schrijver zegt dat naast dat de originele consoles uiteindelijk kapotgaan de batterijen sneller slijten, schermen kapot kunnen gaan, onderdelen steeds moeilijker te vinden zijn en veel consoles niet meer geproduceerd worden. Dat is de reden dat emulatie uiteindelijk belangrijk kan worden voor 'game preservation'.
 
 ## Opdracht 4: 
 Presentatie + vragen
+Presentatie maken 
 
 ## Opdracht 5: 
-Miro !!! 
+Alles staat ook op Miro bij deze link: https://miro.com/app/board/uXjVHpsKqYY=/ 
+<img width="1008" height="723" alt="Scherm­afbeelding 2026-09-15 om 15 31 22" src="https://github.com/user-attachments/assets/5ca5b2b9-9b15-4714-87d7-d64feb001cc0" />
+
 ## Opdracht 6: 
-Miro !!! 
+<img width="1008" height="850" alt="Scherm­afbeelding 2026-09-15 om 15 31 51" src="https://github.com/user-attachments/assets/50b504f2-2961-4e94-a1c4-5d307281633d" />
+
+### Close-up:
+Mood board:
+<img width="1343" height="696" alt="Scherm­afbeelding 2026-09-14 om 15 09 43" src="https://github.com/user-attachments/assets/b0b16a6a-02af-4866-b6a0-77365afe8909" />
+
+Patronen:
+- Erg kleurrijk, veel verschillende kleuren.
+- Gevoel van vrijheid, nostalgie en speelsheid.
+- Verzameling diverse oude tech door de jaren heen.
+- Verbinding (spelletjes samen spelen).
+- Retro.
 
 ## Opdracht 7: 
-Miro !!! 
+<img width="1009" height="824" alt="Scherm­afbeelding 2026-09-15 om 15 35 27" src="https://github.com/user-attachments/assets/0b38937f-9882-4137-9fe3-224de4126aac" />
+
+### Close-up:
+Mood board:
+<img width="1154" height="570" alt="Scherm­afbeelding 2026-09-15 om 00 53 33" src="https://github.com/user-attachments/assets/691975fb-e7b2-4429-95a5-1003788a0db7" />
+
+Kenmerken:
+- Veilig en nostalgisch gevoel.
+- Tijd / Terug in de tijd / Kindertijd / 'goeie oude tijd'.
+- Vrijheid  en los van alles en iedereen.
+- Ontastbaar.
 
 ## Opdracht 8: 
-Miro !!! 
+<img width="726" height="782" alt="Scherm­afbeelding 2026-09-15 om 15 38 54" src="https://github.com/user-attachments/assets/bc0abbb6-cabb-4b90-bd52-2ec1c13ee6e6" />
+
+### Close ups:
+<img width="821" height="435" alt="Scherm­afbeelding 2026-09-15 om 15 39 02" src="https://github.com/user-attachments/assets/694ab652-466b-4c4c-80ad-da799f9bd840" />
+
+<img width="1014" height="531" alt="Scherm­afbeelding 2026-09-15 om 15 39 10" src="https://github.com/user-attachments/assets/dc30702b-18b4-4f36-8fd9-4b06033669ba" />
+
+<img width="1013" height="536" alt="Scherm­afbeelding 2026-09-15 om 15 39 16" src="https://github.com/user-attachments/assets/202e2730-0a85-43ad-afde-c1295f6f3965" />
+
+<img width="984" height="533" alt="Scherm­afbeelding 2026-09-15 om 15 39 25" src="https://github.com/user-attachments/assets/1cfa50fd-64db-404b-b295-93220525fb87" />
 
 ## Opdracht 9: 
-### Crazy 8's:
+
+### Close ups: Crazy 8's
+1ste keer:
 <img width="1003" height="696" alt="Scherm­afbeelding 2026-09-13 om 23 45 23" src="https://github.com/user-attachments/assets/af940dc8-637a-4eb4-aa37-88904ca207f1" />
 
+2de keer:
+<img width="965" height="697" alt="Scherm­afbeelding 2026-09-15 om 15 52 32" src="https://github.com/user-attachments/assets/f9342824-e02f-4c28-9617-9b0923fcd0aa" />
+
+3de keer:
+<img width="1043" height="715" alt="Scherm­afbeelding 2026-09-15 om 15 52 43" src="https://github.com/user-attachments/assets/17ca3e37-af08-4d3d-8925-9638495094a2" />
+
 ## Opdracht 10: 
+<img width="1103" height="779" alt="Scherm­afbeelding 2026-09-15 om 15 30 25" src="https://github.com/user-attachments/assets/f65da61f-0358-4174-9137-f553a1bb1a56" />
 
 ## Opdracht 11: 
+1ste keer:
 <img width="1352" height="647" alt="Scherm­afbeelding 2026-09-14 om 00 16 25" src="https://github.com/user-attachments/assets/ed8e2880-4dca-4455-8ae3-ed486f1643b7" />
 
-Dit zijn er 4 ipv 5 --> opnieuw doen of eentje toevoegen !!!
+2de keer:
+<img width="1003" height="703" alt="Scherm­afbeelding 2026-09-15 om 15 55 41" src="https://github.com/user-attachments/assets/e6399380-8cd2-47c7-8fdb-7299d8793ac6" />
+
+
 
 
 
