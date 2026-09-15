@@ -42,6 +42,14 @@ Dit is het idee dat ik nu heb en kan in de loop van tijd nog veranderen, vooral 
 4. Welke feedback heb je gehad?
 - Ik was ziek :/ ga het nog bespreken en vragen
 
+# Bi weekly: 
+1. Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+- Geen interactie, is niet fluïde en adaptief. Zorg voor kleine interacties, fleur het op met animaties en zorg dat het op elke scherm past. 
+2. Vertel welke volgende stap je neemt om je website responsive te maken.
+- 
+3. Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+- 
+
 # Deep Dives / Workshops:
 
 ## Wo 2 Sept - Workshop 1: Klassikaal
