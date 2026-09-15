@@ -1,4 +1,4 @@
-<img width="820" height="855" alt="Scherm­afbeelding 2026-09-15 om 17 10 20" src="https://github.com/user-attachments/assets/7e99fc6a-b97c-4821-8cde-a25b744b2397" /># Model
+# Model
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 # Learning Log / Check Out 
@@ -277,7 +277,7 @@ Ik wil niet alleen tekst hebben ik wil ongeveer het volgende:
 ## Opdracht 3: 
 <img width="820" height="855" alt="Scherm­afbeelding 2026-09-15 om 17 10 20" src="https://github.com/user-attachments/assets/af61e18c-6189-4357-b96a-fe6175d70aa6" />
 
-Bronnen:
+### Bronnen:
 1. Superheroes: More than nostalgia: Why gen z is turning to old tech.
 - https://hellosuperheroes.com/news/In-between-Generation
 - Gen Z wordt vaak gezien als een volledig digitale generatie, maar de oudere Gen Z is eigenlijk een “in-between generation”. Zij zijn opgegroeid met oudere technologie zoals Nintendo DS, Tamagotchi en digitale camera's, maar maakten daarna de grote overgang naar moderne technologie zoals, smartphones en sociale media. Ze zijn bewust van de voor- en nadelen van moderne technologie. De oude technologie voelt aantrekkelijk aan omdat het minder stimulatie, afleiding, meldingen en sociale media heeft. Terwijl flip phones, draad oortjes en andere simpele technologie hen het gevoel geeft dat zij juist meer controle hebben. Dus het gaat niet alleen om nostalgie, ze zijn op zoek naar simpelheid en balans.
