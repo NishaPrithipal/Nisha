@@ -51,7 +51,15 @@ Dit is het idee dat ik nu heb en kan in de loop van tijd nog veranderen, vooral 
 2. Vertel welke volgende stap je neemt om je website responsive te maken.
 - Ik wil graag een begin maken met het maken van mijn website en als ik grids gebruik dat het op elke scherm past, dus zowel op laptop als op je telefoon.
 3. Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
-- Ik wil graag werken met interactie, afbeeldingen, links, easter eggs en een responsive layout. Het gaat er persoonlijk en expressief uitzien door mijn eigen stijl qua kleuren, foto's, game afbeeldingen, kleuren en typografie. Ik hoop dat mijn website een combinatie zal zijn van dit. Verder moet het ook fluïde en adaptief zijn zodat het op elke scherm werkt en dat het ook verrassend is door interactieve elementen, maar niet te overweldigend is en het volwassen blijft. 
+- Ik wil graag werken met interactie, afbeeldingen, links, easter eggs en een responsive layout. Het gaat er persoonlijk en expressief uitzien door mijn eigen stijl qua kleuren, foto's, game afbeeldingen, kleuren en typografie. Ik hoop dat mijn website een combinatie zal zijn van dit. Verder moet het ook fluïde en adaptief zijn zodat het op elke scherm werkt en dat het ook verrassend is door interactieve elementen, maar niet te overweldigend is en het volwassen blijft.
+
+# Bi weekly: 16 september
+1. Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
+- Symmetrisch, brengt orde, alles is hetzelfde en maakt het overzichtelijk. Nabijheid, dat ze dichter op elkaar staan. Witruimte, dat er genoeg ruimte en speling is tussen objecten. 
+2. Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?
+- Dat je het op de juiste plaats zet, maar het wel nog mooi en responsive kan maken.
+3. Welk principe neem je mee in een laatste iteratie van je eigen Garden?
+- Witruimte, dat er genoeg ruimte is tussen de objecten want anders wordt mijn garden veel te druk.
 
 # Deep Dives / Workshops:
 
@@ -392,6 +400,21 @@ Kenmerken:
 2. Je hebt je opzet in html gemaakt. Bespreek met elkaar hoe schermontwerp kunt opbouwen/realiseren in html en css.
 3. Schrijf vragen of moeilijke onderdelen op en vraag advies aan een docent/student assistent.
 4. Maak waar nodig een laatste iteratie, zodat het helder is wat je definitieve bouwplan is in htm/css.
+
+## Opdracht 18, 19 en 20: 
+<img width="443" height="749" alt="Scherm­afbeelding 2026-09-16 om 12 52 06" src="https://github.com/user-attachments/assets/d0f12803-ffe7-4f10-9338-43000c82c277" />
+
+Floortje's schets:
+<img width="722" height="719" alt="Scherm­afbeelding 2026-09-16 om 12 52 21" src="https://github.com/user-attachments/assets/637e4b98-480d-4b9f-87b9-702e9d020bce" />
+
+<img width="897" height="697" alt="Scherm­afbeelding 2026-09-16 om 12 52 35" src="https://github.com/user-attachments/assets/5aba9762-6817-4805-a42a-49214277fb4e" />
+
+Seyi's schets:
+<img width="667" height="619" alt="Scherm­afbeelding 2026-09-16 om 12 56 00" src="https://github.com/user-attachments/assets/ea3aeba4-97db-4661-94df-4860774105d0" />
+
+<img width="972" height="772" alt="Scherm­afbeelding 2026-09-16 om 12 56 10" src="https://github.com/user-attachments/assets/1c931ccf-ed28-4307-a76b-2331e54b7637" />
+
+
 
 
 
