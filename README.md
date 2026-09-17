@@ -320,7 +320,7 @@ Ik wil niet alleen tekst hebben ik wil ongeveer het volgende:
 
 9. Tech Fairy: Why I prefer playing retro games on emulators over real hardware? To Emulate Or Not To Emulate, This Is The Question.
 - https://tech-fairy.com/why-i-prefer-playing-retro-games-on-emulator-over-real-hardware/
-- De schrijver kiest persoonlijk voor emulatie, omdat je bestaande consoles kan gebruiken, je duizenden games hebt op een apparaat, je geen oude consoles moet zoeken en betalen die vaak nu duur zijn,  het goedkoop, toegankelijk, draagbaar is en ze hogere resolutie en moderne functies hebben. De schrijver vindt voor hem zelf dat het belangrijkste onderdeel van retro gaming de games zelf en niet per se de originele hardware, maar hij vindt wel dat de originele hardware voordelen heeft, vooral voor mensen die emotionele waarde hechten aan de fysieke ervaring.
+- De schrijver kiest persoonlijk voor emulatie, omdat je bestaande consoles kan gebruiken, je duizenden games hebt op een apparaat, je geen oude consoles moet zoeken en betalen die vaak nu duur zijn, het goedkoop, toegankelijk, draagbaar is en ze hogere resolutie en moderne functies hebben. De schrijver vindt voor hem zelf dat het belangrijkste onderdeel van retro gaming de games zelf en niet per se de originele hardware, maar hij vindt wel dat de originele hardware voordelen heeft, vooral voor mensen die emotionele waarde hechten aan de fysieke ervaring.
 
 10. Benny Ling Bling: The retro handheld console and software emulation rabbit hole.
 - https://bennylingbling.com/2024/the-retro-handheld-console-and-software-emulation-rabbit-hole/
@@ -395,11 +395,12 @@ Kenmerken:
 2de keer:
 <img width="1003" height="703" alt="Scherm­afbeelding 2026-09-15 om 15 55 41" src="https://github.com/user-attachments/assets/e6399380-8cd2-47c7-8fdb-7299d8793ac6" />
 
-## Opdracht 12: Verder aan werken!!
+## Opdracht 12: !!
 1. zijn je schetsen Webby genoeg? Beoordeel o.b.v. het invulvel.
 2. Je hebt je opzet in html gemaakt. Bespreek met elkaar hoe schermontwerp kunt opbouwen/realiseren in html en css.
 3. Schrijf vragen of moeilijke onderdelen op en vraag advies aan een docent/student assistent.
 4. Maak waar nodig een laatste iteratie, zodat het helder is wat je definitieve bouwplan is in htm/css.
+
 
 ## Opdracht 18, 19 en 20: 
 <img width="443" height="749" alt="Scherm­afbeelding 2026-09-16 om 12 52 06" src="https://github.com/user-attachments/assets/d0f12803-ffe7-4f10-9338-43000c82c277" />
@@ -413,6 +414,30 @@ Seyi's schets:
 <img width="667" height="619" alt="Scherm­afbeelding 2026-09-16 om 12 56 00" src="https://github.com/user-attachments/assets/ea3aeba4-97db-4661-94df-4860774105d0" />
 
 <img width="972" height="772" alt="Scherm­afbeelding 2026-09-16 om 12 56 10" src="https://github.com/user-attachments/assets/1c931ccf-ed28-4307-a76b-2331e54b7637" />
+
+## Light - Dark mode:
+Ik twijfel nog hoe ik het er exact uit wil laten zien. Ik heb nu een donker en licht modus aan mijn website toegevoegd. 
+### Light mode
+<img width="807" height="370" alt="Scherm­afbeelding 2026-09-17 om 23 06 09" src="https://github.com/user-attachments/assets/8a544ada-9e05-4b39-96e4-37c24f3b32f7" />
+
+<img width="804" height="438" alt="Scherm­afbeelding 2026-09-17 om 23 13 37" src="https://github.com/user-attachments/assets/76f94d84-af17-452d-8a68-880cc9a906e3" />
+
+### Dark mode:
+<img width="812" height="359" alt="Scherm­afbeelding 2026-09-17 om 23 06 16" src="https://github.com/user-attachments/assets/8c414e30-cc91-4e9b-bcdd-780b1feb1d93" />
+
+<img width="809" height="459" alt="Scherm­afbeelding 2026-09-17 om 23 13 31" src="https://github.com/user-attachments/assets/79514fd0-f989-49b3-a462-891e781ce97c" />
+
+## Grid:
+<img width="810" height="587" alt="Scherm­afbeelding 2026-09-17 om 23 29 36" src="https://github.com/user-attachments/assets/883057b8-188a-4526-a95e-438acb65c31d" />
+
+<img width="807" height="647" alt="Scherm­afbeelding 2026-09-17 om 23 29 44" src="https://github.com/user-attachments/assets/e46a8f4b-d91d-4755-924e-5bc44fa22a77" />
+
+<img width="1680" height="965" alt="Scherm­afbeelding 2026-09-17 om 23 29 53" src="https://github.com/user-attachments/assets/7081be5b-4c87-4536-9ba3-ab13b22ab15b" />
+
+
+
+
+
 
 
 
