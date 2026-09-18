@@ -1,14 +1,55 @@
 /* HIER KOMT JOUW CSS */
+
 @font-face {
-  font-family: "Comic Relief";
-  src: url(../type/ComicRelief-Regular.woff2);
+  font-family: "Press Start 2P";
+  src: url(../type/Press_Start_2P/PressStart2P-Regular.ttf);
   font-weight: 400;
   font-style: normal;
 }
 
 body {
-  font-family: "Comic Relief", system-ui;
-  background-color: Canvas;
-  color: CanvasText;
+  font-family: "Press Start 2P", system-ui;
+  background-color: var(--background);
+  color: var(--color);
+}
+
+h1 {
+  font-size: 6rem;
+  text-align: center;
+}
+
+html {
   color-scheme: light dark;
+
+  --background: light-dark(White, #fd3db5);
+  --color: light-dark(#fdcdea, White);
+
+  --background-button: light-dark(#fd3db5, #fdcdea);
+  --color-button: light-dark(White, White);
+
+  accent-color: light-dark(#fd3db5, White);
+}
+
+html:has([value="light-theme"]:checked) {
+  color-scheme: light;
+}
+
+html:has([value="dark-theme"]:checked) {
+  color-scheme: dark;
+}
+
+main {
+  display: grid;
+  gap: 1em;
+}
+
+article {
+  border: 2px solid currentColor;
+  padding: 1em;
+}
+
+@media (width > 28em) {
+  main {
+    grid-template-columns: 1fr 1fr;
+  }
 }
