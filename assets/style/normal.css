@@ -22,7 +22,7 @@ html {
   color-scheme: light dark;
 
   --background: light-dark(White, #fd3db5);
-  --color: light-dark(#fdcdea, White);
+  --color: light-dark(#fd3db5, White);
 
   --background-button: light-dark(#fd3db5, #fdcdea);
   --color-button: light-dark(White, White);
