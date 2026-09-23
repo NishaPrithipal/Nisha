@@ -529,34 +529,32 @@ Ik twijfel nog hoe ik het er exact uit wil laten zien. Ik heb nu een donker en l
 <img width="1680" height="965" alt="Scherm­afbeelding 2026-09-17 om 23 29 53" src="https://github.com/user-attachments/assets/7081be5b-4c87-4536-9ba3-ab13b22ab15b" />
 
 # Retrospective 1:
+
 ![Scherm­afbeelding 2026-09-22 om 20 19 28](https://github.com/user-attachments/assets/2d15774b-1ce9-4165-8a9e-ef4a3a532b1c)
 
 <img width="944" height="683" alt="Scherm­afbeelding 2026-09-22 om 20 19 51" src="https://github.com/user-attachments/assets/d5d3b012-3a2a-4793-90b2-d89d68a3d295" />
 
 <img width="965" height="670" alt="Scherm­afbeelding 2026-09-22 om 20 20 03" src="https://github.com/user-attachments/assets/92a716e9-f0b0-4936-bdeb-e282c94f8c0b" />
 
-
 # Sprint 2:
 
-# Ma 21 sept 2026: NOTES --> Netjes maken!! 
+# Ma 21 sept 2026: NOTES --> Netjes maken!!
 
-<div> kan je gebruiken als het geen waarde heeft maar je het toch samen wilt hebben. 
-
+<div> kan je gebruiken als het geen waarde heeft maar je het toch samen wilt hebben.
 
 <nav></nav> geeft richting aan bijv link naar andere pagina’s. 
 - Kan opdrachten geven aan zijn bowser —> mensen die handicap hebben —> voegt lage UX toe
 
-
 <div class = “nav”></div> —> doet niks
 
-
-<header></header> —> kopje. Heade is voor meta die is onzichtbaar staat boven je html 
+<header></header> —> kopje. Heade is voor meta die is onzichtbaar staat boven je html
 
 <footer></footer> —> copyright dingetjes, contact gegevens, hoeft niet onderaan te staan, het is meta data!! Info over de website niet de content zelf mr info over
 
-<main></main> —> primary content de reden waarom je naar die pagina gaat. Om de content in de main te zien. 
+<main></main> —> primary content de reden waarom je naar die pagina gaat. Om de content in de main te zien.
 
 # Opdracht in de les:
+
 <img width="1007" height="692" alt="Scherm­afbeelding 2026-09-22 om 20 27 07" src="https://github.com/user-attachments/assets/4e08dd83-407a-4d98-83ed-b75cc6a81bac" />
 
 <img width="576" height="799" alt="Scherm­afbeelding 2026-09-21 om 15 11 28" src="https://github.com/user-attachments/assets/7792dc5c-519b-48bc-97e9-a2ead9cd17a0" />
@@ -567,14 +565,16 @@ Ik twijfel nog hoe ik het er exact uit wil laten zien. Ik heb nu een donker en l
 
 <img width="384" height="117" alt="Scherm­afbeelding 2026-09-21 om 15 11 51" src="https://github.com/user-attachments/assets/94a84544-d72b-4527-be53-22ea0ccc6e5e" />
 
-
-# CHECK OUT SPRINT 2: 
+# CHECK OUT SPRINT 2:
 
 1. Wat zijn HTML landmark role elements?
+
 - indicatoren om de structuur te herkennen.
+
 2. Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+
 - Er moet altijd een hiërarchie zijn met een logische opeenvolgende structuur zijn. Bijv. H1, h2, h3, etc. Dit helpt ook alle zoekmachines om je opbouw te begrijpen
+
 3. Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+
 - Ik weiger ze meestal. 8/10 keer.
-
-
