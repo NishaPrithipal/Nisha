@@ -1,6 +1,20 @@
-# SPRINT 1:
+# SPRINT 0:
 
-## Digital Garden:
+Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
+<img width="585" height="33" alt="Scherm­afbeelding 2026-09-10 om 20 54 21" src="https://github.com/user-attachments/assets/2d2485f8-723c-4592-a2e7-e2a5a0f0afcf" />
+
+<img width="938" height="153" alt="Scherm­afbeelding 2026-08-31 om 14 49 48" src="https://github.com/user-attachments/assets/5dfaface-11de-45b8-80c5-4c5645e2c85e" />
+
+1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
+- Een source hosting platform is een plek waar je alle bestanden en codes van je website online kan bewaren. Ik heb gekozen voor Github, omdat ik voorheen hier al een account op had gemaakt en ik graag beter wil weten hoe het werkt. Hier staat dus nu mijn project in een repository en kan ik zo mijn bestanden en wijzigingen bijhouden.
+
+2. Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
+- Ik heb gekozen voor Nishaprithipal-design.nl. Ik had veel moeite met het bedenken van een naam, maar ik vond deze wel passend omdat mijn naam erin zit en het woordje design goed past bij wat ik allemaal zelf ga maken. Het is een algemene naam, maar ik vond het wel wat hebben. Ik dacht ook zo kan de gebruiker gelijk zien van wie de website is aangezien mijn naam er in zit. Ik heb de domeinnaam gekoppeld aan mijn website op Github. Hiervoor heb ik de DNS-instellingen aangepast, zodat de domeinnaam naar mijn Github Pages website verwijst.
+
+3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
+- Ik maak mijn aanpassingen in VSCodium. Als ik iets heb aangepast aan bijvoorbeeld mijn HTML of CSS, sla ik dit eerst op. Daarna klikte ik op menu items met de wijzigingen en voegde ik pagina titel aangepast en klikte ik op commit. Vervolgens klikte ik op sync changes, waardoor mijn wijzigingen naar Github werden gestuurd. Daarna kwam de nieuwe versie van mijn website online te staan en heb ik gecheckt of de aanpassingen goed op de website staan.
+
+# SPRINT 1 - Digital Garden:
 
 ### Opdracht 1:
 <img width="1059" height="751" alt="Scherm­afbeelding 2026-09-13 om 16 51 49" src="https://github.com/user-attachments/assets/576debca-94e6-4e6f-8d70-39e80662ce57" />
@@ -331,100 +345,62 @@ Mijn idee voor haar:
 ### Opdracht 21:
 <img width="524" height="746" alt="Scherm­afbeelding 2026-09-26 om 19 01 48" src="https://github.com/user-attachments/assets/e28931a1-c695-4263-a62a-f7409afa2fd0" />
 
-## Learning Log en Check Outs: 
-
-### Kick Off
-
-Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
-<img width="585" height="33" alt="Scherm­afbeelding 2026-09-10 om 20 54 21" src="https://github.com/user-attachments/assets/2d2485f8-723c-4592-a2e7-e2a5a0f0afcf" />
-
-<img width="938" height="153" alt="Scherm­afbeelding 2026-08-31 om 14 49 48" src="https://github.com/user-attachments/assets/5dfaface-11de-45b8-80c5-4c5645e2c85e" />
-
-1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
-
-- Een source hosting platform is een plek waar je alle bestanden en codes van je website online kan bewaren. Ik heb gekozen voor Github, omdat ik voorheen hier al een account op had gemaakt en ik graag beter wil weten hoe het werkt. Hier staat dus nu mijn project in een repository en kan ik zo mijn bestanden en wijzigingen bijhouden.
-
-2. Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
-
-- Ik heb gekozen voor Nishaprithipal-design.nl. Ik had veel moeite met het bedenken van een naam, maar ik vond deze wel passend omdat mijn naam erin zit en het woordje design goed past bij wat ik allemaal zelf ga maken. Het is een algemene naam, maar ik vond het wel wat hebben. Ik dacht ook zo kan de gebruiker gelijk zien van wie de website is aangezien mijn naam er in zit. Ik heb de domeinnaam gekoppeld aan mijn website op Github. Hiervoor heb ik de DNS-instellingen aangepast, zodat de domeinnaam naar mijn Github Pages website verwijst.
-
-3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
-
-- Ik maak mijn aanpassingen in VSCodium. Als ik iets heb aangepast aan bijvoorbeeld mijn HTML of CSS, sla ik dit eerst op. Daarna klikte ik op menu items met de wijzigingen en voegde ik pagina titel aangepast en klikte ik op commit. Vervolgens klikte ik op sync changes, waardoor mijn wijzigingen naar Github werden gestuurd. Daarna kwam de nieuwe versie van mijn website online te staan en heb ik gecheckt of de aanpassingen goed op de website staan.
+# SPRINT 1 - Learning Log/Check Out: 
 
 ### Sprint 1.1:
-
 1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
-
 - Een digital garden is een persoonlijke website waar je je eigen ideeën, interesses en kennis kan laten zien. Het hoeft niet helemaal perfect te zijn en je kan steeds nieuwe dingen toevoegen en aanpassen. Het is anders dan een normale blog of social media. Een reguliere website heeft een duidelijke structuur en staat de informatie vast en overzichtelijk. Bij een digital garden mag het speelser, persoonlijker en chaotischer zijn. Het is meer een digitale verzameling van iemand of dus hun persoonlijke digitale wereld.
 
 2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
-
 - Een website is webby als door leuke interacties, animaties, persoonlijke dingen en ook iets waar je zelf op kunt klikken of ontdekken. De websites die mij het meest inspireren zijn een aantal websites, maar ik vond voornamelijk die van jen.dev fijn door de optie aan instellingen, de persoonlijke stijl, kleuren en animaties interessant.
 
 3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
-
 - Voor mijn eigen digital garden wil ik vooral aan de slag met handheld consoles en games. Ik ben de laatste tijd daar weer erg geïnteresseerd in en heb een eigen collectie. Ik gebruik mijn PS4 dagelijks en ik word nostalgisch als ik op mijn oude DS speel. Het maakt mij niet alleen nostalgisch, maar brengt mij ook samen met anderen en geeft mij ontspanning. Dit speelt een rol in mijn leven en hierdoor wil ik het graag een plekje geven in mijn digital garden. Ik had eerst het idee om het over films en series te hebben, maar deze interesse pakt mij meer, alhoewel het een bekend thema is wil ik dit toch graag in mijn garden hebben.
 
 - Verder wil ik niet alleen informatie over games en consoles laten zien, maar ook mijn eigen gevoel of herinneringen overbrengen. Ik dacht aan korte tekstjes en leuke interacties, zoals afbeeldingen, kleuren, geluiden, kleine animaties, hoverelementen en andere interactieve elementen. Ik denk dat het een soort van mijn eigen kleine gamewereld is die toch overzichtelijk is, want ik kan niet tegen te chaotisch.
 
 Dit is het idee dat ik nu heb en kan in de loop van tijd nog veranderen, vooral wanneer ik echt bezig ben met mijn website, maar ik kan dus altijd extra’s toevoegen aan mijn digital garden.
 
-### Sprint 1.2: NOG INVULLEN
-
+### Sprint 1.2: 
 1. Leg uit waar het Visual Research in 3 stappen naartoe werkt
-
 - Bij visual research werk je in 3 stappen naar duidelijke visuele uitgangspunten voor mijn digital garden. Je gaat met sfeerwoorden kijken naar beelden, merk je een patroon op, daarna kijk je naar abstracte beelden met kleur, vorm en typografie en uiteindelijk kan je die kenmerken gebruiken om je eigen schetsen te maken. Visuele research is helpt je dus om geïnspireerd te raken en je een beter beeld te geven.
 
 2. Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
-
 - Mijn Digital Garden gaat over mijn gaming wereld en mijn liefde voor verschillende consoles en games waar ik herinneringen aan heb. Ik wil dit laten zien door mijn eigen collectie te fotograferen en korte teksten, links, geluiden of andere interactieve elementen erbij zetten.
 
 3. Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
-
 - Het idee dat ik het liefst verder wil onderzoeken is mijn collectie. Het lijkt mij een leuk idee om al mijn consoles en games als een soort digitale collectie te laten zien, waarbij ik graag zou willen dat als je op een console of game klikt, je dan foto's, herinneringen, informatie of geluiden kan ontdekken.
 
 4. Welke feedback heb je gehad?
+- Ziet er leuk uit, verfijn het en ga het uitproberen.  
 
-- Ik was ziek :/ ga het nog bespreken en vragen
-
-# NOG DOEN!!!
-
-## Bi weekly: 14 september
+### SPRINT 1.3 - Bi-weekly 1: 
 
 1. Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
-
 - Wanneer het rommelig eruit ziet, er geen interactie is en het niet fluïde en adaptief is. Je kan zorgen voor kleine interacties, fleur het op met animaties en zorg dat het op elke scherm past.
 
 2. Vertel welke volgende stap je neemt om je website responsive te maken.
-
 - Ik wil graag een begin maken met het maken van mijn website en als ik grids gebruik dat het op elke scherm past, dus zowel op laptop als op je telefoon.
 
 3. Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
-
 - Ik wil graag werken met interactie, afbeeldingen, links, easter eggs en een responsive layout. Het gaat er persoonlijk en expressief uitzien door mijn eigen stijl qua kleuren, foto's, game afbeeldingen, kleuren en typografie. Ik hoop dat mijn website een combinatie zal zijn van dit. Verder moet het ook fluïde en adaptief zijn zodat het op elke scherm werkt en dat het ook verrassend is door interactieve elementen, maar niet te overweldigend is en het volwassen blijft.
 
-## Bi weekly: 16 september
+### SPRINT 1.3 - Bi-weekly 1: 
 
 1. Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
-
 - Symmetrisch, brengt orde, alles is hetzelfde en maakt het overzichtelijk. Nabijheid, dat ze dichter op elkaar staan. Witruimte, dat er genoeg ruimte en speling is tussen objecten.
 
 2. Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?
-
 - Dat je het op de juiste plaats zet, maar het wel nog mooi en responsive kan maken.
 
 3. Welk principe neem je mee in een laatste iteratie van je eigen Garden?
-
 - Witruimte, dat er genoeg ruimte is tussen de objecten want anders wordt mijn garden veel te druk.
 
-## Deep Dives / Workshops:
-
-### Wo 2 Sept - Workshop 1: Klassikaal
-S0 - Interactie: MMD, micro-interacties, forms (Nicky)
-
+# SPRINT 1 - Deep Dives:
+### S0 - Interactie: MMD, micro-interacties, forms (Nicky)
+Wo 2 Sept - Workshop 1: Klassikaal
 #### Notities:
-MMD:
+##### MMD:
 - Cue
 - Affordance
 - Feedforward
@@ -432,15 +408,15 @@ MMD:
 - Prompt
   —>Versterkt wat je aan het bouwen bent —> Zie het niet als een stappenplan, maar zie ze als een lens die je helpen
 
-Maslow’s Hammer
+##### Maslow’s Hammer:
 “If all you have is a hammer, everything looks like a nail.”
 —> Wanneer we een instrument in onze handen hebben dan gebruiken we die.
 
-Norman’s Door:
+##### Norman’s Door:
 - Deuren die vervelende impressies geven.
 - Deze term word gebruikt als iets onhandig is gebouwd / gemaakt.
 
-Micro-interacties:
+##### Micro-interacties:
 - Hover reactie
 - Loading indicatie
 - Succes feedback
@@ -448,18 +424,18 @@ Micro-interacties:
 - Error feedback
 - Toggle state
 
-4 componenten om hiervoor te zorgen (micro-ani):
+##### 4 componenten om hiervoor te zorgen (micro-animatie):
 1. Trigger
 2. Rules
 3. Feedback
 4. Loops
 
-Forms / Formulieren = verzameling van vraag-antwoord vragen over data.
+##### Forms / Formulieren = verzameling van vraag-antwoord vragen over data.
 Zie het niet als dit maar Maar zie het als een constante vraag tussen mens en machine
 
 #### Opdracht:
-
 Ik keek eerst naar hoe andere restaurants het doen. Ik vond bij Domino's een goed voorbeeld en ik keek naar welke lettertype het meest lijkt op die van het bedrijf.
+
 <img width="987" height="872" alt="Scherm­afbeelding 2026-09-02 om 09 55 42" src="https://github.com/user-attachments/assets/28a5b310-0ab8-456d-911e-cf18201ae1f9" />
 
 <img width="1541" height="563" alt="Scherm­afbeelding 2026-09-02 om 10 02 56" src="https://github.com/user-attachments/assets/de182436-0cbd-4381-b79a-cbb8eaca2d44" />
@@ -473,17 +449,18 @@ Ik heb een aantal verschillende versies gemaakt van de menu van Wok To Walk. Ik 
 
 <img width="658" height="459" alt="Scherm­afbeelding 2026-09-10 om 20 47 27" src="https://github.com/user-attachments/assets/30dcb978-b27c-4b48-9a04-71b0daac2ffa" />
 
-## Wo 2 Sept - Workshop 2: Klassikaal
-S0 - CSS: fonts met kleur en effecten (Sanne)
+### S0 - CSS: fonts met kleur en effecten (Sanne)
+Wo 2 Sept - Workshop 2: Klassikaal
 
-### Opdracht 1: Font Properties
+
+#### Opdracht 1: Font Properties
 <img width="509" height="560" alt="Scherm­afbeelding 2026-09-02 om 12 07 59" src="https://github.com/user-attachments/assets/a4621c91-e9ed-4cba-bd77-b7ca7f8021cf" />
 
 <img width="372" height="274" alt="Scherm­afbeelding 2026-09-02 om 12 08 17" src="https://github.com/user-attachments/assets/4dba969a-4398-4831-8ee1-452b741f0419" />
 
 <img width="561" height="849" alt="Scherm­afbeelding 2026-09-02 om 12 08 26" src="https://github.com/user-attachments/assets/ab305ed4-fe6a-4794-883c-3bc276ccb59e" />
 
-### Opdracht 2: Fonts, kleur en effecten
+#### Opdracht 2: Fonts, kleur en effecten
 <img width="64" height="93" alt="Scherm­afbeelding 2026-09-02 om 12 30 20" src="https://github.com/user-attachments/assets/9b276ebc-513a-4239-8075-3f01078092c9" />
 
 <img width="629" height="257" alt="Scherm­afbeelding 2026-09-02 om 12 33 38" src="https://github.com/user-attachments/assets/9af8b8ae-ece2-441b-9538-1621a93c8608" />
@@ -492,8 +469,8 @@ S0 - CSS: fonts met kleur en effecten (Sanne)
 
 <img width="503" height="840" alt="Scherm­afbeelding 2026-09-11 om 18 15 27" src="https://github.com/user-attachments/assets/4f3c0b4e-7081-40cd-a48d-28c036157174" />
 
-### Opdracht 3: Mini-posters NOG DOENN
-### Notities:
+#### Opdracht 3: Mini-posters NOG DOENN
+##### Notities:
 
 ## FOTO'S PLAATSEN !!
 
@@ -517,12 +494,12 @@ Ik twijfel nog hoe ik het er exact uit wil laten zien. Ik heb nu een donker en l
 
 <img width="1680" height="965" alt="Scherm­afbeelding 2026-09-17 om 23 29 53" src="https://github.com/user-attachments/assets/7081be5b-4c87-4536-9ba3-ab13b22ab15b" />
 
-# Retrospective 1:
-![Scherm­afbeelding 2026-09-22 om 20 19 28](https://github.com/user-attachments/assets/2d15774b-1ce9-4165-8a9e-ef4a3a532b1c)
+# SPRINT 1 - Retrospective:
+<img width="950" height="639" alt="Scherm­afbeelding 2026-09-22 om 20 19 28" src="https://github.com/user-attachments/assets/a404d59c-0116-4da5-b9ab-6929123cd6f4" />
 
-<img width="944" height="683" alt="Scherm­afbeelding 2026-09-22 om 20 19 51" src="https://github.com/user-attachments/assets/d5d3b012-3a2a-4793-90b2-d89d68a3d295" />
+<img width="944" height="683" alt="Scherm­afbeelding 2026-09-22 om 20 19 51" src="https://github.com/user-attachments/assets/d333a2c5-c012-4431-a02b-5eb8d9b56422" />
 
-<img width="965" height="670" alt="Scherm­afbeelding 2026-09-22 om 20 20 03" src="https://github.com/user-attachments/assets/92a716e9-f0b0-4936-bdeb-e282c94f8c0b" />
+<img width="965" height="670" alt="Scherm­afbeelding 2026-09-22 om 20 20 03" src="https://github.com/user-attachments/assets/4d3268ea-0c86-4f90-9316-963b66187baa" />
 
 # SPRINT 2: 
 
@@ -566,3 +543,20 @@ Ik twijfel nog hoe ik het er exact uit wil laten zien. Ik heb nu een donker en l
 3. Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
 
 - Ik weiger ze meestal. 8/10 keer.
+
+
+
+- microsoft
+- google fonts
+- GitHub pages hosting
+- digitaaltuintje component
+
+Overleg met een klasgenoot en beantwoord de volgende vragen in jouw Learning-Log:
+1. Wat is een wireflow en wat heb je er aan?
+- Het laat zien hoe de gebruiker verschillende schermen eruit zien etc en geeft het visueel weer. 
+
+	1	2. Wat zijn dark UX patterns? Geef drie voorbeelden...
+	2	- Fake Social Proof, obstruction en wording tricks.
+
+	4	3. Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+	5	- Dat je alle informatie geeft, maar het wel duidelijk blijft en dat het overzichtelijk blijft. 
