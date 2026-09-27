@@ -614,6 +614,14 @@ Mijn idee voor haar:
 ### Opdracht 21:
 <img width="524" height="746" alt="Scherm­afbeelding 2026-09-26 om 19 01 48" src="https://github.com/user-attachments/assets/e28931a1-c695-4263-a62a-f7409afa2fd0" />
 
+### Gekozen Typografie:
+
+<img width="965" height="801" alt="Scherm­afbeelding 2026-09-28 om 00 40 13" src="https://github.com/user-attachments/assets/39e1b2fa-4141-4f75-8e82-afbd68aa9ba0" />
+
+<img width="948" height="749" alt="Scherm­afbeelding 2026-09-28 om 00 44 12" src="https://github.com/user-attachments/assets/eafd4021-0d1e-4c41-abd4-e05598c67b7e" />
+
+Ik vind ze allemaal heel erg leuk, maar ze waren toch net niet wat ik precies zocht qua het gevoel en sfeer die ik omhoog wou brengen bij de gebruikers. Ik koos uiteindelijk toch voor wat meer 'typische' retro/game/internet/pixels lettertypes. Ik koos hier voor omdat als ik dat zie ik het gelijk associeer met het internet, games, vroeger en alles wat daar rondom heen komt. Ik vroeg aan een aantal meiden om feedback en wat hun associaties hierbij waren en ik kreeg ongeveer van hen te horen. Ik koos om Press Start 2P als mijn 'main' lettertype te gebruiken en de andere kijk ik nog waar ik die exact zou willen gebruiken. 
+
 # SPRINT 1 - Learning Log/Check Out: 
 
 ### Sprint 1.1:
@@ -690,6 +698,18 @@ Ik heb mijn light modus later nog veranderd, omdat het net te licht was en dus n
 ### S1 - Mooie kleuren en gradients (Sanne):
 #### Opdracht 1:
 ## FOTO'S PLAATSEN !!
+<img width="626" height="499" alt="Scherm­afbeelding 2026-09-27 om 23 33 07" src="https://github.com/user-attachments/assets/21683e84-7ce3-40e6-8bf7-25c478ce2db4" />
+
+<img width="693" height="572" alt="Scherm­afbeelding 2026-09-27 om 23 35 18" src="https://github.com/user-attachments/assets/3f5c3737-5521-419d-8134-3d80493c7c66" />
+
+<img width="446" height="245" alt="Scherm­afbeelding 2026-09-27 om 23 38 10" src="https://github.com/user-attachments/assets/17d25487-4763-4f74-be3c-c34d7843bd20" />
+
+<img width="999" height="560" alt="Scherm­afbeelding 2026-09-27 om 23 40 35" src="https://github.com/user-attachments/assets/58b76e1d-c4af-4370-8083-75491d54cc96" />
+
+<img width="1040" height="563" alt="Scherm­afbeelding 2026-09-27 om 23 42 27" src="https://github.com/user-attachments/assets/4ebc53db-a2cb-4d20-b371-9ddd25d8f7e4" />
+
+<img width="1132" height="689" alt="Scherm­afbeelding 2026-09-27 om 23 42 56" src="https://github.com/user-attachments/assets/83bde5d7-3613-40c1-aa74-1acf155faee4" />
+
 
 ### S1 - Grid 101 + Media queries (Sanne):
 
