@@ -153,18 +153,18 @@ Ik vond dit erg fijn om te kunnen doornemen en gaf mij wat meer verduidelijking.
 
 Ik heb nu een duidelijk beeld dat HTML en CSS verschillende functies hebben. HTML wordt gebruikt voor inhoud en structuur van je website en CSS gebruik je om die structuur vorm te geven en te bepalen hoe de website eruit gaat zien. HTML en CSS werken samen, maar zijn niet hetzelfde.
 
-Een HTML-pagina begint met een basisstructuur. Daarin staan een aantal dingen zoals: <!DOCTYPE html>, <html>, <head> en <body>. 
-- <head> heeft de informatie over de pagina die niet direct als inhoud op de website zichtbaar is, denk aan de titel van de pagina en de verwijzing naar de CSS bestand.
-	<body> staat de echte inhoud in.
+Een HTML-pagina begint met een basisstructuur. Daarin staan een aantal dingen zoals: < !DOCTYPE html >, < html >, < head > en < body >. 
+- < head > heeft de informatie over de pagina die niet direct als inhoud op de website zichtbaar is, denk aan de titel van de pagina en de verwijzing naar de CSS bestand.
+	< body > staat de echte inhoud in.
 
 HTML elementen geven betekenis aan de inhoud.
-- <h1> gebruik je voor de belangrijkste heading.
-- <h2> en <h3> gebruik je voor alles wat daaronder valt op chronologische wijze, dus <h4> dan <h5> dan <h6> etc.
-- <p> gebruik je voor normale tekst.
-- <ul> is voor een ongeordende lijst
-- <ol> is voor een geordende lijst.
-- <a> maakt een link → href vertelt waar de link naartoe gaat.
-- <img> is een afbeelding → src = waar staat de afbeelding en alt = de beschrijving van de afbeelding. 
+- < h1 > gebruik je voor de belangrijkste heading.
+- < h2 > en <h3> gebruik je voor alles wat daaronder valt op chronologische wijze, dus < h4 > dan < h5 > dan < h6 > etc.
+- < p > gebruik je voor normale tekst.
+- < ul > is voor een ongeordende lijst
+- < ol > is voor een geordende lijst.
+- < a > maakt een link → href vertelt waar de link naartoe gaat.
+- < img > is een afbeelding → src = waar staat de afbeelding en alt = de beschrijving van de afbeelding. 
 
 HTML is niet bedoeld om alleen maar te bepalen hoe iets eruitziet, het gaat vooral over betekenis en structuur. CSS is juist verantwoordelijk voor de visuele vormgeving. 
 - <strong> geeft aan dat de tekst belangrijk is, maar geeft het niet per se dikgedrukt aan, dat zou je alleen met CSS kunnen regelen.
@@ -183,9 +183,9 @@ Ik zie HTML, CSS en JavaScript nu meer als drie verschillende onderdelen die gez
 Bijv. met HTML kan een knop gezet worden. Dan met CSS kan je dan de knop kleur, vorm en grootte geven. Tot slot met JavaScript zorg je ervoor dat er iets gebeurt wanneer iemand op de knop klikt. 
 
 Bijvoorbeeld:
-<h1>Mijn favoriete games</h1>
-<p>Dit zijn mijn favoriete games.</p>
-<button>Bekijk games</button>
+< h1 >Mijn favoriete games</ h1 >
+< p >Dit zijn mijn favoriete games.</ p >
+< button >Bekijk games</ button >
 
 Ik begrijp nu wel beter dat je dus niet alles met HTML moet proberen te doen en dat er verschillende technologieën zijn die allemaal hun eigen functies hebben. 
 
@@ -193,7 +193,7 @@ Ik begrijp nu wel beter dat je dus niet alles met HTML moet proberen te doen en 
 Een ander onderdeel dat ik belangrijk vond, want ik vind dat zelf soms nog verwarrend, is hoe bestanden naar elkaar verwijzen. 
 
 Een website bestaat meestal uit meerdere bestanden en mappen. Een HTML bestand kan verwijzen naar een CSS-bestand.
-- <link rel= “stylesheet” href= “css/style.css”>
+- < link rel= “stylesheet” href= “css/style.css” >
 Hiermee wordt aangegeven dat de de stylesheet style.css in de map css staat.
 
 Dit is handig voor mijn eigen digital garden, want ik ga waarschijnlijk meerdere HTML pagina’s en CSS bestanden hebben die ik ga moeten gebruiken en naar elkaar moet verwijzen. Het is belangrijk want als de bestanden verkeerd staan of verkeerd verwijzen dan zal de website niet goed werken.
@@ -231,7 +231,7 @@ Ik moet tijdens het maken van mijn digital garden daarom eerst goed nadenken ove
 ### S0 - Praktische CSS (Vasilis)
 Ik heb geleerd hoe ik een HTML pagina stap voor stap kan opbouwen en verbeteren met CSS.
 
-HTML maakt de structuur van een website. Ik heb gewerkt met verschillende elementen zoals <main>, <h1>, <h2>, <p>, <img>, lijsten, links en formulieren. Je gebruikt bijv. alt bij een afbeelding om informatie te geven over wat er op de afbeelding staat (handig voor screenreaders en accessibility).
+HTML maakt de structuur van een website. Ik heb gewerkt met verschillende elementen zoals < mai n>, < h1 >, < h2 >, < p >, < img >, lijsten, links en formulieren. Je gebruikt bijv. alt bij een afbeelding om informatie te geven over wat er op de afbeelding staat (handig voor screenreaders en accessibility).
 
 Met CSS kan je tekst makkelijker leesbaar maken. Bijv. met max-width: 30em voorkom je dat de tekst te breed over het scherm loopt. Met margin: auto kan je de inhoud centreren en met font-family verander je het lettertype.
 
@@ -241,7 +241,7 @@ Met clamp() kan je een heading automatisch laten meegroeien met de schermgrootte
 
 Ik heb geleerd hoe ik kan aangeven wat er gebeurt wanneer iemand met een element werkt. Met :hover verander je de link wanneer de muis er over heen gaat. Met :focus maak je duidelijk welke element geselecteerd is. 
 
-Je maakt een formulier met <input>, <textarea>, <label> en <button>. Met CSS kan ik deze elementen netjes onder elkaar zetten en een duidelijke focus geven wanneer iemand een veld gebruikt.
+Je maakt een formulier met < input >, < textarea >, < label > en < button >. Met CSS kan ik deze elementen netjes onder elkaar zetten en een duidelijke focus geven wanneer iemand een veld gebruikt.
 
 HTML zorgt voor de structuur, CSS voor de vormgeving. Met interactie en toegankelijkheid zorg je ervoor dat de website ook prettig en bruikbaar is.
 
@@ -283,7 +283,6 @@ Wat ik meeneem uit beide artikelen is dat je niet alleen een font moet kiezen om
 ##### Notities:
 Hoe kies je een passend lettertype? Stijl, leesbaarheid, opties, beschikbaarheid en associaties. Bij leesbaarheid kijk je ook naar de diktes en groottes. Bij een mix van fonts, hoe vind je combinaties die werken? Door verschillen en overeenkomsten. Bij een goed font paar is er sprake van contrast en overeenkomst, zoals font familie, ontwerper, constructie of tijdperiode.
 
-
 ### S0 - Schetsen van o.a. interactie en animatie (Charley)
 <img width="387" height="655" alt="Scherm­afbeelding 2026-09-27 om 03 37 52" src="https://github.com/user-attachments/assets/1dd8f783-9425-432d-868d-ce098547c4c3" />
 
@@ -308,7 +307,6 @@ Mijn eigen wereld / tuintje waar verschillende consoles, controllers, games en h
 
 ##### Ik wil denk ik deze elementen terug laten komen:
 #### Consoles:
-
 - PS4 --> Dit is mijn ‘main’ console en gebruik ik dagelijks.
 - Xbox 360 --> Dit was vroeger mijn main console totdat ik mijn PS4 heb gekregen.
 - Wii --> Ik gebruikte die heel erg vaak en geeft mij een nostalgisch gevoel, omdat ik die voornamelijk met mijn nichten speelde.
@@ -482,7 +480,6 @@ Alles staat ook op Miro bij deze link: https://miro.com/app/board/uXjVHpsKqYY=/
 <img width="1008" height="850" alt="Scherm­afbeelding 2026-09-15 om 15 31 51" src="https://github.com/user-attachments/assets/50b504f2-2961-4e94-a1c4-5d307281633d" />
 
 #### Close-up:
-
 ##### Mood board:
 <img width="1343" height="696" alt="Scherm­afbeelding 2026-09-14 om 15 09 43" src="https://github.com/user-attachments/assets/b0b16a6a-02af-4866-b6a0-77365afe8909" />
 
@@ -563,9 +560,8 @@ De inhoud gaat bestaan uit:
 Ik wil ongeveer deze structuur gebruiken, maar het kan nog veranderen natuurlijk. 
 <img width="472" height="507" alt="Scherm­afbeelding 2026-09-26 om 18 22 47" src="https://github.com/user-attachments/assets/d967a25f-36f0-4aff-b746-a134d227a3ba" />
 
-### Vormgeving:
+#### Vormgeving:
 Ik wil graag een mix van de retro en girly stijl combineren zodat het een nette, rustige, maar toch kleurrijke en persoonlijke uitstraling heeft.
-
 #### Kleuren: 
 Ik wil vooral werken met de kleuren roze en een beetje wit, zwart, rood en grijs. 
 #### Typografie:
@@ -601,27 +597,30 @@ Ik vind het interessant hoe een website creatief kan zijn zonder dat de gebruike
 
 ### Opdracht 18, 19 en 20:
 Mijn eigen schets:
-
 <img width="443" height="749" alt="Scherm­afbeelding 2026-09-16 om 12 52 06" src="https://github.com/user-attachments/assets/d0f12803-ffe7-4f10-9338-43000c82c277" />
 
 Floortje's schets:
-
 <img width="722" height="719" alt="Scherm­afbeelding 2026-09-16 om 12 52 21" src="https://github.com/user-attachments/assets/637e4b98-480d-4b9f-87b9-702e9d020bce" />
 
 Mijn idee voor haar:
-
 <img width="897" height="697" alt="Scherm­afbeelding 2026-09-16 om 12 52 35" src="https://github.com/user-attachments/assets/5aba9762-6817-4805-a42a-49214277fb4e" />
 
 Seyi's schets:
-
 <img width="667" height="619" alt="Scherm­afbeelding 2026-09-16 om 12 56 00" src="https://github.com/user-attachments/assets/ea3aeba4-97db-4661-94df-4860774105d0" />
 
 Mijn idee voor haar:
-
 <img width="972" height="772" alt="Scherm­afbeelding 2026-09-16 om 12 56 10" src="https://github.com/user-attachments/assets/1c931ccf-ed28-4307-a76b-2331e54b7637" />
 
 ### Opdracht 21:
 <img width="524" height="746" alt="Scherm­afbeelding 2026-09-26 om 19 01 48" src="https://github.com/user-attachments/assets/e28931a1-c695-4263-a62a-f7409afa2fd0" />
+
+### Gekozen Typografie:
+
+<img width="965" height="801" alt="Scherm­afbeelding 2026-09-28 om 00 40 13" src="https://github.com/user-attachments/assets/39e1b2fa-4141-4f75-8e82-afbd68aa9ba0" />
+
+<img width="948" height="749" alt="Scherm­afbeelding 2026-09-28 om 00 44 12" src="https://github.com/user-attachments/assets/eafd4021-0d1e-4c41-abd4-e05598c67b7e" />
+
+Ik vind ze allemaal heel erg leuk, maar ze waren toch net niet wat ik precies zocht qua het gevoel en sfeer die ik omhoog wou brengen bij de gebruikers. Ik koos uiteindelijk toch voor wat meer 'typische' retro/game/internet/pixels lettertypes. Ik koos hier voor omdat als ik dat zie ik het gelijk associeer met het internet, games, vroeger en alles wat daar rondom heen komt. Ik vroeg aan een aantal meiden om feedback en wat hun associaties hierbij waren en ik kreeg ongeveer van hen te horen. Ik koos om Press Start 2P als mijn 'main' lettertype te gebruiken en de andere kijk ik nog waar ik die exact zou willen gebruiken. 
 
 # SPRINT 1 - Learning Log/Check Out: 
 
@@ -653,7 +652,6 @@ Dit is het idee dat ik nu heb en kan in de loop van tijd nog veranderen, vooral 
 - Ziet er leuk uit, verfijn het en ga het uitproberen.  
 
 ### SPRINT 1.3 - Bi-weekly 1: 
-
 1. Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
 - Wanneer het rommelig eruit ziet, er geen interactie is en het niet fluïde en adaptief is. Je kan zorgen voor kleine interacties, fleur het op met animaties en zorg dat het op elke scherm past.
 
@@ -664,7 +662,6 @@ Dit is het idee dat ik nu heb en kan in de loop van tijd nog veranderen, vooral 
 - Ik wil graag werken met interactie, afbeeldingen, links, easter eggs en een responsive layout. Het gaat er persoonlijk en expressief uitzien door mijn eigen stijl qua kleuren, foto's, game afbeeldingen, kleuren en typografie. Ik hoop dat mijn website een combinatie zal zijn van dit. Verder moet het ook fluïde en adaptief zijn zodat het op elke scherm werkt en dat het ook verrassend is door interactieve elementen, maar niet te overweldigend is en het volwassen blijft.
 
 ### SPRINT 1.3 - Bi-weekly 1: 
-
 1. Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
 - Symmetrisch, brengt orde, alles is hetzelfde en maakt het overzichtelijk. Nabijheid, dat ze dichter op elkaar staan. Witruimte, dat er genoeg ruimte en speling is tussen objecten.
 
@@ -676,20 +673,47 @@ Dit is het idee dat ik nu heb en kan in de loop van tijd nog veranderen, vooral 
 
 # SPRINT 1 - Deep Dives:
 
-## FOTO'S PLAATSEN !!
+### S1 - Light & Dark theme (Vasilis):
+Ik heb deze deep dive gebruikt om mijn eigen website een licht en donker modus te geven:
 
-## Light - Dark mode:
+#### Light - Dark mode:
 Ik twijfel nog hoe ik het er exact uit wil laten zien. Ik heb nu een donker en licht modus aan mijn website toegevoegd.
 
-### Light mode
+#### Light mode
 <img width="807" height="370" alt="Scherm­afbeelding 2026-09-17 om 23 06 09" src="https://github.com/user-attachments/assets/8a544ada-9e05-4b39-96e4-37c24f3b32f7" />
 
 <img width="804" height="438" alt="Scherm­afbeelding 2026-09-17 om 23 13 37" src="https://github.com/user-attachments/assets/76f94d84-af17-452d-8a68-880cc9a906e3" />
 
-### Dark mode:
+Ik heb mijn light modus later nog veranderd, omdat het net te licht was en dus niet goed leesbaar zou zijn voor de gebruiker:
+
+<img width="921" height="557" alt="Scherm­afbeelding 2026-09-27 om 23 18 13" src="https://github.com/user-attachments/assets/6e360599-a509-4bc0-aca1-59787d644cc0" />
+
+#### Dark mode:
 <img width="812" height="359" alt="Scherm­afbeelding 2026-09-17 om 23 06 16" src="https://github.com/user-attachments/assets/8c414e30-cc91-4e9b-bcdd-780b1feb1d93" />
 
 <img width="809" height="459" alt="Scherm­afbeelding 2026-09-17 om 23 13 31" src="https://github.com/user-attachments/assets/79514fd0-f989-49b3-a462-891e781ce97c" />
+
+# Buttons nog maken en toevoegen!!
+
+### S1 - Mooie kleuren en gradients (Sanne):
+#### Opdracht 1:
+## FOTO'S PLAATSEN !!
+<img width="626" height="499" alt="Scherm­afbeelding 2026-09-27 om 23 33 07" src="https://github.com/user-attachments/assets/21683e84-7ce3-40e6-8bf7-25c478ce2db4" />
+
+<img width="693" height="572" alt="Scherm­afbeelding 2026-09-27 om 23 35 18" src="https://github.com/user-attachments/assets/3f5c3737-5521-419d-8134-3d80493c7c66" />
+
+<img width="446" height="245" alt="Scherm­afbeelding 2026-09-27 om 23 38 10" src="https://github.com/user-attachments/assets/17d25487-4763-4f74-be3c-c34d7843bd20" />
+
+<img width="999" height="560" alt="Scherm­afbeelding 2026-09-27 om 23 40 35" src="https://github.com/user-attachments/assets/58b76e1d-c4af-4370-8083-75491d54cc96" />
+
+<img width="1040" height="563" alt="Scherm­afbeelding 2026-09-27 om 23 42 27" src="https://github.com/user-attachments/assets/4ebc53db-a2cb-4d20-b371-9ddd25d8f7e4" />
+
+<img width="1132" height="689" alt="Scherm­afbeelding 2026-09-27 om 23 42 56" src="https://github.com/user-attachments/assets/83bde5d7-3613-40c1-aa74-1acf155faee4" />
+
+
+### S1 - Grid 101 + Media queries (Sanne):
+
+### S1 - Responsive grid + Grid-areas (Vasilis)
 
 ## Grid:
 <img width="810" height="587" alt="Scherm­afbeelding 2026-09-17 om 23 29 36" src="https://github.com/user-attachments/assets/883057b8-188a-4526-a95e-438acb65c31d" />
@@ -704,6 +728,7 @@ Ik twijfel nog hoe ik het er exact uit wil laten zien. Ik heb nu een donker en l
 <img width="944" height="683" alt="Scherm­afbeelding 2026-09-22 om 20 19 51" src="https://github.com/user-attachments/assets/d333a2c5-c012-4431-a02b-5eb8d9b56422" />
 
 <img width="965" height="670" alt="Scherm­afbeelding 2026-09-22 om 20 20 03" src="https://github.com/user-attachments/assets/4d3268ea-0c86-4f90-9316-963b66187baa" />
+
 
 # SPRINT 2: 
 
