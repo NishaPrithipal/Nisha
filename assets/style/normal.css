@@ -7,17 +7,6 @@
   font-style: normal;
 }
 
-body {
-  font-family: "Press Start 2P", system-ui;
-  background-color: var(--background);
-  color: var(--color);
-}
-
-h1 {
-  font-size: 6rem;
-  text-align: center;
-}
-
 html {
   color-scheme: light dark;
 
@@ -36,6 +25,17 @@ html:has([value="light-theme"]:checked) {
 
 html:has([value="dark-theme"]:checked) {
   color-scheme: dark;
+}
+
+body {
+  font-family: "Press Start 2P", system-ui;
+  background-color: var(--background);
+  color: var(--color);
+}
+
+h1 {
+  font-size: 6rem;
+  text-align: center;
 }
 
 main {
