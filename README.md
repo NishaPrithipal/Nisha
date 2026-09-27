@@ -17,7 +17,6 @@ Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github o
 # SPRINT 0 - Deep Dives:
 
 ### S0 - Interactie: MMD, micro-interacties, forms (Nicky)
-Wo 2 Sept - Workshop 1: Klassikaal
 #### Notities:
 ##### MMD:
 - Cue
@@ -25,7 +24,7 @@ Wo 2 Sept - Workshop 1: Klassikaal
 - Feedforward
 - Feedback
 - Prompt
-  —>Versterkt wat je aan het bouwen bent —> Zie het niet als een stappenplan, maar zie ze als een lens die je helpen
+-> Versterkt wat je aan het bouwen bent —> Zie het niet als een stappenplan, maar zie ze als een lens die je helpen
 
 ##### Maslow’s Hammer:
 “If all you have is a hammer, everything looks like a nail.”
@@ -46,7 +45,7 @@ Wo 2 Sept - Workshop 1: Klassikaal
 ##### 4 componenten om hiervoor te zorgen (micro-animatie):
 1. Trigger
 2. Rules
-3. Feedback
+3. Feedback 
 4. Loops
 
 ##### Forms / Formulieren = verzameling van vraag-antwoord vragen over data.
@@ -69,16 +68,14 @@ Ik heb een aantal verschillende versies gemaakt van de menu van Wok To Walk. Ik 
 <img width="658" height="459" alt="Scherm­afbeelding 2026-09-10 om 20 47 27" src="https://github.com/user-attachments/assets/30dcb978-b27c-4b48-9a04-71b0daac2ffa" />
 
 ### S0 - CSS: fonts met kleur en effecten (Sanne)
-Wo 2 Sept - Workshop 2: Klassikaal
-
-#### Opdracht 1: Font Properties
+#### Opdracht 1:
 <img width="509" height="560" alt="Scherm­afbeelding 2026-09-02 om 12 07 59" src="https://github.com/user-attachments/assets/a4621c91-e9ed-4cba-bd77-b7ca7f8021cf" />
 
 <img width="372" height="274" alt="Scherm­afbeelding 2026-09-02 om 12 08 17" src="https://github.com/user-attachments/assets/4dba969a-4398-4831-8ee1-452b741f0419" />
 
 <img width="561" height="849" alt="Scherm­afbeelding 2026-09-02 om 12 08 26" src="https://github.com/user-attachments/assets/ab305ed4-fe6a-4794-883c-3bc276ccb59e" />
 
-#### Opdracht 2: Fonts, kleur en effecten
+#### Opdracht 2:
 <img width="64" height="93" alt="Scherm­afbeelding 2026-09-02 om 12 30 20" src="https://github.com/user-attachments/assets/9b276ebc-513a-4239-8075-3f01078092c9" />
 
 <img width="629" height="257" alt="Scherm­afbeelding 2026-09-02 om 12 33 38" src="https://github.com/user-attachments/assets/9af8b8ae-ece2-441b-9538-1621a93c8608" />
@@ -87,25 +84,184 @@ Wo 2 Sept - Workshop 2: Klassikaal
 
 <img width="503" height="840" alt="Scherm­afbeelding 2026-09-11 om 18 15 27" src="https://github.com/user-attachments/assets/4f3c0b4e-7081-40cd-a48d-28c036157174" />
 
-#### Opdracht 3: Mini-posters NOG DOENN
+#### Opdracht 3 en 4:
+<img width="507" height="357" alt="Scherm­afbeelding 2026-09-27 om 17 56 24" src="https://github.com/user-attachments/assets/de1b20ad-f483-4bb1-857a-132fef1fb33e" />
+
+<img width="519" height="348" alt="Scherm­afbeelding 2026-09-27 om 18 06 15" src="https://github.com/user-attachments/assets/0e380997-e075-4d77-8bad-b3ebf0ea3991" />
+
 ##### Notities:
+Ik heb vijf verschillende blokken gemaakt: Neon, Blauw vs Rood, Myst, Hello en Ticket. 
 
-## FOTO'S PLAATSEN !!
+Met @font-face heb ik de fonts kunnen toevoegen en met font-family gaf ik het een naam en met src geef ik aan waar het font bestand staat. 
 
+Bij Neon heb ik een linear-gradient () gebruikt om een kleurverloop van limegroen naar donkerblauw te maken. Met -webkit-text-stroke heb ik een gekleurde rand om de tekst gemaakt. text-shadow zorgt voor de neon glow rond de letters.
 
+Bij blauw vs rood heb ik een linear-gradient() gebruikt met verschillende kleurstops. Hierdoor kreeg ik duidelijke vlakken van rood, wit en blauw. Met letter-spacing heb ik meer ruimte tussen de letters gezet en met rotate heb ik de tekst een beetje gedraaid.
+
+Bij Myst heb ik verschillende grijstinten gebruikt. Met text-transform: uppercase wordt de tekst automatisch in hoofdletters weergegeven. Met text-shadow heb ik een donkere en lichte schaduw toegevoegd. Door transparantie te gebruiken kan je bepalen hoe doorzichtig een kleur is.
+
+Bij Hello heb ik een afbeelding als achtergrond gebruikt met background-image. Met background-size: cover vult de afbeelding het hele blokje en met background-position: center blijft het midden van de afbeelding centraal staan.
+
+Voor de tekst heb ik een gradient gebruikt in combinatie met background-clip: text en color: transparent. Hierdoor komt de gradient in de letters te staan.
+
+Voor Ticket heb ik verschillende eigenschappen gecombineerd. padding zorgt voor ruimte binnen het blokje, border maakt een rand en border-radius maakt de hoeken rond. Met rotate draaide ik het ticket een beetje en met box-shadow voegde ik een harde schaduw toe.
+
+Ik heb de blokken interactief gemaakt met :hover en transition. :hover bepaalt wat er gebeurt wanneer ik met mijn muis over een element ga. Bijvoorbeeld: li:hover { rotate: 3deg;} en met transition: 0.5s; zorg ik ervoor dat de verandering geleidelijk gebeurt in plaats van meteen.
+
+Ik heb tijdens hover ook scale, rotate, letter-spacing, text-shadow en achtergrond-effecten veranderd. Met scale: 1.15 maakt een element bijvoorbeeld 15% groter.
+
+##### Wat ik heb geleerd:
+Ik heb geleerd dat er erg veel verschillende CSS eigenschappen zijn en hoe je die allemaal kan combineren om een ontwerp te maken. Ik heb geoefend met verschillende onderdelen zoals fonts, gradients, tekstschaduwen, achtergronden, borders, rotaties en schaduwen. Ook heb ik geleerd hoe :hover en transition samenwerken om een website interactiever te maken.
+
+### Korte belangrijke CSS uitleg: (Voor mijzelf)
+- @font-face -> hiermee voeg je een eigen font bestand toe aan je website.
+- font-family -> bepaalt welk lettertype de tekst gebruikt.
+- font-weight -> bepaalt hoe dik de tekst is.
+- background-color -> geeft een element een achtergrondkleur.
+- background-image -> gebruikt een afbeelding als achtergrond.
+- linear-gradient() -> maakt een geleidelijke overgang tussen kleuren.
+- background-size: cover -> zorgt dat een achtergrondafbeelding het hele element vult.
+- background-position: center -> zet de achtergrondafbeelding in het midden.
+- color -> bepaalt de kleur van de tekst.
+- color: transparent -> maakt de tekst zelf transparant.
+- background-clip: text -> zorgt ervoor dat een achtergrond, bijvoorbeeld een gradient, alleen binnen de tekst zichtbaar is.
+- text-shadow -> voegt een schaduw of glow aan tekst toe.
+- text-transform: uppercase -> maakt alle letters hoofdletters.
+- letter-spacing → bepaalt hoeveel ruimte er tussen letters zit.
+- -webkit-text-stroke -> geeft de tekst een gekleurde rand.
+- padding -> geeft ruimte tussen de inhoud en de rand van een element.
+- border -> maakt een rand om een element.
+- border-radius -> maakt de hoeken van een element rond.
+- box-shadow -> geeft een element een schaduw.
+- rotate -> draait een element.
+- scale -> maakt een element groter of kleiner.
+- :hover -> bepaalt wat er gebeurt wanneer je met je muis over een element gaat.
+- transition -> zorgt ervoor dat een verandering geleidelijk en vloeiend gebeurt.
+- li:nth-of-type() -> hiermee kan ik een specifiek <li>-element selecteren, bijvoorbeeld het eerste of vijfde blok.
 
 ### S0 - HTML & CSS Basics (Justus)
-FOTOS ZETTEN
+#### Wat ik geleerd heb:
+Ik heb mij verdiept in de basis van HTML en CSS door het lezen van verschillende artikelen:
+- https://internetingishard.netlify.app/html-and-css/introduction/
+- https://internetingishard.netlify.app/html-and-css/basic-web-pages/
+- https://internetingishard.netlify.app/html-and-css/hello-css/
+- https://internetingishard.netlify.app/html-and-css/
+- https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content
+- https://developer.mozilla.org/en-US/
+  
+Ik vond dit erg fijn om te kunnen doornemen en gaf mij wat meer verduidelijking. Ik vind het gehele coderen soms wel nog wat lastig.
 
+Ik heb nu een duidelijk beeld dat HTML en CSS verschillende functies hebben. HTML wordt gebruikt voor inhoud en structuur van je website en CSS gebruik je om die structuur vorm te geven en te bepalen hoe de website eruit gaat zien. HTML en CSS werken samen, maar zijn niet hetzelfde.
 
+Een HTML-pagina begint met een basisstructuur. Daarin staan een aantal dingen zoals: <!DOCTYPE html>, <html>, <head> en <body>. 
+- <head> heeft de informatie over de pagina die niet direct als inhoud op de website zichtbaar is, denk aan de titel van de pagina en de verwijzing naar de CSS bestand.
+	<body> staat de echte inhoud in.
+
+HTML elementen geven betekenis aan de inhoud.
+- <h1> gebruik je voor de belangrijkste heading.
+- <h2> en <h3> gebruik je voor alles wat daaronder valt op chronologische wijze, dus <h4> dan <h5> dan <h6> etc.
+- <p> gebruik je voor normale tekst.
+- <ul> is voor een ongeordende lijst
+- <ol> is voor een geordende lijst.
+- <a> maakt een link → href vertelt waar de link naartoe gaat.
+- <img> is een afbeelding → src = waar staat de afbeelding en alt = de beschrijving van de afbeelding. 
+
+HTML is niet bedoeld om alleen maar te bepalen hoe iets eruitziet, het gaat vooral over betekenis en structuur. CSS is juist verantwoordelijk voor de visuele vormgeving. 
+- <strong> geeft aan dat de tekst belangrijk is, maar geeft het niet per se dikgedrukt aan, dat zou je alleen met CSS kunnen regelen.
+
+Dit hierboven hoort ook bij semantische HTML, door de juiste HTML elementen te gebruiken wordt voor browser, zoekmachines en hulpmiddelen (bijv. screenreaders) duidelijker wat een bepaalde onderdeel van een website betekent. Een goede HTML structuur is belangrijk voor toegankelijkheid en SEO
+
+MDN legt uit dat goede HTML-structuur daarom onder andere belangrijk is voor toegankelijkheid en SEO (Search Engine Optimization). 
+
+#### HTML, CSS en JavaScript:
+Ik zie HTML, CSS en JavaScript nu meer als drie verschillende onderdelen die gezamenlijk een website vormen.
+
+- HTML -> zorgt voor de structuur en inhoud.
+- CSS -> zorgt voor de vormgeving en layout.
+- JavaScript -> zorgt vervolgens voor interactie en dynamisch gedrag.
+
+Bijv. met HTML kan een knop gezet worden. Dan met CSS kan je dan de knop kleur, vorm en grootte geven. Tot slot met JavaScript zorg je ervoor dat er iets gebeurt wanneer iemand op de knop klikt. 
+
+Bijvoorbeeld:
+<h1>Mijn favoriete games</h1>
+<p>Dit zijn mijn favoriete games.</p>
+<button>Bekijk games</button>
+
+Ik begrijp nu wel beter dat je dus niet alles met HTML moet proberen te doen en dat er verschillende technologieën zijn die allemaal hun eigen functies hebben. 
+
+#### Bestanden en mappen: 
+Een ander onderdeel dat ik belangrijk vond, want ik vind dat zelf soms nog verwarrend, is hoe bestanden naar elkaar verwijzen. 
+
+Een website bestaat meestal uit meerdere bestanden en mappen. Een HTML bestand kan verwijzen naar een CSS-bestand.
+- <link rel= “stylesheet” href= “css/style.css”>
+Hiermee wordt aangegeven dat de de stylesheet style.css in de map css staat.
+
+Dit is handig voor mijn eigen digital garden, want ik ga waarschijnlijk meerdere HTML pagina’s en CSS bestanden hebben die ik ga moeten gebruiken en naar elkaar moet verwijzen. Het is belangrijk want als de bestanden verkeerd staan of verkeerd verwijzen dan zal de website niet goed werken.
+
+Het is dus belangrijk dat ik ga opletten dat de structuur van mijn repository goed zit. 
+
+Dit hieronder zou een mogelijke structuur kunnen zijn voor mij:
+<img width="319" height="622" alt="Scherm­afbeelding 2026-09-27 om 14 55 17" src="https://github.com/user-attachments/assets/669115e1-9c6d-420c-bab1-372acc4602e6" />
+
+Hier moet ik dan vanuit mijn HTML ervoor zorgen dat het juiste pad gebruikt is om al mijn bestanden te vinden.
+
+#### Wat mij verwonderde:
+CSS is niet alleen een verzameling losse eigenschappen zoals color, width en margin. Er zijn verschillende lay-out algorithms, zoals flexbox, grid en positioned layout. Ik dacht dat een CSS property wel altijd zou werken als je bijv. width aanpast en dat het dan gewoon werkt, maar het werkt dus aan de hand van de lay-out waar het zich bevindt. 
+
+CSS werkt soms anders dan ik verwacht en dan dacht ik dat ik een fout in mijn code had. CSS houdt dus rekening met de context waar het element staat. Dit is iets wat ik tijdens het maken van mijn eigen websites verder wil oefenen, omdat ik vaak moeite heb met het goed positioneren van elementen.
+
+#### Vragen die ik nog heb:
+##### 1. Wanneer moet ik welk HTML-element gebruiken?
+Ik snap wel het idee van semantische HTML, maar ik vind het wel nog lastig om te bepalen welke element het beste is om te gebruiken. 
+
+Bijv. wanneer je een <div>, <section>, <article> of <main> moet gebruiken. Voorheen gebruikte ik div want dat was meestal wel makkelijk en het enige wat ik toen wel kon. Ik wil nog weten en beter begrijpen hoe ik een betere keuze kan maken.
+
+##### 2. Waarom werkt dezelfde CSS property soms anders?
+Ik vraag me af hoe ik kan herkennen welk CSS layout systeem op een bepaald element wordt toegepast. Vooral het verschil tussen normale Flow-layout, Flexbox en Grid vind ik nog niet helemaal duidelijk.
+
+#### Wat neem ik mee naar mijn eigen digital garden?
+Deze voorbereiding is voor mij relevant voor mijn eigen digital garden. Ik wil mijn digital garden namelijk maken rondom mijn interesse in mijn game consoles. Ik wil hierin onder andere dingen kunnen laten zien over mijn PSP en Nintendo DS.
+
+Ik denk dat ik niet alleen 1 pagina wil hebben, maar meerdere dus moet ik er wel voor zorgen dat alles een logische structuur heeft. HTML kan ik gebruiken om de verschillende onderwerpen en pagina's te maken. CSS kan ik vervolgens gebruiken om de website mijn eigen stijl te geven.
+
+Ik wil proberen om vanaf het begin een duidelijke mappenstructuur te gebruiken. Afbeeldingen wil ik bijvoorbeeld in een aparte map bewaren en mijn CSS in een aparte stylesheet. Hierdoor blijft mijn repository voor mij overzichtelijk en wordt het niet te overweldigend.
+
+Ik moet tijdens het maken van mijn digital garden daarom eerst goed nadenken over welke informatie ik wil laten zien en hoe ik deze informatie logisch bij elkaar kan zetten. Daarna moet ik pas gaan kijken naar de vormgeving in CSS.
 
 ### S0 - Praktische CSS (Vasilis)
-FOTOS ZETTEN
+Ik heb geleerd hoe ik een HTML pagina stap voor stap kan opbouwen en verbeteren met CSS.
 
+HTML maakt de structuur van een website. Ik heb gewerkt met verschillende elementen zoals <main>, <h1>, <h2>, <p>, <img>, lijsten, links en formulieren. Je gebruikt bijv. alt bij een afbeelding om informatie te geven over wat er op de afbeelding staat (handig voor screenreaders en accessibility).
 
+Met CSS kan je tekst makkelijker leesbaar maken. Bijv. met max-width: 30em voorkom je dat de tekst te breed over het scherm loopt. Met margin: auto kan je de inhoud centreren en met font-family verander je het lettertype.
+
+Ik heb geleerd om custom properties te gebruiken met vaste waarden. Bijvoorbeeld: --whitespace-s: 1rem;. Die kan ik daarna gebruiken met var(--whitespace-s). Met calc() kan ik hier andere waardes van maken, bijv. twee keer zoveel ruimte.
+
+Met clamp() kan je een heading automatisch laten meegroeien met de schermgrootte. Hierbij heb ik ook geleerd dat vw staat voor viewport width, de breedte van het scherm.
+
+Ik heb geleerd hoe ik kan aangeven wat er gebeurt wanneer iemand met een element werkt. Met :hover verander je de link wanneer de muis er over heen gaat. Met :focus maak je duidelijk welke element geselecteerd is. 
+
+Je maakt een formulier met <input>, <textarea>, <label> en <button>. Met CSS kan ik deze elementen netjes onder elkaar zetten en een duidelijke focus geven wanneer iemand een veld gebruikt.
+
+HTML zorgt voor de structuur, CSS voor de vormgeving. Met interactie en toegankelijkheid zorg je ervoor dat de website ook prettig en bruikbaar is.
+
+HTML gebruik je om de structuur en inhoud van een website te maken:
+- <main> -> voor de hoofdinhoud.
+- <h1> -> voor de belangrijkste titel.
+- <h2> -> voor een subkop.
+- <p> -> voor paragrafen.
+- <img> -> voor een afbeelding.
+- <ul> en <li> -> voor een lijst.
+- <blockquote> -> voor een citaat.
+- <a> -> voor een link.
+- <form> -> voor een formulier.
+- <label> -> voor de naam van een invoerveld.
+- <input> -> voor invoer.
+- <textarea> -> voor langere tekst.
+- <button> -> voor een knop.
 
 ### S0 - Typografie (Diederik)
-##### Artikel 1: How to choose the right typeface - Typetogether
+#### Artikel 1: How to choose the right typeface - Typetogether
 1. De functie van een lettertype is belangrijk: Je moet eerst kijken waarvoor je het lettertype gebruikt. Bijv. bij een lange tekst heb je een leesbaar lettertype nodig waarbij de titel wel opvallend kan zijn.
 2. Leesbaarheid is heel belangrijk: Bijv. voor lange teksten zijn lettertypes met open ruimtes (counters) makkelijker te lezen.
 3. Gebruik niet zomaar veel verschillende lettertypes: Te veel verschillende fonts kan je ontwerp rommelig maken.
@@ -113,7 +269,7 @@ FOTOS ZETTEN
 5. Bij het combineren van lettertypes moet je letten op overeenkomsten en verschillen: Bijv. de hoogte van kleine letters (x-height) moet goed bij elkaar passen en is het belangrijk dat de fonts genoeg van elkaar verschillen om bewust gekozen te lijken.
 6. Het budget en de licentie kunnen ook een rol spelen: Niet ieder lettertype mag zomaar voor iedere toepassing gebruikt worden. Vooral bij websites en andere commerciële projecten moet je kijken naar de licentie.
 
-##### Artikel 2: Typography for User Interfaces - Ariel Salminen
+#### Artikel 2: Typography for User Interfaces - Ariel Salminen
 1. Tekst is eigenlijk een onderdeel van de interface: Bij websites en apps bestaat een groot deel van de interface uit tekst en daarom is typografie niet alleen bestemd voor decoratie, maar ook onderdeel van de UX.
 2. Leesbaarheid is het belangrijkste: Letters moeten duidelijk van elkaar onderscheiden. Als letters te veel op elkaar lijken, kan een gebruiker woorden moeilijker herkennen. Bijv. het verschil tussen een hoofdletter I (i) en een kleine l (L) .
 3. Een goed UI-lettertype moet niet te veel aandacht opeisen: Het font moet de gebruiker helpen en niet in de weg zitten, want het belangrijkste is de informatie die je over wilt brengen.
@@ -121,7 +277,7 @@ FOTOS ZETTEN
 5. Een grote x-height kan helpen bij kleine tekst: Een grotere x-height kan ervoor zorgen dat kleine letters beter zichtbaar en leesbaar zijn op schermen.
 6. Typografie heeft invloed op de gebruikservaring: Als een gebruiker moeite moet doen om letters of woorden te herkennen, kost dat extra mentale energie en juist een goed gekozen font maakt het makkelijker om de interface te begrijpen en taken uit te voeren. 
 
-##### Het belangrijkste:
+#### Het belangrijkste:
 Wat ik meeneem uit beide artikelen is dat je niet alleen een font moet kiezen omdat je het mooi vindt. Je moet ook kijken naar wat je wilt vertellen, voor wie je het maakt en waarvoor het font gebruikt wordt. Een font moet vooral duidelijk, leesbaar en gebruiksvriendelijk zijn. Voornamelijk leesbaarheid speelt een grote invloed op de gebruikerservaring.
 
 ##### Notities:
@@ -135,7 +291,6 @@ Hoe kies je een passend lettertype? Stijl, leesbaarheid, opties, beschikbaarheid
 
 ##### Reflectie: 
 Ik heb geleerd dat het best wel handig en overzichtelijk is. Ik ben zelf vaak nog wel wat rommeliger met mijn schetsen, dus dit was best wel een goeie oefening voor mij waar ik nog verder aan moet werken. Ik had hier nooit echt eerder bij stil gestaan, maar na de oefeningen kwam ik erachter dat het wel fijn is. 
-
 
 # SPRINT 1 - Digital Garden:
 
