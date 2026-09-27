@@ -1,4 +1,4 @@
-# SPRINT 0: Kick Off, Learning Log
+<img width="863" height="704" alt="Scherm­afbeelding 2026-09-27 om 03 38 08" src="https://github.com/user-attachments/assets/cdbdbbf1-fbca-4c53-9fa2-9386e5417ee9" /><img width="387" height="655" alt="Scherm­afbeelding 2026-09-27 om 03 37 52" src="https://github.com/user-attachments/assets/9532e3d0-eccf-4cf6-9c12-3e6d1fa0dbd2" /># SPRINT 0: Kick Off, Learning Log
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
 <img width="585" height="33" alt="Scherm­afbeelding 2026-09-10 om 20 54 21" src="https://github.com/user-attachments/assets/2d2485f8-723c-4592-a2e7-e2a5a0f0afcf" />
@@ -129,11 +129,12 @@ Hoe kies je een passend lettertype? Stijl, leesbaarheid, opties, beschikbaarheid
 
 
 ### S0 - Schetsen van o.a. interactie en animatie (Charley)
-FOTOS ZETTEN
+<img width="387" height="655" alt="Scherm­afbeelding 2026-09-27 om 03 37 52" src="https://github.com/user-attachments/assets/1dd8f783-9425-432d-868d-ce098547c4c3" />
 
+<img width="863" height="704" alt="Scherm­afbeelding 2026-09-27 om 03 38 08" src="https://github.com/user-attachments/assets/292e8470-2e4b-40a9-a748-e5f85fb014ae" />
 
-
-
+##### Reflectie: 
+Ik heb geleerd dat het best wel handig en overzichtelijk is. Ik ben zelf vaak nog wel wat rommeliger met mijn schetsen, dus dit was best wel een goeie oefening voor mij waar ik nog verder aan moet werken. Ik had hier nooit echt eerder bij stil gestaan, maar na de oefeningen kwam ik erachter dat het wel fijn is. 
 
 
 # SPRINT 1 - Digital Garden:
