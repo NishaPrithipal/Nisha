@@ -64,7 +64,6 @@ Website checken:
 
 
 
-
 ### SPRINT 2. - Bi-weekly 2: 
 
 UX HTML:
@@ -82,6 +81,10 @@ Vreselijke experience, was erg lastig en vervelend om te gebruiken zo zie je wel
 
 <img width="1678" height="960" alt="Scherm­afbeelding 2026-09-28 om 14 31 15" src="https://github.com/user-attachments/assets/81a656b2-ce81-45df-970c-35a044c4df4c" />
 
+### SPRINT 2. - Bi-weekly 2: checkout bi weekly:
+1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML? -> Het gaat niet alleen daar om maar ook of het fijn is voor de gebruiker om het tet gebruiken. 
+2. Wat voor type beperkingen hebben invloed op het gebruiken van websites? -> Cognitief, auditief, visueel en motorisch. 
+3. Noem drie manieren om door een website te navigeren met jouw screenreader. -> Headings, links en landmarks. 
 
 # SPRINT 1 - Digital Garden:
 
