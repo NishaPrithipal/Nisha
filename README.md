@@ -86,6 +86,7 @@ Vreselijke experience, was erg lastig en vervelend om te gebruiken zo zie je wel
 2. Wat voor type beperkingen hebben invloed op het gebruiken van websites? -> Cognitief, auditief, visueel en motorisch. 
 3. Noem drie manieren om door een website te navigeren met jouw screenreader. -> Headings, links en landmarks. 
 
+
 # SPRINT 1 - Digital Garden:
 
 ### Opdracht 1:
