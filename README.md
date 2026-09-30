@@ -292,6 +292,7 @@ Alles staat ook op Miro bij deze link: https://miro.com/app/board/uXjVHpsKqYY=/
 #### Close-up:
 ##### Mood board:
 <img width="1154" height="570" alt="Scherm­afbeelding 2026-09-15 om 00 53 33" src="https://github.com/user-attachments/assets/691975fb-e7b2-4429-95a5-1003788a0db7" />
+
 ##### Kenmerken:
 - Veilig en nostalgisch gevoel.
 - Tijd / Terug in de tijd / Kindertijd / 'goeie oude tijd'.
@@ -300,6 +301,7 @@ Alles staat ook op Miro bij deze link: https://miro.com/app/board/uXjVHpsKqYY=/
 
 ### Opdracht 8:
 <img width="726" height="782" alt="Scherm­afbeelding 2026-09-15 om 15 38 54" src="https://github.com/user-attachments/assets/bc0abbb6-cabb-4b90-bd52-2ec1c13ee6e6" />
+
 ### Close ups:
 <img width="821" height="435" alt="Scherm­afbeelding 2026-09-15 om 15 39 02" src="https://github.com/user-attachments/assets/694ab652-466b-4c4c-80ad-da799f9bd840" />
 
@@ -448,7 +450,7 @@ Dit is het idee dat ik nu heb en kan in de loop van tijd nog veranderen, vooral 
 - Het idee dat ik het liefst verder wil onderzoeken is mijn collectie. Het lijkt mij een leuk idee om al mijn consoles en games als een soort digitale collectie te laten zien, waarbij ik graag zou willen dat als je op een console of game klikt, je dan foto's, herinneringen, informatie of geluiden kan ontdekken.
 
 4. Welke feedback heb je gehad?
-- Ziet er leuk uit, verfijn het en ga het uitproberen.  
+- Ziet er leuk uit, verfijn het, ga het uitproberen en maak een light/dark mode.  
 
 ### SPRINT 1.3 - Bi-weekly 1: 
 1. Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
