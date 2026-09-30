@@ -418,6 +418,9 @@ Mijn idee voor haar:
 
 Ik vind ze allemaal heel erg leuk, maar ze waren toch net niet wat ik precies zocht qua het gevoel en sfeer die ik omhoog wou brengen bij de gebruikers. Ik koos uiteindelijk toch voor wat meer 'typische' retro/game/internet/pixels lettertypes. Ik koos hier voor omdat als ik dat zie ik het gelijk associeer met het internet, games, vroeger en alles wat daar rondom heen komt. Ik vroeg aan een aantal meiden om feedback en wat hun associaties hierbij waren en ik kreeg ongeveer van hen te horen. Ik koos om Press Start 2P als mijn 'main' lettertype te gebruiken en de andere kijk ik nog waar ik die exact zou willen gebruiken. 
 
+<img width="803" height="390" alt="Scherm­afbeelding 2026-09-16 om 11 20 26" src="https://github.com/user-attachments/assets/c5e55a58-ac10-4179-a909-5b932f13e584" />
+
+
 # SPRINT 1 - Learning Log/Check Out: 
 
 ### Sprint 1.1:
@@ -470,7 +473,25 @@ Dit is het idee dat ik nu heb en kan in de loop van tijd nog veranderen, vooral 
 # SPRINT 1 - Deep Dives:
 
 ### S1 - Light & Dark theme (Vasilis):
-Ik heb deze deep dive gebruikt om mijn eigen website een licht en donker modus te geven:
+#### Notities:
+Je kan met CSS niet alleen een website mooi maken, maar dus ook rekening houden met gebruikersvoorkeuren, toegankelijkheid en verschillende apparaten.
+Custom properties zijn variabelen in CSS. Je kan een waarde één keer opslaan en daarna op meerdere plekken gebruiken. Een custom property begint met -- en gebruik je met var(). Bijv. --background en background-color: var (--background).
+Met color-scheme kan je aangeven dat mijn website light en dark modus heeft. Daarna met light-dark() kan je twee waarden instellen bijv. --background: light-dark(white, black). De eerste is voor de light mode en de tweede waarde is voor de dark mode. 
+Met prefers-color-scheme kan je CSS controleren of de gebruiker dark mode gebruikt.
+Ik heb ook radio buttons gebruikt waarmee de gebruiker zelf auto, licht of donker kiest. Met :has() kan CSS zien welke optie geselecteerd is. 
+Met het <picture> element kan je verschillende afbeeldingen gebruiken voor verschillende light en dark modes en rekening houden met kleine en grotere schermen.
+
+#### Wat heb ik geleerd?
+custom properties maken met --
+custom properties gebruiken met var()
+light en dark mode maken met light-dark()
+color-scheme en prefers-color-scheme gebruiken
+met :has() kan je geselecteerde optie herkennen
+<picture> gebruiken voor responsive afbeeldingen
+rekening houden met schermgrootte en light/dark mode.
+Ik moet dus proberen om mijn website niet alleen aan te passen aan verschillende schermgroottes, maar ook aan de voorkeuren en omstandigheden van mijn gebruikers.
+
+Ik heb deze informatie gebruikt om mijn eigen website een licht en donker modus te geven:
 
 #### Light - Dark mode:
 Ik twijfel nog hoe ik het er exact uit wil laten zien. Ik heb nu een donker en licht modus aan mijn website toegevoegd.
@@ -489,7 +510,20 @@ Ik heb mijn light modus later nog veranderd, omdat het net te licht was en dus n
 
 <img width="809" height="459" alt="Scherm­afbeelding 2026-09-17 om 23 13 31" src="https://github.com/user-attachments/assets/79514fd0-f989-49b3-a462-891e781ce97c" />
 
-# Buttons nog maken en toevoegen!!
+Ik heb mijn dark mode ook verandert naar zwarte tekst:
+
+<img width="1168" height="566" alt="Scherm­afbeelding 2026-09-28 om 21 46 01" src="https://github.com/user-attachments/assets/127be4c1-3498-4945-a6c8-c10cad4d6ef8" />
+
+#### Light/Dark buttons:
+<img width="80" height="138" alt="Scherm­afbeelding 2026-09-29 om 20 09 29" src="https://github.com/user-attachments/assets/d4c57193-7d66-48fc-b192-196b5f596f12" />
+
+<img width="78" height="149" alt="Scherm­afbeelding 2026-09-29 om 20 09 25" src="https://github.com/user-attachments/assets/94c0195e-f442-44c1-be16-24424edafdbb" />
+
+Ik heb mijn buttons aangepast zodat je op het poppetje kan klikken dat het light en donker wordt ipv dat je nog op de kleine knopje ernaast klikt en heb er voor gezorgd dat er meer ruimte is tussen de twee.
+
+<img width="1036" height="305" alt="Scherm­afbeelding 2026-09-29 om 22 07 21" src="https://github.com/user-attachments/assets/0c7c9f68-8ee3-442b-bb8c-12697d87d444" />
+
+<img width="1273" height="334" alt="Scherm­afbeelding 2026-09-29 om 22 09 37" src="https://github.com/user-attachments/assets/93704ad5-608a-4a96-b690-9193032b6d34" />
 
 ### S1 - Mooie kleuren en gradients (Sanne):
 #### Opdracht 1:
