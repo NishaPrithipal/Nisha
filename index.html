@@ -19,23 +19,29 @@
   <body>
     <header>
       <label>
-        <input type="radio" name="theme" value="auto-theme" checked />
-        auto
-      </label>
       <label>
         <input type="radio" name="theme" value="light-theme" />
-        licht
+        <img
+          src="../Nisha/assets/SVG's/Icons/LightFatsonToddWitROZE.svg"
+          alt="Wit Roze poppetje"
+        />
+        Licht
       </label>
       <label>
         <input type="radio" name="theme" value="dark-theme" />
-        donker
+        <img
+          src="../Nisha/assets/SVG's/Icons/DarkFatsonToddZwartROZEsvg.svg"
+          alt="Zwart Roze poppetje"
+        />
+        DARK
       </label>
 
       <h1>My Gaming Garden</h1>
 
       <nav>
         <ul>
-          <li><a href="/home.html">[Home]</a></li>
+          <li><a href="/Consoles.html">Consoles</a></li>
+
           <li><a href="/log.html">[Log]</a></li>
           <li><a href="/story.html">[Story]</a></li>
           <li><a href="/contact.html">[Contact]</a></li>
@@ -93,6 +99,29 @@
         </p>
       </article>
     </main>
+
+    <footer>
+      <nav>
+        <button commandfor="cookieModal" command="show-modal">
+          <span>Allow cookies?</span>
+        </button>
+      </nav>
+    </footer>
+
+    <dialog id="cookieModal">
+      <form method="dialog">
+        <p>
+          We use cookies to personalise content and ads, to provide social media
+          features and to analyse our traffic. We also share information about
+          your use of our site with our social media, advertising and analytics
+          partners who may combine it with other information that you’ve
+          provided to them or that they’ve collected from your use of their
+          services.
+        </p>
+        <button onclick="setCookie()">Allow</button>
+        <button onclick="unsetCookie()">Deny</button>
+      </form>
+    </dialog>
 
     <footer>
       <p>[Copyleft 2026, all wrongs reversed]</p>
