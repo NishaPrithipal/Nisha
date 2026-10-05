@@ -20,9 +20,10 @@ html {
 
   --background: light-dark(White, #fd3db5);
   --color: light-dark(#fd3db5, black);
+  --color-h1: light-dark(#fd3db5, black);
 
   --background-button: light-dark(#fd3db5, #fdcdea);
-  --color-button: light-dark(#fd3db5, White);
+  --color-button: light-dark(White, White);
 
   accent-color: light-dark(#fd3db5, White);
 }
@@ -53,29 +54,90 @@ video {
 }
 
 body {
+  margin: 0;
   font-family: "Press Start 2P", system-ui;
   background-color: var(--background);
   color: var(--color);
 }
 
-article {
-  max-width: 30em;
+/**************************
+* MARK: Theme buttons
+**************************/
+
+header {
+  position: relative;
 }
 
-article {
-  border: 2px solid currentColor;
-  padding: 1em;
+header label {
+  cursor: pointer;
 }
+
+header label:first-child {
+  position: absolute;
+  top: 1rem;
+  right: clamp(4rem, 12vw, 12rem);
+}
+
+header label:nth-child(2) {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+header input {
+  position: absolute;
+  opacity: 0;
+}
+
+header label img {
+  width: clamp(3rem, 10vw, 10rem);
+  height: clamp(3rem, 10vw, 10rem);
+  object-fit: contain;
+}
+
+header label:hover img {
+  transform: scale(1.1);
+}
+
+header input:checked + img {
+  outline: 2px solid currentColor;
+  border-radius: 0.5rem;
+}
+
+header input:focus-visible + img {
+  outline: 2px solid currentColor;
+}
+
+/**************************
+* MARK: Header
+**************************/
 
 h1 {
-  font-size: 6rem;
+  margin-top: 2rem;
+  padding-top: clamp(4rem, 15vw, 10rem);
+  color: var(--color-h1);
+  font-size: clamp(2.5rem, 8vw, 6rem);
   text-align: center;
 }
+
+/**************************
+* MARK: Main
+**************************/
 
 main {
   display: grid;
   gap: 1em;
 }
+
+article {
+  max-width: 30em;
+  border: 2px solid currentColor;
+  padding: 1em;
+}
+
+/**************************
+* MARK: Responsive Grid
+**************************/
 
 @media (width > 28em) {
   main {
@@ -84,26 +146,9 @@ main {
 }
 
 /**************************
-* MARK: Header
-**************************/
-
-header {
-}
-
-/**************************
 * MARK: Footer
 **************************/
 
 footer {
+  margin-top: 2rem;
 }
-
-/**************************
-* MARK: Main
-**************************/
-
-main {
-}
-
-/**************************
-* MARK: Section ...
-**************************/
