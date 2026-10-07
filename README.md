@@ -641,6 +641,10 @@ Ik heb mijn buttons aangepast zodat je op het poppetje kan klikken dat het light
 
 <img width="1132" height="689" alt="Scherm­afbeelding 2026-09-27 om 23 42 56" src="https://github.com/user-attachments/assets/83bde5d7-3613-40c1-aa74-1acf155faee4" />
 
+<img width="1368" height="908" alt="Scherm­afbeelding 2026-10-02 om 18 01 07" src="https://github.com/user-attachments/assets/1acae81d-8e02-4de7-9773-3e8b715b8404" />
+
+<img width="1680" height="966" alt="Scherm­afbeelding 2026-10-02 om 18 05 45" src="https://github.com/user-attachments/assets/3a4a3ba0-b2ac-45a3-9bf6-069fe727fa3d" />
+
 #### Ik heb geleerd hoe ik:
 Kleuren op verschillende manieren kan definiëren in CSS. Ik kende HEX kleuren al, maar heb nu meer geleerd over RGB, HSL en moderne color spaces zoals OKLCH. Ik heb geleerd wat color spaces en color gamuts betekenen en waarom dit belangrijk is wanneer je met verschillende soorten kleuren en schermen werkt.
 Moderne RGB- en HSL-syntax gebruiken geen komma's meer en transparantie kan worden toegevoegd met een slash, bijvoorbeeld rgb(255 0 0 / .5).
@@ -678,10 +682,43 @@ var() = opgeslagen kleur gebruiken
 @property = custom property een type geven
 @keyframes = animatie bepalen
 
-Ik heb gekeken naar verschillende gradients en welke het beste paste bij mijn website:
+##### Ik heb gekeken en geëxperimenteerd naar verschillende gradients en welke het beste paste bij mijn website:
 
-## FOTO'S PLAATSEN !!
+<img width="1679" height="562" alt="Scherm­afbeelding 2026-10-07 om 10 13 39" src="https://github.com/user-attachments/assets/18cd3e2e-484e-4cb7-9582-5e465923a011" />
 
+<img width="1197" height="155" alt="Scherm­afbeelding 2026-10-07 om 10 40 34" src="https://github.com/user-attachments/assets/c9a4daa6-ad85-449c-a688-50fa1b67ce0c" />
+
+<img width="1607" height="147" alt="Scherm­afbeelding 2026-10-07 om 10 38 34" src="https://github.com/user-attachments/assets/a2e7efd6-5f3d-4350-9800-113eebe482a1" />
+
+<img width="1612" height="141" alt="Scherm­afbeelding 2026-10-07 om 10 38 29" src="https://github.com/user-attachments/assets/c9797a7d-5e3c-4f03-8295-68f2e01b786c" />
+
+<img width="1209" height="158" alt="Scherm­afbeelding 2026-10-07 om 10 37 54" src="https://github.com/user-attachments/assets/82ecb6a6-d1c4-40da-8fbc-5f0f498a75f0" />
+
+<img width="1207" height="153" alt="Scherm­afbeelding 2026-10-07 om 10 37 49" src="https://github.com/user-attachments/assets/d06164ea-709a-404c-a748-1eb12f1f2a6d" />
+
+<img width="826" height="107" alt="Scherm­afbeelding 2026-10-07 om 10 33 15" src="https://github.com/user-attachments/assets/3256747d-9249-496a-80f2-03c87465839c" />
+
+<img width="815" height="110" alt="Scherm­afbeelding 2026-10-07 om 10 33 10" src="https://github.com/user-attachments/assets/718150f0-2fb0-4246-ae16-89afba3e74f4" />
+
+<img width="824" height="96" alt="Scherm­afbeelding 2026-10-07 om 10 31 52" src="https://github.com/user-attachments/assets/3132860d-f45e-410e-856d-7360fcf23219" />
+
+<img width="819" height="113" alt="Scherm­afbeelding 2026-10-07 om 10 31 46" src="https://github.com/user-attachments/assets/7381921c-c433-48e8-8780-210788a99e39" />
+
+<img width="1674" height="965" alt="Scherm­afbeelding 2026-10-07 om 10 27 09" src="https://github.com/user-attachments/assets/dd54011c-6a25-467d-b307-c15da29a0a7a" />
+
+<img width="1680" height="967" alt="Scherm­afbeelding 2026-10-07 om 10 27 01" src="https://github.com/user-attachments/assets/4bf91de3-f51c-41ea-93b1-e706db2561a3" />
+
+<img width="1679" height="967" alt="Scherm­afbeelding 2026-10-07 om 10 18 26" src="https://github.com/user-attachments/assets/4814b21e-e794-4408-8dc0-eed3b716621c" />
+
+<img width="1678" height="556" alt="Scherm­afbeelding 2026-10-07 om 10 13 06" src="https://github.com/user-attachments/assets/94417ca4-879b-429e-a97f-592fc2fb062b" />
+
+<img width="1680" height="560" alt="Scherm­afbeelding 2026-10-07 om 10 12 00" src="https://github.com/user-attachments/assets/5feb7e93-37b4-4a77-988a-d8ea12cde8a2" />
+
+<img width="1679" height="968" alt="Scherm­afbeelding 2026-10-07 om 10 10 16" src="https://github.com/user-attachments/assets/0c21d548-75a3-43f2-a44d-7c96fb1aaf59" />
+
+<img width="1680" height="736" alt="Scherm­afbeelding 2026-10-07 om 10 18 07" src="https://github.com/user-attachments/assets/6e6b549d-53a8-4f94-83eb-bb3210db56a8" />
+
+<img width="1680" height="734" alt="Scherm­afbeelding 2026-10-07 om 10 15 14" src="https://github.com/user-attachments/assets/bcd658b5-3019-4d5d-825d-61bd0601be78" />
 
 ### S1 - Grid 101 + Media queries (Sanne):
 
