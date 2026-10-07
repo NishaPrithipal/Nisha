@@ -647,23 +647,32 @@ Ik heb mijn buttons aangepast zodat je op het poppetje kan klikken dat het light
 
 #### Ik heb geleerd hoe ik:
 Kleuren op verschillende manieren kan definiëren in CSS. Ik kende HEX kleuren al, maar heb nu meer geleerd over RGB, HSL en moderne color spaces zoals OKLCH. Ik heb geleerd wat color spaces en color gamuts betekenen en waarom dit belangrijk is wanneer je met verschillende soorten kleuren en schermen werkt.
+
 Moderne RGB- en HSL-syntax gebruiken geen komma's meer en transparantie kan worden toegevoegd met een slash, bijvoorbeeld rgb(255 0 0 / .5).
+
 Een color space is een manier om kleuren wiskundig te beschrijven, terwijl een gamut het bereik aan kleuren beschrijft dat bijvoorbeeld een scherm kan weergeven. Hierdoor begreep ik beter waarom moderne color spaces zoals Display-P3 en OKLCH bestaan.
+
 Daarnaast heb ik geleerd hoe ik CSS custom properties kan gebruiken voor mijn kleuren. Dit vind ik handig omdat ik mijn kleuren alleen een keer hoef in te stellen en ze daarna op meerdere plekken kan gebruiken. Hierdoor kan ik een kleurenthema makkelijker aanpassen.
+
 OKLCH vond ik wel interessant om te zien, omdat je werkt met lightness, chroma en hue en dat kan wel handig kan zijn met kleurverlopen. Met tools zoals OKLCH.com en Gradient.style ga ik experimenteren en kan ik gelijk het effect en de waarden zien. 
+
 Het grootste onderdeel waren gradients. Er zijn veel verschillende soorten gradients, zoals linear, radial en conic gradients. Er zijn ook repeating-varianten. Met verschillende hoeken, color stops, background-size, background-position en background-repeat kun je veel verschillende patronen maken.
+
 Het combineren van meerdere gradients vond ik wel interessant en leuk om te zien. Je kan met alleen CSS ingewikkelde patronen maken zonder dat je extra HTML hoeft toe te voegen. Met @property kan je een custom property een type geven, zoals <angle> of <color>, hierdoor kan je onderdelen van een gradient laten animeren.
 
 #### Wat neem ik mee:
 ik neem vooral mee dat je met CSS veel verschillende mogelijkheden hebt met kleuren en dat je niet alleen een achtergrond een vaste kleur hoeft te geven. Door custom properties en gradients te combineren kan ik mijn websites visueel interessanter maken. Ik heb al geoefend met wat ik zou passen bij mijn website. 
+
 Gradients: 6 soorten
-linear-gradient()
-repeating-linear-gradient()
-radial-gradient()
-repeating-radial-gradient()
-conic-gradient() 
-repeating-conic-gradient(). 
+1. linear-gradient()
+2. repeating-linear-gradient()
+3. radial-gradient()
+4. repeating-radial-gradient()
+5. conic-gradient()
+6. repeating-conic-gradient(). 
+
 Gradients kunnen worden gebruikt voor strepen, geometrische patronen en complete illustraties. Ik heb geleerd hoe ik richtingen, hoeken, color stops, posities en meerdere kleuren kan gebruiken. Ook hoe ik meerdere gradients over elkaar heen kan zetten. De bovenste gradient ligt daarbij bovenop de andere. Door gradients te combineren met background-size, background-position en background-repeat kan je patronen maken zonder dus die extra HTML.
+
 Tot slot kan je met @property gradients animeren. Hiermee kan je de browser vertellen welk type waarde een custom property heeft, bijv. een hoek, kleur of percentage. Hierdoor kan ik onderdelen van een gradient animeren. Dit is een stuk moeilijker dan een normale gradient, maar geeft je wel veel mogelijkheden voor interactieve ontwerpen.
 
 #### Notities: 
@@ -721,6 +730,20 @@ var() = opgeslagen kleur gebruiken
 <img width="1680" height="734" alt="Scherm­afbeelding 2026-10-07 om 10 15 14" src="https://github.com/user-attachments/assets/bcd658b5-3019-4d5d-825d-61bd0601be78" />
 
 ### S1 - Grid 101 + Media queries (Sanne):
+<img width="1679" height="783" alt="Scherm­afbeelding 2026-10-07 om 17 11 37" src="https://github.com/user-attachments/assets/eeef88ed-b2eb-47d1-b417-85afaf68cca7" />
+
+<img width="1680" height="959" alt="Scherm­afbeelding 2026-10-07 om 17 11 30" src="https://github.com/user-attachments/assets/3cbd7ea9-9969-4f64-a0e8-fdc959215385" />
+
+<img width="1680" height="968" alt="Scherm­afbeelding 2026-10-07 om 17 10 31" src="https://github.com/user-attachments/assets/d1343da5-e393-4d8e-ad7a-0b1814342ab7" />
+
+<img width="1680" height="966" alt="Scherm­afbeelding 2026-10-07 om 17 10 23" src="https://github.com/user-attachments/assets/182dfae6-a1b3-4d4a-a0ad-21c165ef3133" />
+
+<img width="1680" height="726" alt="Scherm­afbeelding 2026-10-07 om 16 20 56" src="https://github.com/user-attachments/assets/37fcc89f-d912-45bd-b31b-04d784152579" />
+
+<img width="1680" height="961" alt="Scherm­afbeelding 2026-10-07 om 16 20 48" src="https://github.com/user-attachments/assets/b1901839-3c37-446b-958f-a09b5fc9c2ad" />
+#### Wat neem ik mee:
+#### Wat neem ik mee:
+#### TEKST
 
 ### S1 - Responsive grid + Grid-areas (Vasilis)
 
