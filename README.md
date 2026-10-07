@@ -104,61 +104,7 @@ Ik heb een aantal verschillende versies gemaakt van de menu van Wok To Walk. Ik 
 
 <img width="384" height="117" alt="Scherm­afbeelding 2026-09-21 om 15 11 51" src="https://github.com/user-attachments/assets/94a84544-d72b-4527-be53-22ea0ccc6e5e" />
 
-## CHECK OUT SPRINT 2:
 
-1. Wat zijn HTML landmark role elements?
-
-- indicatoren om de structuur te herkennen.
-
-2. Wat zijn heading elementen en hoe horen deze 'genest' te worden?
-
-- Er moet altijd een hiërarchie zijn met een logische opeenvolgende structuur zijn. Bijv. H1, h2, h3, etc. Dit helpt ook alle zoekmachines om je opbouw te begrijpen
-
-3. Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
-
-- Ik weiger ze meestal. 8/10 keer.
-
-- microsoft
-- google fonts
-- GitHub pages hosting
-- digitaaltuintje component
-
-Overleg met een klasgenoot en beantwoord de volgende vragen in jouw Learning-Log:
-
-1. Wat is een wireflow en wat heb je er aan?
-
-- Het laat zien hoe de gebruiker verschillende schermen eruit zien etc en geeft het visueel weer.
-
-  1 2. Wat zijn dark UX patterns? Geef drie voorbeelden...
-  2 - Fake Social Proof, obstruction en wording tricks.
-
-  4 3. Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
-  5 - Dat je alle informatie geeft, maar het wel duidelijk blijft en dat het overzichtelijk blijft.
-
-Website checken:
-<img width="617" height="238" alt="Scherm­afbeelding 2026-09-28 om 13 08 46" src="https://github.com/user-attachments/assets/e9e58166-d22a-45e7-ac36-760eb1bcad69" />
-
-### SPRINT 2. - Bi-weekly 2:
-
-UX HTML:
-UX = User Experience
-
-<img width="1011" height="772" alt="Scherm­afbeelding 2026-09-28 om 12 06 33" src="https://github.com/user-attachments/assets/95e4a231-6281-43db-8a4c-3e54d4d7975d" />
-
-<img width="986" height="658" alt="Scherm­afbeelding 2026-09-28 om 12 06 45" src="https://github.com/user-attachments/assets/9434d0f1-dd70-4253-9126-4c8d9b5ce374" />
-
-Spiekbrief: Screenreader
-Vreselijke experience, was erg lastig en vervelend om te gebruiken zo zie je wel in hoe lastig mensen het hebben met een disability.
-
-<img width="718" height="550" alt="Scherm­afbeelding 2026-09-28 om 14 25 22" src="https://github.com/user-attachments/assets/5904c9b4-e20d-47c1-9747-2ebdff706a9d" />
-
-<img width="1678" height="960" alt="Scherm­afbeelding 2026-09-28 om 14 31 15" src="https://github.com/user-attachments/assets/81a656b2-ce81-45df-970c-35a044c4df4c" />
-
-### SPRINT 2. - Bi-weekly 2: checkout bi weekly:
-
-1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML? -> Het gaat niet alleen daar om maar ook of het fijn is voor de gebruiker om het tet gebruiken.
-2. Wat voor type beperkingen hebben invloed op het gebruiken van websites? -> Cognitief, auditief, visueel en motorisch.
-3. Noem drie manieren om door een website te navigeren met jouw screenreader. -> Headings, links en landmarks.
 
 # SPRINT 1 - Digital Garden:
 
@@ -683,10 +629,6 @@ Ik heb mijn buttons aangepast zodat je op het poppetje kan klikken dat het light
 
 ### S1 - Mooie kleuren en gradients (Sanne):
 
-#### Opdracht 1:
-
-## FOTO'S PLAATSEN !!
-
 <img width="626" height="499" alt="Scherm­afbeelding 2026-09-27 om 23 33 07" src="https://github.com/user-attachments/assets/21683e84-7ce3-40e6-8bf7-25c478ce2db4" />
 
 <img width="693" height="572" alt="Scherm­afbeelding 2026-09-27 om 23 35 18" src="https://github.com/user-attachments/assets/3f5c3737-5521-419d-8134-3d80493c7c66" />
@@ -698,6 +640,85 @@ Ik heb mijn buttons aangepast zodat je op het poppetje kan klikken dat het light
 <img width="1040" height="563" alt="Scherm­afbeelding 2026-09-27 om 23 42 27" src="https://github.com/user-attachments/assets/4ebc53db-a2cb-4d20-b371-9ddd25d8f7e4" />
 
 <img width="1132" height="689" alt="Scherm­afbeelding 2026-09-27 om 23 42 56" src="https://github.com/user-attachments/assets/83bde5d7-3613-40c1-aa74-1acf155faee4" />
+
+<img width="1368" height="908" alt="Scherm­afbeelding 2026-10-02 om 18 01 07" src="https://github.com/user-attachments/assets/1acae81d-8e02-4de7-9773-3e8b715b8404" />
+
+<img width="1680" height="966" alt="Scherm­afbeelding 2026-10-02 om 18 05 45" src="https://github.com/user-attachments/assets/3a4a3ba0-b2ac-45a3-9bf6-069fe727fa3d" />
+
+#### Ik heb geleerd hoe ik:
+Kleuren op verschillende manieren kan definiëren in CSS. Ik kende HEX kleuren al, maar heb nu meer geleerd over RGB, HSL en moderne color spaces zoals OKLCH. Ik heb geleerd wat color spaces en color gamuts betekenen en waarom dit belangrijk is wanneer je met verschillende soorten kleuren en schermen werkt.
+Moderne RGB- en HSL-syntax gebruiken geen komma's meer en transparantie kan worden toegevoegd met een slash, bijvoorbeeld rgb(255 0 0 / .5).
+Een color space is een manier om kleuren wiskundig te beschrijven, terwijl een gamut het bereik aan kleuren beschrijft dat bijvoorbeeld een scherm kan weergeven. Hierdoor begreep ik beter waarom moderne color spaces zoals Display-P3 en OKLCH bestaan.
+Daarnaast heb ik geleerd hoe ik CSS custom properties kan gebruiken voor mijn kleuren. Dit vind ik handig omdat ik mijn kleuren alleen een keer hoef in te stellen en ze daarna op meerdere plekken kan gebruiken. Hierdoor kan ik een kleurenthema makkelijker aanpassen.
+OKLCH vond ik wel interessant om te zien, omdat je werkt met lightness, chroma en hue en dat kan wel handig kan zijn met kleurverlopen. Met tools zoals OKLCH.com en Gradient.style ga ik experimenteren en kan ik gelijk het effect en de waarden zien. 
+Het grootste onderdeel waren gradients. Er zijn veel verschillende soorten gradients, zoals linear, radial en conic gradients. Er zijn ook repeating-varianten. Met verschillende hoeken, color stops, background-size, background-position en background-repeat kun je veel verschillende patronen maken.
+Het combineren van meerdere gradients vond ik wel interessant en leuk om te zien. Je kan met alleen CSS ingewikkelde patronen maken zonder dat je extra HTML hoeft toe te voegen. Met @property kan je een custom property een type geven, zoals <angle> of <color>, hierdoor kan je onderdelen van een gradient laten animeren.
+
+#### Wat neem ik mee:
+ik neem vooral mee dat je met CSS veel verschillende mogelijkheden hebt met kleuren en dat je niet alleen een achtergrond een vaste kleur hoeft te geven. Door custom properties en gradients te combineren kan ik mijn websites visueel interessanter maken. Ik heb al geoefend met wat ik zou passen bij mijn website. 
+Gradients: 6 soorten
+linear-gradient()
+repeating-linear-gradient()
+radial-gradient()
+repeating-radial-gradient()
+conic-gradient() 
+repeating-conic-gradient(). 
+Gradients kunnen worden gebruikt voor strepen, geometrische patronen en complete illustraties. Ik heb geleerd hoe ik richtingen, hoeken, color stops, posities en meerdere kleuren kan gebruiken. Ook hoe ik meerdere gradients over elkaar heen kan zetten. De bovenste gradient ligt daarbij bovenop de andere. Door gradients te combineren met background-size, background-position en background-repeat kan je patronen maken zonder dus die extra HTML.
+Tot slot kan je met @property gradients animeren. Hiermee kan je de browser vertellen welk type waarde een custom property heeft, bijv. een hoek, kleur of percentage. Hierdoor kan ik onderdelen van een gradient animeren. Dit is een stuk moeilijker dan een normale gradient, maar geeft je wel veel mogelijkheden voor interactieve ontwerpen.
+
+#### Notities: 
+RGB = rood/groen/blauw
+HSL = hue/verzadiging(saturation)/lichtheid
+HEX = #RRGGBB
+Display-P3 = meer kleuren
+OKLCH = lightness/chroma/hue
+
+linear = recht
+radial = vanuit een punt
+conic = rond
+repeating = herhaling
+
+var() = opgeslagen kleur gebruiken
+@property = custom property een type geven
+@keyframes = animatie bepalen
+
+##### Ik heb gekeken en geëxperimenteerd naar verschillende gradients en welke het beste paste bij mijn website:
+
+<img width="1679" height="562" alt="Scherm­afbeelding 2026-10-07 om 10 13 39" src="https://github.com/user-attachments/assets/18cd3e2e-484e-4cb7-9582-5e465923a011" />
+
+<img width="1197" height="155" alt="Scherm­afbeelding 2026-10-07 om 10 40 34" src="https://github.com/user-attachments/assets/c9a4daa6-ad85-449c-a688-50fa1b67ce0c" />
+
+<img width="1607" height="147" alt="Scherm­afbeelding 2026-10-07 om 10 38 34" src="https://github.com/user-attachments/assets/a2e7efd6-5f3d-4350-9800-113eebe482a1" />
+
+<img width="1612" height="141" alt="Scherm­afbeelding 2026-10-07 om 10 38 29" src="https://github.com/user-attachments/assets/c9797a7d-5e3c-4f03-8295-68f2e01b786c" />
+
+<img width="1209" height="158" alt="Scherm­afbeelding 2026-10-07 om 10 37 54" src="https://github.com/user-attachments/assets/82ecb6a6-d1c4-40da-8fbc-5f0f498a75f0" />
+
+<img width="1207" height="153" alt="Scherm­afbeelding 2026-10-07 om 10 37 49" src="https://github.com/user-attachments/assets/d06164ea-709a-404c-a748-1eb12f1f2a6d" />
+
+<img width="826" height="107" alt="Scherm­afbeelding 2026-10-07 om 10 33 15" src="https://github.com/user-attachments/assets/3256747d-9249-496a-80f2-03c87465839c" />
+
+<img width="815" height="110" alt="Scherm­afbeelding 2026-10-07 om 10 33 10" src="https://github.com/user-attachments/assets/718150f0-2fb0-4246-ae16-89afba3e74f4" />
+
+<img width="824" height="96" alt="Scherm­afbeelding 2026-10-07 om 10 31 52" src="https://github.com/user-attachments/assets/3132860d-f45e-410e-856d-7360fcf23219" />
+
+<img width="819" height="113" alt="Scherm­afbeelding 2026-10-07 om 10 31 46" src="https://github.com/user-attachments/assets/7381921c-c433-48e8-8780-210788a99e39" />
+
+<img width="1674" height="965" alt="Scherm­afbeelding 2026-10-07 om 10 27 09" src="https://github.com/user-attachments/assets/dd54011c-6a25-467d-b307-c15da29a0a7a" />
+
+<img width="1680" height="967" alt="Scherm­afbeelding 2026-10-07 om 10 27 01" src="https://github.com/user-attachments/assets/4bf91de3-f51c-41ea-93b1-e706db2561a3" />
+
+<img width="1679" height="967" alt="Scherm­afbeelding 2026-10-07 om 10 18 26" src="https://github.com/user-attachments/assets/4814b21e-e794-4408-8dc0-eed3b716621c" />
+
+<img width="1678" height="556" alt="Scherm­afbeelding 2026-10-07 om 10 13 06" src="https://github.com/user-attachments/assets/94417ca4-879b-429e-a97f-592fc2fb062b" />
+
+<img width="1680" height="560" alt="Scherm­afbeelding 2026-10-07 om 10 12 00" src="https://github.com/user-attachments/assets/5feb7e93-37b4-4a77-988a-d8ea12cde8a2" />
+
+<img width="1679" height="968" alt="Scherm­afbeelding 2026-10-07 om 10 10 16" src="https://github.com/user-attachments/assets/0c21d548-75a3-43f2-a44d-7c96fb1aaf59" />
+
+<img width="1680" height="736" alt="Scherm­afbeelding 2026-10-07 om 10 18 07" src="https://github.com/user-attachments/assets/6e6b549d-53a8-4f94-83eb-bb3210db56a8" />
+
+<img width="1680" height="734" alt="Scherm­afbeelding 2026-10-07 om 10 15 14" src="https://github.com/user-attachments/assets/bcd658b5-3019-4d5d-825d-61bd0601be78" />
 
 ### S1 - Grid 101 + Media queries (Sanne):
 
