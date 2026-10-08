@@ -730,6 +730,55 @@ var() = opgeslagen kleur gebruiken
 <img width="1680" height="734" alt="Scherm­afbeelding 2026-10-07 om 10 15 14" src="https://github.com/user-attachments/assets/bcd658b5-3019-4d5d-825d-61bd0601be78" />
 
 ### S1 - Grid 101 + Media queries (Sanne):
+
+#### Notities: 
+Ik heb geleerd hoe ik met CSS Grid verschillende soorten layouts kan maken. Ik heb geleerd hoe je een grid kan gebruiken voor een volledige website (macro-layout) maar ook voor kleinere onderdelen zoals een card (micro-layout). Daarnaast heb ik geleerd hoe ik met media queries mijn website responsive kan maken. Hierdoor kan de layout veranderen wanneer het scherm groter of kleiner wordt.
+
+Properties:
+- Display: grid -> maakt een element een grid container
+- grid-templete-colums -> bepaalt de kolommen
+- grid-template-rows -> bepaalt de rijen
+- gap -> ruimte tussen grid items
+- grid-column-start -> waar iets begint op de horizontale lijn
+- grid-column-end -> waar een item eindigt
+- grid-row-start -> waar iets begint op de verticale lijn
+- grid-row-end -> waar het item stopt
+- grid-column: 1 / 1 -> van eerste tot laatste kolom lijn
+- span 2 -> twee kolommen / rijen innemen
+- lfr -> een deel van de beschikbare ruimte
+- minmax () -> minimum en maxiumum grootte
+- auto-fit -> automatisch zoveel kolommen maken als passen
+- @media -> de CSS aanpassen op bepaalde schermgroottes
+- align-self -> item verticaal binnen de cel uitlijnen
+- justify-self -> item horizontaal binnen de cel uitlijnen
+
+Een Flexbox is vooral handig voor een rij/kolom van elementen en het uitlijnen daarvan. Een Grid is vooral handig wanneer je in twee dimensies werkt, kolommen en rijen.
+
+#### Wat ik heb geleerd: 
+Grid (CSS) kan worden gebruikt voor zowel macro-layouts als micro-layouts. Ik heb geleerd hoe ik kolommen en rijen maak met grid-template-columns en grid-template-rows en hoe ik elementen kan positioneren met grid lines. Ik heb gespeeld met span, 1fr, auto-fit en minmax(). Daarnaast heb ik geleerd hoe media queries ervoor zorgen dat een layout op verschillende schermformaten kan veranderen, wat erg handig is. Wat ik dus handig vind is repeat(auto-fit, minmax()), omdat de layout daardoor automatisch kan meeschalen zonder dat je voor ieder schermformaat aparte kolommen hoeft te maken
+
+CSS Grid is een CSS techniek waarmee je elementen in rijen en kolommen kunt plaatsen.
+
+Een Grid bestaat uit:
+- grid ouder (container)
+- grid kinderen (items)
+- columns (kolommen)
+- rows (rijen)
+- grid lines (lijnen tussen de kolommen en rijen)
+- gap (ruimte tussen de items).
+
+Om Grid te gebruiken, moet het ouder element display: grid krijgen. Bijv. main { display: grid; } De elementen binnen main worden dan de grid kinderen. Bijv. < main >  < article >Game 1 </ article > </ main >
+
+Grid columns: Met grid-template-columns bepaal je hoeveel kolommen een Grid heeft. 1fr betekent één deel van de beschikbare ruimte. Je kan ook verschillende verhoudingen gebruiken. 
+
+Grid rows: Met grid-template-rows kan ik bepalen hoeveel rijen mijn Grid heeft.
+Gap: Met gap maak ik ruimte tussen de Grid items. Je hoeft dan niet voor elk element apart een margin te gebruiken. Bijv. column-gap (bepaalt de ruimte tussen kolommen) of row-gap (bepaalt de ruimte tussen rijen).
+
+Grid-lines: je moet niet de kolommen tellen wanneer je een element positioneer, maar de lijnen. De lijnen kunnen gebruikt worden met: 1. grid-column-start, 2. grid-column-end, 3. grid-row-start en 4. grid-row-end.
+
+#### Wat neem ik mee:
+Voor mijn eigen website My Gaming Garden kan ik CSS Grid gebruiken om mijn consoles en andere content overzichtelijk te plaatsen en het responsive te maken. 
+
 <img width="1679" height="783" alt="Scherm­afbeelding 2026-10-07 om 17 11 37" src="https://github.com/user-attachments/assets/eeef88ed-b2eb-47d1-b417-85afaf68cca7" />
 
 <img width="1680" height="959" alt="Scherm­afbeelding 2026-10-07 om 17 11 30" src="https://github.com/user-attachments/assets/3cbd7ea9-9969-4f64-a0e8-fdc959215385" />
@@ -741,9 +790,7 @@ var() = opgeslagen kleur gebruiken
 <img width="1680" height="726" alt="Scherm­afbeelding 2026-10-07 om 16 20 56" src="https://github.com/user-attachments/assets/37fcc89f-d912-45bd-b31b-04d784152579" />
 
 <img width="1680" height="961" alt="Scherm­afbeelding 2026-10-07 om 16 20 48" src="https://github.com/user-attachments/assets/b1901839-3c37-446b-958f-a09b5fc9c2ad" />
-#### Wat neem ik mee:
-#### Wat neem ik mee:
-#### TEKST
+
 
 ### S1 - Responsive grid + Grid-areas (Vasilis)
 
