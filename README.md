@@ -828,7 +828,86 @@ Mijn console overzicht gebruikt al CSS Grid met auto-fit en minmax(). Dat is han
 
 <img width="965" height="670" alt="Scherm­afbeelding 2026-09-22 om 20 20 03" src="https://github.com/user-attachments/assets/4d3268ea-0c86-4f90-9316-963b66187baa" />
 
+Tijdens mijn 1ste sprint had ik een aantal; ups en downs. Ik heb wel veel kunnen leren over HTML en CSS. Ik ben bezig geweest met het maken van mijn eigen website en ook al vond ik het lastig om hieraan te beginnen heb ik veel nieuwe info kunnen leren en toepassen op mijn website. 
+
+
+
+# SPRINT 2: Digital Garden
+
+Ik heb foto's gemaakt van mijn eigen handheld consoles en heb besloten om het te houden bij alleen mijn handheld consoles en als ik extra tijd heb zou ik het nog altijd kunnen uitbreiden. Ik heb vanuit mijn foto's en foto's online mijn consoles kunnen na maken in Figma. Vervolgens heb ik ze allemaal als SVG's op mijn website geplaatst. 
+
+Dit was het proces van het maken: 
+
+<img width="734" height="357" alt="Scherm­afbeelding 2026-09-22 om 19 02 51" src="https://github.com/user-attachments/assets/073c8340-14d2-4c22-9762-7132cb8dc44b" />
+
+<img width="942" height="497" alt="Scherm­afbeelding 2026-09-24 om 16 56 20" src="https://github.com/user-attachments/assets/a5e38448-b306-4914-899c-3aaf70f19da5" />
+
+<img width="920" height="764" alt="Scherm­afbeelding 2026-09-28 om 01 27 35" src="https://github.com/user-attachments/assets/a23f6b46-be1e-4d99-b214-9c3485292575" />
+
+<img width="687" height="575" alt="Scherm­afbeelding 2026-09-28 om 01 27 05" src="https://github.com/user-attachments/assets/57f355d9-2cad-471f-9a92-57b72c16452f" />
+
+Ik heb diverse elementen geprobeerd om te doen en keuzes gemaakt of ik ze wel of niet op mijn website wou hebben. Ik probeerde ervoor te zorgen dat alles matched met mijn huisstijl. 
+
+<img width="113" height="129" alt="Scherm­afbeelding 2026-09-28 om 19 28 20" src="https://github.com/user-attachments/assets/f8df602f-d11e-460a-ac7c-0c797d25b65c" />
+
+<img width="453" height="462" alt="Scherm­afbeelding 2026-09-28 om 19 28 36" src="https://github.com/user-attachments/assets/410d6603-d949-4997-8a9c-9ec7ce58513b" />
+
+Ik wou besloot voor mijn light/dark modus om een poppetje te maken, ik dacht eerst aan Kirby want het is schattig en roze. Ik koos later om het te baseren op mijn eigen knuffel Fatson Todd die gebaseerd is op Jason Todd, Red Hood, tweede Robin van Batman.
+
+<img width="451" height="556" alt="Scherm­afbeelding 2026-09-28 om 21 10 36" src="https://github.com/user-attachments/assets/6d799233-99e0-4cb3-a9f1-21178ef00570" />
+(Mijn Kirby zag er ook een beetje eng uit vond ik)
+
+Maar kijk dit lijkt wel een beetje op mijn knuffel:
+<img width="641" height="854" alt="Scherm­afbeelding 2026-10-16 om 14 40 14" src="https://github.com/user-attachments/assets/5dc753e6-5e2a-41a3-a924-77f65f2bb3ef" />
+
+<img width="738" height="831" alt="Scherm­afbeelding 2026-10-16 om 14 40 29" src="https://github.com/user-attachments/assets/298f10a0-f047-439f-b307-f99c3108c356" />
+
+<img width="452" height="264" alt="Scherm­afbeelding 2026-09-28 om 21 40 45" src="https://github.com/user-attachments/assets/9510760e-cc25-4a2e-8397-c9c99a8073d4" />
+
+<img width="481" height="323" alt="Scherm­afbeelding 2026-09-28 om 21 40 53" src="https://github.com/user-attachments/assets/8071833e-0742-4da6-b69e-d4e1c8b493a6" />
+
+<img width="604" height="805" alt="Scherm­afbeelding 2026-10-16 om 14 40 49" src="https://github.com/user-attachments/assets/30692e57-c7cd-4260-86cc-6af68555ad45" />
+
+Verder besloot ik om sommige elementen waar normaal gesproken Sony, PSP, of andere merken op stonden te veranderen met mijn naam of initialen (Nisha, NP, NPP). Ik vond dat dit het nog persoonlijker maakte en meer mijn eigen maakte voor op mijn website :).
+
+<img width="730" height="369" alt="PSP 3000 roze" src="https://github.com/user-attachments/assets/1b15e59c-3b31-4298-b7b3-b9f89b36eaae" />
+
+<img width="924" height="489" alt="PS vita zwart roze" src="https://github.com/user-attachments/assets/32a665c1-8d07-49d5-8ac0-704315f6cf49" />
+
+<img width="689" height="682" alt="Ds Tank roze" src="https://github.com/user-attachments/assets/456a2fc6-b8f0-4468-acca-74cc74d25bbd" />
+
+Verder heb ik andere elementen die je gebruikt om daadwerkelijk spelletjes te spelen op de handheld na gemaakt. Ik twijfel nog of ik genoeg tijd heb om ze te gebruiken, maar anders kan ik mijn digital garden altijd later nog verder uitbreiden. 
+
+<img width="491" height="355" alt="PS vita sd kaart" src="https://github.com/user-attachments/assets/2e89236a-cbd6-478a-a9b1-beb734f7cc75" />
+
+<img width="841" height="578" alt="Scherm­afbeelding 2026-09-28 om 21 44 36" src="https://github.com/user-attachments/assets/7afb1bb0-bb87-47c3-a473-af86e36d27c4" />
+
+<img width="753" height="437" alt="Scherm­afbeelding 2026-09-28 om 21 48 12" src="https://github.com/user-attachments/assets/45d2ba22-b2b5-4b95-9e9e-b8303512b905" />
+
+<img width="621" height="444" alt="Scherm­afbeelding 2026-09-28 om 21 50 03" src="https://github.com/user-attachments/assets/44992a5b-62b9-47a5-acb4-2d935ebe3e80" />
+
+<img width="863" height="583" alt="PSP UMD" src="https://github.com/user-attachments/assets/420e3373-9671-47fe-aadc-033f2b596fc6" />
+
+Dit is het eindresultaat en ik heb het op chronologische volgorde gezet van wanneer ze zijn uitgekomen en ze zitten per categorie bij elkaar:
+
+<img width="803" height="639" alt="Scherm­afbeelding 2026-09-28 om 22 08 23" src="https://github.com/user-attachments/assets/e1318fca-a48e-43e8-840c-e51308f8488f" />
+
+Dit wil ik graag als SVG op mijn website zetten en gebruik van maken.
+
+<img width="1137" height="695" alt="Scherm­afbeelding 2026-09-22 om 19 11 15" src="https://github.com/user-attachments/assets/e931a946-0346-48a0-8cae-8b382c304937" />
+
+<img width="482" height="903" alt="Scherm­afbeelding 2026-09-28 om 23 39 19" src="https://github.com/user-attachments/assets/173b525e-da92-4db8-a847-68424c4c8c18" />
+(Zo zag het er eerst uit ik heb het later natuurlijk veel mooier gemaakt met CSS) 
+
+
 # SPRINT 2:
+
+cookies accepteren:
+
+<img width="1268" height="62" alt="Scherm­afbeelding 2026-09-26 om 16 56 53" src="https://github.com/user-attachments/assets/c6e60c2e-3ddb-4117-8f54-e9cd5bb7b82e" />
+
+<img width="1680" height="298" alt="Scherm­afbeelding 2026-09-26 om 16 56 45" src="https://github.com/user-attachments/assets/808d126e-8b3f-468e-8e90-3b6f5f56c070" />
+(Zo zag het er eerst uit ik heb het later aangepast en volgens mijn huisstijl gemaakt)
 
 ## Ma 21 sept 2026: NOTES --> Netjes maken!!
 
@@ -912,3 +991,11 @@ Vreselijke experience, was erg lastig en vervelend om te gebruiken zo zie je wel
 1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML? -> Het gaat niet alleen daar om maar ook of het fijn is voor de gebruiker om het tet gebruiken.
 2. Wat voor type beperkingen hebben invloed op het gebruiken van websites? -> Cognitief, auditief, visueel en motorisch.
 3. Noem drie manieren om door een website te navigeren met jouw screenreader. -> Headings, links en landmarks.
+
+# SPRINT 2 - Learning Log/Check Out:
+# SPRINT 2 - Deep Dives:
+
+
+
+
+# Probeer alle img een andere alt naam te geven ipv schermafbeelding balblabla etc x
