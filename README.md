@@ -734,7 +734,7 @@ var() = opgeslagen kleur gebruiken
 #### Notities: 
 Ik heb geleerd hoe ik met CSS Grid verschillende soorten layouts kan maken. Ik heb geleerd hoe je een grid kan gebruiken voor een volledige website (macro-layout) maar ook voor kleinere onderdelen zoals een card (micro-layout). Daarnaast heb ik geleerd hoe ik met media queries mijn website responsive kan maken. Hierdoor kan de layout veranderen wanneer het scherm groter of kleiner wordt.
 
-Properties:
+##### Properties:
 - Display: grid -> maakt een element een grid container
 - grid-templete-colums -> bepaalt de kolommen
 - grid-template-rows -> bepaalt de rijen
@@ -794,7 +794,25 @@ Voor mijn eigen website My Gaming Garden kan ik CSS Grid gebruiken om mijn conso
 
 ### S1 - Responsive grid + Grid-areas (Vasilis)
 
-## Grid:
+#### Nieuwe properties:
+- grid-template-areas -> bepaalt welke grid areas waar komen te staan.
+- grid-area -> geeft een grid item een naam en koppelt het aan een bepaalde area.
+- max-content -> maakt een kolom of rij zo groot als de inhoud nodig heeft.
+- min-content -> maakt een kolom of rij zo klein als mogelijk is op basis van de inhoud.
+
+#### Wat ik heb geleerd:
+Deze deep dive was een verdieping op de deep dive Grid 101. Bij Grid 101 heb ik vooral geleerd hoe ik elementen met grid-lijnen kan plaatsen en hoe ik met grid-template-columns, grid-template-rows, span en media queries een responsive layout kon maken. 
+
+Bij grid 101 ging het dus meer over het plaatsen van elementen met lijnen, terwijl je met grid-template-areas het makkelijker maakt om een complete layout overzichtelijk te maken.
+
+Met grid-template-areas kan je een layout meer als een soort ‘plattegrond’ opbouwen. Je kan de gebieden namen geven, zoals header, main, nav en footer. Daarna kan je bepalen waar deze gebieden te staan komen.
+
+Ik heb ook geleerd dat je met media queries de grid-areas opnieuw kan indelen voor grotere schermen. Hierdoor kan dezelfde HTML verschillende layouts krijgen zonder dat je de HTML hoeft aan te passen.
+
+#### Wat neem ik mee:
+Voor mijn website kan ik grid-template-areas gebruiken om de grote onderdelen van mijn website, zoals de header, main en footer, op verschillende manieren te plaatsen op grotere schermen.
+
+Mijn console overzicht gebruikt al CSS Grid met auto-fit en minmax(). Dat is handig voor de individuele consoles, terwijl ik grid-template-areas kan gebruiken voor de grotere layout van de webpagina.
 
 <img width="810" height="587" alt="Scherm­afbeelding 2026-09-17 om 23 29 36" src="https://github.com/user-attachments/assets/883057b8-188a-4526-a95e-438acb65c31d" />
 
