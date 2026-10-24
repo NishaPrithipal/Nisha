@@ -519,7 +519,7 @@ Mijn idee voor haar:
 
 Ik vind ze allemaal heel erg leuk, maar ze waren toch net niet wat ik precies zocht qua het gevoel en sfeer die ik omhoog wou brengen bij de gebruikers. Ik koos uiteindelijk toch voor wat meer 'typische' retro/game/internet/pixels lettertypes. Ik koos hier voor omdat als ik dat zie ik het gelijk associeer met het internet, games, vroeger en alles wat daar rondom heen komt. Ik vroeg aan een aantal meiden om feedback en wat hun associaties hierbij waren en ik kreeg ongeveer van hen te horen. Ik koos om Press Start 2P als mijn 'main' lettertype te gebruiken en de andere kijk ik nog waar ik die exact zou willen gebruiken.
 
-# SPRINT 1 - Learning Log/Check Out:
+# SPRINT 1 - Check Out:
 
 ### Sprint 1.1:
 
@@ -676,20 +676,20 @@ Gradients kunnen worden gebruikt voor strepen, geometrische patronen en complete
 Tot slot kan je met @property gradients animeren. Hiermee kan je de browser vertellen welk type waarde een custom property heeft, bijv. een hoek, kleur of percentage. Hierdoor kan ik onderdelen van een gradient animeren. Dit is een stuk moeilijker dan een normale gradient, maar geeft je wel veel mogelijkheden voor interactieve ontwerpen.
 
 #### Notities: 
-RGB = rood/groen/blauw
-HSL = hue/verzadiging(saturation)/lichtheid
-HEX = #RRGGBB
-Display-P3 = meer kleuren
-OKLCH = lightness/chroma/hue
+- RGB = rood/groen/blauw
+- HSL = hue/verzadiging(saturation)/lichtheid
+- HEX = #RRGGBB
+- Display-P3 = meer kleuren
+- OKLCH = lightness/chroma/hue
 
-linear = recht
-radial = vanuit een punt
-conic = rond
-repeating = herhaling
+- linear = recht
+- radial = vanuit een punt
+- conic = rond
+- repeating = herhaling
 
-var() = opgeslagen kleur gebruiken
-@property = custom property een type geven
-@keyframes = animatie bepalen
+- var() = opgeslagen kleur gebruiken
+- @property = custom property een type geven
+- @keyframes = animatie bepalen
 
 ##### Ik heb gekeken en geëxperimenteerd naar verschillende gradients en welke het beste paste bij mijn website:
 
@@ -734,7 +734,7 @@ var() = opgeslagen kleur gebruiken
 #### Notities: 
 Ik heb geleerd hoe ik met CSS Grid verschillende soorten layouts kan maken. Ik heb geleerd hoe je een grid kan gebruiken voor een volledige website (macro-layout) maar ook voor kleinere onderdelen zoals een card (micro-layout). Daarnaast heb ik geleerd hoe ik met media queries mijn website responsive kan maken. Hierdoor kan de layout veranderen wanneer het scherm groter of kleiner wordt.
 
-Properties:
+##### Properties:
 - Display: grid -> maakt een element een grid container
 - grid-templete-colums -> bepaalt de kolommen
 - grid-template-rows -> bepaalt de rijen
@@ -794,7 +794,25 @@ Voor mijn eigen website My Gaming Garden kan ik CSS Grid gebruiken om mijn conso
 
 ### S1 - Responsive grid + Grid-areas (Vasilis)
 
-## Grid:
+#### Nieuwe properties:
+- grid-template-areas -> bepaalt welke grid areas waar komen te staan.
+- grid-area -> geeft een grid item een naam en koppelt het aan een bepaalde area.
+- max-content -> maakt een kolom of rij zo groot als de inhoud nodig heeft.
+- min-content -> maakt een kolom of rij zo klein als mogelijk is op basis van de inhoud.
+
+#### Wat ik heb geleerd:
+Deze deep dive was een verdieping op de deep dive Grid 101. Bij Grid 101 heb ik vooral geleerd hoe ik elementen met grid-lijnen kan plaatsen en hoe ik met grid-template-columns, grid-template-rows, span en media queries een responsive layout kon maken. 
+
+Bij grid 101 ging het dus meer over het plaatsen van elementen met lijnen, terwijl je met grid-template-areas het makkelijker maakt om een complete layout overzichtelijk te maken.
+
+Met grid-template-areas kan je een layout meer als een soort ‘plattegrond’ opbouwen. Je kan de gebieden namen geven, zoals header, main, nav en footer. Daarna kan je bepalen waar deze gebieden te staan komen.
+
+Ik heb ook geleerd dat je met media queries de grid-areas opnieuw kan indelen voor grotere schermen. Hierdoor kan dezelfde HTML verschillende layouts krijgen zonder dat je de HTML hoeft aan te passen.
+
+#### Wat neem ik mee:
+Voor mijn website kan ik grid-template-areas gebruiken om de grote onderdelen van mijn website, zoals de header, main en footer, op verschillende manieren te plaatsen op grotere schermen.
+
+Mijn console overzicht gebruikt al CSS Grid met auto-fit en minmax(). Dat is handig voor de individuele consoles, terwijl ik grid-template-areas kan gebruiken voor de grotere layout van de webpagina.
 
 <img width="810" height="587" alt="Scherm­afbeelding 2026-09-17 om 23 29 36" src="https://github.com/user-attachments/assets/883057b8-188a-4526-a95e-438acb65c31d" />
 
@@ -810,68 +828,140 @@ Voor mijn eigen website My Gaming Garden kan ik CSS Grid gebruiken om mijn conso
 
 <img width="965" height="670" alt="Scherm­afbeelding 2026-09-22 om 20 20 03" src="https://github.com/user-attachments/assets/4d3268ea-0c86-4f90-9316-963b66187baa" />
 
-# SPRINT 2:
+Tijdens mijn 1ste sprint had ik een aantal; ups en downs. Ik heb wel veel kunnen leren over HTML en CSS. Ik ben bezig geweest met het maken van mijn eigen website en ook al vond ik het lastig om hieraan te beginnen heb ik veel nieuwe info kunnen leren en toepassen op mijn website. 
 
-## Ma 21 sept 2026: NOTES --> Netjes maken!!
 
-<div> kan je gebruiken als het geen waarde heeft maar je het toch samen wilt hebben.
 
-<nav></nav> geeft richting aan bijv link naar andere pagina’s. 
+# SPRINT 2: Digital Garden
+
+Ik heb foto's gemaakt van mijn eigen handheld consoles en heb besloten om het te houden bij alleen mijn handheld consoles en als ik extra tijd heb zou ik het nog altijd kunnen uitbreiden. Ik heb vanuit mijn foto's en foto's online mijn consoles kunnen na maken in Figma. Vervolgens heb ik ze allemaal als SVG's op mijn website geplaatst. 
+
+Dit was het proces van het maken: 
+
+<img width="734" height="357" alt="Scherm­afbeelding 2026-09-22 om 19 02 51" src="https://github.com/user-attachments/assets/073c8340-14d2-4c22-9762-7132cb8dc44b" />
+
+<img width="942" height="497" alt="Scherm­afbeelding 2026-09-24 om 16 56 20" src="https://github.com/user-attachments/assets/a5e38448-b306-4914-899c-3aaf70f19da5" />
+
+<img width="920" height="764" alt="Scherm­afbeelding 2026-09-28 om 01 27 35" src="https://github.com/user-attachments/assets/a23f6b46-be1e-4d99-b214-9c3485292575" />
+
+<img width="687" height="575" alt="Scherm­afbeelding 2026-09-28 om 01 27 05" src="https://github.com/user-attachments/assets/57f355d9-2cad-471f-9a92-57b72c16452f" />
+
+Ik heb diverse elementen geprobeerd om te doen en keuzes gemaakt of ik ze wel of niet op mijn website wou hebben. Ik probeerde ervoor te zorgen dat alles matched met mijn huisstijl. 
+
+<img width="113" height="129" alt="Scherm­afbeelding 2026-09-28 om 19 28 20" src="https://github.com/user-attachments/assets/f8df602f-d11e-460a-ac7c-0c797d25b65c" />
+
+<img width="453" height="462" alt="Scherm­afbeelding 2026-09-28 om 19 28 36" src="https://github.com/user-attachments/assets/410d6603-d949-4997-8a9c-9ec7ce58513b" />
+
+Ik wou besloot voor mijn light/dark modus om een poppetje te maken, ik dacht eerst aan Kirby want het is schattig en roze. Ik koos later om het te baseren op mijn eigen knuffel Fatson Todd die gebaseerd is op Jason Todd, Red Hood, tweede Robin van Batman.
+
+<img width="451" height="556" alt="Scherm­afbeelding 2026-09-28 om 21 10 36" src="https://github.com/user-attachments/assets/6d799233-99e0-4cb3-a9f1-21178ef00570" />
+(Mijn Kirby zag er ook een beetje eng uit vond ik)
+
+Maar kijk dit lijkt wel een beetje op mijn knuffel:
+<img width="641" height="854" alt="Scherm­afbeelding 2026-10-16 om 14 40 14" src="https://github.com/user-attachments/assets/5dc753e6-5e2a-41a3-a924-77f65f2bb3ef" />
+
+<img width="738" height="831" alt="Scherm­afbeelding 2026-10-16 om 14 40 29" src="https://github.com/user-attachments/assets/298f10a0-f047-439f-b307-f99c3108c356" />
+
+<img width="452" height="264" alt="Scherm­afbeelding 2026-09-28 om 21 40 45" src="https://github.com/user-attachments/assets/9510760e-cc25-4a2e-8397-c9c99a8073d4" />
+
+<img width="481" height="323" alt="Scherm­afbeelding 2026-09-28 om 21 40 53" src="https://github.com/user-attachments/assets/8071833e-0742-4da6-b69e-d4e1c8b493a6" />
+
+<img width="604" height="805" alt="Scherm­afbeelding 2026-10-16 om 14 40 49" src="https://github.com/user-attachments/assets/30692e57-c7cd-4260-86cc-6af68555ad45" />
+
+Verder besloot ik om sommige elementen waar normaal gesproken Sony, PSP, of andere merken op stonden te veranderen met mijn naam of initialen (Nisha, NP, NPP). Ik vond dat dit het nog persoonlijker maakte en meer mijn eigen maakte voor op mijn website :).
+
+<img width="730" height="369" alt="PSP 3000 roze" src="https://github.com/user-attachments/assets/1b15e59c-3b31-4298-b7b3-b9f89b36eaae" />
+
+<img width="924" height="489" alt="PS vita zwart roze" src="https://github.com/user-attachments/assets/32a665c1-8d07-49d5-8ac0-704315f6cf49" />
+
+<img width="689" height="682" alt="Ds Tank roze" src="https://github.com/user-attachments/assets/456a2fc6-b8f0-4468-acca-74cc74d25bbd" />
+
+Verder heb ik andere elementen die je gebruikt om daadwerkelijk spelletjes te spelen op de handheld na gemaakt. Ik twijfel nog of ik genoeg tijd heb om ze te gebruiken, maar anders kan ik mijn digital garden altijd later nog verder uitbreiden. 
+
+<img width="491" height="355" alt="PS vita sd kaart" src="https://github.com/user-attachments/assets/2e89236a-cbd6-478a-a9b1-beb734f7cc75" />
+
+<img width="841" height="578" alt="Scherm­afbeelding 2026-09-28 om 21 44 36" src="https://github.com/user-attachments/assets/7afb1bb0-bb87-47c3-a473-af86e36d27c4" />
+
+<img width="753" height="437" alt="Scherm­afbeelding 2026-09-28 om 21 48 12" src="https://github.com/user-attachments/assets/45d2ba22-b2b5-4b95-9e9e-b8303512b905" />
+
+<img width="621" height="444" alt="Scherm­afbeelding 2026-09-28 om 21 50 03" src="https://github.com/user-attachments/assets/44992a5b-62b9-47a5-acb4-2d935ebe3e80" />
+
+<img width="863" height="583" alt="PSP UMD" src="https://github.com/user-attachments/assets/420e3373-9671-47fe-aadc-033f2b596fc6" />
+
+Dit is het eindresultaat en ik heb het op chronologische volgorde gezet van wanneer ze zijn uitgekomen en ze zitten per categorie bij elkaar:
+
+<img width="803" height="639" alt="Scherm­afbeelding 2026-09-28 om 22 08 23" src="https://github.com/user-attachments/assets/e1318fca-a48e-43e8-840c-e51308f8488f" />
+
+Dit wil ik graag als SVG op mijn website zetten en gebruik van maken.
+
+<img width="1137" height="695" alt="Scherm­afbeelding 2026-09-22 om 19 11 15" src="https://github.com/user-attachments/assets/e931a946-0346-48a0-8cae-8b382c304937" />
+
+<img width="482" height="903" alt="Scherm­afbeelding 2026-09-28 om 23 39 19" src="https://github.com/user-attachments/assets/173b525e-da92-4db8-a847-68424c4c8c18" />
+
+(Zo zag het er eerst uit ik heb het later natuurlijk veel mooier gemaakt met CSS) 
+
+Nu ziet het er zo uit:
+
+<img width="1680" height="771" alt="Nieuwe consoles lay-out" src="https://github.com/user-attachments/assets/4c7a0361-5a05-45c5-8d84-dcfe26b8b1fe" />
+
+# SPRINT 2: Opdrachten
+
+## HTML Structuur extra uitleg:
+
+- < div > kan je gebruiken als het geen waarde heeft maar je het toch samen wilt hebben.
+- <nav > </ nav> geeft richting aan bijv. link naar andere pagina’s. 
 - Kan opdrachten geven aan zijn bowser —> mensen die handicap hebben —> voegt lage UX toe
+- <div class = “nav”> </div > —> doet niks.
+- <header > </header > —> kopje. 
+- Header is voor meta die is onzichtbaar en staat boven je html.
+- <footer > </ footer> —> copyright dingetjes, contact gegevens, hoeft niet onderaan te staan, het is meta data!! Info over de website niet de content zelf maar informatie er over.
+- <main > </ main> —> primary content de reden waarom je naar die pagina gaat. Om de content in de main te zien.
 
-<div class = “nav”></div> —> doet niks
+## Opdracht in de les: Cookies Werkblad + Volkskrant (DPG) en Paradiso
 
-<header></header> —> kopje. Heade is voor meta die is onzichtbaar staat boven je html
-
-<footer></footer> —> copyright dingetjes, contact gegevens, hoeft niet onderaan te staan, het is meta data!! Info over de website niet de content zelf mr info over
-
-<main></main> —> primary content de reden waarom je naar die pagina gaat. Om de content in de main te zien.
-
-## Opdracht in de les:
-
-<img width="1007" height="692" alt="Scherm­afbeelding 2026-09-22 om 20 27 07" src="https://github.com/user-attachments/assets/4e08dd83-407a-4d98-83ed-b75cc6a81bac" />
+<img width="1007" height="692" alt="werkblad welingelichte cookie consent" src="https://github.com/user-attachments/assets/4e08dd83-407a-4d98-83ed-b75cc6a81bac" />
 
 <img width="576" height="799" alt="Scherm­afbeelding 2026-09-21 om 15 11 28" src="https://github.com/user-attachments/assets/7792dc5c-519b-48bc-97e9-a2ead9cd17a0" />
 
 <img width="469" height="633" alt="Scherm­afbeelding 2026-09-21 om 15 11 35" src="https://github.com/user-attachments/assets/40985128-d0eb-488d-8909-1cec53aed8d8" />
 
+Als je de cookies niet accepteert kan je de video niet bekijken:
+
 <img width="1100" height="709" alt="Scherm­afbeelding 2026-09-21 om 15 11 44" src="https://github.com/user-attachments/assets/4d160240-35c8-48dc-84b0-30873be51cf2" />
 
 <img width="384" height="117" alt="Scherm­afbeelding 2026-09-21 om 15 11 51" src="https://github.com/user-attachments/assets/94a84544-d72b-4527-be53-22ea0ccc6e5e" />
 
-## CHECK OUT SPRINT 2:
+# Human Consent Component:
+Notities gemaakt tijdens de college van Hans de Zwart. Het was erg informatief en leerzaam. 
+# Foto's maken van notities en hierbij plaatsen !!!!
 
-1. Wat zijn HTML landmark role elements?
+Wireframes + Dark Pattern herontwerp: 
+# korte samenvatting + foto's plaatsen samen gemaakt met de meiden
 
-- indicatoren om de structuur te herkennen.
+Human Consent Component: Wat moet in onze cookies staan? 
+1. microsoft, google fonts, GitHub pages hosting en digitaaltuintje component.
+2. s
+3. s
+4. s
+# Notities opzoeken en opschrijven !!!
 
-2. Wat zijn heading elementen en hoe horen deze 'genest' te worden?
 
-- Er moet altijd een hiërarchie zijn met een logische opeenvolgende structuur zijn. Bijv. H1, h2, h3, etc. Dit helpt ook alle zoekmachines om je opbouw te begrijpen
+# Compliance / Valide HTML
 
-3. Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+Ik heb mijn Website gecheckt op wat ik gebruik:
 
-- Ik weiger ze meestal. 8/10 keer.
-
-- microsoft
-- google fonts
-- GitHub pages hosting
-- digitaaltuintje component
-
-Overleg met een klasgenoot en beantwoord de volgende vragen in jouw Learning-Log:
-
-1. Wat is een wireflow en wat heb je er aan?
-
-- Het laat zien hoe de gebruiker verschillende schermen eruit zien etc en geeft het visueel weer.
-
-  1 2. Wat zijn dark UX patterns? Geef drie voorbeelden...
-  2 - Fake Social Proof, obstruction en wording tricks.
-
-  4 3. Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
-  5 - Dat je alle informatie geeft, maar het wel duidelijk blijft en dat het overzichtelijk blijft.
-
-Website checken:
 <img width="617" height="238" alt="Scherm­afbeelding 2026-09-28 om 13 08 46" src="https://github.com/user-attachments/assets/e9e58166-d22a-45e7-ac36-760eb1bcad69" />
+
+# NOG EEN KEER DOEN EN OPNIEUW FOTO 
+
+# Cookies accepteren:
+
+<img width="1268" height="62" alt="Scherm­afbeelding 2026-09-26 om 16 56 53" src="https://github.com/user-attachments/assets/c6e60c2e-3ddb-4117-8f54-e9cd5bb7b82e" />
+
+<img width="1680" height="298" alt="Scherm­afbeelding 2026-09-26 om 16 56 45" src="https://github.com/user-attachments/assets/808d126e-8b3f-468e-8e90-3b6f5f56c070" />
+
+(Zo zag het er eerst uit ik heb het later aangepast en volgens mijn huisstijl gemaakt)
+
 
 ### SPRINT 2. - Bi-weekly 2:
 
@@ -889,8 +979,345 @@ Vreselijke experience, was erg lastig en vervelend om te gebruiken zo zie je wel
 
 <img width="1678" height="960" alt="Scherm­afbeelding 2026-09-28 om 14 31 15" src="https://github.com/user-attachments/assets/81a656b2-ce81-45df-970c-35a044c4df4c" />
 
-### SPRINT 2. - Bi-weekly 2: checkout bi weekly:
+#### User testing / Toegankelijkheid testen: 
 
-1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML? -> Het gaat niet alleen daar om maar ook of het fijn is voor de gebruiker om het tet gebruiken.
-2. Wat voor type beperkingen hebben invloed op het gebruiken van websites? -> Cognitief, auditief, visueel en motorisch.
-3. Noem drie manieren om door een website te navigeren met jouw screenreader. -> Headings, links en landmarks.
+Je gaat drie testen doen:
+
+Screenreader
+Alleen-een-toetsenbord
+WCAG checklist
+Van elk test neem je een kort verslag op van de goede en nog-niet-goede punten - met screenshots  - in je learning-log.
+
+
+
+
+# SPRINT 2 - Check Out:
+
+### Sprint 2.1:
+
+1. Wat zijn HTML landmark role elements?
+- indicatoren om de structuur te herkennen.
+
+2. Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+- Er moet altijd een hiërarchie zijn met een logische opeenvolgende structuur zijn. Bijv. H1, h2, h3, etc. Dit helpt ook alle zoekmachines om je opbouw te begrijpen
+
+3. Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+- Ik weiger ze meestal. 8/10 keer. Als ik haast heb ben ik sneller geneigd om op accepteren te klikken dan wanneer ik rustig aan het scrollen ben.
+
+# Wat zit in mijn eigen cookies? Hoe kan ik dit toepassen? Mijn digital garden: 
+- microsoft
+- google fonts
+- GitHub pages hosting
+- digitaaltuintje component
+
+# Schets zoeken van mijn human consent component.
+# Welke vorm krijgt deze? En waarom kies je hier specifiek voor? Gebruik je opgedane kennis en de bad/best practices die je hebt onderzocht als leidraad. Maak een begin aan je HTML structuur. Welke informatie moet er sowieso aan de gebruiker getoond worden?
+
+### Sprint 2.2:
+
+1. Wat is een wireflow en wat heb je er aan?
+- Het laat zien hoe de gebruiker verschillende schermen eruit zien etc en geeft het visueel weer.
+
+2. Wat zijn dark UX patterns? Geef drie voorbeelden...
+- Fake Social Proof, obstruction en wording tricks.
+
+3. Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+- Dat je alle informatie geeft, maar het wel duidelijk blijft en dat het overzichtelijk blijft.
+
+### Sprint 2.2:
+1. Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
+- 
+
+2. Welke dingen vielen je op?
+- 
+
+3. Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
+- ### Wat heb ik veranderd na reflectie en feedback?
+Ik ben later terug gekomen op mijn sticky header, het was erg vervelend tijdens het gebruiken van de website waardoor je de tekst soms niet goed kon lezen. Het idee was er, maar het bleek toch onhandig te zijn. Ik heb mijn cookie venster sticky gemaakt en dat bleek veel handiger te zijn. 
+
+
+# Kijk bij notities!!
+
+### Sprint 2.3: Bi-weekly
+
+1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+- Het gaat niet alleen daar om maar ook of het fijn is voor de gebruiker om het tet gebruiken.
+
+2. Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+- Cognitief, auditief, visueel en motorisch.
+
+3. Noem drie manieren om door een website te navigeren met jouw screenreader.
+- Headings, links en landmarks.
+
+### Sprint 2.4: Bi-weekly
+
+1. Waar staat WCAG en A11y voor?
+- 
+
+2. Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
+- 
+
+3. Met welke beperking rekening houden vind je het meest lastig? Vind je dat je beperkt wordt in wat je kunt ontwerpen? Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
+-    
+
+
+# SPRINT 2 - Deep Dives:
+
+### S2 - Buttons, states en selectors (Vasilis)
+
+#### Wat heb ik geleerd?
+Een website gaat niet alleen over hoe het er uit ziet, maar ook over hoe het reageert op interactie. Met CSS kun je verschillende states van buttons vormgeven. Hiervoor gebruik je pseudo-classes.
+
+##### Er zijn vier button states: 
+1. button:  -> dit is de default state, de normale staat van de button.
+2. button:focus-visible:  -> dit laat zien welke button focus heeft, bijv. wanneer je met de Tab toets navigeert.
+3. button:hover:  -> dit verandert de vormgeving wanneer de muis boven de button staat, hovering over the button.
+4. button:active:  -> dit geeft feedback wanneer de button wordt ingedrukt.
+
+##### Interactie met details en summary:
+Met <details> en <summary> kan je een uitklapbaar onderdeel maken, bijv. een FAQ (frequently asked questions) of andere dingetjes. De gebruiker kan dan klikken op de summary om het antwoord te openen of te sluiten en dit werkt zonder JavaScript.
+
+#### Wat neem ik mee:
+Op mijn website heb ik deze states toegepast op de buttons van mijn cookie menu. De kleuren passen bij mijn huisstijl met roze, wit en zwart. Ik gebruik CSS variabelen, zodat de vormgeving aansluit bij mijn light en dark modes.
+
+Bij :focus-visible gebruik ik een duidelijke outline, zodat bezoekers duidleijk kunnen zien welke button geselecteerd is. Bij :hover verandert de achtergrondkleur en bij :active wordt de button ietsjes kleiner.
+
+Ik had :hover en :focus-visible toegepast op mijn knoppen voor het wisselen van het thema. Deze werken met labels en radio-inputs in plaats van gewone buttons.
+
+Ik kan dus deze nieuwe technieken gebruiken om mijn buttons duidelijker te maken en bezoekers feedback te geven wanneer ze ermee interacteren. Ik kan ook <details> en <summary> gebruiken om extra informatie over mijn favoriete consoles en games uitklapbaar te maken. Hierdoor wordt mijn website niet alleen visueel aantrekkelijker, maar ook duidelijker en toegankelijker in gebruik.
+
+#### Wat heb ik hiervan geleerd?
+Ik heb geleerd dat interactie niet alleen visueel mooi moet zijn, maar ook duidelijk en toegankelijk moet werken en door de verschillende states te stylen, krijgen de bezoekers gelijk feedback wanneer ze mijn website gebruiken.
+
+<img width="222" height="89" alt="Scherm­afbeelding 2026-10-17 om 20 12 07" src="https://github.com/user-attachments/assets/d53f2fda-bb88-4611-be76-83c08b2dad52" />
+
+<img width="220" height="81" alt="Scherm­afbeelding 2026-10-17 om 20 12 28" src="https://github.com/user-attachments/assets/17dbe6ef-178a-4cd2-9141-ba309f5e920e" />
+
+<img width="224" height="84" alt="Scherm­afbeelding 2026-10-17 om 20 12 43" src="https://github.com/user-attachments/assets/3587471a-6805-4c4c-95b9-256311db4b74" />
+
+<img width="219" height="78" alt="Scherm­afbeelding 2026-10-17 om 20 23 55" src="https://github.com/user-attachments/assets/9a68a62b-e8fd-4c10-b278-ae052b766910" />
+
+<img width="705" height="73" alt="Scherm­afbeelding 2026-10-17 om 20 41 07" src="https://github.com/user-attachments/assets/6b530f11-b30d-46b7-bb81-cb99664829a9" />
+
+<img width="1673" height="106" alt="Scherm­afbeelding 2026-10-17 om 20 41 15" src="https://github.com/user-attachments/assets/2ce41d71-65cf-4854-83d8-054bd8920602" />
+
+<img width="205" height="279" alt="Scherm­afbeelding 2026-10-17 om 20 40 52" src="https://github.com/user-attachments/assets/b5747921-6f8a-4043-bcaf-04e4183486c3" />
+
+<img width="591" height="70" alt="Scherm­afbeelding 2026-10-17 om 21 13 46" src="https://github.com/user-attachments/assets/b4721120-d430-488e-a636-3f7f30a33ab4" />
+
+<img width="587" height="64" alt="Scherm­afbeelding 2026-10-17 om 21 13 57" src="https://github.com/user-attachments/assets/26e57f3a-6c76-4ef9-8393-571264994b2d" />
+
+<img width="1012" height="490" alt="Scherm­afbeelding 2026-10-18 om 01 24 53" src="https://github.com/user-attachments/assets/e80a77bd-8567-4b3f-b220-a916814fa2e8" />
+
+<img width="1013" height="508" alt="Scherm­afbeelding 2026-10-18 om 01 24 58" src="https://github.com/user-attachments/assets/6836671a-61bd-4aa9-8dbc-785f9cf97394" />
+
+<img width="1141" height="459" alt="Scherm­afbeelding 2026-10-18 om 01 24 43" src="https://github.com/user-attachments/assets/263024f3-b037-47a9-aa6c-84aa1595952c" />
+
+
+### S2 - Buttons + Dialogs (Sanne)
+
+#### Notities: 
+
+##### Buttons:
+Een button kan je met JavaScript een class toevoegen aan of verwijderen van het body-element. Deze class kan je dan vervolgens gebruiken om de vormgeving met CSS aan te passen.
+
+##### Belangrijke methodes:
+- classList.add() -> voegt een class toe.
+- classList.remove() -> verwijdert een class.
+- classList.toggle() -> wisselt tussen een class aan en uit.
+
+Ik heb ook geleerd dat je buttons op twee manieren aan JavaScript kunt koppelen: met onclick in HTML of met de JS 3-stap.
+
+##### Dialogs:
+Met het HTML element <dialog> kan ik een popup maken met extra informatie, instellingen of andere inhoud.
+- <dialog> -> Maakt het popupvenster
+- id="info" -> Geeft de dialog een unieke naam.
+- commandfor="info" -> Verwijst naar de dialog die de button bedient.
+- command="show-modal" -> Opent de dialog als modaal venster.
+- <form method=  "dialog" >  -> Zorgt dat de dialog sluit wanneer een button in het formulier wordt geactiveerd.
+- ::backdrop -> Selecteert de laag achter een modale dialog.
+- Een modal dialog -> blokkeert de rest van de website zolang de popup open is.
+- Een modeless dialog -> laat de bezoeker de rest van de website blijven gebruiken.
+- commandfor -> koppelt een button aan een dialog.
+- command="show-modal" -> opent de dialog als modaal venster.
+- method="dialog" -> zorgt ervoor dat de dialog kan sluiten via een button in het formulier.
+- ::backdrop -> kan de achtergrond achter een modale dialog donkerder of waziger maken.
+
+##### Interactie en feedback:
+Ik heb geleerd dat buttons ook kunnen laten zien welke instelling actief is. Met ::before en ::after kan je bijv. een vinkje toevoegen aan de geselecteerde button.
+
+Ik heb ook geleerd over feedforward en feedback. Feedforward laat zien wat een gebruiker kan doen of wat er gaat gebeuren. Feedback laat zien wat er na een actie is veranderd.
+
+#### Wat heb ik geleerd?
+Ik heb geleerd dat HTML de structuur bepaalt, JavaScript de interactie regelt en CSS de vormgeving aanpast. Door deze technieken te combineren kan ik mijn website interactiever maken zonder alle HTML of CSS opnieuw te schrijven. 
+
+Ik kan dus met HTML, CSS en JavaScript interactie aan mijn website toevoegen. Met buttons kan ik bijv. de achtergrond veranderen, elementen groter maken en verschillende layouts instellen. Met een dialog kan ik extra informatie in een popup laten zien.
+
+#### Wat neem ik me?
+Ik kan buttons en dialogs gebruiken om extra informatie over mijn gameconsoles te tonen. Ook kan ik bezoekers laten wisselen tussen een lijst en een grid. Zo wordt mijn website interactiever en kunnen bezoekers zelf bepalen hoe ze de informatie bekijken.
+
+Ik wil dus op mijn consoles pagina een knop toevoegen waarmee bezoekers kunnen kiezen tussen een lijst en een grid om mijn handheld consoles te bekijken. Ik had al een cookie instellingen venster op mijn website gemaakt. Dit is een voorbeeld van een dialog waarmee ik extra informatie aan bezoekers kan tonen.
+
+<img width="600" height="775" alt="Scherm­afbeelding 2026-10-18 om 20 35 24" src="https://github.com/user-attachments/assets/ed4b9c44-5548-44a5-9de4-61cd8f9dacfa" />
+
+<img width="1680" height="949" alt="Scherm­afbeelding 2026-10-18 om 20 43 59" src="https://github.com/user-attachments/assets/805fe054-05b3-41a8-8bdc-f932b02f706d" />
+
+<img width="1680" height="959" alt="Scherm­afbeelding 2026-10-18 om 20 44 31" src="https://github.com/user-attachments/assets/48e67bd7-335e-44dc-b4f2-5dce728ca389" />
+
+<img width="1680" height="967" alt="Scherm­afbeelding 2026-10-18 om 20 44 40" src="https://github.com/user-attachments/assets/a3b75eff-8555-44a9-8b47-2aae0fe7b028" />
+
+<img width="1680" height="782" alt="Scherm­afbeelding 2026-10-18 om 20 51 22" src="https://github.com/user-attachments/assets/b05cf0bc-cfc4-4e7e-a9b1-6464329f360b" />
+
+
+### S2 - Position + Dialogs (Sanne)
+
+#### Notities: 
+
+##### Properties:
+- static  -> Normale tekst en elementen.
+- relative -> Een klein element iets verschuiven.
+- absolute met een gepositioneerde ouder  -> Een label in een afbeelding plaatsen.
+- fixed -> Een knop op een vaste plek in beeld.
+- sticky -> staat vast.Een navigatiebalk laten plakken tijdens scrollen.
+- Grid -> Een gewone pagina-indeling maken.
+- z-index -> bepaalt de stapelvolgorde van elementen binnen hun stapel context.
+- backdrop-filter -> past bijv. een blur toe op wat achter een element zichtbaar is.
+- inset -> stelt de afstanden tot alle vier de kanten tegelijk in.
+- transform -> kan een element draaien, verschuiven of schalen.
+- transform-origin -> bepaalt het draaipunt.
+- overflow: hidden -> snijdt inhoud af die buiten een element valt.
+- writing-mode -> bepaalt de schrijfrichting van tekst.
+- columns -> verdeelt tekst over meerdere kolommen.
+- column-gap -> bepaalt de ruimte tussen kolommen.
+
+#### Wat heb ik geleerd?
+Ik heb geleerd hoe ik elementen kan positioneren met CSS, hoe je dialogs maakt en vormgeeft en hoe je dit met CSS kan animeren. Met position krijg je meer controle van de plaatsing van elementen. Met HTML dialogs, JavaScript en CSS kan je interactieve vensters maken. Je moet bewust gebruik maken van positionering en animaties.
+
+##### CSS Position:
+HTML elementen staan standaard in de normale documentflow, flow layout, voor de meeste pagina indelingen gebruik je CSS Grid en Flexbox. Met position kan je elementen op specifieke plekken plaatsen.
+
+Er zijn vijf waarden van position:
+1. static -> De standaardpositie in de documentflow. Elementen staan op de plek waar ze volgens de normale document volgorde horen. Top, left, right en bottom verplaatsen het element niet.
+
+2. relative -> Het element blijft op de oorspronkelijke plek in de layout, maar je kunt het visueel verschuiven. 
+
+3. absolute -> Dit haalt een element uit de normale documentflow en je positioneert het bijv. van uit een ouder element.
+
+4. fixed -> Dit positioneert een element vast op het scherm. Het element blijft dan dezelfde plek ook wanneer je dus scrollt.
+
+5. sticky ->  Dit laat een element plakken tijdens het scrollen. 
+Met top, right, bottom en left kan je de positie bepalen. Bij absolute gebruik je position: relative op de ouder element.
+
+##### HTML Dialog: 
+Met het HTML-element <dialog> kan je een dialoogvenster of popup maken.
+
+Er zijn twee manieren om een dialog te openen:
+
+1. showModal() -> dit opent een modal dialog. De achtergrond wordt afgeschermd (blurry).
+2. show() -> dit opent een modeless dialog. De rest van de pagina blijft bruikbaar.
+
+Met dialog.close() kan ik een dialog sluiten. Een formulier met method="dialog" kan ook worden gebruikt om de dialog te sluiten. JavaScript gebruik je om een dialog bijv. te openen wanneer iemand op een knop klikt.
+
+##### Dialogs animeren:
+Met CSS kan je dialogs geleidelijk laten verschijnen en verdwijnen.
+
+###### Properties: 
+- opacity -> bepaalt de transparantie.
+- transform: scale() -> maakt een element groter of kleiner.
+- transition -> maakt veranderingen vloeiend.
+- @starting-style -> bepaalt de begin stijl bij het verschijnen.
+- allow-discrete -> maakt het mogelijk om discrete eigenschappen zoals display en - overlay in een overgang mee te nemen.
+- prefers-reduced-motion -> maakt het mogelijk rekening te houden met bezoekers die minder beweging willen zien.
+
+#### Wat neem ik mee?
+Ik kan position: sticky gebruiken voor een navigatiebalk die zichtbaar blijft tijdens het scrollen. Met position: absolute kan ik labels op afbeeldingen van mijn consoles plaatsen. Met een dialog kan ik korte teksten met extra informatie over mijn consoles of favoriete games laten zien zonder dat de bezoeker naar een andere pagina hoeft te gaan. Ik kan ook een helpvenster toevoegen en animaties gebruiken om dialogs prettiger te laten verschijnen en verdwijnen.
+
+###### Properties en mogelijkheden hoe ik die zou kunnen toepassen:
+- position: sticky -> Header bovenaan.
+- position: absolute -> Labels op consolekaarten en sluitknoppen.
+- position: fixed -> Helpknop en helpvenster.
+- z-index -> Header en helpvenster boven andere elementen.
+- ::backdrop -> Donkere, wazige achtergrond van dialogs
+- @starting-style -> Beginstijl van de animatie.
+- allow-discrete -> Dialog openen en sluiten met een overgang.
+- prefers-reduced-motion -> Minder beweging voor bezoekers die dat willen.
+- columns -> kan ik later toepassen op een tekstgedeelte.
+
+#### Wat heb ik veranderd na reflectie en feedback?
+Ik ben later terug gekomen op mijn sticky header, het was erg vervelend tijdens het gebruiken van de website waardoor je de tekst soms niet goed kon lezen. Het idee was er, maar het bleek toch onhandig te zijn. Ik heb mijn cookie venster sticky gemaakt en dat bleek veel handiger te zijn. 
+
+<img width="1102" height="736" alt="Scherm­afbeelding 2026-10-19 om 20 18 21" src="https://github.com/user-attachments/assets/401e61f1-30c7-4dcd-bc9f-f24981a29913" />
+
+<img width="310" height="109" alt="Scherm­afbeelding 2026-10-20 om 01 00 55" src="https://github.com/user-attachments/assets/c37dd54b-4780-4ee5-a964-cf42dd63f514" />
+
+<img width="1672" height="557" alt="Scherm­afbeelding 2026-10-20 om 01 00 46" src="https://github.com/user-attachments/assets/0e6bb9fe-9980-4603-96c3-49efa3837ee2" />
+
+#### Mijn nieuwe pagina's:
+
+<img width="1042" height="420" alt="Scherm­afbeelding 2026-10-20 om 00 54 56" src="https://github.com/user-attachments/assets/dc4bf315-94e7-463f-96cc-62d7d2e19b15" />
+
+<img width="877" height="363" alt="Scherm­afbeelding 2026-10-19 om 20 40 18" src="https://github.com/user-attachments/assets/6a292fa2-66dd-456d-8ee6-2590f79ffae3" />
+
+<img width="1674" height="405" alt="Scherm­afbeelding 2026-10-19 om 20 40 29" src="https://github.com/user-attachments/assets/7d591b4a-567e-4035-9725-1704638557c3" />
+
+<img width="987" height="579" alt="Scherm­afbeelding 2026-10-19 om 20 40 41" src="https://github.com/user-attachments/assets/a2dc0a5a-1028-4bed-847f-aa7acd90b16a" />
+
+<img width="996" height="293" alt="Scherm­afbeelding 2026-10-19 om 20 40 47" src="https://github.com/user-attachments/assets/87c9ef56-b107-49d0-9623-27fa0f9520cf" />
+
+
+### S2 - Meer interactie met HTML en CSS (Vasilis)
+
+#### Notities:
+
+##### Properties:
+- type="email" -> Geeft op mobiels een handige toetsenbord met @ en controleert of de basisvorm van het e-mailadres werkt.
+- type="tel" -> Laat geschikt toetsenbord voor telefoons zien.
+- label for="naam" -> Koppelt het label aan het juiste invoerveld.
+- id="naam" -> Geeft het invoerveld een unieke id (identificatie) waarmee het label gekoppeld kan worden.
+- required -> Zorgt dat het veld ingevuld moet zijn voordat het formulier verstuurd kan worden.
+- name="naam" -> Geeft het veld een naam waarmee de ingevulde waarde bij formulier verzending kan worden meegestuurd.
+- autocomplete="name" -> Helpt de browser om eerder bekende gegevens automatisch in te vullen.
+- target -> kan je bepalen in welk tabblad een link wordt geopend.
+- download -> kan je aangeven dat een bestand gedownload moet worden.
+
+#### Wat heb ik gedaan?
+Ik heb met HTML en CSS gekeken hoe ik mijn website gebruiksvriendelijker kan maken (zonder per se JavaScript te gebruiken). Ik heb een nieuwe pagina gemaakt waarop bezoekers een (retro) (handheld) console kunnen voorstellen die zij graag in mijn Gaming Garden zouden willen zien. Ik vond dit wel een leuke toevoeging, want dat zorgt voor meer interactie en toenadering naar mijn gebruikers. 
+
+##### Formulier:
+In mijn formulier heb ik verschillende soorten invoervelden gebruikt:
+
+- type="text" -> voor de naam en de naam van de console.
+- type="email" -> voor hun e-mailadres.
+- required -> om verplichte velden aan te geven.
+- label en for -> om labels aan de juiste invoervelden te koppelen.
+
+##### CSS en gebruiksvriendelijkheid:
+Met CSS heb ik het formulier overzichtelijker gemaakt. Het formulier staat in het midden van de pagina en heeft een maximale breedte, zodat het niet te breed wordt. Verder heb ik het formulier responsive gemaakt, zodat het zich aanpast aan kleinere schermen.
+
+Ik heb geleerd om verschillende CSS selectors te gebruiken:
+- :focus -> om aan te geven welk invoerveld geselecteerd is.
+- :has() -> om een label aan te passen wanneer het bijbehorende invoerveld focus heeft.
+- :valid -> om te controleren of de invoer geldig is.
+- ::after -> om een sterretje achter labels van verplichte velden te zetten.
+
+Hiermee kan je bijv. verplichte velden een rood of groen teken geven of de achtergrond van een formulier veranderen wanneer alle verplichte velden geldig zijn.
+
+##### Wat heb ik geleerd?
+Ik heb geleerd hoe je de UX (User Experience) van HTML kan verbeteren. Het gaat er niet alleen om hoe een website er uit ziet, maar ook om gemakkelijk en toegankelijk het is om te gebruiken.
+
+Door duidelijke labels, verplichte velden en focus-states toe te voegen, wordt het formulier makkelijker te gebruiken. Verder leerde ik hoe CSS kan reageren op de invoer van een gebruiker. Het formulier controleert de invoer, maar het werkt niet echt. 
+
+#### Wat neem ik mee? 
+Ik ga deze technieken gebruiken voor mijn de links naar mijn gaming verhalen / extra informatie over mijn consoles. Dit ga ik doen door duidelijke labels, verplichte velden, goede focus states en herkenbare links toe te voegen. Dit zal mijn website makkelijker te gebruiken maken. 
+
+<img width="259" height="80" alt="Scherm­afbeelding 2026-10-20 om 02 08 47" src="https://github.com/user-attachments/assets/d6ddeb18-f5c0-41f8-be09-0f42d83d6bf9" />
+
+<img width="1679" height="833" alt="Scherm­afbeelding 2026-10-20 om 02 09 15" src="https://github.com/user-attachments/assets/ea3c29c9-5c55-456c-b8b3-b85ce71a7bee" />
+
+<img width="615" height="493" alt="Scherm­afbeelding 2026-10-20 om 02 09 46" src="https://github.com/user-attachments/assets/317caab3-a1f5-4cce-ae4b-811fb8873977" />
+
+<img width="560" height="582" alt="Scherm­afbeelding 2026-10-20 om 02 11 08" src="https://github.com/user-attachments/assets/1893958e-6413-466f-a86c-fe62cd08bb17" />
+
+<img width="573" height="555" alt="Scherm­afbeelding 2026-10-20 om 02 12 59" src="https://github.com/user-attachments/assets/c1636e61-3633-47c1-af00-fc6aaed9257f" />
+
+# Probeer alle img een andere alt naam te geven ipv schermafbeelding 12345 etc x
