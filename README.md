@@ -676,20 +676,20 @@ Gradients kunnen worden gebruikt voor strepen, geometrische patronen en complete
 Tot slot kan je met @property gradients animeren. Hiermee kan je de browser vertellen welk type waarde een custom property heeft, bijv. een hoek, kleur of percentage. Hierdoor kan ik onderdelen van een gradient animeren. Dit is een stuk moeilijker dan een normale gradient, maar geeft je wel veel mogelijkheden voor interactieve ontwerpen.
 
 #### Notities: 
-RGB = rood/groen/blauw
-HSL = hue/verzadiging(saturation)/lichtheid
-HEX = #RRGGBB
-Display-P3 = meer kleuren
-OKLCH = lightness/chroma/hue
+- RGB = rood/groen/blauw
+- HSL = hue/verzadiging(saturation)/lichtheid
+- HEX = #RRGGBB
+- Display-P3 = meer kleuren
+- OKLCH = lightness/chroma/hue
 
-linear = recht
-radial = vanuit een punt
-conic = rond
-repeating = herhaling
+- linear = recht
+- radial = vanuit een punt
+- conic = rond
+- repeating = herhaling
 
-var() = opgeslagen kleur gebruiken
-@property = custom property een type geven
-@keyframes = animatie bepalen
+- var() = opgeslagen kleur gebruiken
+- @property = custom property een type geven
+- @keyframes = animatie bepalen
 
 ##### Ik heb gekeken en geëxperimenteerd naar verschillende gradients en welke het beste paste bij mijn website:
 
@@ -1060,6 +1060,7 @@ Ik ben later terug gekomen op mijn sticky header, het was erg vervelend tijdens 
 3. Met welke beperking rekening houden vind je het meest lastig? Vind je dat je beperkt wordt in wat je kunt ontwerpen? Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
 -    
 
+
 # SPRINT 2 - Deep Dives:
 
 ### S2 - Buttons, states en selectors (Vasilis)
@@ -1088,7 +1089,29 @@ Ik kan dus deze nieuwe technieken gebruiken om mijn buttons duidelijker te maken
 #### Wat heb ik hiervan geleerd?
 Ik heb geleerd dat interactie niet alleen visueel mooi moet zijn, maar ook duidelijk en toegankelijk moet werken en door de verschillende states te stylen, krijgen de bezoekers gelijk feedback wanneer ze mijn website gebruiken.
 
-### Foto's buttons !!!!!!!!
+<img width="222" height="89" alt="Scherm­afbeelding 2026-10-17 om 20 12 07" src="https://github.com/user-attachments/assets/d53f2fda-bb88-4611-be76-83c08b2dad52" />
+
+<img width="220" height="81" alt="Scherm­afbeelding 2026-10-17 om 20 12 28" src="https://github.com/user-attachments/assets/17dbe6ef-178a-4cd2-9141-ba309f5e920e" />
+
+<img width="224" height="84" alt="Scherm­afbeelding 2026-10-17 om 20 12 43" src="https://github.com/user-attachments/assets/3587471a-6805-4c4c-95b9-256311db4b74" />
+
+<img width="219" height="78" alt="Scherm­afbeelding 2026-10-17 om 20 23 55" src="https://github.com/user-attachments/assets/9a68a62b-e8fd-4c10-b278-ae052b766910" />
+
+<img width="705" height="73" alt="Scherm­afbeelding 2026-10-17 om 20 41 07" src="https://github.com/user-attachments/assets/6b530f11-b30d-46b7-bb81-cb99664829a9" />
+
+<img width="1673" height="106" alt="Scherm­afbeelding 2026-10-17 om 20 41 15" src="https://github.com/user-attachments/assets/2ce41d71-65cf-4854-83d8-054bd8920602" />
+
+<img width="205" height="279" alt="Scherm­afbeelding 2026-10-17 om 20 40 52" src="https://github.com/user-attachments/assets/b5747921-6f8a-4043-bcaf-04e4183486c3" />
+
+<img width="591" height="70" alt="Scherm­afbeelding 2026-10-17 om 21 13 46" src="https://github.com/user-attachments/assets/b4721120-d430-488e-a636-3f7f30a33ab4" />
+
+<img width="587" height="64" alt="Scherm­afbeelding 2026-10-17 om 21 13 57" src="https://github.com/user-attachments/assets/26e57f3a-6c76-4ef9-8393-571264994b2d" />
+
+<img width="1012" height="490" alt="Scherm­afbeelding 2026-10-18 om 01 24 53" src="https://github.com/user-attachments/assets/e80a77bd-8567-4b3f-b220-a916814fa2e8" />
+
+<img width="1013" height="508" alt="Scherm­afbeelding 2026-10-18 om 01 24 58" src="https://github.com/user-attachments/assets/6836671a-61bd-4aa9-8dbc-785f9cf97394" />
+
+<img width="1141" height="459" alt="Scherm­afbeelding 2026-10-18 om 01 24 43" src="https://github.com/user-attachments/assets/263024f3-b037-47a9-aa6c-84aa1595952c" />
 
 
 ### S2 - Buttons + Dialogs (Sanne)
@@ -1111,7 +1134,7 @@ Met het HTML element <dialog> kan ik een popup maken met extra informatie, inste
 - id="info" -> Geeft de dialog een unieke naam.
 - commandfor="info" -> Verwijst naar de dialog die de button bedient.
 - command="show-modal" -> Opent de dialog als modaal venster.
-- <form method="dialog">  -> Zorgt dat de dialog sluit wanneer een button in het formulier wordt geactiveerd.
+- <form method=  "dialog" >  -> Zorgt dat de dialog sluit wanneer een button in het formulier wordt geactiveerd.
 - ::backdrop -> Selecteert de laag achter een modale dialog.
 - Een modal dialog -> blokkeert de rest van de website zolang de popup open is.
 - Een modeless dialog -> laat de bezoeker de rest van de website blijven gebruiken.
@@ -1135,7 +1158,15 @@ Ik kan buttons en dialogs gebruiken om extra informatie over mijn gameconsoles t
 
 Ik wil dus op mijn consoles pagina een knop toevoegen waarmee bezoekers kunnen kiezen tussen een lijst en een grid om mijn handheld consoles te bekijken. Ik had al een cookie instellingen venster op mijn website gemaakt. Dit is een voorbeeld van een dialog waarmee ik extra informatie aan bezoekers kan tonen.
 
-### Foto's grid/lijst knoppen !!!!!!!!
+<img width="600" height="775" alt="Scherm­afbeelding 2026-10-18 om 20 35 24" src="https://github.com/user-attachments/assets/ed4b9c44-5548-44a5-9de4-61cd8f9dacfa" />
+
+<img width="1680" height="949" alt="Scherm­afbeelding 2026-10-18 om 20 43 59" src="https://github.com/user-attachments/assets/805fe054-05b3-41a8-8bdc-f932b02f706d" />
+
+<img width="1680" height="959" alt="Scherm­afbeelding 2026-10-18 om 20 44 31" src="https://github.com/user-attachments/assets/48e67bd7-335e-44dc-b4f2-5dce728ca389" />
+
+<img width="1680" height="967" alt="Scherm­afbeelding 2026-10-18 om 20 44 40" src="https://github.com/user-attachments/assets/a3b75eff-8555-44a9-8b47-2aae0fe7b028" />
+
+<img width="1680" height="782" alt="Scherm­afbeelding 2026-10-18 om 20 51 22" src="https://github.com/user-attachments/assets/b05cf0bc-cfc4-4e7e-a9b1-6464329f360b" />
 
 
 ### S2 - Position + Dialogs (Sanne)
@@ -1212,15 +1243,81 @@ Ik kan position: sticky gebruiken voor een navigatiebalk die zichtbaar blijft ti
 - prefers-reduced-motion -> Minder beweging voor bezoekers die dat willen.
 - columns -> kan ik later toepassen op een tekstgedeelte.
 
-### Foto's van sticky header, meer informatie knop, extra pagina's, nieuwe sticky cookie menu !!!!!!!!
-
 #### Wat heb ik veranderd na reflectie en feedback?
 Ik ben later terug gekomen op mijn sticky header, het was erg vervelend tijdens het gebruiken van de website waardoor je de tekst soms niet goed kon lezen. Het idee was er, maar het bleek toch onhandig te zijn. Ik heb mijn cookie venster sticky gemaakt en dat bleek veel handiger te zijn. 
+
+<img width="1102" height="736" alt="Scherm­afbeelding 2026-10-19 om 20 18 21" src="https://github.com/user-attachments/assets/401e61f1-30c7-4dcd-bc9f-f24981a29913" />
+
+<img width="310" height="109" alt="Scherm­afbeelding 2026-10-20 om 01 00 55" src="https://github.com/user-attachments/assets/c37dd54b-4780-4ee5-a964-cf42dd63f514" />
+
+<img width="1672" height="557" alt="Scherm­afbeelding 2026-10-20 om 01 00 46" src="https://github.com/user-attachments/assets/0e6bb9fe-9980-4603-96c3-49efa3837ee2" />
+
+#### Mijn nieuwe pagina's:
+
+<img width="1042" height="420" alt="Scherm­afbeelding 2026-10-20 om 00 54 56" src="https://github.com/user-attachments/assets/dc4bf315-94e7-463f-96cc-62d7d2e19b15" />
+
+<img width="877" height="363" alt="Scherm­afbeelding 2026-10-19 om 20 40 18" src="https://github.com/user-attachments/assets/6a292fa2-66dd-456d-8ee6-2590f79ffae3" />
+
+<img width="1674" height="405" alt="Scherm­afbeelding 2026-10-19 om 20 40 29" src="https://github.com/user-attachments/assets/7d591b4a-567e-4035-9725-1704638557c3" />
+
+<img width="987" height="579" alt="Scherm­afbeelding 2026-10-19 om 20 40 41" src="https://github.com/user-attachments/assets/a2dc0a5a-1028-4bed-847f-aa7acd90b16a" />
+
+<img width="996" height="293" alt="Scherm­afbeelding 2026-10-19 om 20 40 47" src="https://github.com/user-attachments/assets/87c9ef56-b107-49d0-9623-27fa0f9520cf" />
 
 
 ### S2 - Meer interactie met HTML en CSS (Vasilis)
 
-### Foto's suggestions html !!!!!!!!
+#### Notities:
 
+##### Properties:
+- type="email" -> Geeft op mobiels een handige toetsenbord met @ en controleert of de basisvorm van het e-mailadres werkt.
+- type="tel" -> Laat geschikt toetsenbord voor telefoons zien.
+- label for="naam" -> Koppelt het label aan het juiste invoerveld.
+- id="naam" -> Geeft het invoerveld een unieke id (identificatie) waarmee het label gekoppeld kan worden.
+- required -> Zorgt dat het veld ingevuld moet zijn voordat het formulier verstuurd kan worden.
+- name="naam" -> Geeft het veld een naam waarmee de ingevulde waarde bij formulier verzending kan worden meegestuurd.
+- autocomplete="name" -> Helpt de browser om eerder bekende gegevens automatisch in te vullen.
+- target -> kan je bepalen in welk tabblad een link wordt geopend.
+- download -> kan je aangeven dat een bestand gedownload moet worden.
+
+#### Wat heb ik gedaan?
+Ik heb met HTML en CSS gekeken hoe ik mijn website gebruiksvriendelijker kan maken (zonder per se JavaScript te gebruiken). Ik heb een nieuwe pagina gemaakt waarop bezoekers een (retro) (handheld) console kunnen voorstellen die zij graag in mijn Gaming Garden zouden willen zien. Ik vond dit wel een leuke toevoeging, want dat zorgt voor meer interactie en toenadering naar mijn gebruikers. 
+
+##### Formulier:
+In mijn formulier heb ik verschillende soorten invoervelden gebruikt:
+
+- type="text" -> voor de naam en de naam van de console.
+- type="email" -> voor hun e-mailadres.
+- required -> om verplichte velden aan te geven.
+- label en for -> om labels aan de juiste invoervelden te koppelen.
+
+##### CSS en gebruiksvriendelijkheid:
+Met CSS heb ik het formulier overzichtelijker gemaakt. Het formulier staat in het midden van de pagina en heeft een maximale breedte, zodat het niet te breed wordt. Verder heb ik het formulier responsive gemaakt, zodat het zich aanpast aan kleinere schermen.
+
+Ik heb geleerd om verschillende CSS selectors te gebruiken:
+- :focus -> om aan te geven welk invoerveld geselecteerd is.
+- :has() -> om een label aan te passen wanneer het bijbehorende invoerveld focus heeft.
+- :valid -> om te controleren of de invoer geldig is.
+- ::after -> om een sterretje achter labels van verplichte velden te zetten.
+
+Hiermee kan je bijv. verplichte velden een rood of groen teken geven of de achtergrond van een formulier veranderen wanneer alle verplichte velden geldig zijn.
+
+##### Wat heb ik geleerd?
+Ik heb geleerd hoe je de UX (User Experience) van HTML kan verbeteren. Het gaat er niet alleen om hoe een website er uit ziet, maar ook om gemakkelijk en toegankelijk het is om te gebruiken.
+
+Door duidelijke labels, verplichte velden en focus-states toe te voegen, wordt het formulier makkelijker te gebruiken. Verder leerde ik hoe CSS kan reageren op de invoer van een gebruiker. Het formulier controleert de invoer, maar het werkt niet echt. 
+
+#### Wat neem ik mee? 
+Ik ga deze technieken gebruiken voor mijn de links naar mijn gaming verhalen / extra informatie over mijn consoles. Dit ga ik doen door duidelijke labels, verplichte velden, goede focus states en herkenbare links toe te voegen. Dit zal mijn website makkelijker te gebruiken maken. 
+
+<img width="259" height="80" alt="Scherm­afbeelding 2026-10-20 om 02 08 47" src="https://github.com/user-attachments/assets/d6ddeb18-f5c0-41f8-be09-0f42d83d6bf9" />
+
+<img width="1679" height="833" alt="Scherm­afbeelding 2026-10-20 om 02 09 15" src="https://github.com/user-attachments/assets/ea3c29c9-5c55-456c-b8b3-b85ce71a7bee" />
+
+<img width="615" height="493" alt="Scherm­afbeelding 2026-10-20 om 02 09 46" src="https://github.com/user-attachments/assets/317caab3-a1f5-4cce-ae4b-811fb8873977" />
+
+<img width="560" height="582" alt="Scherm­afbeelding 2026-10-20 om 02 11 08" src="https://github.com/user-attachments/assets/1893958e-6413-466f-a86c-fe62cd08bb17" />
+
+<img width="573" height="555" alt="Scherm­afbeelding 2026-10-20 om 02 12 59" src="https://github.com/user-attachments/assets/c1636e61-3633-47c1-af00-fc6aaed9257f" />
 
 # Probeer alle img een andere alt naam te geven ipv schermafbeelding 12345 etc x
