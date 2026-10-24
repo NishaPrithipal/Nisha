@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: "Press Start 2P";
-  src: url("../type/Press_Start_2P/PressStart2P-Regular.ttf");
+  src: url("../assets/type/Press_Start_2P/PressStart2P-Regular.ttf");
   font-weight: 400;
   font-style: normal;
 }
@@ -694,5 +694,92 @@ main.console-detail {
 
   .detail-figure img {
     height: 18rem;
+  }
+}
+
+/**************************
+* MARK: UX van HTML
+**************************/
+
+main form {
+  box-sizing: border-box;
+  width: calc(100% - 2rem);
+  max-width: 35rem;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  border: 2px solid #fd3db5;
+  border-radius: 0.5rem;
+  background: lightpink;
+  color: black;
+}
+
+main form fieldset {
+  display: grid;
+  gap: 0.75rem;
+  min-width: 0;
+  border: 0;
+  padding: 0;
+}
+
+main form legend {
+  padding: 0 0 1rem;
+  font-weight: bold;
+}
+
+main form label {
+  margin-top: 0.5rem;
+}
+
+main form input,
+main form textarea {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
+  padding: 0.75rem;
+  border: 2px solid #fd3db5;
+  border-radius: 0.5rem;
+  background: white;
+  color: black;
+  font: inherit;
+}
+
+main form textarea {
+  resize: vertical;
+}
+
+main form input:focus,
+main form textarea:focus {
+  border-color: #fd3db5;
+  outline: 2px solid #fd3db5;
+  outline-offset: 2px;
+}
+
+main form label:has(+ input:focus),
+main form label:has(+ textarea:focus) {
+  font-weight: bold;
+}
+
+main form label:has(+ [required])::after {
+  content: " *";
+  color: red;
+}
+
+main form label:has(+ [required]:valid)::after {
+  color: green;
+}
+
+main form:valid {
+  background: lightgreen;
+}
+
+main form button {
+  margin-top: 1rem;
+}
+
+@media (max-width: 40em) {
+  main form {
+    width: calc(100% - 2rem);
+    margin: 1.5rem auto;
+    padding: 1rem;
   }
 }
