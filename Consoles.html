@@ -1,17 +1,18 @@
 <!doctype html>
-<html lang="en">
+<html lang="nl">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="author" content="[jouw naam]" />
-    <meta name="color-scheme" content="dark light" />
+    <meta name="author" content="Nisha Prithipal" />
+    <meta name="color-scheme" content="light dark" />
 
-    <title>My Gaming Garden</title>
+    <title>My Handheld Consoles | My Gaming Garden</title>
 
     <link rel="stylesheet" href="./assets/style/normal.css" />
+    <script src="./js/script.js" defer></script>
 
     <script
-      data-page="[https://voorbeeld.nl]"
+      data-page="https://nishaprithipal-design.nl/Consoles.html"
       src="https://digitaaltuintje.nl/webring.js"
       defer
     ></script>
@@ -20,7 +21,7 @@
   <body>
     <header>
       <label>
-        <input type="radio" name="theme" value="light-theme" />
+        <input type="radio" name="theme" value="light-theme" checked />
         <img
           src="./assets/SVG's/Icons/LightFatsonToddWitROZE.svg"
           alt="Licht thema"
@@ -36,99 +37,244 @@
       </label>
 
       <h1>My Handheld Consoles</h1>
-
-      <nav>
-        <ul>
-          <li><a href="./index.html">Home</a></li>
-          <li><a href="./Consoles.html">Consoles</a></li>
-          <li><a href="./log.html">[Log]</a></li>
-          <li><a href="./story.html">[Story]</a></li>
-          <li><a href="./contact.html">[Contact]</a></li>
-        </ul>
-      </nav>
-
-      <h2>My Girls</h2>
     </header>
 
-    <main>
-      <img
-        src="./assets/SVG's/Gameboy/GameboyAdvanceSPGrijs.svg"
-        alt="Een grijze Game Boy Advance SP"
-      />
+    <nav aria-label="Hoofdnavigatie">
+      <a href="./index.html">Home</a>
+      <a href="./Consoles.html" aria-current="page">Consoles</a>
+      <a href="./suggest.html">Your Suggestions!</a>
+      <a href="./log.html">Log</a>
+      <a href="./story.html">Story</a>
+      <a href="./contact.html">Contact</a>
+    </nav>
 
-      <img
-        src="./assets/SVG's/PSP/PSP1004StreetZwart.svg"
-        alt="Een zwarte PSP Street"
-      />
+    <section class="intro">
+      <h2>My Girls</h2>
 
-      <img
-        src="./assets/SVG's/PSP/PSP1004FatZwartWit.svg"
-        alt="Een zwart-witte PSP Fat"
-      />
+      <p>
+        Dit is mijn collectie handheldconsoles. Elke console heeft een eigen
+        unieke uiterlijk en herinneringen die ik vasthoud. Mijn collectie
+        bestaat uit verschillende generaties handhelds.
+      </p>
+    </section>
 
-      <img
-        src="./assets/SVG's/PSP/PSP1004FatZwartRood.svg"
-        alt="Een zwart-rode PSP Fat"
-      />
+    <section class="layout-controls" aria-label="Consoleweergave">
+      <button type="button" id="openLayoutDialog" aria-haspopup="dialog">
+        Kies je lay-out
+      </button>
+    </section>
 
-      <img src="./assets/SVG's/PSP/PSP3004Roze.svg" alt="Een roze PSP 3004" />
+    <dialog id="layoutDialog" aria-labelledby="layoutTitle">
+      <h2 id="layoutTitle">Kies je lay-out</h2>
 
-      <img
-        src="./assets/SVG's/PSVita/PSVitaOled3gZwart.svg"
-        alt="Een zwarte PS Vita OLED 3G"
-      />
+      <p>Hoe wil je mijn consoles bekijken?</p>
 
-      <img src="./assets/SVG's/DS/DsTankRoze.svg" alt="Een roze Nintendo DS" />
+      <div class="dialog-buttons">
+        <button type="button" data-view="grid" aria-pressed="true">Grid</button>
 
-      <img
-        src="./assets/SVG's/DS/DsiLitePink.svg"
-        alt="Een roze Nintendo DSi Lite"
-      />
-
-      <img src="./assets/SVG's/DS/DsiRood.svg" alt="Een rode Nintendo DSi" />
-
-      <img
-        src="./assets/SVG's/DS/DsiXLBordeaux.svg"
-        alt="Een bordeaux Nintendo DSi XL"
-      />
-
-      <img
-        src="./assets/SVG's/3DS/3dsXLHotPink.svg"
-        alt="Een felroze Nintendo 3DS XL"
-      />
-
-      <img
-        src="./assets/SVG's/3DS/New3dsZwart.svg"
-        alt="Een zwarte New Nintendo 3DS"
-      />
-    </main>
-
-    <footer>
-      <nav>
-        <button commandfor="cookieModal" command="show-modal">
-          <span>Allow cookies?</span>
+        <button type="button" data-view="list" aria-pressed="false">
+          Lijst
         </button>
-      </nav>
-    </footer>
 
-    <dialog id="cookieModal">
-      <form method="dialog">
-        <p>
-          We use cookies to personalise content and ads, to provide social media
-          features and to analyse our traffic. We also share information about
-          your use of our site with our social media, advertising and analytics
-          partners who may combine it with other information that you’ve
-          provided to them or that they’ve collected from their use of their
-          services.
-        </p>
-
-        <button onclick="setCookie()">Allow</button>
-        <button onclick="unsetCookie()">Deny</button>
-      </form>
+        <button type="button" class="close-dialog">Sluiten</button>
+      </div>
     </dialog>
 
+    <main class="console-gallery grid-view" id="consoleGallery">
+      <figure>
+        <img
+          src="./assets/SVG's/Gameboy/GameboyAdvanceSPGrijs.svg"
+          alt="Grijze Game Boy Advance SP"
+          loading="lazy"
+        />
+        <div class="console-info">
+          <figcaption>Game Boy Advance SP</figcaption>
+          <a class="more-info" href="./GameboyAdvanceSP.html">
+            Meer informatie
+          </a>
+        </div>
+      </figure>
+
+      <figure>
+        <img
+          src="./assets/SVG's/PSP/PSP1004StreetZwart.svg"
+          alt="Zwarte PSP Street"
+          loading="lazy"
+        />
+        <div class="console-info">
+          <figcaption>PSP Street</figcaption>
+          <a class="more-info" href="./PSPStreet.html">Meer informatie</a>
+        </div>
+      </figure>
+
+      <figure>
+        <img
+          src="./assets/SVG's/PSP/PSP1004FatZwartWit.svg"
+          alt="Zwart-witte PSP 1004"
+          loading="lazy"
+        />
+        <div class="console-info">
+          <figcaption>PSP 1004 zwart-wit</figcaption>
+          <a class="more-info" href="./PSP1004ZwartWit.html">
+            Meer informatie
+          </a>
+        </div>
+      </figure>
+
+      <figure>
+        <img
+          src="./assets/SVG's/PSP/PSP1004FatZwartRood.svg"
+          alt="Zwart-rode PSP 1004"
+          loading="lazy"
+        />
+        <div class="console-info">
+          <figcaption>PSP 1004 zwart-rood</figcaption>
+          <a class="more-info" href="./PSP1004ZwartRood.html">
+            Meer informatie
+          </a>
+        </div>
+      </figure>
+
+      <figure>
+        <img
+          src="./assets/SVG's/PSP/PSP3004Roze.svg"
+          alt="Roze PSP 3004"
+          loading="lazy"
+        />
+        <div class="console-info">
+          <figcaption>PSP 3004 roze</figcaption>
+          <a class="more-info" href="./PSP3004Roze.html">Meer informatie</a>
+        </div>
+      </figure>
+
+      <figure>
+        <img
+          src="./assets/SVG's/PSVita/PSVitaOled3gZwart.svg"
+          alt="Zwarte PlayStation Vita OLED 3G"
+          loading="lazy"
+        />
+        <div class="console-info">
+          <figcaption>PS Vita OLED 3G</figcaption>
+          <a class="more-info" href="./PSVita.html">Meer informatie</a>
+        </div>
+      </figure>
+
+      <figure>
+        <img
+          src="./assets/SVG's/DS/DsTankRoze.svg"
+          alt="Roze Nintendo DS Tank"
+          loading="lazy"
+        />
+        <div class="console-info">
+          <figcaption>Nintendo DS Tank</figcaption>
+          <a class="more-info" href="./NintendoDSTank.html">
+            Meer informatie
+          </a>
+        </div>
+      </figure>
+
+      <figure>
+        <img
+          src="./assets/SVG's/DS/DsiLitePink.svg"
+          alt="Roze Nintendo DSi Lite"
+          loading="lazy"
+        />
+        <div class="console-info">
+          <figcaption>Nintendo DSi Lite roze</figcaption>
+          <a class="more-info" href="./NintendoDSiLite.html">
+            Meer informatie
+          </a>
+        </div>
+      </figure>
+
+      <figure>
+        <img
+          src="./assets/SVG's/DS/DsiRood.svg"
+          alt="Rode Nintendo DSi"
+          loading="lazy"
+        />
+        <div class="console-info">
+          <figcaption>Nintendo DSi rood</figcaption>
+          <a class="more-info" href="./NintendoDSiRood.html">
+            Meer informatie
+          </a>
+        </div>
+      </figure>
+
+      <figure>
+        <img
+          src="./assets/SVG's/DS/DsiXLBordeaux.svg"
+          alt="Bordeauxrode Nintendo DSi XL"
+          loading="lazy"
+        />
+        <div class="console-info">
+          <figcaption>Nintendo DSi XL bordeaux</figcaption>
+          <a class="more-info" href="./NintendoDSiXL.html"> Meer informatie </a>
+        </div>
+      </figure>
+
+      <figure>
+        <img
+          src="./assets/SVG's/3DS/3dsXLHotPink.svg"
+          alt="Roze Nintendo 3DS XL"
+          loading="lazy"
+        />
+        <div class="console-info">
+          <figcaption>Nintendo 3DS XL hot pink</figcaption>
+          <a class="more-info" href="./Nintendo3DSXL.html"> Meer informatie </a>
+        </div>
+      </figure>
+
+      <figure>
+        <img
+          src="./assets/SVG's/3DS/New3dsZwart.svg"
+          alt="Zwarte New Nintendo 3DS"
+          loading="lazy"
+        />
+        <div class="console-info">
+          <figcaption>New Nintendo 3DS zwart</figcaption>
+          <a class="more-info" href="./NewNintendo3DS.html">
+            Meer informatie
+          </a>
+        </div>
+      </figure>
+    </main>
+
+    <section class="favorite">
+      <details>
+        <summary>Wat is mijn favoriete handheld?</summary>
+        <p>
+          Ik vind retro handhelds erg leuk omdat ze klein zijn, makkelijk mee te
+          nemen zijn en veel herinneringen oproepen. Ik vind het leuk om
+          verschillende consoles te verzamelen en hun verschillen te ontdekken.
+        </p>
+      </details>
+    </section>
+
     <footer>
-      <p>[Copyleft 2026, all wrongs reversed]</p>
+      <button type="button" id="openCookieModal">Cookie-instellingen</button>
+
+      <p>Copyleft 2026, all wrongs reversed</p>
     </footer>
+
+    <dialog id="cookieModal" aria-labelledby="cookieTitle">
+      <h2 id="cookieTitle">Cookie-instellingen</h2>
+
+      <p>
+        Deze website maakt gebruik van GitHub Pages voor hosting en van het
+        Digitaal Tuintje-webringcomponent.
+      </p>
+
+      <p id="cookieMessage" aria-live="polite">
+        Kies hieronder een optie. Deze website slaat je keuze niet op en
+        schakelt het webringcomponent hiermee niet uit.
+      </p>
+
+      <div class="dialog-buttons">
+        <button type="button" data-cookie-choice="accept">Accepteren</button>
+        <button type="button" data-cookie-choice="reject">Weigeren</button>
+        <button type="button" class="close-dialog">Sluiten</button>
+      </div>
+    </dialog>
   </body>
 </html>

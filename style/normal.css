@@ -1,0 +1,791 @@
+/**************************
+* MARK: Fonts
+**************************/
+
+@font-face {
+  font-family: "Press Start 2P";
+  src: url("../type/Press_Start_2P/PressStart2P-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/**************************
+* MARK: Custom properties
+**************************/
+
+html {
+  color-scheme: light dark;
+
+  --background: light-dark(white, #fd3db5);
+  --color: light-dark(#fd3db5, black);
+  --color-h1: light-dark(#fd3db5, black);
+
+  --background-button: light-dark(#fd3db5, #fd3db5);
+  --color-button: light-dark(white, black);
+  --background-button-hover: light-dark(black, white);
+  --color-button-hover: #fd3db5;
+
+  accent-color: light-dark(#fd3db5, white);
+
+  scrollbar-gutter: stable;
+}
+
+/**************************
+* MARK: Theme keuzes
+**************************/
+
+html:has([value="light-theme"]:checked) {
+  color-scheme: light;
+}
+
+html:has([value="dark-theme"]:checked) {
+  color-scheme: dark;
+}
+
+/**************************
+* MARK: Algemene styling
+**************************/
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+img,
+svg,
+video {
+  display: block;
+  max-width: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: "Press Start 2P", system-ui;
+  background-color: var(--background);
+  color: var(--color);
+}
+
+article {
+  line-height: 1.8;
+  overflow-wrap: anywhere;
+}
+
+/**************************
+* MARK: Navigation
+**************************/
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem;
+  padding: 1rem;
+}
+
+nav a {
+  display: inline-block;
+  font-family: inherit;
+  font-size: 0.75rem;
+  line-height: 1.8;
+  padding: 0.8rem 1rem;
+  background-color: var(--background-button);
+  color: var(--color-button);
+  border: 2px solid black;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+
+nav a:focus-visible {
+  outline: 3px solid var(--color);
+  outline-offset: 4px;
+}
+
+nav a:hover {
+  background-color: var(--background-button-hover);
+  color: var(--color-button-hover);
+}
+
+nav a:active {
+  transform: scale(0.96);
+}
+
+/**************************
+* MARK: Header and theme icons
+**************************/
+
+header {
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  gap: 0.5rem;
+  padding: 1rem;
+
+  background-color: var(--background);
+}
+
+header label {
+  grid-row: 1;
+  cursor: pointer;
+}
+
+header label:first-child {
+  grid-column: 2;
+}
+
+header label:nth-child(2) {
+  grid-column: 3;
+}
+
+header input {
+  opacity: 0;
+  margin: 0;
+}
+
+header label img {
+  display: block;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+}
+
+header label:hover img {
+  transform: scale(1.1);
+}
+
+header input:checked + img {
+  outline: 2px solid currentColor;
+  border-radius: 0.5rem;
+}
+
+header input:focus-visible + img {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+
+header details,
+header h2 {
+  grid-column: 1 / -1;
+}
+
+/**************************
+* MARK: Headings
+**************************/
+
+h1 {
+  grid-column: 1 / -1;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  color: var(--color-h1);
+  font-size: clamp(2.5rem, 8vw, 6rem);
+  text-align: center;
+  overflow-wrap: anywhere;
+}
+
+h2 {
+  line-height: 1.8;
+}
+
+/**************************
+* MARK: Main content
+**************************/
+
+main {
+  display: grid;
+  gap: 2rem;
+  padding: 1rem;
+}
+
+main:has(img) {
+  grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+}
+
+main img {
+  width: 100%;
+  height: 14rem;
+  object-fit: contain;
+  background-color: white;
+  border: 2px solid black;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+/**************************
+* MARK: Responsive grid
+**************************/
+
+@media (width > 40em) {
+  main:has(img) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (width > 60em) {
+  main:has(img) {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+/**************************
+* MARK: Buttons
+**************************/
+
+button {
+  font-family: inherit;
+  font-size: 0.75rem;
+  line-height: 1.8;
+  padding: 0.8rem 1rem;
+  background-color: var(--background-button);
+  color: var(--color-button);
+  border: 2px solid black;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  overflow-wrap: anywhere;
+}
+
+button:focus-visible {
+  outline: 3px solid var(--color);
+  outline-offset: 4px;
+}
+
+button:hover {
+  background-color: var(--background-button-hover);
+  color: var(--color-button-hover);
+}
+
+button:active {
+  transform: scale(0.96);
+}
+
+/**************************
+* MARK: Details and summary
+**************************/
+
+details {
+  border: 2px solid currentColor;
+  padding: 1rem;
+  line-height: 1.8;
+}
+
+summary {
+  cursor: pointer;
+  padding: 0.5rem;
+}
+
+summary:focus-visible {
+  outline: 3px solid var(--color);
+  outline-offset: 4px;
+}
+
+summary:hover {
+  background-color: var(--background-button);
+  color: var(--color-button);
+}
+
+summary:active {
+  background-color: var(--background-button-hover);
+  color: var(--color-button-hover);
+}
+
+details:open {
+  border-color: #fd3db5;
+}
+
+details:open summary {
+  background-color: var(--background-button);
+  color: var(--color-button);
+}
+
+/**************************
+* MARK: Dialogs
+**************************/
+
+dialog {
+  position: fixed;
+  width: min(90%, 40rem);
+  max-height: 85vh;
+  overflow-y: auto;
+  margin: auto;
+  background-color: var(--background);
+  color: var(--color);
+  border: 2px solid currentColor;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+
+  opacity: 0;
+  transform: scale(0.96);
+
+  transition:
+    opacity 200ms ease,
+    transform 200ms ease,
+    display 200ms allow-discrete,
+    overlay 200ms allow-discrete;
+}
+
+dialog[open] {
+  opacity: 1;
+  transform: scale(1);
+}
+
+@starting-style {
+  dialog[open] {
+    opacity: 0;
+    transform: scale(0.96);
+  }
+}
+
+dialog::backdrop {
+  background-color: rgb(0 0 0 / 0%);
+  backdrop-filter: blur(0);
+
+  transition:
+    background-color 200ms ease,
+    backdrop-filter 200ms ease,
+    display 200ms allow-discrete,
+    overlay 200ms allow-discrete;
+}
+
+dialog[open]::backdrop {
+  background-color: rgb(0 0 0 / 60%);
+  backdrop-filter: blur(3px);
+}
+
+@starting-style {
+  dialog[open]::backdrop {
+    background-color: rgb(0 0 0 / 0%);
+    backdrop-filter: blur(0);
+  }
+}
+
+dialog h2 {
+  padding-right: 0.5rem;
+}
+
+dialog p {
+  line-height: 1.8;
+  font-size: 0.75rem;
+}
+
+dialog form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+dialog form p {
+  flex-basis: 100%;
+}
+
+html:has(dialog[open]:modal) {
+  overflow: hidden;
+}
+
+/**************************
+* MARK: Dialog buttons
+**************************/
+
+.dialog-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.dialog-buttons button {
+  max-width: 100%;
+}
+
+.dialog-buttons button[aria-pressed="true"] {
+  border: 3px solid #fd3db5;
+}
+
+.dialog-buttons button[aria-pressed="false"] {
+  border: 2px solid black;
+}
+
+.dialog-buttons button:focus:not(:focus-visible) {
+  outline: none;
+}
+
+.dialog-buttons button:focus-visible {
+  outline: 3px solid black;
+  outline-offset: 3px;
+}
+
+/**************************
+* MARK: Footer
+**************************/
+
+footer {
+  margin-top: 2rem;
+  padding: 1rem;
+}
+
+footer button#openCookieModal {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 10;
+}
+
+/**************************
+* MARK: Console gallery
+**************************/
+
+main.console-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  padding: 1rem;
+}
+
+/* Eén consolekaart */
+
+main.console-gallery figure {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  margin: 0;
+  padding: 1rem;
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+/* Console-afbeelding */
+
+main.console-gallery figure img {
+  width: 100%;
+  height: 14rem;
+  object-fit: contain;
+  background-color: white;
+  border: 0;
+  padding: 0;
+  border-radius: 0;
+}
+
+/* Informatie onder de afbeelding */
+
+main.console-gallery .console-info {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 0.75rem;
+  min-width: 0;
+  margin-top: 1rem;
+}
+
+/* Naam van de console */
+
+main.console-gallery figcaption {
+  position: static;
+  max-width: 100%;
+  margin: 0;
+  padding: 0.75rem;
+  background-color: #fd3db5;
+  color: black;
+  border: 1px solid black;
+  border-radius: 0.25rem;
+  font-size: 0.65rem;
+  line-height: 1.8;
+  overflow-wrap: anywhere;
+  text-align: center;
+}
+
+/**************************
+* MARK: Meer informatie links
+**************************/
+
+.more-info {
+  display: block;
+  width: 100%;
+  margin-top: auto;
+  padding: 0.8rem 0.5rem;
+
+  background-color: var(--background-button);
+  color: var(--color-button);
+
+  border: 2px solid black;
+  border-radius: 0.5rem;
+
+  font-family: inherit;
+  font-size: 0.65rem;
+  line-height: 1.8;
+  text-align: center;
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+
+.more-info:hover {
+  background-color: var(--background-button-hover);
+  color: var(--color-button-hover);
+}
+
+.more-info:focus-visible {
+  outline: 3px solid var(--color);
+  outline-offset: 4px;
+}
+
+.more-info:active {
+  transform: scale(0.96);
+}
+
+/**************************
+* MARK: Grid view
+**************************/
+
+main.console-gallery.grid-view {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+/**************************
+* MARK: List view
+**************************/
+
+main.console-gallery.list-view {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  width: 100%;
+  max-width: 55rem;
+  margin-inline: auto;
+}
+
+main.console-gallery.list-view figure {
+  display: grid;
+  grid-template-columns: minmax(0, 12rem) minmax(0, 1fr);
+  align-items: center;
+  gap: 1rem;
+}
+
+main.console-gallery.list-view figure img {
+  height: 8rem;
+}
+
+main.console-gallery.list-view .console-info {
+  margin-top: 0;
+}
+
+main.console-gallery.list-view figcaption {
+  text-align: left;
+}
+
+/**************************
+* MARK: Layout controls
+**************************/
+
+.layout-controls {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  padding: 0 1rem;
+}
+
+/**************************
+* MARK: Responsive console layout
+**************************/
+
+@media (width > 40em) {
+  main.console-gallery.grid-view {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (width > 60em) {
+  main.console-gallery.grid-view {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 30em) {
+  main.console-gallery.list-view figure {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  main.console-gallery.list-view figure img {
+    height: 10rem;
+  }
+
+  main.console-gallery.list-view figcaption {
+    text-align: center;
+  }
+}
+
+/**************************
+* MARK: Reduced motion
+**************************/
+
+@media (prefers-reduced-motion: reduce) {
+  dialog,
+  dialog::backdrop {
+    transition: none;
+  }
+
+  button:active,
+  .more-info:active {
+    transform: none;
+  }
+
+  header label:hover img {
+    transform: none;
+  }
+}
+
+/**************************
+* MARK: Console detailpagina
+**************************/
+
+main.console-detail {
+  display: block;
+  width: 100%;
+  max-width: 60rem;
+  margin-inline: auto;
+  padding: 1rem;
+}
+
+.console-detail article {
+  width: 100%;
+  line-height: 1.8;
+}
+
+/* Grote afbeelding op de detailpagina */
+
+.detail-figure {
+  display: grid;
+  justify-items: center;
+  gap: 1rem;
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  border-radius: 0.5rem;
+}
+
+.detail-figure img {
+  width: 100%;
+  max-width: 28rem;
+  height: 24rem;
+  object-fit: contain;
+  padding: 1rem;
+  background-color: white;
+  border: 0;
+  border-radius: 0;
+}
+
+.detail-figure figcaption {
+  text-align: center;
+  font-size: 0.75rem;
+  line-height: 1.8;
+}
+
+.console-detail section {
+  margin-block: 2rem;
+  line-height: 1.8;
+}
+
+@media (max-width: 30em) {
+  .detail-figure {
+    padding: 0.75rem;
+  }
+
+  .detail-figure img {
+    height: 18rem;
+  }
+}
+
+/**************************
+* MARK: UX van HTML
+**************************/
+
+main form {
+  max-width: 35rem;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  border: var(--border-width) solid var(--accent-color);
+  border-radius: 1rem;
+  background: var(--background);
+  color: var(--color);
+}
+
+main form fieldset {
+  display: grid;
+  gap: 0.75rem;
+  min-width: 0;
+  border: 0;
+  padding: 0;
+}
+
+main form legend {
+  padding: 0 0 1rem;
+  font-weight: bold;
+}
+
+main form label {
+  margin-top: 0.5rem;
+}
+
+main form input,
+main form textarea {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
+  padding: 0.75rem;
+  border: var(--border-width) solid var(--accent-color);
+  border-radius: 0.5rem;
+  background: var(--background);
+  color: var(--color);
+  font: inherit;
+}
+
+main form textarea {
+  resize: vertical;
+}
+
+main form input:focus,
+main form textarea:focus {
+  border-color: var(--accent-color);
+  outline: var(--border-width) solid var(--accent-color);
+  outline-offset: var(--border-width);
+}
+
+main form label:has(+ input:focus),
+main form label:has(+ textarea:focus) {
+  font-weight: bold;
+}
+
+main form label:has(+ [required])::after {
+  content: " *";
+  color: var(--accent-color);
+}
+
+main form label:has(+ [required]:valid)::after {
+  color: green;
+}
+
+main form:valid {
+  border-color: green;
+}
+
+main form button {
+  margin-top: 1rem;
+  padding: 0.85rem 1rem;
+  border: var(--border-width) solid var(--accent-color);
+  border-radius: 0.5rem;
+  background: var(--accent-color);
+  color: var(--background);
+  font: inherit;
+  cursor: pointer;
+}
+
+@media (max-width: 40em) {
+  main form {
+    box-sizing: border-box;
+    width: calc(100% - 2rem);
+    margin: 1.5rem auto;
+    padding: 1rem;
+  }
+}

@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Nisha Prithipal" />
+    <meta name="color-scheme" content="dark light" />
+
+    <title>Suggest a Console | My Gaming Garden</title>
+    <link rel="stylesheet" href="./assets/style/normal.css" />
+  </head>
+
+  <body>
+    <header>
+      <label>
+        <input type="radio" name="theme" value="light-theme" checked />
+        <img
+          src="./assets/SVG's/Icons/LightFatsonToddWitROZE.svg"
+          alt="Licht thema"
+        />
+      </label>
+
+      <label>
+        <input type="radio" name="theme" value="dark-theme" />
+        <img
+          src="./assets/SVG's/Icons/DarkFatsonToddZwartROZEsvg.svg"
+          alt="Donker thema"
+        />
+      </label>
+
+      <h1>Suggest a Console</h1>
+    </header>
+
+    <nav aria-label="Main navigation">
+      <a href="./index.html">Home</a>
+      <a href="./Consoles.html">Consoles</a>
+      <a href="./suggest.html">Your Suggestions!</a>
+      <a href="./log.html">Log</a>
+      <a href="./story.html">Story</a>
+    </nav>
+
+    <main>
+      <section>
+        <h2>Help my Gaming Garden grow!</h2>
+
+        <p>
+          Know a retro console that belongs in my collection? Suggest one and
+          tell me why I should explore it!
+        </p>
+
+        <form>
+          <fieldset>
+            <legend>Your suggestion</legend>
+
+            <label for="visitor-name">Your name</label>
+            <input
+              id="visitor-name"
+              type="text"
+              placeholder="Enter your name"
+              required
+            />
+
+            <label for="visitor-email">Your email</label>
+            <input
+              id="visitor-email"
+              type="email"
+              placeholder="you@example.com"
+              required
+            />
+
+            <label for="console-name">Console name</label>
+            <input
+              id="console-name"
+              type="text"
+              placeholder="e.g. Nintendo DS"
+              required
+            />
+
+            <label for="console-reason">Why this console?</label>
+            <textarea
+              id="console-reason"
+              placeholder="Tell me why it belongs in my Gaming Garden..."
+              rows="4"
+            ></textarea>
+
+            <button type="submit">Submit suggestion</button>
+          </fieldset>
+        </form>
+      </section>
+    </main>
+
+    <footer>
+      <p>My Gaming Garden — growing one console at a time.</p>
+    </footer>
+  </body>
+</html>
