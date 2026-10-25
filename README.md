@@ -947,7 +947,7 @@ Notities gemaakt tijdens de college van Hans de Zwart. Het was informatief en le
 
 <img width="366" height="378" alt="Scherm­afbeelding 2026-10-17 om 19 14 23" src="https://github.com/user-attachments/assets/31af79fc-9ca5-4980-822c-2442276e953d" />
 
-Human Consent Component: Wat moet in onze cookies staan? 
+## Human Consent Component: Wat moet in je cookies staan? 
 1. Welke gegevens worden van jouw gebruikers verwerkt op jouw website? 
 - Microsoft, google fonts, GitHub pages hosting en digitaaltuintje component.
 
@@ -964,14 +964,6 @@ Human Consent Component: Wat moet in onze cookies staan?
 
 <img width="878" height="646" alt="Scherm­afbeelding 2026-10-25 om 02 24 07" src="https://github.com/user-attachments/assets/7704cf76-e5db-4907-b72b-5f559f170683" />
 
-## Compliance / Valide HTML
-
-Ik heb mijn Website gecheckt op wat ik gebruik:
-
-<img width="617" height="238" alt="Scherm­afbeelding 2026-09-28 om 13 08 46" src="https://github.com/user-attachments/assets/e9e58166-d22a-45e7-ac36-760eb1bcad69" /> 
-
-# NOG EEN KEER DOEN EN OPNIEUW FOTO 
-
 # Cookies accepteren:
 
 <img width="1268" height="62" alt="Scherm­afbeelding 2026-09-26 om 16 56 53" src="https://github.com/user-attachments/assets/c6e60c2e-3ddb-4117-8f54-e9cd5bb7b82e" />
@@ -979,6 +971,14 @@ Ik heb mijn Website gecheckt op wat ik gebruik:
 <img width="1680" height="298" alt="Scherm­afbeelding 2026-09-26 om 16 56 45" src="https://github.com/user-attachments/assets/808d126e-8b3f-468e-8e90-3b6f5f56c070" />
 
 (Zo zag het er eerst uit ik heb het later aangepast en volgens mijn huisstijl gemaakt)
+
+## Compliance / Valide HTML
+
+Ik heb mijn Website gecheckt op wat ik gebruik:
+
+<img width="617" height="238" alt="Scherm­afbeelding 2026-09-28 om 13 08 46" src="https://github.com/user-attachments/assets/e9e58166-d22a-45e7-ac36-760eb1bcad69" /> 
+
+# NOG EEN KEER DOEN EN OPNIEUW FOTO 
 
 
 ### SPRINT 2. - Bi-weekly 2:
@@ -1000,11 +1000,10 @@ Vreselijke experience, was erg lastig en vervelend om te gebruiken zo zie je wel
 #### User testing / Toegankelijkheid testen: 
 
 Je gaat drie testen doen:
-
-Screenreader
-Alleen-een-toetsenbord
-WCAG checklist
-Van elk test neem je een kort verslag op van de goede en nog-niet-goede punten - met screenshots  - in je learning-log.
+1. Screenreader
+2. Alleen-een-toetsenbord
+3. WCAG checklist
+- Van elk test neem je een kort verslag op van de goede en nog-niet-goede punten - met screenshots  - in je learning-log.
 
 
 
@@ -1044,17 +1043,14 @@ Van elk test neem je een kort verslag op van de goede en nog-niet-goede punten -
 
 ### Sprint 2.2:
 1. Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
-- 
+- HTML validatie is het controleren of je HTML code aan de regels en standaarden voldoet. Het is belangrijk voor de toegankelijkheid, structuur en het onderhouden van je website. Dit heb ik kunnen checken met W3C HTML Checker, dit heeft mijn website gecontroleerd en naar de fouten en waarschuwingen heeft gekeken.
 
 2. Welke dingen vielen je op?
-- 
+- Het viel me op dat mijn website er goed uit kon zien, terwijl er toch fouten in mijn HTML-code zaten. Ik heb geleerd dat een browser fouten soms zelf herstelt, waardoor je niet altijd door hebt dat er iets mis is met je code.
 
 3. Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
 - ### Wat heb ik veranderd na reflectie en feedback?
 Ik ben later terug gekomen op mijn sticky header, het was erg vervelend tijdens het gebruiken van de website waardoor je de tekst soms niet goed kon lezen. Het idee was er, maar het bleek toch onhandig te zijn. Ik heb mijn cookie venster sticky gemaakt en dat bleek veel handiger te zijn. 
-
-
-# Kijk bij notities!!
 
 ### Sprint 2.3: Bi-weekly
 
@@ -1339,3 +1335,19 @@ Ik ga deze technieken gebruiken voor mijn de links naar mijn gaming verhalen / e
 <img width="573" height="555" alt="Scherm­afbeelding 2026-10-20 om 02 12 59" src="https://github.com/user-attachments/assets/c1636e61-3633-47c1-af00-fc6aaed9257f" />
 
 # Probeer alle img een andere alt naam te geven ipv schermafbeelding 12345 etc x
+
+
+# SPRINT 2 - Retrospective: Tijdens mijn 1ste sprint had ik een aantal; ups en downs. Ik heb wel veel kunnen leren over HTML en CSS. Ik ben bezig geweest met het maken van mijn eigen website en ook al vond ik het lastig om hieraan te beginnen heb ik veel nieuwe info kunnen leren en toepassen op mijn website. 
+- Nieuwe 2de sprint verhaal
+
+
+
+# SPRINT 3: Digital Garden
+# SPRINT 3 - Check Out:
+
+### Sprint 3.1:
+# SPRINT 3 - Deep Dives:
+
+### S3 - Buttons, states en selectors (Vasilis)
+
+#### Wat heb ik geleerd?
