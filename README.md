@@ -909,13 +909,13 @@ Nu ziet het er zo uit:
 ## HTML Structuur extra uitleg:
 
 - < div > kan je gebruiken als het geen waarde heeft maar je het toch samen wilt hebben.
-- <nav > </ nav> geeft richting aan bijv. link naar andere pagina’s. 
+- < nav > </ nav > geeft richting aan bijv. link naar andere pagina’s. 
 - Kan opdrachten geven aan zijn bowser —> mensen die handicap hebben —> voegt lage UX toe
-- <div class = “nav”> </div > —> doet niks.
-- <header > </header > —> kopje. 
+- < div class = “nav” > </ div > —> doet niks.
+- < header > </ header > —> kopje. 
 - Header is voor meta die is onzichtbaar en staat boven je html.
-- <footer > </ footer> —> copyright dingetjes, contact gegevens, hoeft niet onderaan te staan, het is meta data!! Info over de website niet de content zelf maar informatie er over.
-- <main > </ main> —> primary content de reden waarom je naar die pagina gaat. Om de content in de main te zien.
+- < footer > </ footer > —> copyright dingetjes, contact gegevens, hoeft niet onderaan te staan, het is meta data!! Info over de website niet de content zelf maar informatie er over.
+- < main > </ main > —> primary content de reden waarom je naar die pagina gaat. Om de content in de main te zien.
 
 ## Opdracht in de les: Cookies Werkblad + Volkskrant (DPG) en Paradiso
 
@@ -931,26 +931,44 @@ Als je de cookies niet accepteert kan je de video niet bekijken:
 
 <img width="384" height="117" alt="Scherm­afbeelding 2026-09-21 om 15 11 51" src="https://github.com/user-attachments/assets/94a84544-d72b-4527-be53-22ea0ccc6e5e" />
 
-# Human Consent Component:
-Notities gemaakt tijdens de college van Hans de Zwart. Het was erg informatief en leerzaam. 
-# Foto's maken van notities en hierbij plaatsen !!!!
+## Human Consent Component:
+Notities gemaakt tijdens de college van Hans de Zwart. Het was informatief en leerzaam.
 
-Wireframes + Dark Pattern herontwerp: 
-# korte samenvatting + foto's plaatsen samen gemaakt met de meiden
+<img width="598" height="731" alt="Scherm­afbeelding 2026-10-24 om 20 00 55" src="https://github.com/user-attachments/assets/bc0db1dc-a151-44aa-a3e2-78252484367b" />
+
+<img width="549" height="784" alt="Scherm­afbeelding 2026-10-24 om 20 01 05" src="https://github.com/user-attachments/assets/478bf369-a023-4de8-892f-e1fbf83d5506" />
+
+<img width="557" height="820" alt="Scherm­afbeelding 2026-10-24 om 20 01 13" src="https://github.com/user-attachments/assets/552ac28b-0cf6-498a-9c87-1c3a8e375474" />
+
+<img width="780" height="250" alt="Scherm­afbeelding 2026-10-24 om 20 01 22" src="https://github.com/user-attachments/assets/af8d6136-6c5a-44bc-81eb-12b979157e36" />
+
+## Wireframes + Dark Pattern herontwerp: 
+<img width="1181" height="818" alt="Scherm­afbeelding 2026-10-17 om 19 14 00" src="https://github.com/user-attachments/assets/aceda837-0a84-4895-a42e-922318d48271" />
+
+<img width="366" height="378" alt="Scherm­afbeelding 2026-10-17 om 19 14 23" src="https://github.com/user-attachments/assets/31af79fc-9ca5-4980-822c-2442276e953d" />
 
 Human Consent Component: Wat moet in onze cookies staan? 
-1. microsoft, google fonts, GitHub pages hosting en digitaaltuintje component.
-2. s
-3. s
-4. s
-# Notities opzoeken en opschrijven !!!
+1. Welke gegevens worden van jouw gebruikers verwerkt op jouw website? 
+- Microsoft, google fonts, GitHub pages hosting en digitaaltuintje component.
 
+2. Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website?
+- Ik kan gebruikers informeren met een privacyverklaring op mijn digital garden. Hierin leg ik uit welke gegevens worden verwerkt, welke diensten ik gebruik, waarom die gegevens nodig zijn en met wie ze gedeeld kunnen worden. Het is belangrijk dat de informatie duidelijk en makkelijk te vinden is. Ik zou bijv. onderaan een kleine melding tonen met een link voor meer informatie.
 
-# Compliance / Valide HTML
+3. Op welke manier kan je instemming vragen? Min. 10 verschillende manieren
+- 1. Cookiebanner, 2. pop-up, 3. voorkeuren instellen, 4. checkbox, 5. toggle/schuifknop, 6. opties (accepteren, weigeren of voorkeuren instellen), 7. privacyverklaring met link, 8. vaste/sticky knop (kan je later altijd nog mee veranderen), 9. toestemming met formulier, 10. tweestap melding (keuze meer info/instellingen) 
+
+4. Wat werkt en past binnen de layout van jouw digital garden? 
+- Mijn Digital Garden heet My Gaming Garden en heeft een retro gaming stijl met voornamelijk de kleuren roze, zwart en wit. Ik zou graag een consent-component maken dat bij mijn website past, zonder dat het ontwerp te druk wordt (vind ik zelf ook niet fijn) of dat de inhoud in de weg zit. Ik vind nummer 8, het idee van een sticky knop waar je je keuzes nog kan aanpassen erg fijn, want toen ik bij ticketmaster aan het kijken was, was het erg lastig om dit terug te vinden. Ik ga voor een kleine privacy banner met een makkelijke keuze tussen accepteren en weigeren. Wellicht dat ik later wel een link wil toevoegen voor extra informatie.
+
+## Opdracht Human Consent Component (Wireframes en wireflows):
+
+<img width="878" height="646" alt="Scherm­afbeelding 2026-10-25 om 02 24 07" src="https://github.com/user-attachments/assets/7704cf76-e5db-4907-b72b-5f559f170683" />
+
+## Compliance / Valide HTML
 
 Ik heb mijn Website gecheckt op wat ik gebruik:
 
-<img width="617" height="238" alt="Scherm­afbeelding 2026-09-28 om 13 08 46" src="https://github.com/user-attachments/assets/e9e58166-d22a-45e7-ac36-760eb1bcad69" />
+<img width="617" height="238" alt="Scherm­afbeelding 2026-09-28 om 13 08 46" src="https://github.com/user-attachments/assets/e9e58166-d22a-45e7-ac36-760eb1bcad69" /> 
 
 # NOG EEN KEER DOEN EN OPNIEUW FOTO 
 
@@ -1075,7 +1093,7 @@ Een website gaat niet alleen over hoe het er uit ziet, maar ook over hoe het rea
 4. button:active:  -> dit geeft feedback wanneer de button wordt ingedrukt.
 
 ##### Interactie met details en summary:
-Met <details> en <summary> kan je een uitklapbaar onderdeel maken, bijv. een FAQ (frequently asked questions) of andere dingetjes. De gebruiker kan dan klikken op de summary om het antwoord te openen of te sluiten en dit werkt zonder JavaScript.
+Met < details > en < summary > kan je een uitklapbaar onderdeel maken, bijv. een FAQ (frequently asked questions) of andere dingetjes. De gebruiker kan dan klikken op de summary om het antwoord te openen of te sluiten en dit werkt zonder JavaScript.
 
 #### Wat neem ik mee:
 Op mijn website heb ik deze states toegepast op de buttons van mijn cookie menu. De kleuren passen bij mijn huisstijl met roze, wit en zwart. Ik gebruik CSS variabelen, zodat de vormgeving aansluit bij mijn light en dark modes.
@@ -1084,7 +1102,7 @@ Bij :focus-visible gebruik ik een duidelijke outline, zodat bezoekers duidleijk 
 
 Ik had :hover en :focus-visible toegepast op mijn knoppen voor het wisselen van het thema. Deze werken met labels en radio-inputs in plaats van gewone buttons.
 
-Ik kan dus deze nieuwe technieken gebruiken om mijn buttons duidelijker te maken en bezoekers feedback te geven wanneer ze ermee interacteren. Ik kan ook <details> en <summary> gebruiken om extra informatie over mijn favoriete consoles en games uitklapbaar te maken. Hierdoor wordt mijn website niet alleen visueel aantrekkelijker, maar ook duidelijker en toegankelijker in gebruik.
+Ik kan dus deze nieuwe technieken gebruiken om mijn buttons duidelijker te maken en bezoekers feedback te geven wanneer ze ermee interacteren. Ik kan ook < details > en < summary > gebruiken om extra informatie over mijn favoriete consoles en games uitklapbaar te maken. Hierdoor wordt mijn website niet alleen visueel aantrekkelijker, maar ook duidelijker en toegankelijker in gebruik.
 
 #### Wat heb ik hiervan geleerd?
 Ik heb geleerd dat interactie niet alleen visueel mooi moet zijn, maar ook duidelijk en toegankelijk moet werken en door de verschillende states te stylen, krijgen de bezoekers gelijk feedback wanneer ze mijn website gebruiken.
@@ -1130,7 +1148,7 @@ Ik heb ook geleerd dat je buttons op twee manieren aan JavaScript kunt koppelen:
 
 ##### Dialogs:
 Met het HTML element <dialog> kan ik een popup maken met extra informatie, instellingen of andere inhoud.
-- <dialog> -> Maakt het popupvenster
+- < dialog > -> Maakt het popupvenster
 - id="info" -> Geeft de dialog een unieke naam.
 - commandfor="info" -> Verwijst naar de dialog die de button bedient.
 - command="show-modal" -> Opent de dialog als modaal venster.
