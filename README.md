@@ -1,4 +1,4 @@
-# SPRINT 0: Kick Off, Learning Log
+<img width="594" height="729" alt="Scherm­afbeelding 2026-10-26 om 01 01 12" src="https://github.com/user-attachments/assets/aa9892bf-8134-4659-880a-4c429bbbce88" /># SPRINT 0: Kick Off, Learning Log
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
 <img width="585" height="33" alt="Scherm­afbeelding 2026-09-10 om 20 54 21" src="https://github.com/user-attachments/assets/2d2485f8-723c-4592-a2e7-e2a5a0f0afcf" />
@@ -974,12 +974,28 @@ Notities gemaakt tijdens de college van Hans de Zwart. Het was informatief en le
 
 ## Compliance / Valide HTML
 
-Ik heb mijn Website gecheckt op wat ik gebruik:
+Ik heb mijn website gecheckt op wat ik gebruik tot nu: 1ste keer
 
 <img width="617" height="238" alt="Scherm­afbeelding 2026-09-28 om 13 08 46" src="https://github.com/user-attachments/assets/e9e58166-d22a-45e7-ac36-760eb1bcad69" /> 
 
-# NOG EEN KEER DOEN EN OPNIEUW FOTO 
+Ik heb later na het toepassen van alle deepdives mijn website nog een keer gecheckt, aangezien ik nu veel meer codes heb:
 
+### Wat heb ik aangepast? 
+- Ik was bij een section vergeten een h2 te zetten, heb ik makkelijk aan kunnen passen.
+- Er werd mij uitgelegd dat je figcaption niet in je div mag hebben, dus heb ik dat mooi aangepast.
+- Je ziet bij PSP 3004 Roze de 'before' hoe de code ervoor eruit zag en bij PSvita Oled 3G zie je de 'after' de code die ik erna heb aangepast. Het was uiteindelijk een makkelijke aanpassing.
+
+<img width="530" height="440" alt="consoles html codes boven staat de foute code en onder de juiste manier" src="https://github.com/user-attachments/assets/59f2ed24-6e4d-4a0d-97b8-b042f2636e72" />
+
+- Daarna heb ik het nog een keer gecheckt, toen stond hier van haal je divs weg, maar aangezien er veel in mn CSS staat heb ik het laten staan. Als het echt een probleem wordt, kan ik het veranderen, maar ik heb het zo geleerd in de deepdives om met die div te werken.
+
+<img width="986" height="864" alt="Validatie consoles html" src="https://github.com/user-attachments/assets/c51236f8-fe7d-47cc-a85d-dd8ea4a98245" />
+
+Ik heb ook een aantal andere pagina's gecheckt en die zagen er wel allemaal goed uit:
+
+<img width="1011" height="607" alt="Validatie index html" src="https://github.com/user-attachments/assets/c86c6c6e-8688-45d3-a349-16c8b168e023" />
+
+<img width="1037" height="585" alt="Validatie suggest html" src="https://github.com/user-attachments/assets/b80fa0fe-4b98-4256-9ed3-7f4ab2845cb9" />
 
 ### SPRINT 2. - Bi-weekly 2:
 
@@ -990,22 +1006,95 @@ UX = User Experience
 
 <img width="986" height="658" alt="Scherm­afbeelding 2026-09-28 om 12 06 45" src="https://github.com/user-attachments/assets/9434d0f1-dd70-4253-9126-4c8d9b5ce374" />
 
-Spiekbrief: Screenreader
-Vreselijke experience, was erg lastig en vervelend om te gebruiken zo zie je wel in hoe lastig mensen het hebben met een disability.
+#### Spiekbrief: Screenreader
 
 <img width="718" height="550" alt="Scherm­afbeelding 2026-09-28 om 14 25 22" src="https://github.com/user-attachments/assets/5904c9b4-e20d-47c1-9747-2ebdff706a9d" />
 
-<img width="1678" height="960" alt="Scherm­afbeelding 2026-09-28 om 14 31 15" src="https://github.com/user-attachments/assets/81a656b2-ce81-45df-970c-35a044c4df4c" />
-
 #### User testing / Toegankelijkheid testen: 
-
-Je gaat drie testen doen:
+Ik heb samen met Alara 3 testen gedaan
 1. Screenreader
 2. Alleen-een-toetsenbord
 3. WCAG checklist
-- Van elk test neem je een kort verslag op van de goede en nog-niet-goede punten - met screenshots  - in je learning-log.
 
+Ik vond het persoonlijk geen fijne ervaring, het was erg lastig en vervelend om te gebruiken. Hierdoor zag ik wel in hoe lastig mensen het hebben met een disability.
 
+<img width="1678" height="960" alt="Scherm­afbeelding 2026-09-28 om 14 31 15" src="https://github.com/user-attachments/assets/81a656b2-ce81-45df-970c-35a044c4df4c" />
+
+Ik vond het bijvoorbeeld erg lastig om mijn handen hiermee te bewegen en mijn laptop te gebruiken. Ik heb soms zelf ook wel krampen en last van mijn vingers, maar dit was natuurlijk op een heel ander niveau. Het was erg frustrerend en alles ging erg moeizaam. Hierdoor heb ik nu wel een beter begrip dat mensen die deze aandoening hebben ook snel vermoeid en gefrustreerd raken. 
+
+<img width="608" height="805" alt="Scherm­afbeelding 2026-10-26 om 01 00 57" src="https://github.com/user-attachments/assets/48e82c4c-b630-4ab9-a791-93eca3a5d239" />
+
+<img width="594" height="729" alt="Scherm­afbeelding 2026-10-26 om 01 01 12" src="https://github.com/user-attachments/assets/0c719a81-8e33-43d9-9270-e68d85cdc873" />
+
+<img width="593" height="691" alt="Scherm­afbeelding 2026-10-26 om 01 02 37" src="https://github.com/user-attachments/assets/14ad9af8-41a8-4a89-a199-bb8eb59d56fc" />
+
+<img width="571" height="740" alt="Scherm­afbeelding 2026-10-26 om 01 02 54" src="https://github.com/user-attachments/assets/93d176c0-62b3-48d3-8f69-36fb06f80457" />
+
+#### Toegankelijkheid testen:
+- Mijn homepage heeft een duidelijke hoofd kop.
+- Mijn content is verdeeld met tussen koppen.
+- De navigatie heeft herkenbare namen zoals Home, Consoles, suggestions, etc.
+- De cookie instellingen hebben afzonderlijke knoppen voor accepteren, weigeren en sluiten.
+- Structuur lijkt te kloppen.
+- Voice over / screenreader alles leek goed te werken, als je bij de cookie instellingen op de weiger knop klikte hoorde je ook de tekst die erbij hoorde.
+- Alle knoppen zijn te gebruiken.
+- Het is gelukt om de light en dark knoppen te gebruiken.
+
+<img width="852" height="508" alt="toegankelijkheid testen screenreader licht modus" src="https://github.com/user-attachments/assets/61ab5482-6bbe-49da-9b32-e855bf60a56c" />
+
+<img width="806" height="466" alt="hand die knoppen ingedrukt heeft om toegankelijkheid te testen" src="https://github.com/user-attachments/assets/de3ae3b4-9704-4ec7-be2a-3602e5b9ceab" />
+
+<img width="853" height="536" alt="toegankelijkheid testen screenreader donkere modus" src="https://github.com/user-attachments/assets/60f794a3-fad8-4c0c-bce3-e55c2c324795" />
+
+Verder heb ik ook gekeken naar het kleuren contrast en hoe het zit met de leesbaarheid:
+
+<img width="38" height="37" alt="Kleuren contrast checker app" src="https://github.com/user-attachments/assets/9ce75864-0f05-4d74-8e40-4ea6853d93a2" />
+
+#### Toegankelijkheid - Wat kan ik aanpassen:
+- Mijn licht mode bleek qua kleuren contrast niet goed genoeg te zijn, de donkere modus zag er wel goed uit. Ik zag wel dat normale contrast zwart/wit er wel goed uit ziet. Ik moet dus even kijken hoe ik dit zou willen aanpassen. Het is echt het lettertype kleur dat mensen met disabilaties niet goed gaan kunnen zien.
+
+<img width="481" height="786" alt="Kleuren contrast checker - Roze tekst met witte achtergrond" src="https://github.com/user-attachments/assets/8d86061d-8a1d-4266-8ca5-726c7b9ecf4d" />
+
+<img width="479" height="752" alt="Kleuren contrast checker - zwarte tekst met roze achtergrond" src="https://github.com/user-attachments/assets/aa64ddca-e3f7-4d3a-a445-9796100c753f" />
+
+<img width="477" height="647" alt="Kleuren contrast checker - zwarte tekst met witte achtergrond" src="https://github.com/user-attachments/assets/cc8e7bf3-4a81-4927-ac3a-74ac7889b6a5" />
+
+Ik heb deze websites gebruikt om te kijken voor mensen die kleurenblind zijn:
+- https://www.toptal.com/designers/colorfilter
+- https://bioapps.byu.edu/colorblind_image_tester
+
+Protanopia: 
+
+<img width="1361" height="692" alt="Kleurenblind test - Protanopia" src="https://github.com/user-attachments/assets/80b54576-dfe3-4236-b015-35e226691366" />
+
+<img width="1358" height="378" alt="Kleurenblind test - Protanopia2" src="https://github.com/user-attachments/assets/fa2dac95-96ad-4c5e-b28f-02a290cf498c" />
+
+Tritanopia:
+
+<img width="920" height="680" alt="Kleurenblind test - Tritanopia" src="https://github.com/user-attachments/assets/43e5a48a-8433-4c9c-be4c-a35081278c7f" />
+
+Greyscale Achromatopsia:
+
+<img width="889" height="688" alt="Kleurenblind test -  Greyscale Achromatopsia " src="https://github.com/user-attachments/assets/4c2f63a9-2e9c-4d97-b252-001169842def" />
+
+Deuteranopia:
+
+<img width="926" height="737" alt="Kleurenblind test - Deuteranopia" src="https://github.com/user-attachments/assets/60bc72d7-22fc-42e5-8492-7a5e2b7f3339" />
+
+Ik heb ook gekeken naar hoe het eruit ziet in donkere mode:
+
+<img width="959" height="627" alt="Kleurenblind test - Deuteranopia donkere mode intro" src="https://github.com/user-attachments/assets/1c1cedd0-8bdc-443e-bbf8-76988edbaa90" />
+
+<img width="979" height="778" alt="Kleurenblind test - Deuteranopia donkere mode consoles" src="https://github.com/user-attachments/assets/c383a824-2b8d-4298-9eaa-c19d655f8f39" />
+
+<img width="848" height="569" alt="Kleurenblind test - Deuteranopia donkere mode meer consoles " src="https://github.com/user-attachments/assets/b0c0294f-d75d-42d9-84c6-7482105fcc4b" />
+
+Resultaat bleek dat het 99,88% vriendelijk is voor mensen met deuteranopia:
+
+<img width="760" height="271" alt="Kleurenblind test - Deuteranopia donkere mode resultaat" src="https://github.com/user-attachments/assets/7d1805a1-9827-411e-a1bd-dc503246e787" />
+
+#### Spiekbrief: Voice over uitschakelen
+- Command ingedrukt houden en 3x op ID knop klikken.
 
 
 # SPRINT 2 - Check Out:
@@ -1027,8 +1116,7 @@ Je gaat drie testen doen:
 - GitHub pages hosting
 - digitaaltuintje component
 
-# Schets zoeken van mijn human consent component.
-# Welke vorm krijgt deze? En waarom kies je hier specifiek voor? Gebruik je opgedane kennis en de bad/best practices die je hebt onderzocht als leidraad. Maak een begin aan je HTML structuur. Welke informatie moet er sowieso aan de gebruiker getoond worden?
+Ik kies voor cookie banner met een sticky knop. Er komt een een dialoogvenster te voorschijn wanneer de gebruiker op de vaste Cookie instellingen knop rechtsonder op de website klikt. Ik kies hier voor, omdat het duidelijk is en laat de gebruiker de informatie zien en de keuzes staan vast, het niet te opdringerig is, het gaat pas open als iemand erop klikt, laat de gebruiker zelf keuzes maken, past bij mijn stijl en is toegankelijk er komt een tekst als je accepteert of weigert en je kan het goed bedienen met je muis en toetsenbord. De tekst moet ook simpel en duidelijk zijn, niet al te ingewikkeld.
 
 ### Sprint 2.2:
 
@@ -1066,13 +1154,15 @@ Ik ben later terug gekomen op mijn sticky header, het was erg vervelend tijdens 
 ### Sprint 2.4: Bi-weekly
 
 1. Waar staat WCAG en A11y voor?
-- 
+- WCAG staat voor Web Content Accessibility Guidelines. Dit zijn richtlijnen die helpen om websites toegankelijk te maken voor iedereen, ook voor mensen die een beperking hebben. A11y is eigenlijk een afkorting van accessibility. Het getal 11 staat voor de elf letters tussen de A en de Y. Het gaat over de toegankelijkheid en hoe je ervoor kunt zorgen dat iedereen een website kan gebruiken.
 
 2. Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
-- 
+- Ik vond het werken met een screenreader lastiger, omdat je niet alleen hoeft te kijken naar de website, maar je ook moet luisteren naar wat er wordt voorgelezen. Je moet goed begrijpen hoe je je door de website navigeert en hoe je bij de verschillende knoppen en links terecht kan komen. Het was wel fijn om te zien dat de screenreader wel werkte op mijn. Ik zou wel nog moeten oefenen met de sneltoetsen en het controleren van de koppen en interactieve elementen. Ik vind het gebruik hiervan na een tijdje vervelend, wat mensen met disabilities waarschijnlijk zelf ook vaak ervaren. 
 
-3. Met welke beperking rekening houden vind je het meest lastig? Vind je dat je beperkt wordt in wat je kunt ontwerpen? Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
--    
+3. Met welke beperking rekening houden vind je het meest lastig? Vind je dat je beperkt wordt in wat je kunt ontwerpen? Of heb je al manieren gevonden om vanuit een solide basis -die voor iedereen toegankelijk is- allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
+- Ik vind het wel lastig om rekening te houden met mensen die moeite hebben met het zien van kleuren en contrasten. Ik kwam namelijk tijdens het testen erachter dat mijn roze tekst op een witte achtergrond niet genoeg contrast heeft. In de donkere modus zag het er wel beter uit, maar ik moet hierdoor wel gaan kijken hoe ik mijn lichte modus toegankelijker kan maken zonder dat ik mijn eigen stijl verlies.
+
+- Verder vind ik niet per se dat toegankelijkheid je beperkt in wat je allemaal kunt ontwerpen. Ik vind het juist wel fijn dat iedereen ongeacht hun disabillaty mijn website zouden kunnen gebruiken. Het is wel zo dat je soms alleen bepaalde keuzes zou moeten maken die je voorheen nooit zou hebben bedacht. Ik kan bijv. mijn roze kleuren blijven gebruiken voor accenten, maar voor langere teksten een andere kleur kiezen die beter leesbaar zal zijn. Zo kan ik mijn website er wel leuk laten uitzien, maar dat het tegelijkertijd toch toegankelijker is voor meer mensen.
 
 
 # SPRINT 2 - Deep Dives:
