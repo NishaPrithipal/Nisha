@@ -1,4 +1,4 @@
-<img width="594" height="729" alt="Scherm­afbeelding 2026-10-26 om 01 01 12" src="https://github.com/user-attachments/assets/aa9892bf-8134-4659-880a-4c429bbbce88" /># SPRINT 0: Kick Off, Learning Log
+# SPRINT 0: Kick Off, Learning Log
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
 <img width="585" height="33" alt="Scherm­afbeelding 2026-09-10 om 20 54 21" src="https://github.com/user-attachments/assets/2d2485f8-723c-4592-a2e7-e2a5a0f0afcf" />
