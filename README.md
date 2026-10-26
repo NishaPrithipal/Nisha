@@ -1500,7 +1500,65 @@ Het begin van sprint 2 ging goed, na de bi-weekly was er iets in mijn privé omg
 
 Gedurende sprint 2 heb ik veel geleerd over HTML, CSS, toegankelijkheid en het verbeteren van mijn website. Ik vond het heel erg leuk om mijn eigen consoles in Figma te maken en steeds meer onderdelen aan mijn digital garden toe te voegen. Natuurlijk kwam ik ook problemen tegen, bijv. vaak bij het controleren van mijn HTML, hiermee spelen en het testen van de toegankelijkheid. Door dit bij elkaar kwam ik erachter dat een website veel meer is dan er alleen goed moeten uitzien, maar dat het belangrijk is dat het ook goed te gebruiken is voor iedereen. Ik heb geleerd dat fouten maken bij het ontwerpproces hoort en dat ik hiervan kan leren om mijn website verder te verbeteren.
 
+
+
 # SPRINT 3: Digital Garden
+
+## Wat heb ik aangepast? 
+- Na feedback kwam ik erachter dat mijn cookie instellingen niet op elke pagina hetzelfde bleek te zijn. Dat was voornamelijk bij al mn extra informatie consoles en bij mijn suggestions. Dit heb ik aangepast en nu staat het wel overal goed.
+
+- donkere mode de navigatie niet fijn oogt, verandert 
+- donkere mode geen border het verdween, witte border gegeven. 
+- cookie donkere mode ook geen border dus nu ook witte border.
+# FOTO
+
+#### Suggestie formulier lichte mode: 
+
+<img width="608" height="620" alt="suggestie formulier 1ste versie" src="https://github.com/user-attachments/assets/8dff517e-0929-4bff-a84e-bc0a8ebfd375" />
+
+<img width="589" height="606" alt="suggestie formulier 2de versie" src="https://github.com/user-attachments/assets/8e79bc6a-fc50-41e0-a703-d289c3c49d6b" />
+
+<img width="601" height="611" alt="suggestie formulier nieuwe versie border zwart" src="https://github.com/user-attachments/assets/0ee22d67-c957-4e18-beec-fedcff517b36" />
+
+#### Suggestie formulier donkere mode: 
+
+<img width="609" height="601" alt="suggestie formulier 1ste versie donkere mode" src="https://github.com/user-attachments/assets/c0b1fe7b-5e8d-4eea-913c-8336303a6abd" />
+
+<img width="606" height="605" alt="suggestie formulier 2de versie donkere mode" src="https://github.com/user-attachments/assets/48505133-2a45-4af7-bd75-88beef729197" />
+
+<img width="606" height="617" alt="suggestie formulier nieuwe versie border zwart donkere mode" src="https://github.com/user-attachments/assets/3ea53302-65e2-4d18-a9bb-353567978e45" />
+
+#### Navigatie en cookie knoppen: Donkere mode
+
+Navigatie en cookie knoppen zagen in de donkere er niet goed uit, heb dit aangepast.
+
+<img width="832" height="82" alt="aangepaste navigatie donkere mode" src="https://github.com/user-attachments/assets/dc2ba330-f4f8-4532-9261-e79dea5b3e72" />
+
+<img width="828" height="82" alt="aangepaste navigatie donkere mode witte border" src="https://github.com/user-attachments/assets/b0acc4b3-4935-430b-870e-4ca368eea362" />
+
+<img width="832" height="87" alt="aangepaste navigatie donkere mode witte border tijdens hover mode" src="https://github.com/user-attachments/assets/c031ef28-1ef1-4049-99cb-bec243f5c4c9" />
+
+<img width="286" height="79" alt="aangepaste cookie knop donkere mode" src="https://github.com/user-attachments/assets/ed18fff1-d224-408b-a0b2-193df943fb95" />
+
+<img width="289" height="80" alt="aangepaste cookie knop donkere mode witte border" src="https://github.com/user-attachments/assets/72fbd59b-525c-40f2-953d-d4edd8572616" />
+
+- Verder waren niet al mijn custom properties correct.
+- aangepast
+# FOTO
+
+<img width="199" height="133" alt="Custom properties colors" src="https://github.com/user-attachments/assets/3a044a1c-d1a0-4b59-999e-4630d09dc592" />
+
+
+- licht donkere mode ging niet opslaan als je naar andere pagina ging.
+# FOTO
+
+<img width="1044" height="517" alt="Donkere mode opgeslagen" src="https://github.com/user-attachments/assets/8b488324-17e8-4eeb-8e60-2ed62b010140" />
+
+<img width="1038" height="613" alt="Donkere mode opgeslagen volgende pagina" src="https://github.com/user-attachments/assets/c2b3b41e-dc28-4f67-9b72-d07c3e0630fb" />
+
+
+
+
 
 # SPRINT 3 - Check Out:
 
