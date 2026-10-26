@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="nl">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -8,6 +8,7 @@
 
     <title>Suggest a Console | My Gaming Garden</title>
     <link rel="stylesheet" href="./style/normal.css" />
+    <script src="./js/script.js" defer></script>
   </head>
 
   <body>
@@ -90,7 +91,28 @@
     </main>
 
     <footer>
-      <p>My Gaming Garden, growing one gaming console at a time ;p</p>
+      <button type="button" id="openCookieModal">Cookie-instellingen</button>
+      <p>Copyleft 2026, all wrongs reversed</p>
     </footer>
+
+    <dialog id="cookieModal" aria-labelledby="cookieTitle">
+      <h2 id="cookieTitle">Cookie-instellingen</h2>
+
+      <p>
+        Deze website maakt gebruik van GitHub Pages voor hosting en van het
+        Digitaal Tuintje-webringcomponent.
+      </p>
+
+      <p id="cookieMessage" aria-live="polite">
+        Kies hieronder een optie. Deze website slaat je keuze niet op en
+        schakelt het webringcomponent hiermee niet uit.
+      </p>
+
+      <div class="dialog-buttons">
+        <button type="button" data-cookie-choice="accept">Accepteren</button>
+        <button type="button" data-cookie-choice="reject">Weigeren</button>
+        <button type="button" class="close-dialog">Sluiten</button>
+      </div>
+    </dialog>
   </body>
 </html>
