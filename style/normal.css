@@ -16,17 +16,29 @@
 html {
   color-scheme: light dark;
 
-  --background: light-dark(white, #fd3db5);
-  --color: light-dark(#fd3db5, black);
-  --color-h1: light-dark(#fd3db5, black);
+  --pink: #fd3db5;
+  --light-pink: #fdcdea;
+  --white: white;
+  --black: black;
+  --red: red;
+  --green: green;
 
-  --background-button: light-dark(#fd3db5, #fd3db5);
-  --color-button: light-dark(white, black);
-  --background-button-hover: light-dark(black, white);
-  --color-button-hover: #fd3db5;
+  --backdrop-transparent: rgb(0 0 0 / 0%);
+  --backdrop-dark: rgb(0 0 0 / 60%);
 
-  accent-color: light-dark(#fd3db5, white);
+  --background: light-dark(var(--white), var(--pink));
+  --color: light-dark(var(--pink), var(--black));
+  --color-h1: light-dark(var(--pink), var(--black));
 
+  --background-button: light-dark(var(--pink), var(--black));
+  --color-button: light-dark(var(--white), var(--pink));
+  --background-button-hover: light-dark(var(--black), var(--white));
+  --color-button-hover: var(--pink);
+  --border-button: light-dark(var(--black), var(--white));
+
+  --accent-color: light-dark(var(--pink), var(--white));
+
+  accent-color: var(--accent-color);
   scrollbar-gutter: stable;
 }
 
@@ -91,7 +103,7 @@ nav a {
   padding: 0.8rem 1rem;
   background-color: var(--background-button);
   color: var(--color-button);
-  border: 2px solid black;
+  border: 2px solid var(--border-button);
   border-radius: 0.5rem;
   text-decoration: none;
   overflow-wrap: anywhere;
@@ -120,7 +132,6 @@ header {
   grid-template-columns: 1fr auto auto;
   gap: 0.5rem;
   padding: 1rem;
-
   background-color: var(--background);
 }
 
@@ -204,8 +215,8 @@ main img {
   width: 100%;
   height: 14rem;
   object-fit: contain;
-  background-color: white;
-  border: 2px solid black;
+  background-color: var(--white);
+  border: 2px solid var(--black);
   padding: 1rem;
   border-radius: 0.5rem;
 }
@@ -237,7 +248,7 @@ button {
   padding: 0.8rem 1rem;
   background-color: var(--background-button);
   color: var(--color-button);
-  border: 2px solid black;
+  border: 2px solid var(--border-button);
   border-radius: 0.5rem;
   cursor: pointer;
   overflow-wrap: anywhere;
@@ -288,7 +299,7 @@ summary:active {
 }
 
 details:open {
-  border-color: #fd3db5;
+  border-color: var(--pink);
 }
 
 details:open summary {
@@ -335,7 +346,7 @@ dialog[open] {
 }
 
 dialog::backdrop {
-  background-color: rgb(0 0 0 / 0%);
+  background-color: var(--backdrop-transparent);
   backdrop-filter: blur(0);
 
   transition:
@@ -346,13 +357,13 @@ dialog::backdrop {
 }
 
 dialog[open]::backdrop {
-  background-color: rgb(0 0 0 / 60%);
+  background-color: var(--backdrop-dark);
   backdrop-filter: blur(3px);
 }
 
 @starting-style {
   dialog[open]::backdrop {
-    background-color: rgb(0 0 0 / 0%);
+    background-color: var(--backdrop-transparent);
     backdrop-filter: blur(0);
   }
 }
@@ -397,11 +408,11 @@ html:has(dialog[open]:modal) {
 }
 
 .dialog-buttons button[aria-pressed="true"] {
-  border: 3px solid #fd3db5;
+  border: 3px solid var(--pink);
 }
 
 .dialog-buttons button[aria-pressed="false"] {
-  border: 2px solid black;
+  border: 2px solid var(--border-button);
 }
 
 .dialog-buttons button:focus:not(:focus-visible) {
@@ -409,7 +420,7 @@ html:has(dialog[open]:modal) {
 }
 
 .dialog-buttons button:focus-visible {
-  outline: 3px solid black;
+  outline: 3px solid var(--border-button);
   outline-offset: 3px;
 }
 
@@ -427,6 +438,7 @@ footer button#openCookieModal {
   right: 1rem;
   bottom: 1rem;
   z-index: 10;
+  border: 2px solid var(--border-button);
 }
 
 /**************************
@@ -440,34 +452,28 @@ main.console-gallery {
   padding: 1rem;
 }
 
-/* Eén consolekaart */
-
 main.console-gallery figure {
   display: flex;
   flex-direction: column;
   min-width: 0;
   margin: 0;
   padding: 1rem;
-  background-color: white;
-  color: black;
-  border: 2px solid black;
+  background-color: var(--white);
+  color: var(--black);
+  border: 2px solid var(--black);
   border-radius: 0.5rem;
   overflow: hidden;
 }
-
-/* Console-afbeelding */
 
 main.console-gallery figure img {
   width: 100%;
   height: 14rem;
   object-fit: contain;
-  background-color: white;
+  background-color: var(--white);
   border: 0;
   padding: 0;
   border-radius: 0;
 }
-
-/* Informatie onder de afbeelding */
 
 main.console-gallery .console-info {
   display: flex;
@@ -478,16 +484,14 @@ main.console-gallery .console-info {
   margin-top: 1rem;
 }
 
-/* Naam van de console */
-
 main.console-gallery figcaption {
   position: static;
   max-width: 100%;
   margin: 0;
   padding: 0.75rem;
-  background-color: #fd3db5;
-  color: black;
-  border: 1px solid black;
+  background-color: var(--pink);
+  color: var(--black);
+  border: 1px solid var(--black);
   border-radius: 0.25rem;
   font-size: 0.65rem;
   line-height: 1.8;
@@ -508,7 +512,7 @@ main.console-gallery figcaption {
   background-color: var(--background-button);
   color: var(--color-button);
 
-  border: 2px solid black;
+  border: 2px solid var(--border-button);
   border-radius: 0.5rem;
 
   font-family: inherit;
@@ -651,17 +655,15 @@ main.console-detail {
   line-height: 1.8;
 }
 
-/* Grote afbeelding op de detailpagina */
-
 .detail-figure {
   display: grid;
   justify-items: center;
   gap: 1rem;
   margin: 2rem 0;
   padding: 1.5rem;
-  background-color: white;
-  color: black;
-  border: 2px solid black;
+  background-color: var(--white);
+  color: var(--black);
+  border: 2px solid var(--black);
   border-radius: 0.5rem;
 }
 
@@ -671,7 +673,7 @@ main.console-detail {
   height: 24rem;
   object-fit: contain;
   padding: 1rem;
-  background-color: white;
+  background-color: var(--white);
   border: 0;
   border-radius: 0;
 }
@@ -707,10 +709,10 @@ main form {
   max-width: 35rem;
   margin: 2rem auto;
   padding: 1.5rem;
-  border: 2px solid #fd3db5;
+  border: 2px solid var(--black);
   border-radius: 0.5rem;
-  background: lightpink;
-  color: black;
+  background-color: var(--light-pink);
+  color: var(--black);
 }
 
 main form fieldset {
@@ -736,10 +738,10 @@ main form textarea {
   width: 100%;
   max-width: 100%;
   padding: 0.75rem;
-  border: 2px solid #fd3db5;
+  border: 2px solid var(--pink);
   border-radius: 0.5rem;
-  background: white;
-  color: black;
+  background-color: var(--white);
+  color: var(--black);
   font: inherit;
 }
 
@@ -749,8 +751,8 @@ main form textarea {
 
 main form input:focus,
 main form textarea:focus {
-  border-color: #fd3db5;
-  outline: 2px solid #fd3db5;
+  border-color: var(--pink);
+  outline: 2px solid var(--pink);
   outline-offset: 2px;
 }
 
@@ -761,15 +763,11 @@ main form label:has(+ textarea:focus) {
 
 main form label:has(+ [required])::after {
   content: " *";
-  color: red;
+  color: var(--red);
 }
 
 main form label:has(+ [required]:valid)::after {
-  color: green;
-}
-
-main form:valid {
-  background: lightgreen;
+  color: var(--green);
 }
 
 main form button {

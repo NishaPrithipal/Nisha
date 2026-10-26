@@ -1,4 +1,24 @@
 /**************************
+ * MARK: Theme keuzes
+ **************************/
+
+const themeButtons = document.querySelectorAll('input[name="theme"]');
+
+const savedTheme = localStorage.getItem("theme");
+
+themeButtons.forEach((button) => {
+  if (button.value === savedTheme) {
+    button.checked = true;
+  }
+
+  button.addEventListener("change", () => {
+    if (button.checked) {
+      localStorage.setItem("theme", button.value);
+    }
+  });
+});
+
+/**************************
  * MARK: Cookie dialog
  **************************/
 
