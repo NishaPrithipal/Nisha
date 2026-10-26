@@ -1427,10 +1427,17 @@ Ik ga deze technieken gebruiken voor mijn de links naar mijn gaming verhalen / e
 # Probeer alle img een andere alt naam te geven ipv schermafbeelding 12345 etc x
 
 
-# SPRINT 2 - Retrospective: Tijdens mijn 1ste sprint had ik een aantal; ups en downs. Ik heb wel veel kunnen leren over HTML en CSS. Ik ben bezig geweest met het maken van mijn eigen website en ook al vond ik het lastig om hieraan te beginnen heb ik veel nieuwe info kunnen leren en toepassen op mijn website. 
-- Nieuwe 2de sprint verhaal
+# SPRINT 2 - Retrospective: 
 
+<img width="1126" height="799" alt="Sprint 2 Retrospective - Opdracht 1, 2 en 3 (opwarmening, lettertypes en iconen)" src="https://github.com/user-attachments/assets/39ca3525-d5a6-4b35-9c51-c8bda1d25942" />
 
+<img width="1235" height="860" alt="Sprint 2 Retrospective - Opdracht 3 en 4 (Pieken en dal + competenties)" src="https://github.com/user-attachments/assets/2340642e-0b27-4919-a148-8ea9d2d83945" />
+
+<img width="556" height="791" alt="Sprint 2 Retrospective - Opdracht 5 (metafoor tekening)" src="https://github.com/user-attachments/assets/4653a4ec-0c2b-402d-8e5a-73766935c0d5" />
+
+Het begin van sprint 2 ging goed, na de bi-weekly was er iets in mijn privé omgeving gebeurd, waardoor ik geen tijd meer had voor school en erg begon achter te lopen. Ik heb sprint 2 nu ook pas op een veel later moment kunnen afmaken. Ik voelde mij hierdoor erg verloren en hopeloos, maar ik moet zeggen nadat ik alle deep dives heb gemaakt en heb kunnen toepassen op mijn eigen digital garden, ben ik toch trots en blij met wat ik heb kunnen doen. Ik weet dat het waarschijnlijk nog niet 'top notch' is, maar het is in ieder geval wel al een verbetering en heeft veel meer inhoud dan wat ik voorheen had. Plus ik heb veel kunnen leren over codes en wat ik nog wel het belangrijkste vind en wat bij mij is bijgebleven is de bi-weekly, waarin wij de toegankelijkheid hebben kunnen testen voor diverse disabilities die mensen hebben.
+
+Gedurende sprint 2 heb ik veel geleerd over HTML, CSS, toegankelijkheid en het verbeteren van mijn website. Ik vond het heel erg leuk om mijn eigen consoles in Figma te maken en steeds meer onderdelen aan mijn digital garden toe te voegen. Natuurlijk kwam ik ook problemen tegen, bijv. vaak bij het controleren van mijn HTML, hiermee spelen en het testen van de toegankelijkheid. Door dit bij elkaar kwam ik erachter dat een website veel meer is dan er alleen goed moeten uitzien, maar dat het belangrijk is dat het ook goed te gebruiken is voor iedereen. Ik heb geleerd dat fouten maken bij het ontwerpproces hoort en dat ik hiervan kan leren om mijn website verder te verbeteren.
 
 # SPRINT 3: Digital Garden
 # SPRINT 3 - Check Out:
