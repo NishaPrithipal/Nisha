@@ -104,8 +104,6 @@ Ik heb een aantal verschillende versies gemaakt van de menu van Wok To Walk. Ik 
 
 <img width="384" height="117" alt="Scherm­afbeelding 2026-09-21 om 15 11 51" src="https://github.com/user-attachments/assets/94a84544-d72b-4527-be53-22ea0ccc6e5e" />
 
-
-
 # SPRINT 1 - Digital Garden:
 
 ### Opdracht 1:
@@ -646,6 +644,7 @@ Ik heb mijn buttons aangepast zodat je op het poppetje kan klikken dat het light
 <img width="1680" height="966" alt="Scherm­afbeelding 2026-10-02 om 18 05 45" src="https://github.com/user-attachments/assets/3a4a3ba0-b2ac-45a3-9bf6-069fe727fa3d" />
 
 #### Ik heb geleerd hoe ik:
+
 Kleuren op verschillende manieren kan definiëren in CSS. Ik kende HEX kleuren al, maar heb nu meer geleerd over RGB, HSL en moderne color spaces zoals OKLCH. Ik heb geleerd wat color spaces en color gamuts betekenen en waarom dit belangrijk is wanneer je met verschillende soorten kleuren en schermen werkt.
 
 Moderne RGB- en HSL-syntax gebruiken geen komma's meer en transparantie kan worden toegevoegd met een slash, bijvoorbeeld rgb(255 0 0 / .5).
@@ -654,28 +653,31 @@ Een color space is een manier om kleuren wiskundig te beschrijven, terwijl een g
 
 Daarnaast heb ik geleerd hoe ik CSS custom properties kan gebruiken voor mijn kleuren. Dit vind ik handig omdat ik mijn kleuren alleen een keer hoef in te stellen en ze daarna op meerdere plekken kan gebruiken. Hierdoor kan ik een kleurenthema makkelijker aanpassen.
 
-OKLCH vond ik wel interessant om te zien, omdat je werkt met lightness, chroma en hue en dat kan wel handig kan zijn met kleurverlopen. Met tools zoals OKLCH.com en Gradient.style ga ik experimenteren en kan ik gelijk het effect en de waarden zien. 
+OKLCH vond ik wel interessant om te zien, omdat je werkt met lightness, chroma en hue en dat kan wel handig kan zijn met kleurverlopen. Met tools zoals OKLCH.com en Gradient.style ga ik experimenteren en kan ik gelijk het effect en de waarden zien.
 
 Het grootste onderdeel waren gradients. Er zijn veel verschillende soorten gradients, zoals linear, radial en conic gradients. Er zijn ook repeating-varianten. Met verschillende hoeken, color stops, background-size, background-position en background-repeat kun je veel verschillende patronen maken.
 
 Het combineren van meerdere gradients vond ik wel interessant en leuk om te zien. Je kan met alleen CSS ingewikkelde patronen maken zonder dat je extra HTML hoeft toe te voegen. Met @property kan je een custom property een type geven, zoals <angle> of <color>, hierdoor kan je onderdelen van een gradient laten animeren.
 
 #### Wat neem ik mee:
-ik neem vooral mee dat je met CSS veel verschillende mogelijkheden hebt met kleuren en dat je niet alleen een achtergrond een vaste kleur hoeft te geven. Door custom properties en gradients te combineren kan ik mijn websites visueel interessanter maken. Ik heb al geoefend met wat ik zou passen bij mijn website. 
+
+ik neem vooral mee dat je met CSS veel verschillende mogelijkheden hebt met kleuren en dat je niet alleen een achtergrond een vaste kleur hoeft te geven. Door custom properties en gradients te combineren kan ik mijn websites visueel interessanter maken. Ik heb al geoefend met wat ik zou passen bij mijn website.
 
 Gradients: 6 soorten
+
 1. linear-gradient()
 2. repeating-linear-gradient()
 3. radial-gradient()
 4. repeating-radial-gradient()
 5. conic-gradient()
-6. repeating-conic-gradient(). 
+6. repeating-conic-gradient().
 
 Gradients kunnen worden gebruikt voor strepen, geometrische patronen en complete illustraties. Ik heb geleerd hoe ik richtingen, hoeken, color stops, posities en meerdere kleuren kan gebruiken. Ook hoe ik meerdere gradients over elkaar heen kan zetten. De bovenste gradient ligt daarbij bovenop de andere. Door gradients te combineren met background-size, background-position en background-repeat kan je patronen maken zonder dus die extra HTML.
 
 Tot slot kan je met @property gradients animeren. Hiermee kan je de browser vertellen welk type waarde een custom property heeft, bijv. een hoek, kleur of percentage. Hierdoor kan ik onderdelen van een gradient animeren. Dit is een stuk moeilijker dan een normale gradient, maar geeft je wel veel mogelijkheden voor interactieve ontwerpen.
 
-#### Notities: 
+#### Notities:
+
 - RGB = rood/groen/blauw
 - HSL = hue/verzadiging(saturation)/lichtheid
 - HEX = #RRGGBB
@@ -731,10 +733,12 @@ Tot slot kan je met @property gradients animeren. Hiermee kan je de browser vert
 
 ### S1 - Grid 101 + Media queries (Sanne):
 
-#### Notities: 
+#### Notities:
+
 Ik heb geleerd hoe ik met CSS Grid verschillende soorten layouts kan maken. Ik heb geleerd hoe je een grid kan gebruiken voor een volledige website (macro-layout) maar ook voor kleinere onderdelen zoals een card (micro-layout). Daarnaast heb ik geleerd hoe ik met media queries mijn website responsive kan maken. Hierdoor kan de layout veranderen wanneer het scherm groter of kleiner wordt.
 
 ##### Properties:
+
 - Display: grid -> maakt een element een grid container
 - grid-templete-colums -> bepaalt de kolommen
 - grid-template-rows -> bepaalt de rijen
@@ -754,12 +758,14 @@ Ik heb geleerd hoe ik met CSS Grid verschillende soorten layouts kan maken. Ik h
 
 Een Flexbox is vooral handig voor een rij/kolom van elementen en het uitlijnen daarvan. Een Grid is vooral handig wanneer je in twee dimensies werkt, kolommen en rijen.
 
-#### Wat ik heb geleerd: 
+#### Wat ik heb geleerd:
+
 Grid (CSS) kan worden gebruikt voor zowel macro-layouts als micro-layouts. Ik heb geleerd hoe ik kolommen en rijen maak met grid-template-columns en grid-template-rows en hoe ik elementen kan positioneren met grid lines. Ik heb gespeeld met span, 1fr, auto-fit en minmax(). Daarnaast heb ik geleerd hoe media queries ervoor zorgen dat een layout op verschillende schermformaten kan veranderen, wat erg handig is. Wat ik dus handig vind is repeat(auto-fit, minmax()), omdat de layout daardoor automatisch kan meeschalen zonder dat je voor ieder schermformaat aparte kolommen hoeft te maken
 
 CSS Grid is een CSS techniek waarmee je elementen in rijen en kolommen kunt plaatsen.
 
 Een Grid bestaat uit:
+
 - grid ouder (container)
 - grid kinderen (items)
 - columns (kolommen)
@@ -767,9 +773,9 @@ Een Grid bestaat uit:
 - grid lines (lijnen tussen de kolommen en rijen)
 - gap (ruimte tussen de items).
 
-Om Grid te gebruiken, moet het ouder element display: grid krijgen. Bijv. main { display: grid; } De elementen binnen main worden dan de grid kinderen. Bijv. < main >  < article >Game 1 </ article > </ main >
+Om Grid te gebruiken, moet het ouder element display: grid krijgen. Bijv. main { display: grid; } De elementen binnen main worden dan de grid kinderen. Bijv. < main > < article >Game 1 </ article > </ main >
 
-Grid columns: Met grid-template-columns bepaal je hoeveel kolommen een Grid heeft. 1fr betekent één deel van de beschikbare ruimte. Je kan ook verschillende verhoudingen gebruiken. 
+Grid columns: Met grid-template-columns bepaal je hoeveel kolommen een Grid heeft. 1fr betekent één deel van de beschikbare ruimte. Je kan ook verschillende verhoudingen gebruiken.
 
 Grid rows: Met grid-template-rows kan ik bepalen hoeveel rijen mijn Grid heeft.
 Gap: Met gap maak ik ruimte tussen de Grid items. Je hoeft dan niet voor elk element apart een margin te gebruiken. Bijv. column-gap (bepaalt de ruimte tussen kolommen) of row-gap (bepaalt de ruimte tussen rijen).
@@ -777,7 +783,8 @@ Gap: Met gap maak ik ruimte tussen de Grid items. Je hoeft dan niet voor elk ele
 Grid-lines: je moet niet de kolommen tellen wanneer je een element positioneer, maar de lijnen. De lijnen kunnen gebruikt worden met: 1. grid-column-start, 2. grid-column-end, 3. grid-row-start en 4. grid-row-end.
 
 #### Wat neem ik mee:
-Voor mijn eigen website My Gaming Garden kan ik CSS Grid gebruiken om mijn consoles en andere content overzichtelijk te plaatsen en het responsive te maken. 
+
+Voor mijn eigen website My Gaming Garden kan ik CSS Grid gebruiken om mijn consoles en andere content overzichtelijk te plaatsen en het responsive te maken.
 
 <img width="1679" height="783" alt="Scherm­afbeelding 2026-10-07 om 17 11 37" src="https://github.com/user-attachments/assets/eeef88ed-b2eb-47d1-b417-85afaf68cca7" />
 
@@ -791,17 +798,18 @@ Voor mijn eigen website My Gaming Garden kan ik CSS Grid gebruiken om mijn conso
 
 <img width="1680" height="961" alt="Scherm­afbeelding 2026-10-07 om 16 20 48" src="https://github.com/user-attachments/assets/b1901839-3c37-446b-958f-a09b5fc9c2ad" />
 
-
 ### S1 - Responsive grid + Grid-areas (Vasilis)
 
 #### Nieuwe properties:
+
 - grid-template-areas -> bepaalt welke grid areas waar komen te staan.
 - grid-area -> geeft een grid item een naam en koppelt het aan een bepaalde area.
 - max-content -> maakt een kolom of rij zo groot als de inhoud nodig heeft.
 - min-content -> maakt een kolom of rij zo klein als mogelijk is op basis van de inhoud.
 
 #### Wat ik heb geleerd:
-Deze deep dive was een verdieping op de deep dive Grid 101. Bij Grid 101 heb ik vooral geleerd hoe ik elementen met grid-lijnen kan plaatsen en hoe ik met grid-template-columns, grid-template-rows, span en media queries een responsive layout kon maken. 
+
+Deze deep dive was een verdieping op de deep dive Grid 101. Bij Grid 101 heb ik vooral geleerd hoe ik elementen met grid-lijnen kan plaatsen en hoe ik met grid-template-columns, grid-template-rows, span en media queries een responsive layout kon maken.
 
 Bij grid 101 ging het dus meer over het plaatsen van elementen met lijnen, terwijl je met grid-template-areas het makkelijker maakt om een complete layout overzichtelijk te maken.
 
@@ -810,6 +818,7 @@ Met grid-template-areas kan je een layout meer als een soort ‘plattegrond’ o
 Ik heb ook geleerd dat je met media queries de grid-areas opnieuw kan indelen voor grotere schermen. Hierdoor kan dezelfde HTML verschillende layouts krijgen zonder dat je de HTML hoeft aan te passen.
 
 #### Wat neem ik mee:
+
 Voor mijn website kan ik grid-template-areas gebruiken om de grote onderdelen van mijn website, zoals de header, main en footer, op verschillende manieren te plaatsen op grotere schermen.
 
 Mijn console overzicht gebruikt al CSS Grid met auto-fit en minmax(). Dat is handig voor de individuele consoles, terwijl ik grid-template-areas kan gebruiken voor de grotere layout van de webpagina.
@@ -828,15 +837,13 @@ Mijn console overzicht gebruikt al CSS Grid met auto-fit en minmax(). Dat is han
 
 <img width="965" height="670" alt="Scherm­afbeelding 2026-09-22 om 20 20 03" src="https://github.com/user-attachments/assets/4d3268ea-0c86-4f90-9316-963b66187baa" />
 
-Tijdens mijn 1ste sprint had ik een aantal; ups en downs. Ik heb wel veel kunnen leren over HTML en CSS. Ik ben bezig geweest met het maken van mijn eigen website en ook al vond ik het lastig om hieraan te beginnen heb ik veel nieuwe info kunnen leren en toepassen op mijn website. 
-
-
+Tijdens mijn 1ste sprint had ik een aantal; ups en downs. Ik heb wel veel kunnen leren over HTML en CSS. Ik ben bezig geweest met het maken van mijn eigen website en ook al vond ik het lastig om hieraan te beginnen heb ik veel nieuwe info kunnen leren en toepassen op mijn website.
 
 # SPRINT 2: Digital Garden
 
-Ik heb foto's gemaakt van mijn eigen handheld consoles en heb besloten om het te houden bij alleen mijn handheld consoles en als ik extra tijd heb zou ik het nog altijd kunnen uitbreiden. Ik heb vanuit mijn foto's en foto's online mijn consoles kunnen na maken in Figma. Vervolgens heb ik ze allemaal als SVG's op mijn website geplaatst. 
+Ik heb foto's gemaakt van mijn eigen handheld consoles en heb besloten om het te houden bij alleen mijn handheld consoles en als ik extra tijd heb zou ik het nog altijd kunnen uitbreiden. Ik heb vanuit mijn foto's en foto's online mijn consoles kunnen na maken in Figma. Vervolgens heb ik ze allemaal als SVG's op mijn website geplaatst.
 
-Dit was het proces van het maken: 
+Dit was het proces van het maken:
 
 <img width="734" height="357" alt="Scherm­afbeelding 2026-09-22 om 19 02 51" src="https://github.com/user-attachments/assets/073c8340-14d2-4c22-9762-7132cb8dc44b" />
 
@@ -846,7 +853,7 @@ Dit was het proces van het maken:
 
 <img width="687" height="575" alt="Scherm­afbeelding 2026-09-28 om 01 27 05" src="https://github.com/user-attachments/assets/57f355d9-2cad-471f-9a92-57b72c16452f" />
 
-Ik heb diverse elementen geprobeerd om te doen en keuzes gemaakt of ik ze wel of niet op mijn website wou hebben. Ik probeerde ervoor te zorgen dat alles matched met mijn huisstijl. 
+Ik heb diverse elementen geprobeerd om te doen en keuzes gemaakt of ik ze wel of niet op mijn website wou hebben. Ik probeerde ervoor te zorgen dat alles matched met mijn huisstijl.
 
 <img width="113" height="129" alt="Scherm­afbeelding 2026-09-28 om 19 28 20" src="https://github.com/user-attachments/assets/f8df602f-d11e-460a-ac7c-0c797d25b65c" />
 
@@ -876,7 +883,7 @@ Verder besloot ik om sommige elementen waar normaal gesproken Sony, PSP, of ande
 
 <img width="689" height="682" alt="Ds Tank roze" src="https://github.com/user-attachments/assets/456a2fc6-b8f0-4468-acca-74cc74d25bbd" />
 
-Verder heb ik andere elementen die je gebruikt om daadwerkelijk spelletjes te spelen op de handheld na gemaakt. Ik twijfel nog of ik genoeg tijd heb om ze te gebruiken, maar anders kan ik mijn digital garden altijd later nog verder uitbreiden. 
+Verder heb ik andere elementen die je gebruikt om daadwerkelijk spelletjes te spelen op de handheld na gemaakt. Ik twijfel nog of ik genoeg tijd heb om ze te gebruiken, maar anders kan ik mijn digital garden altijd later nog verder uitbreiden.
 
 <img width="491" height="355" alt="PS vita sd kaart" src="https://github.com/user-attachments/assets/2e89236a-cbd6-478a-a9b1-beb734f7cc75" />
 
@@ -898,7 +905,7 @@ Dit wil ik graag als SVG op mijn website zetten en gebruik van maken.
 
 <img width="482" height="903" alt="Scherm­afbeelding 2026-09-28 om 23 39 19" src="https://github.com/user-attachments/assets/173b525e-da92-4db8-a847-68424c4c8c18" />
 
-(Zo zag het er eerst uit ik heb het later natuurlijk veel mooier gemaakt met CSS) 
+(Zo zag het er eerst uit ik heb het later natuurlijk veel mooier gemaakt met CSS)
 
 Nu ziet het er zo uit:
 
@@ -909,10 +916,10 @@ Nu ziet het er zo uit:
 ## HTML Structuur extra uitleg:
 
 - < div > kan je gebruiken als het geen waarde heeft maar je het toch samen wilt hebben.
-- < nav > </ nav > geeft richting aan bijv. link naar andere pagina’s. 
+- < nav > </ nav > geeft richting aan bijv. link naar andere pagina’s.
 - Kan opdrachten geven aan zijn bowser —> mensen die handicap hebben —> voegt lage UX toe
 - < div class = “nav” > </ div > —> doet niks.
-- < header > </ header > —> kopje. 
+- < header > </ header > —> kopje.
 - Header is voor meta die is onzichtbaar en staat boven je html.
 - < footer > </ footer > —> copyright dingetjes, contact gegevens, hoeft niet onderaan te staan, het is meta data!! Info over de website niet de content zelf maar informatie er over.
 - < main > </ main > —> primary content de reden waarom je naar die pagina gaat. Om de content in de main te zien.
@@ -932,6 +939,7 @@ Als je de cookies niet accepteert kan je de video niet bekijken:
 <img width="384" height="117" alt="Scherm­afbeelding 2026-09-21 om 15 11 51" src="https://github.com/user-attachments/assets/94a84544-d72b-4527-be53-22ea0ccc6e5e" />
 
 ## Human Consent Component:
+
 Notities gemaakt tijdens de college van Hans de Zwart. Het was informatief en leerzaam.
 
 <img width="598" height="731" alt="Scherm­afbeelding 2026-10-24 om 20 00 55" src="https://github.com/user-attachments/assets/bc0db1dc-a151-44aa-a3e2-78252484367b" />
@@ -942,22 +950,28 @@ Notities gemaakt tijdens de college van Hans de Zwart. Het was informatief en le
 
 <img width="780" height="250" alt="Scherm­afbeelding 2026-10-24 om 20 01 22" src="https://github.com/user-attachments/assets/af8d6136-6c5a-44bc-81eb-12b979157e36" />
 
-## Wireframes + Dark Pattern herontwerp: 
+## Wireframes + Dark Pattern herontwerp:
+
 <img width="1181" height="818" alt="Scherm­afbeelding 2026-10-17 om 19 14 00" src="https://github.com/user-attachments/assets/aceda837-0a84-4895-a42e-922318d48271" />
 
 <img width="366" height="378" alt="Scherm­afbeelding 2026-10-17 om 19 14 23" src="https://github.com/user-attachments/assets/31af79fc-9ca5-4980-822c-2442276e953d" />
 
-## Human Consent Component: Wat moet in je cookies staan? 
-1. Welke gegevens worden van jouw gebruikers verwerkt op jouw website? 
+## Human Consent Component: Wat moet in je cookies staan?
+
+1. Welke gegevens worden van jouw gebruikers verwerkt op jouw website?
+
 - Microsoft, google fonts, GitHub pages hosting en digitaaltuintje component.
 
 2. Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website?
+
 - Ik kan gebruikers informeren met een privacyverklaring op mijn digital garden. Hierin leg ik uit welke gegevens worden verwerkt, welke diensten ik gebruik, waarom die gegevens nodig zijn en met wie ze gedeeld kunnen worden. Het is belangrijk dat de informatie duidelijk en makkelijk te vinden is. Ik zou bijv. onderaan een kleine melding tonen met een link voor meer informatie.
 
 3. Op welke manier kan je instemming vragen? Min. 10 verschillende manieren
-- 1. Cookiebanner, 2. pop-up, 3. voorkeuren instellen, 4. checkbox, 5. toggle/schuifknop, 6. opties (accepteren, weigeren of voorkeuren instellen), 7. privacyverklaring met link, 8. vaste/sticky knop (kan je later altijd nog mee veranderen), 9. toestemming met formulier, 10. tweestap melding (keuze meer info/instellingen) 
 
-4. Wat werkt en past binnen de layout van jouw digital garden? 
+- 1. Cookiebanner, 2. pop-up, 3. voorkeuren instellen, 4. checkbox, 5. toggle/schuifknop, 6. opties (accepteren, weigeren of voorkeuren instellen), 7. privacyverklaring met link, 8. vaste/sticky knop (kan je later altijd nog mee veranderen), 9. toestemming met formulier, 10. tweestap melding (keuze meer info/instellingen)
+
+4. Wat werkt en past binnen de layout van jouw digital garden?
+
 - Mijn Digital Garden heet My Gaming Garden en heeft een retro gaming stijl met voornamelijk de kleuren roze, zwart en wit. Ik zou graag een consent-component maken dat bij mijn website past, zonder dat het ontwerp te druk wordt (vind ik zelf ook niet fijn) of dat de inhoud in de weg zit. Ik vind nummer 8, het idee van een sticky knop waar je je keuzes nog kan aanpassen erg fijn, want toen ik bij ticketmaster aan het kijken was, was het erg lastig om dit terug te vinden. Ik ga voor een kleine privacy banner met een makkelijke keuze tussen accepteren en weigeren. Wellicht dat ik later wel een link wil toevoegen voor extra informatie.
 
 ## Opdracht Human Consent Component (Wireframes en wireflows):
@@ -976,11 +990,12 @@ Notities gemaakt tijdens de college van Hans de Zwart. Het was informatief en le
 
 Ik heb mijn website gecheckt op wat ik gebruik tot nu: 1ste keer
 
-<img width="617" height="238" alt="Scherm­afbeelding 2026-09-28 om 13 08 46" src="https://github.com/user-attachments/assets/e9e58166-d22a-45e7-ac36-760eb1bcad69" /> 
+<img width="617" height="238" alt="Scherm­afbeelding 2026-09-28 om 13 08 46" src="https://github.com/user-attachments/assets/e9e58166-d22a-45e7-ac36-760eb1bcad69" />
 
 Ik heb later na het toepassen van alle deepdives mijn website nog een keer gecheckt, aangezien ik nu veel meer codes heb:
 
-### Wat heb ik aangepast? 
+### Wat heb ik aangepast?
+
 - Ik was bij een section vergeten een h2 te zetten, heb ik makkelijk aan kunnen passen.
 - Er werd mij uitgelegd dat je figcaption niet in je div mag hebben, dus heb ik dat mooi aangepast.
 - Je ziet bij PSP 3004 Roze de 'before' hoe de code ervoor eruit zag en bij PSvita Oled 3G zie je de 'after' de code die ik erna heb aangepast. Het was uiteindelijk een makkelijke aanpassing.
@@ -1010,8 +1025,10 @@ UX = User Experience
 
 <img width="718" height="550" alt="Scherm­afbeelding 2026-09-28 om 14 25 22" src="https://github.com/user-attachments/assets/5904c9b4-e20d-47c1-9747-2ebdff706a9d" />
 
-#### User testing / Toegankelijkheid testen: 
+#### User testing / Toegankelijkheid testen:
+
 Ik heb samen met Alara 3 testen gedaan
+
 1. Screenreader
 2. Alleen-een-toetsenbord
 3. WCAG checklist
@@ -1020,7 +1037,7 @@ Ik vond het persoonlijk geen fijne ervaring, het was erg lastig en vervelend om 
 
 <img width="1678" height="960" alt="Scherm­afbeelding 2026-09-28 om 14 31 15" src="https://github.com/user-attachments/assets/81a656b2-ce81-45df-970c-35a044c4df4c" />
 
-Ik vond het bijvoorbeeld erg lastig om mijn handen hiermee te bewegen en mijn laptop te gebruiken. Ik heb soms zelf ook wel krampen en last van mijn vingers, maar dit was natuurlijk op een heel ander niveau. Het was erg frustrerend en alles ging erg moeizaam. Hierdoor heb ik nu wel een beter begrip dat mensen die deze aandoening hebben ook snel vermoeid en gefrustreerd raken. 
+Ik vond het bijvoorbeeld erg lastig om mijn handen hiermee te bewegen en mijn laptop te gebruiken. Ik heb soms zelf ook wel krampen en last van mijn vingers, maar dit was natuurlijk op een heel ander niveau. Het was erg frustrerend en alles ging erg moeizaam. Hierdoor heb ik nu wel een beter begrip dat mensen die deze aandoening hebben ook snel vermoeid en gefrustreerd raken.
 
 <img width="608" height="805" alt="Scherm­afbeelding 2026-10-26 om 01 00 57" src="https://github.com/user-attachments/assets/48e82c4c-b630-4ab9-a791-93eca3a5d239" />
 
@@ -1031,6 +1048,7 @@ Ik vond het bijvoorbeeld erg lastig om mijn handen hiermee te bewegen en mijn la
 <img width="571" height="740" alt="Scherm­afbeelding 2026-10-26 om 01 02 54" src="https://github.com/user-attachments/assets/93d176c0-62b3-48d3-8f69-36fb06f80457" />
 
 #### Toegankelijkheid testen:
+
 - Mijn homepage heeft een duidelijke hoofd kop.
 - Mijn content is verdeeld met tussen koppen.
 - De navigatie heeft herkenbare namen zoals Home, Consoles, suggestions, etc.
@@ -1051,6 +1069,7 @@ Verder heb ik ook gekeken naar het kleuren contrast en hoe het zit met de leesba
 <img width="38" height="37" alt="Kleuren contrast checker app" src="https://github.com/user-attachments/assets/9ce75864-0f05-4d74-8e40-4ea6853d93a2" />
 
 #### Toegankelijkheid - Wat kan ik aanpassen:
+
 - Mijn licht mode bleek qua kleuren contrast niet goed genoeg te zijn, de donkere modus zag er wel goed uit. Ik zag wel dat normale contrast zwart/wit er wel goed uit ziet. Ik moet dus even kijken hoe ik dit zou willen aanpassen. Het is echt het lettertype kleur dat mensen met disabilaties niet goed gaan kunnen zien.
 
 <img width="481" height="786" alt="Kleuren contrast checker - Roze tekst met witte achtergrond" src="https://github.com/user-attachments/assets/8d86061d-8a1d-4266-8ca5-726c7b9ecf4d" />
@@ -1060,10 +1079,11 @@ Verder heb ik ook gekeken naar het kleuren contrast en hoe het zit met de leesba
 <img width="477" height="647" alt="Kleuren contrast checker - zwarte tekst met witte achtergrond" src="https://github.com/user-attachments/assets/cc8e7bf3-4a81-4927-ac3a-74ac7889b6a5" />
 
 Ik heb deze websites gebruikt om te kijken voor mensen die kleurenblind zijn:
+
 - https://www.toptal.com/designers/colorfilter
 - https://bioapps.byu.edu/colorblind_image_tester
 
-Protanopia: 
+Protanopia:
 
 <img width="1361" height="692" alt="Kleurenblind test - Protanopia" src="https://github.com/user-attachments/assets/80b54576-dfe3-4236-b015-35e226691366" />
 
@@ -1094,23 +1114,27 @@ Resultaat bleek dat het 99,88% vriendelijk is voor mensen met deuteranopia:
 <img width="760" height="271" alt="Kleurenblind test - Deuteranopia donkere mode resultaat" src="https://github.com/user-attachments/assets/7d1805a1-9827-411e-a1bd-dc503246e787" />
 
 #### Spiekbrief: Voice over uitschakelen
-- Command ingedrukt houden en 3x op ID knop klikken.
 
+- Command ingedrukt houden en 3x op ID knop klikken.
 
 # SPRINT 2 - Check Out:
 
 ### Sprint 2.1:
 
 1. Wat zijn HTML landmark role elements?
+
 - indicatoren om de structuur te herkennen.
 
 2. Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+
 - Er moet altijd een hiërarchie zijn met een logische opeenvolgende structuur zijn. Bijv. H1, h2, h3, etc. Dit helpt ook alle zoekmachines om je opbouw te begrijpen
 
 3. Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+
 - Ik weiger ze meestal. 8/10 keer. Als ik haast heb ben ik sneller geneigd om op accepteren te klikken dan wanneer ik rustig aan het scrollen ben.
 
-# Wat zit in mijn eigen cookies? Hoe kan ik dit toepassen? Mijn digital garden: 
+# Wat zit in mijn eigen cookies? Hoe kan ik dit toepassen? Mijn digital garden:
+
 - microsoft
 - google fonts
 - GitHub pages hosting
@@ -1121,67 +1145,83 @@ Ik kies voor cookie banner met een sticky knop. Er komt een een dialoogvenster t
 ### Sprint 2.2:
 
 1. Wat is een wireflow en wat heb je er aan?
+
 - Het laat zien hoe de gebruiker verschillende schermen eruit zien etc en geeft het visueel weer.
 
 2. Wat zijn dark UX patterns? Geef drie voorbeelden...
+
 - Fake Social Proof, obstruction en wording tricks.
 
 3. Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+
 - Dat je alle informatie geeft, maar het wel duidelijk blijft en dat het overzichtelijk blijft.
 
 ### Sprint 2.2:
+
 1. Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
+
 - HTML validatie is het controleren of je HTML code aan de regels en standaarden voldoet. Het is belangrijk voor de toegankelijkheid, structuur en het onderhouden van je website. Dit heb ik kunnen checken met W3C HTML Checker, dit heeft mijn website gecontroleerd en naar de fouten en waarschuwingen heeft gekeken.
 
 2. Welke dingen vielen je op?
+
 - Het viel me op dat mijn website er goed uit kon zien, terwijl er toch fouten in mijn HTML-code zaten. Ik heb geleerd dat een browser fouten soms zelf herstelt, waardoor je niet altijd door hebt dat er iets mis is met je code.
 
 3. Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
+
 - ### Wat heb ik veranderd na reflectie en feedback?
-Ik ben later terug gekomen op mijn sticky header, het was erg vervelend tijdens het gebruiken van de website waardoor je de tekst soms niet goed kon lezen. Het idee was er, maar het bleek toch onhandig te zijn. Ik heb mijn cookie venster sticky gemaakt en dat bleek veel handiger te zijn. 
+  Ik ben later terug gekomen op mijn sticky header, het was erg vervelend tijdens het gebruiken van de website waardoor je de tekst soms niet goed kon lezen. Het idee was er, maar het bleek toch onhandig te zijn. Ik heb mijn cookie venster sticky gemaakt en dat bleek veel handiger te zijn.
 
 ### Sprint 2.3: Bi-weekly
 
 1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+
 - Het gaat niet alleen daar om maar ook of het fijn is voor de gebruiker om het tet gebruiken.
 
 2. Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+
 - Cognitief, auditief, visueel en motorisch.
 
 3. Noem drie manieren om door een website te navigeren met jouw screenreader.
+
 - Headings, links en landmarks.
 
 ### Sprint 2.4: Bi-weekly
 
 1. Waar staat WCAG en A11y voor?
+
 - WCAG staat voor Web Content Accessibility Guidelines. Dit zijn richtlijnen die helpen om websites toegankelijk te maken voor iedereen, ook voor mensen die een beperking hebben. A11y is eigenlijk een afkorting van accessibility. Het getal 11 staat voor de elf letters tussen de A en de Y. Het gaat over de toegankelijkheid en hoe je ervoor kunt zorgen dat iedereen een website kan gebruiken.
 
 2. Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
-- Ik vond het werken met een screenreader lastiger, omdat je niet alleen hoeft te kijken naar de website, maar je ook moet luisteren naar wat er wordt voorgelezen. Je moet goed begrijpen hoe je je door de website navigeert en hoe je bij de verschillende knoppen en links terecht kan komen. Het was wel fijn om te zien dat de screenreader wel werkte op mijn. Ik zou wel nog moeten oefenen met de sneltoetsen en het controleren van de koppen en interactieve elementen. Ik vind het gebruik hiervan na een tijdje vervelend, wat mensen met disabilities waarschijnlijk zelf ook vaak ervaren. 
+
+- Ik vond het werken met een screenreader lastiger, omdat je niet alleen hoeft te kijken naar de website, maar je ook moet luisteren naar wat er wordt voorgelezen. Je moet goed begrijpen hoe je je door de website navigeert en hoe je bij de verschillende knoppen en links terecht kan komen. Het was wel fijn om te zien dat de screenreader wel werkte op mijn. Ik zou wel nog moeten oefenen met de sneltoetsen en het controleren van de koppen en interactieve elementen. Ik vind het gebruik hiervan na een tijdje vervelend, wat mensen met disabilities waarschijnlijk zelf ook vaak ervaren.
 
 3. Met welke beperking rekening houden vind je het meest lastig? Vind je dat je beperkt wordt in wat je kunt ontwerpen? Of heb je al manieren gevonden om vanuit een solide basis -die voor iedereen toegankelijk is- allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
+
 - Ik vind het wel lastig om rekening te houden met mensen die moeite hebben met het zien van kleuren en contrasten. Ik kwam namelijk tijdens het testen erachter dat mijn roze tekst op een witte achtergrond niet genoeg contrast heeft. In de donkere modus zag het er wel beter uit, maar ik moet hierdoor wel gaan kijken hoe ik mijn lichte modus toegankelijker kan maken zonder dat ik mijn eigen stijl verlies.
 
 - Verder vind ik niet per se dat toegankelijkheid je beperkt in wat je allemaal kunt ontwerpen. Ik vind het juist wel fijn dat iedereen ongeacht hun disabillaty mijn website zouden kunnen gebruiken. Het is wel zo dat je soms alleen bepaalde keuzes zou moeten maken die je voorheen nooit zou hebben bedacht. Ik kan bijv. mijn roze kleuren blijven gebruiken voor accenten, maar voor langere teksten een andere kleur kiezen die beter leesbaar zal zijn. Zo kan ik mijn website er wel leuk laten uitzien, maar dat het tegelijkertijd toch toegankelijker is voor meer mensen.
-
 
 # SPRINT 2 - Deep Dives:
 
 ### S2 - Buttons, states en selectors (Vasilis)
 
 #### Wat heb ik geleerd?
+
 Een website gaat niet alleen over hoe het er uit ziet, maar ook over hoe het reageert op interactie. Met CSS kun je verschillende states van buttons vormgeven. Hiervoor gebruik je pseudo-classes.
 
-##### Er zijn vier button states: 
-1. button:  -> dit is de default state, de normale staat van de button.
-2. button:focus-visible:  -> dit laat zien welke button focus heeft, bijv. wanneer je met de Tab toets navigeert.
-3. button:hover:  -> dit verandert de vormgeving wanneer de muis boven de button staat, hovering over the button.
-4. button:active:  -> dit geeft feedback wanneer de button wordt ingedrukt.
+##### Er zijn vier button states:
+
+1. button: -> dit is de default state, de normale staat van de button.
+2. button:focus-visible: -> dit laat zien welke button focus heeft, bijv. wanneer je met de Tab toets navigeert.
+3. button:hover: -> dit verandert de vormgeving wanneer de muis boven de button staat, hovering over the button.
+4. button:active: -> dit geeft feedback wanneer de button wordt ingedrukt.
 
 ##### Interactie met details en summary:
+
 Met < details > en < summary > kan je een uitklapbaar onderdeel maken, bijv. een FAQ (frequently asked questions) of andere dingetjes. De gebruiker kan dan klikken op de summary om het antwoord te openen of te sluiten en dit werkt zonder JavaScript.
 
 #### Wat neem ik mee:
+
 Op mijn website heb ik deze states toegepast op de buttons van mijn cookie menu. De kleuren passen bij mijn huisstijl met roze, wit en zwart. Ik gebruik CSS variabelen, zodat de vormgeving aansluit bij mijn light en dark modes.
 
 Bij :focus-visible gebruik ik een duidelijke outline, zodat bezoekers duidleijk kunnen zien welke button geselecteerd is. Bij :hover verandert de achtergrondkleur en bij :active wordt de button ietsjes kleiner.
@@ -1191,6 +1231,7 @@ Ik had :hover en :focus-visible toegepast op mijn knoppen voor het wisselen van 
 Ik kan dus deze nieuwe technieken gebruiken om mijn buttons duidelijker te maken en bezoekers feedback te geven wanneer ze ermee interacteren. Ik kan ook < details > en < summary > gebruiken om extra informatie over mijn favoriete consoles en games uitklapbaar te maken. Hierdoor wordt mijn website niet alleen visueel aantrekkelijker, maar ook duidelijker en toegankelijker in gebruik.
 
 #### Wat heb ik hiervan geleerd?
+
 Ik heb geleerd dat interactie niet alleen visueel mooi moet zijn, maar ook duidelijk en toegankelijk moet werken en door de verschillende states te stylen, krijgen de bezoekers gelijk feedback wanneer ze mijn website gebruiken.
 
 <img width="222" height="89" alt="Scherm­afbeelding 2026-10-17 om 20 12 07" src="https://github.com/user-attachments/assets/d53f2fda-bb88-4611-be76-83c08b2dad52" />
@@ -1217,15 +1258,16 @@ Ik heb geleerd dat interactie niet alleen visueel mooi moet zijn, maar ook duide
 
 <img width="1141" height="459" alt="Scherm­afbeelding 2026-10-18 om 01 24 43" src="https://github.com/user-attachments/assets/263024f3-b037-47a9-aa6c-84aa1595952c" />
 
-
 ### S2 - Buttons + Dialogs (Sanne)
 
-#### Notities: 
+#### Notities:
 
 ##### Buttons:
+
 Een button kan je met JavaScript een class toevoegen aan of verwijderen van het body-element. Deze class kan je dan vervolgens gebruiken om de vormgeving met CSS aan te passen.
 
 ##### Belangrijke methodes:
+
 - classList.add() -> voegt een class toe.
 - classList.remove() -> verwijdert een class.
 - classList.toggle() -> wisselt tussen een class aan en uit.
@@ -1233,7 +1275,9 @@ Een button kan je met JavaScript een class toevoegen aan of verwijderen van het 
 Ik heb ook geleerd dat je buttons op twee manieren aan JavaScript kunt koppelen: met onclick in HTML of met de JS 3-stap.
 
 ##### Dialogs:
+
 Met het HTML element <dialog> kan ik een popup maken met extra informatie, instellingen of andere inhoud.
+
 - < dialog > -> Maakt het popupvenster
 - id="info" -> Geeft de dialog een unieke naam.
 - commandfor="info" -> Verwijst naar de dialog die de button bedient.
@@ -1248,16 +1292,19 @@ Met het HTML element <dialog> kan ik een popup maken met extra informatie, inste
 - ::backdrop -> kan de achtergrond achter een modale dialog donkerder of waziger maken.
 
 ##### Interactie en feedback:
+
 Ik heb geleerd dat buttons ook kunnen laten zien welke instelling actief is. Met ::before en ::after kan je bijv. een vinkje toevoegen aan de geselecteerde button.
 
 Ik heb ook geleerd over feedforward en feedback. Feedforward laat zien wat een gebruiker kan doen of wat er gaat gebeuren. Feedback laat zien wat er na een actie is veranderd.
 
 #### Wat heb ik geleerd?
-Ik heb geleerd dat HTML de structuur bepaalt, JavaScript de interactie regelt en CSS de vormgeving aanpast. Door deze technieken te combineren kan ik mijn website interactiever maken zonder alle HTML of CSS opnieuw te schrijven. 
+
+Ik heb geleerd dat HTML de structuur bepaalt, JavaScript de interactie regelt en CSS de vormgeving aanpast. Door deze technieken te combineren kan ik mijn website interactiever maken zonder alle HTML of CSS opnieuw te schrijven.
 
 Ik kan dus met HTML, CSS en JavaScript interactie aan mijn website toevoegen. Met buttons kan ik bijv. de achtergrond veranderen, elementen groter maken en verschillende layouts instellen. Met een dialog kan ik extra informatie in een popup laten zien.
 
 #### Wat neem ik me?
+
 Ik kan buttons en dialogs gebruiken om extra informatie over mijn gameconsoles te tonen. Ook kan ik bezoekers laten wisselen tussen een lijst en een grid. Zo wordt mijn website interactiever en kunnen bezoekers zelf bepalen hoe ze de informatie bekijken.
 
 Ik wil dus op mijn consoles pagina een knop toevoegen waarmee bezoekers kunnen kiezen tussen een lijst en een grid om mijn handheld consoles te bekijken. Ik had al een cookie instellingen venster op mijn website gemaakt. Dit is een voorbeeld van een dialog waarmee ik extra informatie aan bezoekers kan tonen.
@@ -1272,15 +1319,15 @@ Ik wil dus op mijn consoles pagina een knop toevoegen waarmee bezoekers kunnen k
 
 <img width="1680" height="782" alt="Scherm­afbeelding 2026-10-18 om 20 51 22" src="https://github.com/user-attachments/assets/b05cf0bc-cfc4-4e7e-a9b1-6464329f360b" />
 
-
 ### S2 - Position + Dialogs (Sanne)
 
-#### Notities: 
+#### Notities:
 
 ##### Properties:
-- static  -> Normale tekst en elementen.
+
+- static -> Normale tekst en elementen.
 - relative -> Een klein element iets verschuiven.
-- absolute met een gepositioneerde ouder  -> Een label in een afbeelding plaatsen.
+- absolute met een gepositioneerde ouder -> Een label in een afbeelding plaatsen.
 - fixed -> Een knop op een vaste plek in beeld.
 - sticky -> staat vast.Een navigatiebalk laten plakken tijdens scrollen.
 - Grid -> Een gewone pagina-indeling maken.
@@ -1295,24 +1342,28 @@ Ik wil dus op mijn consoles pagina een knop toevoegen waarmee bezoekers kunnen k
 - column-gap -> bepaalt de ruimte tussen kolommen.
 
 #### Wat heb ik geleerd?
+
 Ik heb geleerd hoe ik elementen kan positioneren met CSS, hoe je dialogs maakt en vormgeeft en hoe je dit met CSS kan animeren. Met position krijg je meer controle van de plaatsing van elementen. Met HTML dialogs, JavaScript en CSS kan je interactieve vensters maken. Je moet bewust gebruik maken van positionering en animaties.
 
 ##### CSS Position:
+
 HTML elementen staan standaard in de normale documentflow, flow layout, voor de meeste pagina indelingen gebruik je CSS Grid en Flexbox. Met position kan je elementen op specifieke plekken plaatsen.
 
 Er zijn vijf waarden van position:
+
 1. static -> De standaardpositie in de documentflow. Elementen staan op de plek waar ze volgens de normale document volgorde horen. Top, left, right en bottom verplaatsen het element niet.
 
-2. relative -> Het element blijft op de oorspronkelijke plek in de layout, maar je kunt het visueel verschuiven. 
+2. relative -> Het element blijft op de oorspronkelijke plek in de layout, maar je kunt het visueel verschuiven.
 
 3. absolute -> Dit haalt een element uit de normale documentflow en je positioneert het bijv. van uit een ouder element.
 
 4. fixed -> Dit positioneert een element vast op het scherm. Het element blijft dan dezelfde plek ook wanneer je dus scrollt.
 
-5. sticky ->  Dit laat een element plakken tijdens het scrollen. 
-Met top, right, bottom en left kan je de positie bepalen. Bij absolute gebruik je position: relative op de ouder element.
+5. sticky -> Dit laat een element plakken tijdens het scrollen.
+   Met top, right, bottom en left kan je de positie bepalen. Bij absolute gebruik je position: relative op de ouder element.
 
-##### HTML Dialog: 
+##### HTML Dialog:
+
 Met het HTML-element <dialog> kan je een dialoogvenster of popup maken.
 
 Er zijn twee manieren om een dialog te openen:
@@ -1323,9 +1374,11 @@ Er zijn twee manieren om een dialog te openen:
 Met dialog.close() kan ik een dialog sluiten. Een formulier met method="dialog" kan ook worden gebruikt om de dialog te sluiten. JavaScript gebruik je om een dialog bijv. te openen wanneer iemand op een knop klikt.
 
 ##### Dialogs animeren:
+
 Met CSS kan je dialogs geleidelijk laten verschijnen en verdwijnen.
 
-###### Properties: 
+###### Properties:
+
 - opacity -> bepaalt de transparantie.
 - transform: scale() -> maakt een element groter of kleiner.
 - transition -> maakt veranderingen vloeiend.
@@ -1334,9 +1387,11 @@ Met CSS kan je dialogs geleidelijk laten verschijnen en verdwijnen.
 - prefers-reduced-motion -> maakt het mogelijk rekening te houden met bezoekers die minder beweging willen zien.
 
 #### Wat neem ik mee?
+
 Ik kan position: sticky gebruiken voor een navigatiebalk die zichtbaar blijft tijdens het scrollen. Met position: absolute kan ik labels op afbeeldingen van mijn consoles plaatsen. Met een dialog kan ik korte teksten met extra informatie over mijn consoles of favoriete games laten zien zonder dat de bezoeker naar een andere pagina hoeft te gaan. Ik kan ook een helpvenster toevoegen en animaties gebruiken om dialogs prettiger te laten verschijnen en verdwijnen.
 
 ###### Properties en mogelijkheden hoe ik die zou kunnen toepassen:
+
 - position: sticky -> Header bovenaan.
 - position: absolute -> Labels op consolekaarten en sluitknoppen.
 - position: fixed -> Helpknop en helpvenster.
@@ -1348,7 +1403,8 @@ Ik kan position: sticky gebruiken voor een navigatiebalk die zichtbaar blijft ti
 - columns -> kan ik later toepassen op een tekstgedeelte.
 
 #### Wat heb ik veranderd na reflectie en feedback?
-Ik ben later terug gekomen op mijn sticky header, het was erg vervelend tijdens het gebruiken van de website waardoor je de tekst soms niet goed kon lezen. Het idee was er, maar het bleek toch onhandig te zijn. Ik heb mijn cookie venster sticky gemaakt en dat bleek veel handiger te zijn. 
+
+Ik ben later terug gekomen op mijn sticky header, het was erg vervelend tijdens het gebruiken van de website waardoor je de tekst soms niet goed kon lezen. Het idee was er, maar het bleek toch onhandig te zijn. Ik heb mijn cookie venster sticky gemaakt en dat bleek veel handiger te zijn.
 
 <img width="1102" height="736" alt="Scherm­afbeelding 2026-10-19 om 20 18 21" src="https://github.com/user-attachments/assets/401e61f1-30c7-4dcd-bc9f-f24981a29913" />
 
@@ -1368,12 +1424,12 @@ Ik ben later terug gekomen op mijn sticky header, het was erg vervelend tijdens 
 
 <img width="996" height="293" alt="Scherm­afbeelding 2026-10-19 om 20 40 47" src="https://github.com/user-attachments/assets/87c9ef56-b107-49d0-9623-27fa0f9520cf" />
 
-
 ### S2 - Meer interactie met HTML en CSS (Vasilis)
 
 #### Notities:
 
 ##### Properties:
+
 - type="email" -> Geeft op mobiels een handige toetsenbord met @ en controleert of de basisvorm van het e-mailadres werkt.
 - type="tel" -> Laat geschikt toetsenbord voor telefoons zien.
 - label for="naam" -> Koppelt het label aan het juiste invoerveld.
@@ -1385,9 +1441,11 @@ Ik ben later terug gekomen op mijn sticky header, het was erg vervelend tijdens 
 - download -> kan je aangeven dat een bestand gedownload moet worden.
 
 #### Wat heb ik gedaan?
-Ik heb met HTML en CSS gekeken hoe ik mijn website gebruiksvriendelijker kan maken (zonder per se JavaScript te gebruiken). Ik heb een nieuwe pagina gemaakt waarop bezoekers een (retro) (handheld) console kunnen voorstellen die zij graag in mijn Gaming Garden zouden willen zien. Ik vond dit wel een leuke toevoeging, want dat zorgt voor meer interactie en toenadering naar mijn gebruikers. 
+
+Ik heb met HTML en CSS gekeken hoe ik mijn website gebruiksvriendelijker kan maken (zonder per se JavaScript te gebruiken). Ik heb een nieuwe pagina gemaakt waarop bezoekers een (retro) (handheld) console kunnen voorstellen die zij graag in mijn Gaming Garden zouden willen zien. Ik vond dit wel een leuke toevoeging, want dat zorgt voor meer interactie en toenadering naar mijn gebruikers.
 
 ##### Formulier:
+
 In mijn formulier heb ik verschillende soorten invoervelden gebruikt:
 
 - type="text" -> voor de naam en de naam van de console.
@@ -1396,9 +1454,11 @@ In mijn formulier heb ik verschillende soorten invoervelden gebruikt:
 - label en for -> om labels aan de juiste invoervelden te koppelen.
 
 ##### CSS en gebruiksvriendelijkheid:
+
 Met CSS heb ik het formulier overzichtelijker gemaakt. Het formulier staat in het midden van de pagina en heeft een maximale breedte, zodat het niet te breed wordt. Verder heb ik het formulier responsive gemaakt, zodat het zich aanpast aan kleinere schermen.
 
 Ik heb geleerd om verschillende CSS selectors te gebruiken:
+
 - :focus -> om aan te geven welk invoerveld geselecteerd is.
 - :has() -> om een label aan te passen wanneer het bijbehorende invoerveld focus heeft.
 - :valid -> om te controleren of de invoer geldig is.
@@ -1407,12 +1467,14 @@ Ik heb geleerd om verschillende CSS selectors te gebruiken:
 Hiermee kan je bijv. verplichte velden een rood of groen teken geven of de achtergrond van een formulier veranderen wanneer alle verplichte velden geldig zijn.
 
 ##### Wat heb ik geleerd?
+
 Ik heb geleerd hoe je de UX (User Experience) van HTML kan verbeteren. Het gaat er niet alleen om hoe een website er uit ziet, maar ook om gemakkelijk en toegankelijk het is om te gebruiken.
 
-Door duidelijke labels, verplichte velden en focus-states toe te voegen, wordt het formulier makkelijker te gebruiken. Verder leerde ik hoe CSS kan reageren op de invoer van een gebruiker. Het formulier controleert de invoer, maar het werkt niet echt. 
+Door duidelijke labels, verplichte velden en focus-states toe te voegen, wordt het formulier makkelijker te gebruiken. Verder leerde ik hoe CSS kan reageren op de invoer van een gebruiker. Het formulier controleert de invoer, maar het werkt niet echt.
 
-#### Wat neem ik mee? 
-Ik ga deze technieken gebruiken voor mijn de links naar mijn gaming verhalen / extra informatie over mijn consoles. Dit ga ik doen door duidelijke labels, verplichte velden, goede focus states en herkenbare links toe te voegen. Dit zal mijn website makkelijker te gebruiken maken. 
+#### Wat neem ik mee?
+
+Ik ga deze technieken gebruiken voor mijn de links naar mijn gaming verhalen / extra informatie over mijn consoles. Dit ga ik doen door duidelijke labels, verplichte velden, goede focus states en herkenbare links toe te voegen. Dit zal mijn website makkelijker te gebruiken maken.
 
 <img width="259" height="80" alt="Scherm­afbeelding 2026-10-20 om 02 08 47" src="https://github.com/user-attachments/assets/d6ddeb18-f5c0-41f8-be09-0f42d83d6bf9" />
 
@@ -1426,8 +1488,7 @@ Ik ga deze technieken gebruiken voor mijn de links naar mijn gaming verhalen / e
 
 # Probeer alle img een andere alt naam te geven ipv schermafbeelding 12345 etc x
 
-
-# SPRINT 2 - Retrospective: 
+# SPRINT 2 - Retrospective:
 
 <img width="1126" height="799" alt="Sprint 2 Retrospective - Opdracht 1, 2 en 3 (opwarmening, lettertypes en iconen)" src="https://github.com/user-attachments/assets/39ca3525-d5a6-4b35-9c51-c8bda1d25942" />
 
@@ -1440,9 +1501,11 @@ Het begin van sprint 2 ging goed, na de bi-weekly was er iets in mijn privé omg
 Gedurende sprint 2 heb ik veel geleerd over HTML, CSS, toegankelijkheid en het verbeteren van mijn website. Ik vond het heel erg leuk om mijn eigen consoles in Figma te maken en steeds meer onderdelen aan mijn digital garden toe te voegen. Natuurlijk kwam ik ook problemen tegen, bijv. vaak bij het controleren van mijn HTML, hiermee spelen en het testen van de toegankelijkheid. Door dit bij elkaar kwam ik erachter dat een website veel meer is dan er alleen goed moeten uitzien, maar dat het belangrijk is dat het ook goed te gebruiken is voor iedereen. Ik heb geleerd dat fouten maken bij het ontwerpproces hoort en dat ik hiervan kan leren om mijn website verder te verbeteren.
 
 # SPRINT 3: Digital Garden
+
 # SPRINT 3 - Check Out:
 
 ### Sprint 3.1:
+
 # SPRINT 3 - Deep Dives:
 
 ### S3 - Buttons, states en selectors (Vasilis)
