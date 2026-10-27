@@ -4,8 +4,15 @@
 
 @font-face {
   font-family: "Press Start 2P";
-  src: url("../assets/type/Press_Start_2P/PressStart2P-Regular.ttf");
+  src: url("../assets/Fonts/Press_Start_2P/PressStart2P-Regular.ttf");
   font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Handjet";
+  src: url("../assets/Fonts/Handjet/Handjet-VariableFont_ELGR\,ELSH\,wght.ttf");
+  font-weight: 100 900;
   font-style: normal;
 }
 
@@ -140,11 +147,11 @@ header label {
   cursor: pointer;
 }
 
-header label:first-child {
+header label:first-of-type {
   grid-column: 2;
 }
 
-header label:nth-child(2) {
+header label:nth-of-type(2) {
   grid-column: 3;
 }
 
@@ -180,6 +187,50 @@ header h2 {
 }
 
 /**************************
+* MARK: Bewegingsinstellingen knop
+**************************/
+
+header button#openMotionDialog {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  z-index: 10;
+  width: 4rem;
+  height: 4rem;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+header button#openMotionDialog img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  object-fit: contain;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  background: transparent;
+}
+
+header button#openMotionDialog:hover {
+  background: transparent;
+  border: none;
+}
+
+header button#openMotionDialog:active {
+  transform: none;
+}
+
+header button#openMotionDialog:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+
+/**************************
 * MARK: Headings
 **************************/
 
@@ -195,6 +246,42 @@ h1 {
 
 h2 {
   line-height: 1.8;
+}
+
+/**************************
+* MARK: Variabele fonts
+**************************/
+
+h2.handjet-title {
+  font-family: "Handjet", sans-serif;
+  font-size: 200px;
+  font-weight: 300;
+  text-align: center;
+  line-height: 1;
+
+  font-variation-settings:
+    "ELGR" 1,
+    "ELSH" 0;
+
+  animation-name: game-on;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes game-on {
+  0% {
+    font-weight: 300;
+    font-variation-ssettings:
+      "ELGR" 1,
+      "ELSH" 0;
+  }
+
+  100% {
+    font-weight: 900;
+    font-variation-settings:
+      "ELGR" 2,
+      "ELSH" 16;
+  }
 }
 
 /**************************
@@ -284,7 +371,7 @@ summary {
 }
 
 summary:focus-visible {
-  outline: 3px solid var(--color);
+  outline: 3px solid currentColor;
   outline-offset: 4px;
 }
 
@@ -324,24 +411,24 @@ dialog {
   padding: 1.5rem;
 
   opacity: 0;
-  transform: scale(0.96);
+  transform: translate3d(200%, 200%, 0) rotate(45deg);
 
   transition:
     opacity 200ms ease,
-    transform 200ms ease,
-    display 200ms allow-discrete,
-    overlay 200ms allow-discrete;
+    transform 400ms ease,
+    display 400ms allow-discrete,
+    overlay 400ms allow-discrete;
 }
 
 dialog[open] {
   opacity: 1;
-  transform: scale(1);
+  transform: translate3d(0, 0, 0) rotate(0deg);
 }
 
 @starting-style {
   dialog[open] {
     opacity: 0;
-    transform: scale(0.96);
+    transform: translate3d(200%, 200%, 0) rotate(45deg);
   }
 }
 
@@ -639,6 +726,28 @@ main.console-gallery.list-view figcaption {
 }
 
 /**************************
+* MARK: Minder beweging
+**************************/
+
+html.reduce-motion dialog,
+html.reduce-motion dialog::backdrop {
+  transition: none;
+}
+
+html.reduce-motion dialog[open] {
+  transform: none;
+}
+
+html.reduce-motion button:active,
+html.reduce-motion .more-info:active {
+  transform: none;
+}
+
+html.reduce-motion header label:hover img {
+  transform: none;
+}
+
+/**************************
 * MARK: Console detailpagina
 **************************/
 
@@ -780,4 +889,17 @@ main form button {
     margin: 1.5rem auto;
     padding: 1rem;
   }
+}
+
+/**************************
+* MARK: Interessantere layouts
+**************************/
+
+.intro {
+  container-type: inline-size;
+}
+
+/* De algemene intro-kopregel geldt niet voor de grote Handjet-titel. */
+.intro h2:not(.handjet-title) {
+  font-size: clamp(1.5rem, 5cqi, 2rem);
 }

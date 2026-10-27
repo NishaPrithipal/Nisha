@@ -3,7 +3,6 @@
  **************************/
 
 const themeButtons = document.querySelectorAll('input[name="theme"]');
-
 const savedTheme = localStorage.getItem("theme");
 
 themeButtons.forEach((button) => {
@@ -105,6 +104,50 @@ document.querySelectorAll("dialog").forEach((dialog) => {
   dialog.addEventListener("click", (event) => {
     if (event.target === dialog) {
       dialog.close();
+    }
+  });
+});
+
+/**************************
+ * MARK: Bewegingsinstellingen
+ **************************/
+
+const motionDialog = document.querySelector("#motionDialog");
+const openMotionDialogButton = document.querySelector("#openMotionDialog");
+const motionChoiceButtons = document.querySelectorAll("[data-motion-choice]");
+
+const savedMotion = localStorage.getItem("motion");
+
+if (savedMotion === "reduced") {
+  document.documentElement.classList.add("reduce-motion");
+} else {
+  document.documentElement.classList.remove("reduce-motion");
+}
+
+if (openMotionDialogButton && motionDialog) {
+  openMotionDialogButton.addEventListener("click", () => {
+    if (!motionDialog.open) {
+      motionDialog.showModal();
+    }
+  });
+}
+
+motionChoiceButtons.forEach((button) => {
+  button.addEventListener("click", () => {
+    const choice = button.dataset.motionChoice;
+
+    if (choice === "reduced") {
+      document.documentElement.classList.add("reduce-motion");
+      localStorage.setItem("motion", "reduced");
+    }
+
+    if (choice === "normal") {
+      document.documentElement.classList.remove("reduce-motion");
+      localStorage.setItem("motion", "normal");
+    }
+
+    if (motionDialog?.open) {
+      motionDialog.close();
     }
   });
 });

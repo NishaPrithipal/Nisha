@@ -12,7 +12,7 @@
     <script src="./js/script.js" defer></script>
 
     <script
-      data-page="https://nishaprithipal-design.nl/Consoles.html"
+      data-page="https://nishaprithipal-design.nl/"
       src="https://digitaaltuintje.nl/webring.js"
       defer
     ></script>
@@ -20,6 +20,18 @@
 
   <body>
     <header>
+      <button
+        type="button"
+        id="openMotionDialog"
+        aria-label="Bewegingsinstellingen openen"
+        aria-haspopup="dialog"
+      >
+        <img
+          src="./assets/SVG's/Icons/Button knop zwartmetwitteborder.svg"
+          alt="knop die lijkt op een knoopje, voor vermindere beweging"
+        />
+      </button>
+
       <label>
         <input type="radio" name="theme" value="light-theme" />
 
@@ -51,7 +63,7 @@
     </nav>
 
     <section class="intro">
-      <h2>My Girls</h2>
+      <h2 class="handjet-title">GAME ON!</h2>
 
       <p>
         Dit is mijn collectie handheldconsoles. Elke console heeft een eigen
@@ -300,6 +312,24 @@
       <div class="dialog-buttons">
         <button type="button" data-cookie-choice="accept">Accepteren</button>
         <button type="button" data-cookie-choice="reject">Weigeren</button>
+        <button type="button" class="close-dialog">Sluiten</button>
+      </div>
+    </dialog>
+
+    <dialog id="motionDialog" aria-labelledby="motionTitle">
+      <h2 id="motionTitle">Bewegingsinstellingen</h2>
+
+      <p>Kies hoeveel beweging je op deze website wilt zien.</p>
+
+      <div class="dialog-buttons">
+        <button type="button" data-motion-choice="normal">
+          Normale beweging
+        </button>
+
+        <button type="button" data-motion-choice="reduced">
+          Minder beweging
+        </button>
+
         <button type="button" class="close-dialog">Sluiten</button>
       </div>
     </dialog>
