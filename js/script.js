@@ -120,8 +120,10 @@ const savedMotion = localStorage.getItem("motion");
 
 if (savedMotion === "reduced") {
   document.documentElement.classList.add("reduce-motion");
-} else {
+  document.documentElement.classList.remove("normal-motion");
+} else if (savedMotion === "normal") {
   document.documentElement.classList.remove("reduce-motion");
+  document.documentElement.classList.add("normal-motion");
 }
 
 if (openMotionDialogButton && motionDialog) {
@@ -138,11 +140,13 @@ motionChoiceButtons.forEach((button) => {
 
     if (choice === "reduced") {
       document.documentElement.classList.add("reduce-motion");
+      document.documentElement.classList.remove("normal-motion");
       localStorage.setItem("motion", "reduced");
     }
 
     if (choice === "normal") {
       document.documentElement.classList.remove("reduce-motion");
+      document.documentElement.classList.add("normal-motion");
       localStorage.setItem("motion", "normal");
     }
 

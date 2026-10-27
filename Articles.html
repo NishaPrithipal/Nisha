@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Nisha Prithipal" />
+    <meta name="color-scheme" content="light dark" />
+
+    <title>Home | My Gaming Garden</title>
+
+    <link rel="stylesheet" href="./style/normal.css" />
+    <script src="./js/script.js" defer></script>
+
+    <script
+      data-page="https://nishaprithipal-design.nl/"
+      src="https://digitaaltuintje.nl/webring.js"
+      defer
+    ></script>
+  </head>
+
+  <body>
+    <header>
+      <button
+        type="button"
+        id="openMotionDialog"
+        aria-label="Bewegingsinstellingen openen"
+        aria-haspopup="dialog"
+      >
+        <img
+          src="./assets/SVG's/Icons/Button knop zwartmetwitteborder.svg"
+          alt="knop die lijkt op een knoopje, voor vermindere beweging"
+        />
+      </button>
+
+      <label>
+        <input type="radio" name="theme" value="light-theme" />
+        <img
+          src="./assets/SVG's/Icons/LightFatsonToddWitROZE.svg"
+          alt="Licht thema"
+        />
+      </label>
+
+      <label>
+        <input type="radio" name="theme" value="dark-theme" />
+        <img
+          src="./assets/SVG's/Icons/DarkFatsonToddZwartROZEsvg.svg"
+          alt="Donker thema"
+        />
+      </label>
+
+      <h1>My Gaming Garden</h1>
+    </header>
+
+    <nav aria-label="Hoofdnavigatie">
+      <a href="./index.html" aria-current="page">Home</a>
+      <a href="./Consoles.html">Consoles</a>
+      <a href="./suggest.html">Your Suggestions!</a>
+      <a href="./log.html">Log</a>
+      <a href="./story.html">Story</a>
+      <a href="./Articles.html">Articles</a>
+    </nav>
+
+    <article>
+      <h2>
+        Superheroes: More than nostalgia: Why Gen Z Is Turning to Old Tech
+      </h2>
+
+      <p>
+        Gen Z wordt vaak gezien als een volledig digitale generatie, maar de
+        oudere Gen Z is eigenlijk een "in-between generation". Zij zijn
+        opgegroeid met oudere technologie zoals Nintendo DS, Tamagotchi en
+        digitale camera's, maar maakten daarna de grote overgang naar moderne
+        technologie zoals smartphones en sociale media. Ze zijn zich bewust van
+        de voor- en nadelen van moderne technologie. Oude technologie voelt
+        aantrekkelijk aan omdat er minder stimulatie, afleiding, meldingen en
+        sociale media zijn. Simpele technologie geeft mensen daardoor het gevoel
+        dat ze meer controle hebben. Het gaat dus niet alleen om nostalgie, maar
+        ook om simpelheid en balans.
+      </p>
+    </article>
+
+    <article>
+      <h2>
+        Fast Company: "It's Like Their Escape": Retro Gaming Is Back Thanks to
+        Gen Z
+      </h2>
+
+      <p>
+        Volgens een Britse enquête bezit 24% van Gen Z een retro gameconsole en
+        ziet 89% retro games als een fijne pauze van het internet. Retro games
+        kunnen nostalgisch en ontspannen aanvoelen. Mensen vinden het fijn om
+        niet alleen op hun telefoon te zitten. Voor sommigen voelen oude
+        consoles en games als een veilige ontsnapping en hebben ze emotionele
+        waarde.
+      </p>
+    </article>
+
+    <footer>
+      <button type="button" id="openCookieModal">Cookie-instellingen</button>
+
+      <p>Copyleft 2026, all wrongs reversed</p>
+    </footer>
+
+    <dialog id="cookieModal" aria-labelledby="cookieTitle">
+      <h2 id="cookieTitle">Cookie-instellingen</h2>
+
+      <p>
+        Deze website maakt gebruik van GitHub Pages voor hosting en van het
+        Digitaal Tuintje-webringcomponent.
+      </p>
+
+      <p id="cookieMessage" aria-live="polite">
+        Kies hieronder een optie. Deze website slaat je keuze niet op en
+        schakelt het webringcomponent hiermee niet uit.
+      </p>
+
+      <div class="dialog-buttons">
+        <button type="button" data-cookie-choice="accept">Accepteren</button>
+        <button type="button" data-cookie-choice="reject">Weigeren</button>
+        <button type="button" class="close-dialog">Sluiten</button>
+      </div>
+    </dialog>
+
+    <dialog id="motionDialog" aria-labelledby="motionTitle">
+      <h2 id="motionTitle">Bewegingsinstellingen</h2>
+
+      <p>Kies hoeveel beweging je op deze website wilt zien.</p>
+
+      <div class="dialog-buttons">
+        <button type="button" data-motion-choice="normal">
+          Normale beweging
+        </button>
+
+        <button type="button" data-motion-choice="reduced">
+          Minder beweging
+        </button>
+
+        <button type="button" class="close-dialog">Sluiten</button>
+      </div>
+    </dialog>
+  </body>
+</html>
