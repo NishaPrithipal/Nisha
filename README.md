@@ -1505,12 +1505,11 @@ Gedurende sprint 2 heb ik veel geleerd over HTML, CSS, toegankelijkheid en het v
 # SPRINT 3: Digital Garden
 
 ## Wat heb ik aangepast? 
-- Na feedback kwam ik erachter dat mijn cookie instellingen niet op elke pagina hetzelfde bleek te zijn. Dat was voornamelijk bij al mn extra informatie consoles en bij mijn suggestions. Dit heb ik aangepast en nu staat het wel overal goed.
+- Na feedback kwam ik erachter dat mijn cookie instellingen niet op elke pagina hetzelfde bleek te zijn. Dat was voornamelijk bij al mijn extra informatie consoles en bij mijn suggesties pagina. Dit heb ik aangepast en nu staat het wel overal goed.
 
-- donkere mode de navigatie niet fijn oogt, verandert 
-- donkere mode geen border het verdween, witte border gegeven. 
-- cookie donkere mode ook geen border dus nu ook witte border.
-# FOTO
+- De navigatie bij de donkere mode de oogt niet fijn, heb dit verandert.
+- De donkere mode had geen border, het verdween, heb een witte border toegevoegd. 
+- De cookie instellingen bij donkere mode had ook geen border, dus nu ook witte border toegevoegd.
 
 #### Suggestie formulier lichte mode: 
 
@@ -1542,20 +1541,34 @@ Navigatie en cookie knoppen zagen in de donkere er niet goed uit, heb dit aangep
 
 <img width="289" height="80" alt="aangepaste cookie knop donkere mode witte border" src="https://github.com/user-attachments/assets/72fbd59b-525c-40f2-953d-d4edd8572616" />
 
-- Verder waren niet al mijn custom properties correct.
-- aangepast
-# FOTO
+- Verder waren niet al mijn custom properties correct, dit heb ik aangepast in mijn gehele CSS.
 
 <img width="199" height="133" alt="Custom properties colors" src="https://github.com/user-attachments/assets/3a044a1c-d1a0-4b59-999e-4630d09dc592" />
 
+## Nieuwe elementen: 
 
-- licht donkere mode ging niet opslaan als je naar andere pagina ging.
-# FOTO
+- De voorkeur voor licht of donkere mode sloeg niet op als je naar andere pagina ging, dit heb ik aangepast met JavaScript.
 
 <img width="1044" height="517" alt="Donkere mode opgeslagen" src="https://github.com/user-attachments/assets/8b488324-17e8-4eeb-8e60-2ed62b010140" />
 
 <img width="1038" height="613" alt="Donkere mode opgeslagen volgende pagina" src="https://github.com/user-attachments/assets/c2b3b41e-dc28-4f67-9b72-d07c3e0630fb" />
 
+- Ik heb ervoor gezorgd dat mijn cookie instellingen met een animatie omhoog komt
+
+<img width="1680" height="959" alt="Nieuwe cookie instelling met animatie" src="https://github.com/user-attachments/assets/d3c1a236-26c2-4633-8c76-9a95a54d0e94" />
+
+- Ik heb een knop gemaakt voor gebruikers die minder beweging willen hebben:
+ik koos voor een knoopje die lijkt op de film Coraline, het is een van mijn favoriete films en dat wou ik ook meenemen op mijn website om het nog meer eigen te maken.
+
+<img width="287" height="296" alt="nieuwe bewegingsknop " src="https://github.com/user-attachments/assets/62163e45-b1d1-49df-93b6-6a15f5e78a15" />
+
+<img width="1068" height="481" alt="Nieuwe knop - bewegings instelling" src="https://github.com/user-attachments/assets/0cbd7772-ad60-45f6-bb22-4a690bfc6377" />
+
+<img width="1062" height="873" alt="Nieuwe knop - bewegings instelling sticky net als cookies" src="https://github.com/user-attachments/assets/2577c9e4-4258-4d11-9888-7e39b48d65d6" />
+
+
+
+# SPRINT 3: Opdrachten
 
 
 
