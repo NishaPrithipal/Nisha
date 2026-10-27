@@ -978,7 +978,7 @@ Notities gemaakt tijdens de college van Hans de Zwart. Het was informatief en le
 
 <img width="878" height="646" alt="Scherm­afbeelding 2026-10-25 om 02 24 07" src="https://github.com/user-attachments/assets/7704cf76-e5db-4907-b72b-5f559f170683" />
 
-# Cookies accepteren:
+## Cookies accepteren:
 
 <img width="1268" height="62" alt="Scherm­afbeelding 2026-09-26 om 16 56 53" src="https://github.com/user-attachments/assets/c6e60c2e-3ddb-4117-8f54-e9cd5bb7b82e" />
 
@@ -1557,6 +1557,10 @@ Navigatie en cookie knoppen zagen in de donkere er niet goed uit, heb dit aangep
 
 <img width="1680" height="959" alt="Nieuwe cookie instelling met animatie" src="https://github.com/user-attachments/assets/d3c1a236-26c2-4633-8c76-9a95a54d0e94" />
 
+- Ik heb mijn logboek pagina toegevoegd.
+
+<img width="1059" height="820" alt="Logboek pagina - 1ste versie" src="https://github.com/user-attachments/assets/f6467cd0-77c9-44f7-9a1f-0966b3a69a16" />
+
 - Ik heb een knop gemaakt voor gebruikers die minder beweging willen hebben:
 ik koos voor een knoopje die lijkt op de film Coraline, het is een van mijn favoriete films en dat wou ik ook meenemen op mijn website om het nog meer eigen te maken.
 
@@ -1566,19 +1570,90 @@ ik koos voor een knoopje die lijkt op de film Coraline, het is een van mijn favo
 
 <img width="1062" height="873" alt="Nieuwe knop - bewegings instelling sticky net als cookies" src="https://github.com/user-attachments/assets/2577c9e4-4258-4d11-9888-7e39b48d65d6" />
 
-
-
-# SPRINT 3: Opdrachten
-
-
-
-
-# SPRINT 3 - Check Out:
-
-### Sprint 3.1:
-
 # SPRINT 3 - Deep Dives:
 
-### S3 - Buttons, states en selectors (Vasilis)
+### S3 - Interessantere layouts (Vasilis)
 
 #### Wat heb ik geleerd?
+Ik heb geleerd dat je CSS kunt gebruiken om onderdelen van een website flexibeler te maken. Hierdoor kan de tekst zich beter aanpassen aan verschillende scherm- en container breedtes, zonder dat ik mijn hele layout hoef te veranderen.
+Ik heb geleerd dat je met container-type een element als container kunt instellen en met cqi de tekst kunt laten meeschalen met de breedte van die container. Ook heb ik geleerd hoe clamp() ervoor zorgt dat tekst niet te klein of te groot wordt.
+
+##### Properties:
+
+###### Schalende teksten:
+- Met clamp() en vw kan je de grootte van je hoofdtitel flexibel maken. De tekst schaalt mee met de schermbreedte, maar wordt niet onbeperkt groot of klein.
+
+###### Grid: 
+- Met CSS Grid verdeel je jouw content over meerdere kolommen. Met repeat(), minmax() en auto-fit kan de layout zich aanpassen aan de beschikbare ruimte.
+
+###### Mediaqueries: 
+- Met @media verander je het aantal kolommen afhankelijk van de schermbreedte. Hierdoor blijft je website bruikbaar op verschillende apparaten.
+
+###### Flexibele layouts: 
+- Bijv. op mijn consoles pagina kunnen bezoekers kiezen tussen een grid- en lijstweergave. Met CSS en JavaScript wordt de gekozen weergave toegepast.
+
+###### Responsive design: 
+- Ik gebruik verschillende breedtes en instellingen om ervoor te zorgen dat afbeeldingen, teksten en formulieren binnen de beschikbare ruimte blijven.
+
+#### Wat heb ik toegepast?
+- Ik heb op mijn website container-type: inline-size toegevoegd aan de introductie. Hierdoor kan de breedte van deze container gebruikt worden om de grootte van de koptekst aan te passen. Met clamp() en cqi schaalt de koptekst mee met de beschikbare ruimte.
+
+
+### S3 - Variabele fonts (Sanne)
+
+####  Wat heb ik geleerd?
+Tijdens deze deep dive heb ik geleerd wat variabele fonts zijn en hoe je ze met CSS kan aanpassen. Een variabel lettertype kan meerdere variaties bevatten in één fontbestand. Hierdoor kan je bijv. het gewicht en de vorm van letters aanpassen zonder verschillende font bestanden te gebruiken.
+
+##### Properties: 
+- @font-face -> om een lettertype aan je website toe te voegen.
+- font-family -> om het lettertype te selecteren.
+- font-weight -> om het gewicht van de letters aan te passen.
+- font-variation-settings -> om specifieke variatie assen van een variabel lettertype in te stellen.
+- transition -> om veranderingen geleidelijk te laten verlopen.
+- :hover -> om een verandering te laten plaatsvinden wanneer iemand met de muis over een element beweegt.
+
+#### Hoe heb ik dit toegepast?
+Ik heb het variabele lettertype Handjet toegevoegd aan mijn website My Gaming Garden. Ik gebruik dit lettertype voor de titel GAME ON! voor op mijn Consoles pagina. 
+
+Met @font-face laad ik het lettertype in vanuit mijn eigen bestanden. Met font-family: "Handjet" stel ik vervolgens in dat de titel dit lettertype gebruikt.
+
+Ik heb de titel aangepast met font-weight en font-variation-settings. Handjet bevat in mijn toepassing twee variatie-assen:
+
+- ELGR -> hiermee pas ik de lettervorm aan.
+- ELSH -> hiermee pas ik de vormvariatie van de letters aan.
+
+Met deze instellingen experimenteer ik met het uiterlijk van de titel. Ik heb daarnaast een CSS animatie gemaakt waarbij de titel automatisch verandert van een lichtere naar een zwaardere lettervorm.
+
+Verder heb ik ook mijn instelling voor minder beweging gekoppeld aan de titel. Ik heb hiervoor gekozen, om rekening te houden met mijn bezoeker als die de keuze maakt voor minder beweging. Hiermee wordt de animatie uitgeschakeld en ziet de titel er gewoon dikgedrukt uit. Ik kan begrijpen dat de als de animatie zich de hele tijd afspeelt dat sommige gebruikers dit niet prettig vinden en overprikkeld raken. 
+
+Dus als iemand kiest voor minder beweging, staat ‘game on!’ er dikgedrukt afgebeeld en anders speelt er wel een animatie af. 
+
+#### Wat heb ik hiervan geleerd?
+Ik heb geleerd hoe ik een variabel lettertype kan toevoegen en hoe ik de vormgeving ervan met CSS kan aanpassen. Door font-weight en de variatie assen ELGR en ELSH te gebruiken, kan ik het uiterlijk van mijn titel veranderen. Ik heb deze techniek toegepast om mijn website een speelser uiterlijk te geven dat bij mijn retro gaming stijl past. Ook heb ik geleerd hoe ik variabele fonts kan combineren met een CSS-animatie. Ik vond het erg leuk om terug te zien hoe de animatie afspeelt en dat je dit voor elkaar kan krijgen met alleen codes.
+
+<img width="243" height="91" alt="lettertype Handjet - variabele font" src="https://github.com/user-attachments/assets/fffe9cf4-35a1-46aa-8314-3dc9c877c95c" />
+
+<img width="292" height="72" alt="lettertype Handjet uitproberen - variabele font mijn naam" src="https://github.com/user-attachments/assets/3a9ed228-d4ef-4ecc-836b-6777a8499b1d" />
+
+<img width="727" height="259" alt="variabele font werkt - Handjet animatie" src="https://github.com/user-attachments/assets/faa68a4b-d1bf-45cb-9a98-8e0358d27c3c" />
+
+<img width="533" height="578" alt="variabele font werkt - Handjet animatie responsive " src="https://github.com/user-attachments/assets/f50543d2-f0cf-4fe4-a7b6-55624696dce7" />
+
+<img width="635" height="203" alt="variabele font werkt donkere mode - Handjet animatie" src="https://github.com/user-attachments/assets/cc0db714-c050-4578-8200-889021f29bbe" />
+
+<img width="898" height="140" alt="variabele font werkt niet - sans serif dikgedrukt" src="https://github.com/user-attachments/assets/4d276ba4-c136-4894-b6a0-f0fe00bbfb56" />
+
+<img width="662" height="269" alt="variabele font werkt - Handjet dikgedrukt zonder beweging" src="https://github.com/user-attachments/assets/227c6cd9-1c48-49fd-9faf-d438ed4b953f" />
+
+<img width="871" height="153" alt="variabele font werkt niet - sans serif dun" src="https://github.com/user-attachments/assets/61748966-c998-41f1-a569-f775e004d40e" />
+
+
+### S3 - CSS animaties (Sanne)
+
+#### Wat heb ik gedaan?
+
+nieuwe home pagina gemaakt:
+
+<img width="1085" height="695" alt="Scherm­afbeelding 2026-10-27 om 23 53 05" src="https://github.com/user-attachments/assets/0652115f-8be6-4e0c-b185-c8406b6adb27" />
+
+<img width="1123" height="518" alt="Scherm­afbeelding 2026-10-27 om 23 53 13" src="https://github.com/user-attachments/assets/7104c2a4-d5a4-4ce0-9792-be2d27b38ded" />
