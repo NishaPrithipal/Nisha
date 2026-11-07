@@ -839,6 +839,8 @@ Mijn console overzicht gebruikt al CSS Grid met auto-fit en minmax(). Dat is han
 
 Tijdens mijn 1ste sprint had ik een aantal; ups en downs. Ik heb wel veel kunnen leren over HTML en CSS. Ik ben bezig geweest met het maken van mijn eigen website en ook al vond ik het lastig om hieraan te beginnen heb ik veel nieuwe info kunnen leren en toepassen op mijn website.
 
+
+
 # SPRINT 2: Digital Garden
 
 Ik heb foto's gemaakt van mijn eigen handheld consoles en heb besloten om het te houden bij alleen mijn handheld consoles en als ik extra tijd heb zou ik het nog altijd kunnen uitbreiden. Ik heb vanuit mijn foto's en foto's online mijn consoles kunnen na maken in Figma. Vervolgens heb ik ze allemaal als SVG's op mijn website geplaatst.
@@ -862,9 +864,11 @@ Ik heb diverse elementen geprobeerd om te doen en keuzes gemaakt of ik ze wel of
 Ik wou besloot voor mijn light/dark modus om een poppetje te maken, ik dacht eerst aan Kirby want het is schattig en roze. Ik koos later om het te baseren op mijn eigen knuffel Fatson Todd die gebaseerd is op Jason Todd, Red Hood, tweede Robin van Batman.
 
 <img width="451" height="556" alt="Scherm­afbeelding 2026-09-28 om 21 10 36" src="https://github.com/user-attachments/assets/6d799233-99e0-4cb3-a9f1-21178ef00570" />
+
 (Mijn Kirby zag er ook een beetje eng uit vond ik)
 
 Maar kijk dit lijkt wel een beetje op mijn knuffel:
+
 <img width="641" height="854" alt="Scherm­afbeelding 2026-10-16 om 14 40 14" src="https://github.com/user-attachments/assets/5dc753e6-5e2a-41a3-a924-77f65f2bb3ef" />
 
 <img width="738" height="831" alt="Scherm­afbeelding 2026-10-16 om 14 40 29" src="https://github.com/user-attachments/assets/298f10a0-f047-439f-b307-f99c3108c356" />
@@ -910,6 +914,7 @@ Dit wil ik graag als SVG op mijn website zetten en gebruik van maken.
 Nu ziet het er zo uit:
 
 <img width="1680" height="771" alt="Nieuwe consoles lay-out" src="https://github.com/user-attachments/assets/4c7a0361-5a05-45c5-8d84-dcfe26b8b1fe" />
+
 
 # SPRINT 2: Opdrachten
 
@@ -1012,6 +1017,7 @@ Ik heb ook een aantal andere pagina's gecheckt en die zagen er wel allemaal goed
 
 <img width="1037" height="585" alt="Validatie suggest html" src="https://github.com/user-attachments/assets/b80fa0fe-4b98-4256-9ed3-7f4ab2845cb9" />
 
+
 ### SPRINT 2. - Bi-weekly 2:
 
 UX HTML:
@@ -1027,7 +1033,7 @@ UX = User Experience
 
 #### User testing / Toegankelijkheid testen:
 
-Ik heb samen met Alara 3 testen gedaan
+Ik heb samen met een medestudent 3 testen gedaan:
 
 1. Screenreader
 2. Alleen-een-toetsenbord
@@ -1117,20 +1123,18 @@ Resultaat bleek dat het 99,88% vriendelijk is voor mensen met deuteranopia:
 
 - Command ingedrukt houden en 3x op ID knop klikken.
 
+
 # SPRINT 2 - Check Out:
 
 ### Sprint 2.1:
 
 1. Wat zijn HTML landmark role elements?
-
 - indicatoren om de structuur te herkennen.
 
 2. Wat zijn heading elementen en hoe horen deze 'genest' te worden?
-
 - Er moet altijd een hiërarchie zijn met een logische opeenvolgende structuur zijn. Bijv. H1, h2, h3, etc. Dit helpt ook alle zoekmachines om je opbouw te begrijpen
 
 3. Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
-
 - Ik weiger ze meestal. 8/10 keer. Als ik haast heb ben ik sneller geneigd om op accepteren te klikken dan wanneer ik rustig aan het scrollen ben.
 
 # Wat zit in mijn eigen cookies? Hoe kan ik dit toepassen? Mijn digital garden:
@@ -1145,44 +1149,37 @@ Ik kies voor cookie banner met een sticky knop. Er komt een een dialoogvenster t
 ### Sprint 2.2:
 
 1. Wat is een wireflow en wat heb je er aan?
-
 - Het laat zien hoe de gebruiker verschillende schermen eruit zien etc en geeft het visueel weer.
 
 2. Wat zijn dark UX patterns? Geef drie voorbeelden...
-
 - Fake Social Proof, obstruction en wording tricks.
 
 3. Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
-
 - Dat je alle informatie geeft, maar het wel duidelijk blijft en dat het overzichtelijk blijft.
 
 ### Sprint 2.2:
 
 1. Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
-
 - HTML validatie is het controleren of je HTML code aan de regels en standaarden voldoet. Het is belangrijk voor de toegankelijkheid, structuur en het onderhouden van je website. Dit heb ik kunnen checken met W3C HTML Checker, dit heeft mijn website gecontroleerd en naar de fouten en waarschuwingen heeft gekeken.
 
 2. Welke dingen vielen je op?
-
 - Het viel me op dat mijn website er goed uit kon zien, terwijl er toch fouten in mijn HTML-code zaten. Ik heb geleerd dat een browser fouten soms zelf herstelt, waardoor je niet altijd door hebt dat er iets mis is met je code.
 
 3. Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
+- Goed kijken wat handig is en wat wel/niet fijn is voor de gebruiker.
 
-- ### Wat heb ik veranderd na reflectie en feedback?
-  Ik ben later terug gekomen op mijn sticky header, het was erg vervelend tijdens het gebruiken van de website waardoor je de tekst soms niet goed kon lezen. Het idee was er, maar het bleek toch onhandig te zijn. Ik heb mijn cookie venster sticky gemaakt en dat bleek veel handiger te zijn.
+### Wat heb ik veranderd na reflectie en feedback?
+Ik ben later terug gekomen op mijn sticky header, het was erg vervelend tijdens het gebruiken van de website waardoor je de tekst soms niet goed kon lezen. Het idee was er, maar het bleek toch onhandig te zijn. Ik heb mijn cookie venster sticky gemaakt en dat bleek veel handiger te zijn.
 
 ### Sprint 2.3: Bi-weekly
 
 1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
-
 - Het gaat niet alleen daar om maar ook of het fijn is voor de gebruiker om het tet gebruiken.
 
 2. Wat voor type beperkingen hebben invloed op het gebruiken van websites?
-
 - Cognitief, auditief, visueel en motorisch.
 
 3. Noem drie manieren om door een website te navigeren met jouw screenreader.
-
 - Headings, links en landmarks.
 
 ### Sprint 2.4: Bi-weekly
@@ -1200,6 +1197,7 @@ Ik kies voor cookie banner met een sticky knop. Er komt een een dialoogvenster t
 - Ik vind het wel lastig om rekening te houden met mensen die moeite hebben met het zien van kleuren en contrasten. Ik kwam namelijk tijdens het testen erachter dat mijn roze tekst op een witte achtergrond niet genoeg contrast heeft. In de donkere modus zag het er wel beter uit, maar ik moet hierdoor wel gaan kijken hoe ik mijn lichte modus toegankelijker kan maken zonder dat ik mijn eigen stijl verlies.
 
 - Verder vind ik niet per se dat toegankelijkheid je beperkt in wat je allemaal kunt ontwerpen. Ik vind het juist wel fijn dat iedereen ongeacht hun disabillaty mijn website zouden kunnen gebruiken. Het is wel zo dat je soms alleen bepaalde keuzes zou moeten maken die je voorheen nooit zou hebben bedacht. Ik kan bijv. mijn roze kleuren blijven gebruiken voor accenten, maar voor langere teksten een andere kleur kiezen die beter leesbaar zal zijn. Zo kan ik mijn website er wel leuk laten uitzien, maar dat het tegelijkertijd toch toegankelijker is voor meer mensen.
+
 
 # SPRINT 2 - Deep Dives:
 
@@ -1488,6 +1486,7 @@ Ik ga deze technieken gebruiken voor mijn de links naar mijn gaming verhalen / e
 
 # Probeer alle img een andere alt naam te geven ipv schermafbeelding 12345 etc x
 
+
 # SPRINT 2 - Retrospective:
 
 <img width="1126" height="799" alt="Sprint 2 Retrospective - Opdracht 1, 2 en 3 (opwarmening, lettertypes en iconen)" src="https://github.com/user-attachments/assets/39ca3525-d5a6-4b35-9c51-c8bda1d25942" />
@@ -1570,6 +1569,7 @@ ik koos voor een knoopje die lijkt op de film Coraline, het is een van mijn favo
 
 <img width="1062" height="873" alt="Nieuwe knop - bewegings instelling sticky net als cookies" src="https://github.com/user-attachments/assets/2577c9e4-4258-4d11-9888-7e39b48d65d6" />
 
+
 # SPRINT 3 - Deep Dives:
 
 ### S3 - Interessantere layouts (Vasilis)
@@ -1597,7 +1597,6 @@ Ik heb geleerd dat je met container-type een element als container kunt instelle
 
 #### Wat heb ik toegepast?
 - Ik heb op mijn website container-type: inline-size toegevoegd aan de introductie. Hierdoor kan de breedte van deze container gebruikt worden om de grootte van de koptekst aan te passen. Met clamp() en cqi schaalt de koptekst mee met de beschikbare ruimte.
-
 
 ### S3 - Variabele fonts (Sanne)
 
@@ -1646,7 +1645,6 @@ Ik heb geleerd hoe ik een variabel lettertype kan toevoegen en hoe ik de vormgev
 <img width="662" height="269" alt="variabele font werkt - Handjet dikgedrukt zonder beweging" src="https://github.com/user-attachments/assets/227c6cd9-1c48-49fd-9faf-d438ed4b953f" />
 
 <img width="871" height="153" alt="variabele font werkt niet - sans serif dun" src="https://github.com/user-attachments/assets/61748966-c998-41f1-a569-f775e004d40e" />
-
 
 ### S3 - CSS animaties (Sanne)
 
