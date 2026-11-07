@@ -1659,9 +1659,44 @@ Ik heb geleerd hoe ik een variabel lettertype kan toevoegen en hoe ik de vormgev
 
 ### S3 - CSS animaties (Sanne)
 
-#### Wat heb ik gedaan?
+#### Wat heb ik geleerd?
+Tijdens deze deepdive heb ik geleerd hoe ik animaties kan maken met CSS. Ik heb gekeken naar het verschil tussen transitions en animations, hoe @keyframes werkt en hoe ik het gedrag van een animatie kan aanpassen.
 
-nieuwe home pagina gemaakt:
+#### Properties: 
+- @keyframes -> hiermee bepaal je welke veranderingen een animatie tijdens het afspelen maakt.
+- animation -> hiermee stel je de animatie in, bijv. hoe lang deze duurt en hoe vaak deze wordt afgespeeld.
+- animation-duration -> bepaalt hoelang één animatie duurt.
+- animation-timing-function -> bepaalt hoe de animatie versnelt en vertraagt.
+- animation-iteration-count -> bepaalt hoe vaak de animatie wordt afgespeeld.
+- transform -> hiermee kan je een element verplaatsen of draaien.
+- transition -> hiermee laat je een verandering geleidelijk verlopen, bijv. wanneer een element van stijl verandert.
+- prefers-reduced-motion -> hiermee kan je rekening houden met gebruikers die liever minder beweging op een website zien.
+- Ook heb ik geleerd dat je met JavaScript een animatie of bewegingsvoorkeur kan aansturen. (Deze vond ik persoonlijk erg handig en belangrijk, omdat veel elementen op mijn website een animatie hebben en ik hierdoor gebruikers hun eigen voorkeur kan laten kiezen).
+
+#### Hoe heb ik dit toegepast op mijn website?
+Op mijn website heb ik de CSS animaties toegepast op de afbeeldingen van mijn game consoles. De consoles bewegen hierdoor rustig heen en weer en hebben een kleine draai. Dit geeft de afbeeldingen meer leven zonder dat de beweging te druk wordt en de bezoeker kan zelf ook de keuze maken voor geen beweging.
+
+Ik heb hiervoor @keyframes gebruikt. Binnen de keyframes heb ik verschillende momenten ingesteld met 0%, 50% en 100%. Op die momenten verandert de positie en draaiing van de afbeelding met transform.
+
+Voor de animatie heb ik de volgende eigenschappen gebruikt:
+- animation-duration: 3s; -> de animatie duurt drie seconden.
+- animation-timing-function: ease-in-out; -> de beweging begint en eindigt rustig.
+- animation-iteration-count: infinite; – de animatie blijft zich herhalen.
+
+##### Bewegingsvoorkeuren:
+Niet iedereen vindt bewegende elementen prettig, daarom heb ik ook rekening gehouden met gebruikers die minder beweging willen.
+
+Ik heb hiervoor de klassen .reduce-motion en .normal-motion gebruikt. Met JavaScript kan de gebruiker via de bewegingsinstellingen aangeven of de animaties aan of uit moeten staan. Wanneer minder beweging is ingesteld, wordt de animatie gestopt. Wanneer normale beweging is ingesteld, wordt deze weer geactiveerd.
+
+##### SVG’s aangepast: 
+Naast de animatie heb ik de afmetingen van mijn SVG’s op de aparte console pagina's aangepast. Vooral bij de PSP afbeeldingen waren de details eerst niet goed zichtbaar, daarom heb ik de maximale breedte en hoogte vergroot.
+
+Met object-fit: contain blijven de volledige SVG afbeeldingen zichtbaar en wordt deze niet afgesneden. Ook heb ik de hoogte voor kleinere schermen aangepast met een @media-query, zodat het responsive blijft.
+
+#### Wat is het resultaat?
+De console afbeeldingen bewegen nu subtiel op de detailpagina's. De animatie blijft zich herhalen en kan worden uitgeschakeld wanneer een gebruiker minder beweging wil. Daarnaast zijn de SVG afbeeldingen groter weergegeven, waardoor de details van de consoles beter zichtbaar zijn.
+
+##### Mijn nieuwe home pagina:
 
 <img width="1085" height="695" alt="Scherm­afbeelding 2026-10-27 om 23 53 05" src="https://github.com/user-attachments/assets/0652115f-8be6-4e0c-b185-c8406b6adb27" />
 
