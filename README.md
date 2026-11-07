@@ -1,4 +1,4 @@
-# SPRINT 0: Kick Off, Learning Log
+# SPRINT 0 - Kick Off, Learning Log:
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
 <img width="585" height="33" alt="Scherm­afbeelding 2026-09-10 om 20 54 21" src="https://github.com/user-attachments/assets/2d2485f8-723c-4592-a2e7-e2a5a0f0afcf" />
@@ -16,6 +16,7 @@ Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github o
 3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
 
 - Ik maak mijn aanpassingen in VSCodium. Als ik iets heb aangepast aan bijvoorbeeld mijn HTML of CSS, sla ik dit eerst op. Daarna klikte ik op menu items met de wijzigingen en voegde ik pagina titel aangepast en klikte ik op commit. Vervolgens klikte ik op sync changes, waardoor mijn wijzigingen naar Github werden gestuurd. Daarna kwam de nieuwe versie van mijn website online te staan en heb ik gecheckt of de aanpassingen goed op de website staan.
+
 
 # SPRINT 0 - Deep Dives:
 
@@ -414,7 +415,8 @@ Alles staat ook op Miro bij deze link: https://miro.com/app/board/uXjVHpsKqYY=/
 
 3. Ik vraag mij alleen nog af hoe ik bepaalde interactie elementen het beste kan maken, hoe ik ervoor zorg dat mijn layout responsive blijft, dat mijn afbeeldingen de juiste groottes hebben, hoe ik leuke hover- of klik animaties kan maken en dat het niet te overweldigend wordt en tot slot hoe ik mijn light en dark mode eruit wil laten zien.
 
-# 4. Maak waar nodig een laatste iteratie, zodat het helder is wat je definitieve bouwplan is in htm/css.
+4. Maak waar nodig een laatste iteratie, zodat het helder is wat je definitieve bouwplan is in htm/css.
+Ik wil mij graag focussen op mijn handheld consoles i.p.v. alles. 
 
 ### Opdracht 13:
 
@@ -466,7 +468,7 @@ Op mobiel gebruik ik één kolom zodat alle content overzichtelijk onder elkaar 
 
 De layout moet veranderen wanneer er genoeg ruimte is om content naast elkaar te plaatsen. Als ik op een groot scherm alles onder elkaar laat staan, is er te veel witruimte en kan de website er te leeg uitzien en daardoor minder prettig aanvoelen. Op mobiel moet je juist niet alles naast elkaar zetten, omdat de content dan te klein en krap kan worden, wat ook niet fijn is.
 
-### Opdracht 17 – Responsive voorbeelden zoeken !!
+### Opdracht 17 – Responsive voorbeelden zoeken:
 
 #### 1. Awwwards
 
@@ -516,6 +518,7 @@ Mijn idee voor haar:
 <img width="948" height="749" alt="Scherm­afbeelding 2026-09-28 om 00 44 12" src="https://github.com/user-attachments/assets/eafd4021-0d1e-4c41-abd4-e05598c67b7e" />
 
 Ik vind ze allemaal heel erg leuk, maar ze waren toch net niet wat ik precies zocht qua het gevoel en sfeer die ik omhoog wou brengen bij de gebruikers. Ik koos uiteindelijk toch voor wat meer 'typische' retro/game/internet/pixels lettertypes. Ik koos hier voor omdat als ik dat zie ik het gelijk associeer met het internet, games, vroeger en alles wat daar rondom heen komt. Ik vroeg aan een aantal meiden om feedback en wat hun associaties hierbij waren en ik kreeg ongeveer van hen te horen. Ik koos om Press Start 2P als mijn 'main' lettertype te gebruiken en de andere kijk ik nog waar ik die exact zou willen gebruiken.
+
 
 # SPRINT 1 - Check Out:
 
@@ -582,6 +585,7 @@ Dit is het idee dat ik nu heb en kan in de loop van tijd nog veranderen, vooral 
 3. Welk principe neem je mee in een laatste iteratie van je eigen Garden?
 
 - Witruimte, dat er genoeg ruimte is tussen de objecten want anders wordt mijn garden veel te druk.
+
 
 # SPRINT 1 - Deep Dives:
 
@@ -829,6 +833,7 @@ Mijn console overzicht gebruikt al CSS Grid met auto-fit en minmax(). Dat is han
 
 <img width="1680" height="965" alt="Scherm­afbeelding 2026-09-17 om 23 29 53" src="https://github.com/user-attachments/assets/7081be5b-4c87-4536-9ba3-ab13b22ab15b" />
 
+
 # SPRINT 1 - Retrospective:
 
 <img width="950" height="639" alt="Scherm­afbeelding 2026-09-22 om 20 19 28" src="https://github.com/user-attachments/assets/a404d59c-0116-4da5-b9ab-6929123cd6f4" />
@@ -841,7 +846,7 @@ Tijdens mijn 1ste sprint had ik een aantal; ups en downs. Ik heb wel veel kunnen
 
 
 
-# SPRINT 2: Digital Garden
+# SPRINT 2 - Digital Garden:
 
 Ik heb foto's gemaakt van mijn eigen handheld consoles en heb besloten om het te houden bij alleen mijn handheld consoles en als ik extra tijd heb zou ik het nog altijd kunnen uitbreiden. Ik heb vanuit mijn foto's en foto's online mijn consoles kunnen na maken in Figma. Vervolgens heb ik ze allemaal als SVG's op mijn website geplaatst.
 
@@ -916,7 +921,7 @@ Nu ziet het er zo uit:
 <img width="1680" height="771" alt="Nieuwe consoles lay-out" src="https://github.com/user-attachments/assets/4c7a0361-5a05-45c5-8d84-dcfe26b8b1fe" />
 
 
-# SPRINT 2: Opdrachten
+# SPRINT 2 - Opdrachten:
 
 ## HTML Structuur extra uitleg:
 
@@ -1018,7 +1023,7 @@ Ik heb ook een aantal andere pagina's gecheckt en die zagen er wel allemaal goed
 <img width="1037" height="585" alt="Validatie suggest html" src="https://github.com/user-attachments/assets/b80fa0fe-4b98-4256-9ed3-7f4ab2845cb9" />
 
 
-### SPRINT 2. - Bi-weekly 2:
+### SPRINT 2 - Bi-weekly 2:
 
 UX HTML:
 UX = User Experience
@@ -1484,7 +1489,7 @@ Ik ga deze technieken gebruiken voor mijn de links naar mijn gaming verhalen / e
 
 <img width="573" height="555" alt="Scherm­afbeelding 2026-10-20 om 02 12 59" src="https://github.com/user-attachments/assets/c1636e61-3633-47c1-af00-fc6aaed9257f" />
 
-# Probeer alle img een andere alt naam te geven ipv schermafbeelding 12345 etc x
+# !!!!!! Probeer alle img een andere alt naam te geven ipv schermafbeelding 12345 etc x !!!!!!!!!!!
 
 
 # SPRINT 2 - Retrospective:
@@ -1501,7 +1506,7 @@ Gedurende sprint 2 heb ik veel geleerd over HTML, CSS, toegankelijkheid en het v
 
 
 
-# SPRINT 3: Digital Garden
+# SPRINT 3 - Digital Garden
 
 ## Wat heb ik aangepast? 
 - Na feedback kwam ik erachter dat mijn cookie instellingen niet op elke pagina hetzelfde bleek te zijn. Dat was voornamelijk bij al mijn extra informatie consoles en bij mijn suggesties pagina. Dit heb ik aangepast en nu staat het wel overal goed.
@@ -1568,6 +1573,12 @@ ik koos voor een knoopje die lijkt op de film Coraline, het is een van mijn favo
 <img width="1068" height="481" alt="Nieuwe knop - bewegings instelling" src="https://github.com/user-attachments/assets/0cbd7772-ad60-45f6-bb22-4a690bfc6377" />
 
 <img width="1062" height="873" alt="Nieuwe knop - bewegings instelling sticky net als cookies" src="https://github.com/user-attachments/assets/2577c9e4-4258-4d11-9888-7e39b48d65d6" />
+
+
+# SPRINT 3 - Opdrachten:
+
+
+# SPRINT 3 - Check Out:
 
 
 # SPRINT 3 - Deep Dives:
@@ -1655,3 +1666,5 @@ nieuwe home pagina gemaakt:
 <img width="1085" height="695" alt="Scherm­afbeelding 2026-10-27 om 23 53 05" src="https://github.com/user-attachments/assets/0652115f-8be6-4e0c-b185-c8406b6adb27" />
 
 <img width="1123" height="518" alt="Scherm­afbeelding 2026-10-27 om 23 53 13" src="https://github.com/user-attachments/assets/7104c2a4-d5a4-4ce0-9792-be2d27b38ded" />
+
+# SPRINT 3 - Retrospective:
