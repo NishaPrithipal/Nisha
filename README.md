@@ -1,4 +1,4 @@
-<img width="500" height="670" alt="VoiceOver op Macbook aangedaan en papiertjes erop" src="https://github.com/user-attachments/assets/4bde9c9f-ff48-4076-bc04-42d638f64e49" /># SPRINT 0 - Kick Off, Learning Log:
+# SPRINT 0 - Kick Off, Learning Log:
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
 <img width="585" height="33" alt="Scherm­afbeelding 2026-09-10 om 20 54 21" src="https://github.com/user-attachments/assets/2d2485f8-723c-4592-a2e7-e2a5a0f0afcf" />
