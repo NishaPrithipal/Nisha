@@ -1,4 +1,4 @@
-# SPRINT 0 - Kick Off, Learning Log:
+<img width="500" height="670" alt="VoiceOver op Macbook aangedaan en papiertjes erop" src="https://github.com/user-attachments/assets/4bde9c9f-ff48-4076-bc04-42d638f64e49" /># SPRINT 0 - Kick Off, Learning Log:
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
 <img width="585" height="33" alt="Scherm­afbeelding 2026-09-10 om 20 54 21" src="https://github.com/user-attachments/assets/2d2485f8-723c-4592-a2e7-e2a5a0f0afcf" />
@@ -1025,6 +1025,21 @@ Ik heb ook een aantal andere pagina's gecheckt en die zagen er wel allemaal goed
 
 ### SPRINT 2 - Bi-weekly 2:
 
+#### Bi weekly 2 samenvatting artikelen: 
+Het internet bestaat niet alleen uit websites, apps en online platforms, maar ook met wetten en regels. Online activiteiten hebben juridische gevolgen, bijv. bij privacy, auteursrecht, illegale content en online veiligheid.
+
+Er is een Europese wet, Digital Services Act (DSA), die online verschillende platforms verantwoordelijk houdt voor illegale content, bescherming van de gebruikers, transparantie en nog veel meer. Een belangrijk onderdeel hiervan is de Digital Services Act (DSA). 
+
+Grote platforms met meer dan 45 miljoen maandelijkse gebruikers in de EU krijgen extra verplichtingen (in het artikel van de Financial Times worden ChatGPT, Reddit en Roblox als voorbeelden genoemd). Als de bedrijven de wetten niet aanhouden, dan kunnen ze boetes krijgen die tot wel 6% van hun wereldwijde omzet is. 
+
+Verder heb ik geleerd dat er nu met AI nieuwe juridische vragen komen.  AI chatbots kunnen bijv. onbetrouwbare informatie of Russische propaganda verspreiden. Er ontstaat nu de vraag hoe je de betrouwbaarheid van AI kan controleren en wie verantwoordelijk is voor de informatie die het geeft. 
+
+Verder gaat het ook over de bescherming van jongeren op het internet. In het artikel over meta gaat het over een discussie over de invloed die sociale media heeft op jongeren en of deze platforms zich ook bewust zijn van hun verslavende functies. Auteursrecht speelt hierbij ook een rol, want je mag niet zomaar afbeeldingen, teksten, andere content van het internet overnemen en op je eigen website gebruiken. 
+
+##### Wat neem ik hiervan mee?
+
+Het is dus dat het internet niet helemaal vrij of wetteloos is. Zowel gebruikers als bedrijven hebben verantwoordelijkheden. Het is vooral bij grote platforms en nieuwe technologieën zoals AI belangrijk om goed na te denken over de privacy, veiligheid, betrouwbaarheid en alle andere gevolgen op de samenleving. 
+
 UX HTML:
 UX = User Experience
 
@@ -1057,6 +1072,16 @@ Ik vond het bijvoorbeeld erg lastig om mijn handen hiermee te bewegen en mijn la
 <img width="593" height="691" alt="Scherm­afbeelding 2026-10-26 om 01 02 37" src="https://github.com/user-attachments/assets/14ad9af8-41a8-4a89-a199-bb8eb59d56fc" />
 
 <img width="571" height="740" alt="Scherm­afbeelding 2026-10-26 om 01 02 54" src="https://github.com/user-attachments/assets/93d176c0-62b3-48d3-8f69-36fb06f80457" />
+
+<img width="500" height="670" alt="VoiceOver op Macbook aangedaan en papiertjes erop" src="https://github.com/user-attachments/assets/957ad6bf-8ed0-4c13-b381-0bb49072193e" />
+
+<img width="502" height="669" alt="Reis inplannen op NS met VoiceOver" src="https://github.com/user-attachments/assets/11934fc2-2137-4c3c-9689-a21caa9d504a" />
+
+<img width="504" height="662" alt="Reis inplannen op NS met VoiceOver - tijd kiezen" src="https://github.com/user-attachments/assets/a9cf28ec-57d5-4a10-bfd5-8bf063578acb" />
+
+<img width="502" height="670" alt="Reis inplannen op NS met VoiceOver - Datum kiezen" src="https://github.com/user-attachments/assets/01439818-f6cb-43da-8bea-0e4d66f9ad79" />
+
+<img width="499" height="664" alt="Reis inplannen op NS met VoiceOver - opties bekijken" src="https://github.com/user-attachments/assets/3179baa7-3379-4bc2-aa18-b1f51da726e8" />
 
 #### Toegankelijkheid testen:
 
@@ -1574,6 +1599,12 @@ ik koos voor een knoopje die lijkt op de film Coraline, het is een van mijn favo
 
 <img width="1062" height="873" alt="Nieuwe knop - bewegings instelling sticky net als cookies" src="https://github.com/user-attachments/assets/2577c9e4-4258-4d11-9888-7e39b48d65d6" />
 
+- Mijn nieuwe home pagina:
+
+<img width="1085" height="695" alt="Home pagina met navigatie en roze PSP 3004" src="https://github.com/user-attachments/assets/0652115f-8be6-4e0c-b185-c8406b6adb27" />
+
+<img width="1123" height="518" alt="Homepagina als je verder scrollt met FAQ's (Frequently Asked Questions) die ik zelf heb bedacht" src="https://github.com/user-attachments/assets/7104c2a4-d5a4-4ce0-9792-be2d27b38ded" />
+
 
 # SPRINT 3 - Opdrachten:
 
@@ -1696,10 +1727,16 @@ Met object-fit: contain blijven de volledige SVG afbeeldingen zichtbaar en wordt
 #### Wat is het resultaat?
 De console afbeeldingen bewegen nu subtiel op de detailpagina's. De animatie blijft zich herhalen en kan worden uitgeschakeld wanneer een gebruiker minder beweging wil. Daarnaast zijn de SVG afbeeldingen groter weergegeven, waardoor de details van de consoles beter zichtbaar zijn.
 
-##### Mijn nieuwe home pagina:
+<img width="986" height="792" alt="PSP SVG die nu groter eruit ziet en een animatie heeft" src="https://github.com/user-attachments/assets/2bf1650c-f4b8-4127-b38b-e5dede7a2430" />
 
-<img width="1085" height="695" alt="Scherm­afbeelding 2026-10-27 om 23 53 05" src="https://github.com/user-attachments/assets/0652115f-8be6-4e0c-b185-c8406b6adb27" />
-
-<img width="1123" height="518" alt="Scherm­afbeelding 2026-10-27 om 23 53 13" src="https://github.com/user-attachments/assets/7104c2a4-d5a4-4ce0-9792-be2d27b38ded" />
 
 # SPRINT 3 - Retrospective:
+
+
+
+
+# HERKANSING - Digital Garden:
+
+Ik was vanwege mijn privé omstandigheden vaak afwezig tijdens mijn eerste kans. Ik was al een eind gekomen, maar heb natuurlijk meer elementen toegevoegd. Ik heb Sprint 2 af en alles netjes bijgehouden. Ik heb voor Sprint 3 nu ook .... alle opdrachten staan erbij .... lyric challenge was leuk .... 
+
+# Als S3 af is dat toevoegen en nieuwe elementen etc hieronder zetten!!!
