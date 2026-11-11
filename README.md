@@ -1,9 +1,9 @@
-# SPRINT 0: Kick Off, Learning Log
+# SPRINT 0 - Kick Off, Learning Log:
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
-<img width="585" height="33" alt="Scherm­afbeelding 2026-09-10 om 20 54 21" src="https://github.com/user-attachments/assets/2d2485f8-723c-4592-a2e7-e2a5a0f0afcf" />
+<img width="585" height="33" alt="Custom domain DNS check succesvol gecontroleerd op GitHub." src="https://github.com/user-attachments/assets/2d2485f8-723c-4592-a2e7-e2a5a0f0afcf" />
 
-<img width="938" height="153" alt="Scherm­afbeelding 2026-08-31 om 14 49 48" src="https://github.com/user-attachments/assets/5dfaface-11de-45b8-80c5-4c5645e2c85e" />
+<img width="938" height="153" alt="Domino’s pagina waar je zelf je pizza kan samenstellen." src="https://github.com/user-attachments/assets/5dfaface-11de-45b8-80c5-4c5645e2c85e" />
 
 1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
 
@@ -16,6 +16,7 @@ Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github o
 3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
 
 - Ik maak mijn aanpassingen in VSCodium. Als ik iets heb aangepast aan bijvoorbeeld mijn HTML of CSS, sla ik dit eerst op. Daarna klikte ik op menu items met de wijzigingen en voegde ik pagina titel aangepast en klikte ik op commit. Vervolgens klikte ik op sync changes, waardoor mijn wijzigingen naar Github werden gestuurd. Daarna kwam de nieuwe versie van mijn website online te staan en heb ik gecheckt of de aanpassingen goed op de website staan.
+
 
 # SPRINT 0 - Deep Dives:
 
@@ -66,9 +67,9 @@ Zie het niet als dit maar Maar zie het als een constante vraag tussen mens en ma
 
 Ik keek eerst naar hoe andere restaurants het doen. Ik vond bij Domino's een goed voorbeeld en ik keek naar welke lettertype het meest lijkt op die van het bedrijf.
 
-<img width="987" height="872" alt="Scherm­afbeelding 2026-09-02 om 09 55 42" src="https://github.com/user-attachments/assets/28a5b310-0ab8-456d-911e-cf18201ae1f9" />
+<img width="987" height="872" alt="Oswald lettertype die ik heb gebruikt voor Wok To Walk." src="https://github.com/user-attachments/assets/28a5b310-0ab8-456d-911e-cf18201ae1f9" />
 
-<img width="1541" height="563" alt="Scherm­afbeelding 2026-09-02 om 10 02 56" src="https://github.com/user-attachments/assets/de182436-0cbd-4381-b79a-cbb8eaca2d44" />
+<img width="1541" height="563" alt="Drie schermen met hoe het nieuwe Wok To Walk menu er visueel uit ziet." src="https://github.com/user-attachments/assets/de182436-0cbd-4381-b79a-cbb8eaca2d44" />
 
 Ik heb een aantal verschillende versies gemaakt van de menu van Wok To Walk. Ik dacht hierbij aan een Nederlandse en Engelse versie en een lichte en donkere modus die de gebruiker zou kunnen kiezen.
 
@@ -76,39 +77,42 @@ Ik heb een aantal verschillende versies gemaakt van de menu van Wok To Walk. Ik 
 2. Hoe verdeel je de content? Overzichtelijk, door 3/4 schermen. Aparte opties.
 3. Waar is er ruimte voor micro-interacties? Bij de knoppen of wanneer de volgende scherm in beeld komt. Wanneer de order gelukt is.
 
-<img width="1001" height="463" alt="Scherm­afbeelding 2026-09-10 om 20 48 49" src="https://github.com/user-attachments/assets/b72a6236-1fc0-41f7-93a5-d3127d05502f" />
+<img width="1001" height="463" alt="Twee schermen met de donkere mode van het nieuwe Wok To Walk menu." src="https://github.com/user-attachments/assets/b72a6236-1fc0-41f7-93a5-d3127d05502f" />
 
-<img width="658" height="459" alt="Scherm­afbeelding 2026-09-10 om 20 47 27" src="https://github.com/user-attachments/assets/30dcb978-b27c-4b48-9a04-71b0daac2ffa" />
+<img width="658" height="459" alt="CSS oefening een lap tekst over de quick brown dog en met een roze T." src="https://github.com/user-attachments/assets/30dcb978-b27c-4b48-9a04-71b0daac2ffa" />
 
 ### S0 - CSS: fonts met kleur en effecten (Sanne)
 
 #### Opdracht 1:
 
-<img width="509" height="560" alt="Scherm­afbeelding 2026-09-02 om 12 07 59" src="https://github.com/user-attachments/assets/a4621c91-e9ed-4cba-bd77-b7ca7f8021cf" />
+<img width="509" height="560" alt="Code die ik heb gebruikt voor de eerste oefening." src="https://github.com/user-attachments/assets/a4621c91-e9ed-4cba-bd77-b7ca7f8021cf" />
 
-<img width="372" height="274" alt="Scherm­afbeelding 2026-09-02 om 12 08 17" src="https://github.com/user-attachments/assets/4dba969a-4398-4831-8ee1-452b741f0419" />
+<img width="372" height="274" alt="Nog meer codes die ik heb gebruikt voor de eerste oefening." src="https://github.com/user-attachments/assets/4dba969a-4398-4831-8ee1-452b741f0419" />
 
-<img width="561" height="849" alt="Scherm­afbeelding 2026-09-02 om 12 08 26" src="https://github.com/user-attachments/assets/ab305ed4-fe6a-4794-883c-3bc276ccb59e" />
+<img width="561" height="849" alt="Opdracht twee tekst staat ‘You Go Girl’ in het blauw." src="https://github.com/user-attachments/assets/ab305ed4-fe6a-4794-883c-3bc276ccb59e" />
 
 #### Opdracht 2:
 
-<img width="64" height="93" alt="Scherm­afbeelding 2026-09-02 om 12 30 20" src="https://github.com/user-attachments/assets/9b276ebc-513a-4239-8075-3f01078092c9" />
+<img width="64" height="93" alt="Codes en een variatie van ‘You Go Girl’ in het blauw met witte schaduw.
+" src="https://github.com/user-attachments/assets/9b276ebc-513a-4239-8075-3f01078092c9" />
 
-<img width="629" height="257" alt="Scherm­afbeelding 2026-09-02 om 12 33 38" src="https://github.com/user-attachments/assets/9af8b8ae-ece2-441b-9538-1621a93c8608" />
+<img width="629" height="257" alt="Opdracht twee ‘You Go Girl’ eindresultaat." src="https://github.com/user-attachments/assets/9af8b8ae-ece2-441b-9538-1621a93c8608" />
 
-<img width="460" height="284" alt="Scherm­afbeelding 2026-09-02 om 12 43 56" src="https://github.com/user-attachments/assets/aa83a3f8-b5e8-4383-8234-2e2457141e25" />
+<img width="460" height="284" alt="You Go Girl eindresultaat." src="https://github.com/user-attachments/assets/aa83a3f8-b5e8-4383-8234-2e2457141e25" />
 
-<img width="503" height="840" alt="Scherm­afbeelding 2026-09-11 om 18 15 27" src="https://github.com/user-attachments/assets/4f3c0b4e-7081-40cd-a48d-28c036157174" />
+<img width="503" height="840" alt="Opdracht twee allebei de plaatjes eindresultaat ‘You Go Girl’ en ‘Good Vibes Only’.
+" src="https://github.com/user-attachments/assets/4f3c0b4e-7081-40cd-a48d-28c036157174" />
 
 #### Opdracht 3 en 4:
 
-<img width="384" height="117" alt="Scherm­afbeelding 2026-09-21 om 15 11 51" src="https://github.com/user-attachments/assets/94a84544-d72b-4527-be53-22ea0ccc6e5e" />
+<img width="384" height="117" alt="Opdracht 3 en 4 accept cookies to watch video." src="https://github.com/user-attachments/assets/94a84544-d72b-4527-be53-22ea0ccc6e5e" />
+
 
 # SPRINT 1 - Digital Garden:
 
 ### Opdracht 1:
 
-<img width="1059" height="751" alt="Scherm­afbeelding 2026-09-13 om 16 51 49" src="https://github.com/user-attachments/assets/576debca-94e6-4e6f-8d70-39e80662ce57" />
+<img width="1059" height="751" alt="Websites analyseren template ingevuld met eigen antwoorden." src="https://github.com/user-attachments/assets/576debca-94e6-4e6f-8d70-39e80662ce57" />
 
 ### Opdracht 2:
 
@@ -270,7 +274,7 @@ Ik wil niet alleen tekst hebben ik wil ongeveer het volgende:
 
 ### Opdracht 3 en 4:
 
-<img width="820" height="855" alt="Scherm­afbeelding 2026-09-15 om 17 10 20" src="https://github.com/user-attachments/assets/af61e18c-6189-4357-b96a-fe6175d70aa6" />
+<img width="820" height="855" alt="Opdracht 3 en 4 collage met diverse aesthetic retro afbeeldingen zoals een ds, psp. wii scherm, advertenties van game consoles, etc." src="https://github.com/user-attachments/assets/af61e18c-6189-4357-b96a-fe6175d70aa6" />
 
 Ik zou graag willen vertellen over mijn gaming collectie en zou mijn consoles graag na maken met Figma.
 
@@ -330,17 +334,17 @@ Ik zou graag willen vertellen over mijn gaming collectie en zou mijn consoles gr
 #### Opdracht 5:
 
 Alles staat ook op Miro bij deze link: https://miro.com/app/board/uXjVHpsKqYY=/
-<img width="1008" height="723" alt="Scherm­afbeelding 2026-09-15 om 15 31 22" src="https://github.com/user-attachments/assets/5ca5b2b9-9b15-4714-87d7-d64feb001cc0" />
+<img width="1008" height="723" alt="Visual research gekozen sfeerwoorden." src="https://github.com/user-attachments/assets/5ca5b2b9-9b15-4714-87d7-d64feb001cc0" />
 
 ### Opdracht 6:
 
-<img width="1008" height="850" alt="Scherm­afbeelding 2026-09-15 om 15 31 51" src="https://github.com/user-attachments/assets/50b504f2-2961-4e94-a1c4-5d307281633d" />
+<img width="1008" height="850" alt="Visual research stap 1 met een moodboard met retro technologie en gaming en de patronen ervan." src="https://github.com/user-attachments/assets/50b504f2-2961-4e94-a1c4-5d307281633d" />
 
 #### Close-up:
 
 ##### Mood board:
 
-<img width="1343" height="696" alt="Scherm­afbeelding 2026-09-14 om 15 09 43" src="https://github.com/user-attachments/assets/b0b16a6a-02af-4866-b6a0-77365afe8909" />
+<img width="1343" height="696" alt="Moodboard van retro technologie en gaming." src="https://github.com/user-attachments/assets/b0b16a6a-02af-4866-b6a0-77365afe8909" />
 
 ##### Patronen:
 
@@ -352,13 +356,13 @@ Alles staat ook op Miro bij deze link: https://miro.com/app/board/uXjVHpsKqYY=/
 
 ### Opdracht 7:
 
-<img width="1009" height="824" alt="Scherm­afbeelding 2026-09-15 om 15 35 27" src="https://github.com/user-attachments/assets/0b38937f-9882-4137-9fe3-224de4126aac" />
+<img width="1009" height="824" alt="Visuele research abstracte vertaling en kenmerken." src="https://github.com/user-attachments/assets/0b38937f-9882-4137-9fe3-224de4126aac" />
 
 #### Close-up:
 
 ##### Mood board:
 
-<img width="1154" height="570" alt="Scherm­afbeelding 2026-09-15 om 00 53 33" src="https://github.com/user-attachments/assets/691975fb-e7b2-4429-95a5-1003788a0db7" />
+<img width="1154" height="570" alt="Moodboard van de abstracte plaatjes." src="https://github.com/user-attachments/assets/691975fb-e7b2-4429-95a5-1003788a0db7" />
 
 ##### Kenmerken:
 
@@ -369,42 +373,42 @@ Alles staat ook op Miro bij deze link: https://miro.com/app/board/uXjVHpsKqYY=/
 
 ### Opdracht 8:
 
-<img width="726" height="782" alt="Scherm­afbeelding 2026-09-15 om 15 38 54" src="https://github.com/user-attachments/assets/bc0abbb6-cabb-4b90-bd52-2ec1c13ee6e6" />
+<img width="726" height="782" alt="Visual research stap 3 uitgangspunten uitschrijven van de abstracte beelden." src="https://github.com/user-attachments/assets/bc0abbb6-cabb-4b90-bd52-2ec1c13ee6e6" />
 
 ### Close ups:
 
-<img width="821" height="435" alt="Scherm­afbeelding 2026-09-15 om 15 39 02" src="https://github.com/user-attachments/assets/694ab652-466b-4c4c-80ad-da799f9bd840" />
+<img width="821" height="435" alt="Close up eerste abstracte afbeelding van een zandloper." src="https://github.com/user-attachments/assets/694ab652-466b-4c4c-80ad-da799f9bd840" />
 
-<img width="1014" height="531" alt="Scherm­afbeelding 2026-09-15 om 15 39 10" src="https://github.com/user-attachments/assets/dc30702b-18b4-4f36-8fd9-4b06033669ba" />
+<img width="1014" height="531" alt="Close up eerste abstracte afbeelding van een kat met tekst ‘dear soft shapes’." src="https://github.com/user-attachments/assets/dc30702b-18b4-4f36-8fd9-4b06033669ba" />
 
-<img width="1013" height="536" alt="Scherm­afbeelding 2026-09-15 om 15 39 16" src="https://github.com/user-attachments/assets/202e2730-0a85-43ad-afde-c1295f6f3965" />
+<img width="1013" height="536" alt="Close up eerste abstracte afbeelding met tekst ‘home safe home’." src="https://github.com/user-attachments/assets/202e2730-0a85-43ad-afde-c1295f6f3965" />
 
-<img width="984" height="533" alt="Scherm­afbeelding 2026-09-15 om 15 39 25" src="https://github.com/user-attachments/assets/1cfa50fd-64db-404b-b295-93220525fb87" />
+<img width="984" height="533" alt="Close up eerste abstracte afbeelding van een lava lamp met de tekst ‘lettera’ binnen in." src="https://github.com/user-attachments/assets/1cfa50fd-64db-404b-b295-93220525fb87" />
 
 ### Opdracht 9:
 
 ### Close ups: Crazy 8's
 
 1ste keer:
-<img width="1003" height="696" alt="Scherm­afbeelding 2026-09-13 om 23 45 23" src="https://github.com/user-attachments/assets/af940dc8-637a-4eb4-aa37-88904ca207f1" />
+<img width="1003" height="696" alt="Crazy 8 eerste poging - acht kleine tekeningen van mijn ideeën." src="https://github.com/user-attachments/assets/af940dc8-637a-4eb4-aa37-88904ca207f1" />
 
 2de keer:
-<img width="965" height="697" alt="Scherm­afbeelding 2026-09-15 om 15 52 32" src="https://github.com/user-attachments/assets/f9342824-e02f-4c28-9617-9b0923fcd0aa" />
+<img width="965" height="697" alt="Crazy 8 tweede poging - acht kleine tekeningen van mijn ideeën." src="https://github.com/user-attachments/assets/f9342824-e02f-4c28-9617-9b0923fcd0aa" />
 
 3de keer:
-<img width="1043" height="715" alt="Scherm­afbeelding 2026-09-15 om 15 52 43" src="https://github.com/user-attachments/assets/17ca3e37-af08-4d3d-8925-9638495094a2" />
+<img width="1043" height="715" alt="Crazy 8 derde poging - acht kleine tekeningen van mijn ideeën." src="https://github.com/user-attachments/assets/17ca3e37-af08-4d3d-8925-9638495094a2" />
 
 ### Opdracht 10:
 
-<img width="1103" height="779" alt="Scherm­afbeelding 2026-09-15 om 15 30 25" src="https://github.com/user-attachments/assets/f65da61f-0358-4174-9137-f553a1bb1a56" />
+<img width="1103" height="779" alt="Opdracht 10 al mijn Crazy 8’s beoordelen - Template ingevuld." src="https://github.com/user-attachments/assets/f65da61f-0358-4174-9137-f553a1bb1a56" />
 
 ### Opdracht 11:
 
 1ste keer:
-<img width="1352" height="647" alt="Scherm­afbeelding 2026-09-14 om 00 16 25" src="https://github.com/user-attachments/assets/ed8e2880-4dca-4455-8ae3-ed486f1643b7" />
+<img width="1352" height="647" alt="Eerste keer - schermen tekeningen mobiel." src="https://github.com/user-attachments/assets/ed8e2880-4dca-4455-8ae3-ed486f1643b7" />
 
 2de keer:
-<img width="1003" height="703" alt="Scherm­afbeelding 2026-09-15 om 15 55 41" src="https://github.com/user-attachments/assets/e6399380-8cd2-47c7-8fdb-7299d8793ac6" />
+<img width="1003" height="703" alt="Tweede keer - schermen tekeningen mobiel." src="https://github.com/user-attachments/assets/e6399380-8cd2-47c7-8fdb-7299d8793ac6" />
 
 ### Opdracht 12:
 
@@ -414,7 +418,8 @@ Alles staat ook op Miro bij deze link: https://miro.com/app/board/uXjVHpsKqYY=/
 
 3. Ik vraag mij alleen nog af hoe ik bepaalde interactie elementen het beste kan maken, hoe ik ervoor zorg dat mijn layout responsive blijft, dat mijn afbeeldingen de juiste groottes hebben, hoe ik leuke hover- of klik animaties kan maken en dat het niet te overweldigend wordt en tot slot hoe ik mijn light en dark mode eruit wil laten zien.
 
-# 4. Maak waar nodig een laatste iteratie, zodat het helder is wat je definitieve bouwplan is in htm/css.
+4. Maak waar nodig een laatste iteratie, zodat het helder is wat je definitieve bouwplan is in htm/css.
+Ik wil mij graag focussen op mijn handheld consoles i.p.v. alles. 
 
 ### Opdracht 13:
 
@@ -434,7 +439,7 @@ De inhoud gaat bestaan uit:
 - (?) Links: links naar interessante websites en informatie over games.
 
 Ik wil ongeveer deze structuur gebruiken, maar het kan nog veranderen natuurlijk.
-<img width="472" height="507" alt="Scherm­afbeelding 2026-09-26 om 18 22 47" src="https://github.com/user-attachments/assets/d967a25f-36f0-4aff-b746-a134d227a3ba" />
+<img width="472" height="507" alt="Structuur van codes." src="https://github.com/user-attachments/assets/d967a25f-36f0-4aff-b746-a134d227a3ba" />
 
 #### Vormgeving:
 
@@ -466,7 +471,7 @@ Op mobiel gebruik ik één kolom zodat alle content overzichtelijk onder elkaar 
 
 De layout moet veranderen wanneer er genoeg ruimte is om content naast elkaar te plaatsen. Als ik op een groot scherm alles onder elkaar laat staan, is er te veel witruimte en kan de website er te leeg uitzien en daardoor minder prettig aanvoelen. Op mobiel moet je juist niet alles naast elkaar zetten, omdat de content dan te klein en krap kan worden, wat ook niet fijn is.
 
-### Opdracht 17 – Responsive voorbeelden zoeken !!
+### Opdracht 17 – Responsive voorbeelden zoeken:
 
 #### 1. Awwwards
 
@@ -491,31 +496,32 @@ Ik vind het interessant hoe een website creatief kan zijn zonder dat de gebruike
 ### Opdracht 18, 19 en 20:
 
 Mijn eigen schets:
-<img width="443" height="749" alt="Scherm­afbeelding 2026-09-16 om 12 52 06" src="https://github.com/user-attachments/assets/d0f12803-ffe7-4f10-9338-43000c82c277" />
+<img width="400" height="750" alt="Mijn eigen schets voor mijzelf - Tekening mobiel beginscherm." src="https://github.com/user-attachments/assets/d0f12803-ffe7-4f10-9338-43000c82c277" />
 
 Floortje's schets:
-<img width="722" height="719" alt="Scherm­afbeelding 2026-09-16 om 12 52 21" src="https://github.com/user-attachments/assets/637e4b98-480d-4b9f-87b9-702e9d020bce" />
+<img width="400" height="750" alt="Floortje’s eigen schets voor haar eigen site - Tekening mobiel schermen." src="https://github.com/user-attachments/assets/637e4b98-480d-4b9f-87b9-702e9d020bce" />
 
 Mijn idee voor haar:
-<img width="897" height="697" alt="Scherm­afbeelding 2026-09-16 om 12 52 35" src="https://github.com/user-attachments/assets/5aba9762-6817-4805-a42a-49214277fb4e" />
+<img width="400" height="750" alt="Mijn schetsen voor Floortje - Tekening mobiel schermen." src="https://github.com/user-attachments/assets/5aba9762-6817-4805-a42a-49214277fb4e" />
 
 Seyi's schets:
-<img width="667" height="619" alt="Scherm­afbeelding 2026-09-16 om 12 56 00" src="https://github.com/user-attachments/assets/ea3aeba4-97db-4661-94df-4860774105d0" />
+<img width="400" height="750" alt="Seyi’s eigen schets voor haar eigen site - Tekening mobiel schermen." src="https://github.com/user-attachments/assets/ea3aeba4-97db-4661-94df-4860774105d0" />
 
 Mijn idee voor haar:
-<img width="972" height="772" alt="Scherm­afbeelding 2026-09-16 om 12 56 10" src="https://github.com/user-attachments/assets/1c931ccf-ed28-4307-a76b-2331e54b7637" />
+<img width="400" height="750" alt="Mijn schetsen voor Seyi - Tekening mobiel schermen." src="https://github.com/user-attachments/assets/1c931ccf-ed28-4307-a76b-2331e54b7637" />
 
 ### Opdracht 21:
 
-<img width="524" height="746" alt="Scherm­afbeelding 2026-09-26 om 19 01 48" src="https://github.com/user-attachments/assets/e28931a1-c695-4263-a62a-f7409afa2fd0" />
+<img width="524" height="746" alt="Schets over mijn lay-out website." src="https://github.com/user-attachments/assets/e28931a1-c695-4263-a62a-f7409afa2fd0" />
 
 ### Gekozen Typografie:
 
-<img width="965" height="801" alt="Scherm­afbeelding 2026-09-28 om 00 40 13" src="https://github.com/user-attachments/assets/39e1b2fa-4141-4f75-8e82-afbd68aa9ba0" />
+<img width="965" height="801" alt="Verzameling lettertypes voor mijn website." src="https://github.com/user-attachments/assets/39e1b2fa-4141-4f75-8e82-afbd68aa9ba0" />
 
-<img width="948" height="749" alt="Scherm­afbeelding 2026-09-28 om 00 44 12" src="https://github.com/user-attachments/assets/eafd4021-0d1e-4c41-abd4-e05598c67b7e" />
+<img width="948" height="749" alt="Gekozen lettertypes voor mijn website." src="https://github.com/user-attachments/assets/eafd4021-0d1e-4c41-abd4-e05598c67b7e" />
 
 Ik vind ze allemaal heel erg leuk, maar ze waren toch net niet wat ik precies zocht qua het gevoel en sfeer die ik omhoog wou brengen bij de gebruikers. Ik koos uiteindelijk toch voor wat meer 'typische' retro/game/internet/pixels lettertypes. Ik koos hier voor omdat als ik dat zie ik het gelijk associeer met het internet, games, vroeger en alles wat daar rondom heen komt. Ik vroeg aan een aantal meiden om feedback en wat hun associaties hierbij waren en ik kreeg ongeveer van hen te horen. Ik koos om Press Start 2P als mijn 'main' lettertype te gebruiken en de andere kijk ik nog waar ik die exact zou willen gebruiken.
+
 
 # SPRINT 1 - Check Out:
 
@@ -583,6 +589,7 @@ Dit is het idee dat ik nu heb en kan in de loop van tijd nog veranderen, vooral 
 
 - Witruimte, dat er genoeg ruimte is tussen de objecten want anders wordt mijn garden veel te druk.
 
+
 # SPRINT 1 - Deep Dives:
 
 ### S1 - Light & Dark theme (Vasilis):
@@ -595,53 +602,53 @@ Ik twijfel nog hoe ik het er exact uit wil laten zien. Ik heb nu een donker en l
 
 #### Light mode
 
-<img width="807" height="370" alt="Scherm­afbeelding 2026-09-17 om 23 06 09" src="https://github.com/user-attachments/assets/8a544ada-9e05-4b39-96e4-37c24f3b32f7" />
+<img width="807" height="370" alt="Oefening website in lichte mode begin." src="https://github.com/user-attachments/assets/8a544ada-9e05-4b39-96e4-37c24f3b32f7" />
 
-<img width="804" height="438" alt="Scherm­afbeelding 2026-09-17 om 23 13 37" src="https://github.com/user-attachments/assets/76f94d84-af17-452d-8a68-880cc9a906e3" />
+<img width="804" height="438" alt="Oefening website in lichte mode begin tekst licht roze." src="https://github.com/user-attachments/assets/76f94d84-af17-452d-8a68-880cc9a906e3" />
 
 Ik heb mijn light modus later nog veranderd, omdat het net te licht was en dus niet goed leesbaar zou zijn voor de gebruiker:
 
-<img width="921" height="557" alt="Scherm­afbeelding 2026-09-27 om 23 18 13" src="https://github.com/user-attachments/assets/6e360599-a509-4bc0-aca1-59787d644cc0" />
+<img width="921" height="557" alt="Oefening website in lichte mode tekst donker roze en meer tekst en artikelen toegevoegd aan website." src="https://github.com/user-attachments/assets/6e360599-a509-4bc0-aca1-59787d644cc0" />
 
 #### Dark mode:
 
-<img width="812" height="359" alt="Scherm­afbeelding 2026-09-17 om 23 06 16" src="https://github.com/user-attachments/assets/8c414e30-cc91-4e9b-bcdd-780b1feb1d93" />
+<img width="812" height="359" alt="Oefening website in donkere mode begin." src="https://github.com/user-attachments/assets/8c414e30-cc91-4e9b-bcdd-780b1feb1d93" />
 
-<img width="809" height="459" alt="Scherm­afbeelding 2026-09-17 om 23 13 31" src="https://github.com/user-attachments/assets/79514fd0-f989-49b3-a462-891e781ce97c" />
+<img width="809" height="459" alt="Oefening website in donkere mode begin en titel toegevoegd ‘My Gaming Garden’." src="https://github.com/user-attachments/assets/79514fd0-f989-49b3-a462-891e781ce97c" />
 
 Ik heb mijn dark mode ook verandert naar zwarte tekst:
 
-<img width="1168" height="566" alt="Scherm­afbeelding 2026-09-28 om 21 46 01" src="https://github.com/user-attachments/assets/127be4c1-3498-4945-a6c8-c10cad4d6ef8" />
+<img width="1168" height="566" alt="Oefening website in donkere mode zwarte tekst." src="https://github.com/user-attachments/assets/127be4c1-3498-4945-a6c8-c10cad4d6ef8" />
 
 #### Light/Dark buttons:
 
-<img width="80" height="138" alt="Scherm­afbeelding 2026-09-29 om 20 09 29" src="https://github.com/user-attachments/assets/d4c57193-7d66-48fc-b192-196b5f596f12" />
+<img width="80" height="138" alt="Licht en dark knoppen in lichte versie." src="https://github.com/user-attachments/assets/d4c57193-7d66-48fc-b192-196b5f596f12" />
 
-<img width="78" height="149" alt="Scherm­afbeelding 2026-09-29 om 20 09 25" src="https://github.com/user-attachments/assets/94c0195e-f442-44c1-be16-24424edafdbb" />
+<img width="78" height="149" alt="Licht en dark knoppen in donkere versie." src="https://github.com/user-attachments/assets/94c0195e-f442-44c1-be16-24424edafdbb" />
 
 Ik heb mijn buttons aangepast zodat je op het poppetje kan klikken dat het light en donker wordt ipv dat je nog op de kleine knopje ernaast klikt en heb er voor gezorgd dat er meer ruimte is tussen de twee.
 
-<img width="1036" height="305" alt="Scherm­afbeelding 2026-09-29 om 22 07 21" src="https://github.com/user-attachments/assets/0c7c9f68-8ee3-442b-bb8c-12697d87d444" />
+<img width="1036" height="305" alt="Lichte mode licht en donker knoppen." src="https://github.com/user-attachments/assets/0c7c9f68-8ee3-442b-bb8c-12697d87d444" />
 
-<img width="1273" height="334" alt="Scherm­afbeelding 2026-09-29 om 22 09 37" src="https://github.com/user-attachments/assets/93704ad5-608a-4a96-b690-9193032b6d34" />
+<img width="1273" height="334" alt="Lichte mode licht en donker knoppen." src="https://github.com/user-attachments/assets/93704ad5-608a-4a96-b690-9193032b6d34" />
 
 ### S1 - Mooie kleuren en gradients (Sanne):
 
-<img width="626" height="499" alt="Scherm­afbeelding 2026-09-27 om 23 33 07" src="https://github.com/user-attachments/assets/21683e84-7ce3-40e6-8bf7-25c478ce2db4" />
+<img width="626" height="499" alt="Eerste JND score." src="https://github.com/user-attachments/assets/21683e84-7ce3-40e6-8bf7-25c478ce2db4" />
 
-<img width="693" height="572" alt="Scherm­afbeelding 2026-09-27 om 23 35 18" src="https://github.com/user-attachments/assets/3f5c3737-5521-419d-8134-3d80493c7c66" />
+<img width="693" height="572" alt="Tweede JND score." src="https://github.com/user-attachments/assets/3f5c3737-5521-419d-8134-3d80493c7c66" />
 
-<img width="446" height="245" alt="Scherm­afbeelding 2026-09-27 om 23 38 10" src="https://github.com/user-attachments/assets/17d25487-4763-4f74-be3c-c34d7843bd20" />
+<img width="446" height="245" alt="tekst ‘game over’ zeven kleuren herkend tekst in het engels." src="https://github.com/user-attachments/assets/17d25487-4763-4f74-be3c-c34d7843bd20" />
 
-<img width="999" height="560" alt="Scherm­afbeelding 2026-09-27 om 23 40 35" src="https://github.com/user-attachments/assets/58b76e1d-c4af-4370-8083-75491d54cc96" />
+<img width="999" height="560" alt="eerste ronde spel level en percentage." src="https://github.com/user-attachments/assets/58b76e1d-c4af-4370-8083-75491d54cc96" />
 
-<img width="1040" height="563" alt="Scherm­afbeelding 2026-09-27 om 23 42 27" src="https://github.com/user-attachments/assets/4ebc53db-a2cb-4d20-b371-9ddd25d8f7e4" />
+<img width="1040" height="563" alt="tweede ronde spel level en percentage." src="https://github.com/user-attachments/assets/4ebc53db-a2cb-4d20-b371-9ddd25d8f7e4" />
 
-<img width="1132" height="689" alt="Scherm­afbeelding 2026-09-27 om 23 42 56" src="https://github.com/user-attachments/assets/83bde5d7-3613-40c1-aa74-1acf155faee4" />
+<img width="1132" height="689" alt="derde ronde spel level en percentage." src="https://github.com/user-attachments/assets/83bde5d7-3613-40c1-aa74-1acf155faee4" />
 
-<img width="1368" height="908" alt="Scherm­afbeelding 2026-10-02 om 18 01 07" src="https://github.com/user-attachments/assets/1acae81d-8e02-4de7-9773-3e8b715b8404" />
+<img width="1368" height="908" alt="OKLCH color picker en converter verschillende kleur gradients." src="https://github.com/user-attachments/assets/1acae81d-8e02-4de7-9773-3e8b715b8404" />
 
-<img width="1680" height="966" alt="Scherm­afbeelding 2026-10-02 om 18 05 45" src="https://github.com/user-attachments/assets/3a4a3ba0-b2ac-45a3-9bf6-069fe727fa3d" />
+<img width="1680" height="966" alt="CSS gradient - roze gradient." src="https://github.com/user-attachments/assets/3a4a3ba0-b2ac-45a3-9bf6-069fe727fa3d" />
 
 #### Ik heb geleerd hoe ik:
 
@@ -695,41 +702,41 @@ Tot slot kan je met @property gradients animeren. Hiermee kan je de browser vert
 
 ##### Ik heb gekeken en geëxperimenteerd naar verschillende gradients en welke het beste paste bij mijn website:
 
-<img width="1679" height="562" alt="Scherm­afbeelding 2026-10-07 om 10 13 39" src="https://github.com/user-attachments/assets/18cd3e2e-484e-4cb7-9582-5e465923a011" />
+<img width="1679" height="562" alt="1 - Verschillende gradient op website." src="https://github.com/user-attachments/assets/18cd3e2e-484e-4cb7-9582-5e465923a011" />
 
-<img width="1197" height="155" alt="Scherm­afbeelding 2026-10-07 om 10 40 34" src="https://github.com/user-attachments/assets/c9a4daa6-ad85-449c-a688-50fa1b67ce0c" />
+<img width="1197" height="155" alt="2 - Verschillende gradient op website." src="https://github.com/user-attachments/assets/c9a4daa6-ad85-449c-a688-50fa1b67ce0c" />
 
-<img width="1607" height="147" alt="Scherm­afbeelding 2026-10-07 om 10 38 34" src="https://github.com/user-attachments/assets/a2e7efd6-5f3d-4350-9800-113eebe482a1" />
+<img width="1607" height="147" alt="3 - Verschillende gradient op website." src="https://github.com/user-attachments/assets/a2e7efd6-5f3d-4350-9800-113eebe482a1" />
 
-<img width="1612" height="141" alt="Scherm­afbeelding 2026-10-07 om 10 38 29" src="https://github.com/user-attachments/assets/c9797a7d-5e3c-4f03-8295-68f2e01b786c" />
+<img width="1612" height="141" alt="4 - Verschillende gradient op website." src="https://github.com/user-attachments/assets/c9797a7d-5e3c-4f03-8295-68f2e01b786c" />
 
-<img width="1209" height="158" alt="Scherm­afbeelding 2026-10-07 om 10 37 54" src="https://github.com/user-attachments/assets/82ecb6a6-d1c4-40da-8fbc-5f0f498a75f0" />
+<img width="1209" height="158" alt="5 - Verschillende gradient op website." src="https://github.com/user-attachments/assets/82ecb6a6-d1c4-40da-8fbc-5f0f498a75f0" />
 
-<img width="1207" height="153" alt="Scherm­afbeelding 2026-10-07 om 10 37 49" src="https://github.com/user-attachments/assets/d06164ea-709a-404c-a748-1eb12f1f2a6d" />
+<img width="1207" height="153" alt="6 - Verschillende gradient op website." src="https://github.com/user-attachments/assets/d06164ea-709a-404c-a748-1eb12f1f2a6d" />
 
-<img width="826" height="107" alt="Scherm­afbeelding 2026-10-07 om 10 33 15" src="https://github.com/user-attachments/assets/3256747d-9249-496a-80f2-03c87465839c" />
+<img width="826" height="107" alt="7 - Verschillende gradient op website." src="https://github.com/user-attachments/assets/3256747d-9249-496a-80f2-03c87465839c" />
 
-<img width="815" height="110" alt="Scherm­afbeelding 2026-10-07 om 10 33 10" src="https://github.com/user-attachments/assets/718150f0-2fb0-4246-ae16-89afba3e74f4" />
+<img width="815" height="110" alt="8 - Verschillende gradient op website." src="https://github.com/user-attachments/assets/718150f0-2fb0-4246-ae16-89afba3e74f4" />
 
-<img width="824" height="96" alt="Scherm­afbeelding 2026-10-07 om 10 31 52" src="https://github.com/user-attachments/assets/3132860d-f45e-410e-856d-7360fcf23219" />
+<img width="824" height="96" alt="9 - Verschillende gradient op website." src="https://github.com/user-attachments/assets/3132860d-f45e-410e-856d-7360fcf23219" />
 
-<img width="819" height="113" alt="Scherm­afbeelding 2026-10-07 om 10 31 46" src="https://github.com/user-attachments/assets/7381921c-c433-48e8-8780-210788a99e39" />
+<img width="819" height="113" alt="10 - Verschillende gradient op website." src="https://github.com/user-attachments/assets/7381921c-c433-48e8-8780-210788a99e39" />
 
-<img width="1674" height="965" alt="Scherm­afbeelding 2026-10-07 om 10 27 09" src="https://github.com/user-attachments/assets/dd54011c-6a25-467d-b307-c15da29a0a7a" />
+<img width="1674" height="965" alt="11 - Verschillende gradient op website." src="https://github.com/user-attachments/assets/dd54011c-6a25-467d-b307-c15da29a0a7a" />
 
-<img width="1680" height="967" alt="Scherm­afbeelding 2026-10-07 om 10 27 01" src="https://github.com/user-attachments/assets/4bf91de3-f51c-41ea-93b1-e706db2561a3" />
+<img width="1680" height="967" alt="12 - Verschillende gradient op website." src="https://github.com/user-attachments/assets/4bf91de3-f51c-41ea-93b1-e706db2561a3" />
 
-<img width="1679" height="967" alt="Scherm­afbeelding 2026-10-07 om 10 18 26" src="https://github.com/user-attachments/assets/4814b21e-e794-4408-8dc0-eed3b716621c" />
+<img width="1679" height="967" alt="13 - Verschillende gradient op website." src="https://github.com/user-attachments/assets/4814b21e-e794-4408-8dc0-eed3b716621c" />
 
-<img width="1678" height="556" alt="Scherm­afbeelding 2026-10-07 om 10 13 06" src="https://github.com/user-attachments/assets/94417ca4-879b-429e-a97f-592fc2fb062b" />
+<img width="1678" height="556" alt="14 - Verschillende gradient op website." src="https://github.com/user-attachments/assets/94417ca4-879b-429e-a97f-592fc2fb062b" />
 
-<img width="1680" height="560" alt="Scherm­afbeelding 2026-10-07 om 10 12 00" src="https://github.com/user-attachments/assets/5feb7e93-37b4-4a77-988a-d8ea12cde8a2" />
+<img width="1680" height="560" alt="15 - Verschillende gradient op website." src="https://github.com/user-attachments/assets/5feb7e93-37b4-4a77-988a-d8ea12cde8a2" />
 
-<img width="1679" height="968" alt="Scherm­afbeelding 2026-10-07 om 10 10 16" src="https://github.com/user-attachments/assets/0c21d548-75a3-43f2-a44d-7c96fb1aaf59" />
+<img width="1679" height="968" alt="16 - Verschillende gradient op website." src="https://github.com/user-attachments/assets/0c21d548-75a3-43f2-a44d-7c96fb1aaf59" />
 
-<img width="1680" height="736" alt="Scherm­afbeelding 2026-10-07 om 10 18 07" src="https://github.com/user-attachments/assets/6e6b549d-53a8-4f94-83eb-bb3210db56a8" />
+<img width="1680" height="736" alt="17 - Verschillende gradient op website." src="https://github.com/user-attachments/assets/6e6b549d-53a8-4f94-83eb-bb3210db56a8" />
 
-<img width="1680" height="734" alt="Scherm­afbeelding 2026-10-07 om 10 15 14" src="https://github.com/user-attachments/assets/bcd658b5-3019-4d5d-825d-61bd0601be78" />
+<img width="1680" height="734" alt="18 - Verschillende gradient op website." src="https://github.com/user-attachments/assets/bcd658b5-3019-4d5d-825d-61bd0601be78" />
 
 ### S1 - Grid 101 + Media queries (Sanne):
 
@@ -786,17 +793,17 @@ Grid-lines: je moet niet de kolommen tellen wanneer je een element positioneer, 
 
 Voor mijn eigen website My Gaming Garden kan ik CSS Grid gebruiken om mijn consoles en andere content overzichtelijk te plaatsen en het responsive te maken.
 
-<img width="1679" height="783" alt="Scherm­afbeelding 2026-10-07 om 17 11 37" src="https://github.com/user-attachments/assets/eeef88ed-b2eb-47d1-b417-85afaf68cca7" />
+<img width="1679" height="783" alt="1 -  Donkere mode handheld consoles." src="https://github.com/user-attachments/assets/eeef88ed-b2eb-47d1-b417-85afaf68cca7" />
 
-<img width="1680" height="959" alt="Scherm­afbeelding 2026-10-07 om 17 11 30" src="https://github.com/user-attachments/assets/3cbd7ea9-9969-4f64-a0e8-fdc959215385" />
+<img width="1680" height="959" alt="1 - Lichte mode handheld consoles." src="https://github.com/user-attachments/assets/3cbd7ea9-9969-4f64-a0e8-fdc959215385" />
 
-<img width="1680" height="968" alt="Scherm­afbeelding 2026-10-07 om 17 10 31" src="https://github.com/user-attachments/assets/d1343da5-e393-4d8e-ad7a-0b1814342ab7" />
+<img width="1680" height="968" alt="2 - Donkere mode handheld consoles." src="https://github.com/user-attachments/assets/d1343da5-e393-4d8e-ad7a-0b1814342ab7" />
 
-<img width="1680" height="966" alt="Scherm­afbeelding 2026-10-07 om 17 10 23" src="https://github.com/user-attachments/assets/182dfae6-a1b3-4d4a-a0ad-21c165ef3133" />
+<img width="1680" height="966" alt="2 - Lichte mode handheld consoles." src="https://github.com/user-attachments/assets/182dfae6-a1b3-4d4a-a0ad-21c165ef3133" />
 
-<img width="1680" height="726" alt="Scherm­afbeelding 2026-10-07 om 16 20 56" src="https://github.com/user-attachments/assets/37fcc89f-d912-45bd-b31b-04d784152579" />
+<img width="1680" height="726" alt="3 - Donkere mode handheld consoles." src="https://github.com/user-attachments/assets/37fcc89f-d912-45bd-b31b-04d784152579" />
 
-<img width="1680" height="961" alt="Scherm­afbeelding 2026-10-07 om 16 20 48" src="https://github.com/user-attachments/assets/b1901839-3c37-446b-958f-a09b5fc9c2ad" />
+<img width="1680" height="961" alt="3 - Lichte mode handheld consoles." src="https://github.com/user-attachments/assets/b1901839-3c37-446b-958f-a09b5fc9c2ad" />
 
 ### S1 - Responsive grid + Grid-areas (Vasilis)
 
@@ -823,95 +830,101 @@ Voor mijn website kan ik grid-template-areas gebruiken om de grote onderdelen va
 
 Mijn console overzicht gebruikt al CSS Grid met auto-fit en minmax(). Dat is handig voor de individuele consoles, terwijl ik grid-template-areas kan gebruiken voor de grotere layout van de webpagina.
 
-<img width="810" height="587" alt="Scherm­afbeelding 2026-09-17 om 23 29 36" src="https://github.com/user-attachments/assets/883057b8-188a-4526-a95e-438acb65c31d" />
+<img width="810" height="587" alt="Lichte mode tekst lichtroze met artikelen." src="https://github.com/user-attachments/assets/883057b8-188a-4526-a95e-438acb65c31d" />
 
-<img width="807" height="647" alt="Scherm­afbeelding 2026-09-17 om 23 29 44" src="https://github.com/user-attachments/assets/e46a8f4b-d91d-4755-924e-5bc44fa22a77" />
+<img width="807" height="647" alt="Donkere mode tekst donkerroze met artikelen." src="https://github.com/user-attachments/assets/e46a8f4b-d91d-4755-924e-5bc44fa22a77" />
 
-<img width="1680" height="965" alt="Scherm­afbeelding 2026-09-17 om 23 29 53" src="https://github.com/user-attachments/assets/7081be5b-4c87-4536-9ba3-ab13b22ab15b" />
+<img width="1680" height="965" alt="Donkere mode tekst donkerroze met artikelen responsive." src="https://github.com/user-attachments/assets/7081be5b-4c87-4536-9ba3-ab13b22ab15b" />
+
 
 # SPRINT 1 - Retrospective:
 
-<img width="950" height="639" alt="Scherm­afbeelding 2026-09-22 om 20 19 28" src="https://github.com/user-attachments/assets/a404d59c-0116-4da5-b9ab-6929123cd6f4" />
+<img width="950" height="639" alt="Sprint 1 retrospective - tekening deel 1 en 2." src="https://github.com/user-attachments/assets/a404d59c-0116-4da5-b9ab-6929123cd6f4" />
 
-<img width="944" height="683" alt="Scherm­afbeelding 2026-09-22 om 20 19 51" src="https://github.com/user-attachments/assets/d333a2c5-c012-4431-a02b-5eb8d9b56422" />
+<img width="944" height="683" alt="Sprint 1 retrospective -  tekening deel 3 en 4." src="https://github.com/user-attachments/assets/d333a2c5-c012-4431-a02b-5eb8d9b56422" />
 
-<img width="965" height="670" alt="Scherm­afbeelding 2026-09-22 om 20 20 03" src="https://github.com/user-attachments/assets/4d3268ea-0c86-4f90-9316-963b66187baa" />
+<img width="965" height="670" alt="Sprint 1 retrospective tekening deel 5." src="https://github.com/user-attachments/assets/4d3268ea-0c86-4f90-9316-963b66187baa" />
 
 Tijdens mijn 1ste sprint had ik een aantal; ups en downs. Ik heb wel veel kunnen leren over HTML en CSS. Ik ben bezig geweest met het maken van mijn eigen website en ook al vond ik het lastig om hieraan te beginnen heb ik veel nieuwe info kunnen leren en toepassen op mijn website.
 
-# SPRINT 2: Digital Garden
+
+
+# SPRINT 2 - Digital Garden:
 
 Ik heb foto's gemaakt van mijn eigen handheld consoles en heb besloten om het te houden bij alleen mijn handheld consoles en als ik extra tijd heb zou ik het nog altijd kunnen uitbreiden. Ik heb vanuit mijn foto's en foto's online mijn consoles kunnen na maken in Figma. Vervolgens heb ik ze allemaal als SVG's op mijn website geplaatst.
 
 Dit was het proces van het maken:
 
-<img width="734" height="357" alt="Scherm­afbeelding 2026-09-22 om 19 02 51" src="https://github.com/user-attachments/assets/073c8340-14d2-4c22-9762-7132cb8dc44b" />
+<img width="734" height="357" alt="PSP 3004 gemaakt in figma met eigen initialen." src="https://github.com/user-attachments/assets/073c8340-14d2-4c22-9762-7132cb8dc44b" />
 
-<img width="942" height="497" alt="Scherm­afbeelding 2026-09-24 om 16 56 20" src="https://github.com/user-attachments/assets/a5e38448-b306-4914-899c-3aaf70f19da5" />
+<img width="942" height="497" alt="Verschillende hand consoles proces om te maken in figma." src="https://github.com/user-attachments/assets/a5e38448-b306-4914-899c-3aaf70f19da5" />
 
-<img width="920" height="764" alt="Scherm­afbeelding 2026-09-28 om 01 27 35" src="https://github.com/user-attachments/assets/a23f6b46-be1e-4d99-b214-9c3485292575" />
+<img width="920" height="764" alt="1 - Gameboy tekening en foto van de mijne ernaast." src="https://github.com/user-attachments/assets/a23f6b46-be1e-4d99-b214-9c3485292575" />
 
-<img width="687" height="575" alt="Scherm­afbeelding 2026-09-28 om 01 27 05" src="https://github.com/user-attachments/assets/57f355d9-2cad-471f-9a92-57b72c16452f" />
+<img width="687" height="575" alt="2 - Gameboy tekening en foto van de mijne ernaast." src="https://github.com/user-attachments/assets/57f355d9-2cad-471f-9a92-57b72c16452f" />
 
 Ik heb diverse elementen geprobeerd om te doen en keuzes gemaakt of ik ze wel of niet op mijn website wou hebben. Ik probeerde ervoor te zorgen dat alles matched met mijn huisstijl.
 
-<img width="113" height="129" alt="Scherm­afbeelding 2026-09-28 om 19 28 20" src="https://github.com/user-attachments/assets/f8df602f-d11e-460a-ac7c-0c797d25b65c" />
+<img width="113" height="129" alt="Eerste versie knoppen voor ds." src="https://github.com/user-attachments/assets/f8df602f-d11e-460a-ac7c-0c797d25b65c" />
 
-<img width="453" height="462" alt="Scherm­afbeelding 2026-09-28 om 19 28 36" src="https://github.com/user-attachments/assets/410d6603-d949-4997-8a9c-9ec7ce58513b" />
+<img width="453" height="462" alt="Tweede versie knoppen voor ds." src="https://github.com/user-attachments/assets/410d6603-d949-4997-8a9c-9ec7ce58513b" />
 
 Ik wou besloot voor mijn light/dark modus om een poppetje te maken, ik dacht eerst aan Kirby want het is schattig en roze. Ik koos later om het te baseren op mijn eigen knuffel Fatson Todd die gebaseerd is op Jason Todd, Red Hood, tweede Robin van Batman.
 
-<img width="451" height="556" alt="Scherm­afbeelding 2026-09-28 om 21 10 36" src="https://github.com/user-attachments/assets/6d799233-99e0-4cb3-a9f1-21178ef00570" />
-(Mijn Kirby zag er ook een beetje eng uit vond ik)
+<img width="451" height="556" alt="Nagemaakte Kirby poppetje." src="https://github.com/user-attachments/assets/6d799233-99e0-4cb3-a9f1-21178ef00570" />
+
+(Mijn Kirby zag er ook een beetje eng uit en vond het toch niet passend.)
 
 Maar kijk dit lijkt wel een beetje op mijn knuffel:
-<img width="641" height="854" alt="Scherm­afbeelding 2026-10-16 om 14 40 14" src="https://github.com/user-attachments/assets/5dc753e6-5e2a-41a3-a924-77f65f2bb3ef" />
 
-<img width="738" height="831" alt="Scherm­afbeelding 2026-10-16 om 14 40 29" src="https://github.com/user-attachments/assets/298f10a0-f047-439f-b307-f99c3108c356" />
+<img width="641" height="854" alt="Knuffel van Fatson Todd zittend." src="https://github.com/user-attachments/assets/5dc753e6-5e2a-41a3-a924-77f65f2bb3ef" />
 
-<img width="452" height="264" alt="Scherm­afbeelding 2026-09-28 om 21 40 45" src="https://github.com/user-attachments/assets/9510760e-cc25-4a2e-8397-c9c99a8073d4" />
+<img width="738" height="831" alt="Knuffel van Fatson Todd liggend." src="https://github.com/user-attachments/assets/298f10a0-f047-439f-b307-f99c3108c356" />
 
-<img width="481" height="323" alt="Scherm­afbeelding 2026-09-28 om 21 40 53" src="https://github.com/user-attachments/assets/8071833e-0742-4da6-b69e-d4e1c8b493a6" />
+<img width="452" height="264" alt="Licht en donker knoppen fatson todd wit en zwart." src="https://github.com/user-attachments/assets/9510760e-cc25-4a2e-8397-c9c99a8073d4" />
 
-<img width="604" height="805" alt="Scherm­afbeelding 2026-10-16 om 14 40 49" src="https://github.com/user-attachments/assets/30692e57-c7cd-4260-86cc-6af68555ad45" />
+<img width="481" height="323" alt="Licht en donker knoppen fatson todd roze zwart wit." src="https://github.com/user-attachments/assets/8071833e-0742-4da6-b69e-d4e1c8b493a6" />
+
+<img width="604" height="805" alt="Knuffel van Fatson Todd liggend close-up." src="https://github.com/user-attachments/assets/30692e57-c7cd-4260-86cc-6af68555ad45" />
 
 Verder besloot ik om sommige elementen waar normaal gesproken Sony, PSP, of andere merken op stonden te veranderen met mijn naam of initialen (Nisha, NP, NPP). Ik vond dat dit het nog persoonlijker maakte en meer mijn eigen maakte voor op mijn website :).
 
-<img width="730" height="369" alt="PSP 3000 roze" src="https://github.com/user-attachments/assets/1b15e59c-3b31-4298-b7b3-b9f89b36eaae" />
+<img width="730" height="369" alt="Eindresultaat gemaakt PSP 3004 roze." src="https://github.com/user-attachments/assets/1b15e59c-3b31-4298-b7b3-b9f89b36eaae" />
 
-<img width="924" height="489" alt="PS vita zwart roze" src="https://github.com/user-attachments/assets/32a665c1-8d07-49d5-8ac0-704315f6cf49" />
+<img width="924" height="489" alt="Eindresultaat gemaakt Ps Vita zwart roze" src="https://github.com/user-attachments/assets/32a665c1-8d07-49d5-8ac0-704315f6cf49" />
 
-<img width="689" height="682" alt="Ds Tank roze" src="https://github.com/user-attachments/assets/456a2fc6-b8f0-4468-acca-74cc74d25bbd" />
+<img width="689" height="682" alt="Eindresultaat gemaakt DS Tank roze" src="https://github.com/user-attachments/assets/456a2fc6-b8f0-4468-acca-74cc74d25bbd" />
 
 Verder heb ik andere elementen die je gebruikt om daadwerkelijk spelletjes te spelen op de handheld na gemaakt. Ik twijfel nog of ik genoeg tijd heb om ze te gebruiken, maar anders kan ik mijn digital garden altijd later nog verder uitbreiden.
 
-<img width="491" height="355" alt="PS vita sd kaart" src="https://github.com/user-attachments/assets/2e89236a-cbd6-478a-a9b1-beb734f7cc75" />
+<img width="491" height="355" alt="Eindresultaat van Ps Vita sd kaart." src="https://github.com/user-attachments/assets/2e89236a-cbd6-478a-a9b1-beb734f7cc75" />
 
-<img width="841" height="578" alt="Scherm­afbeelding 2026-09-28 om 21 44 36" src="https://github.com/user-attachments/assets/7afb1bb0-bb87-47c3-a473-af86e36d27c4" />
+<img width="841" height="578" alt="Eindresultaat van Gameboy cartridge." src="https://github.com/user-attachments/assets/7afb1bb0-bb87-47c3-a473-af86e36d27c4" />
 
-<img width="753" height="437" alt="Scherm­afbeelding 2026-09-28 om 21 48 12" src="https://github.com/user-attachments/assets/45d2ba22-b2b5-4b95-9e9e-b8303512b905" />
+<img width="753" height="437" alt="Eindresultaat van 3DS cartridge." src="https://github.com/user-attachments/assets/45d2ba22-b2b5-4b95-9e9e-b8303512b905" />
 
-<img width="621" height="444" alt="Scherm­afbeelding 2026-09-28 om 21 50 03" src="https://github.com/user-attachments/assets/44992a5b-62b9-47a5-acb4-2d935ebe3e80" />
+<img width="621" height="444" alt="Eindresultaat van DS cartridge." src="https://github.com/user-attachments/assets/44992a5b-62b9-47a5-acb4-2d935ebe3e80" />
 
-<img width="863" height="583" alt="PSP UMD" src="https://github.com/user-attachments/assets/420e3373-9671-47fe-aadc-033f2b596fc6" />
+<img width="863" height="583" alt="Eindresultaat van UMD cartridge." src="https://github.com/user-attachments/assets/420e3373-9671-47fe-aadc-033f2b596fc6" />
 
 Dit is het eindresultaat en ik heb het op chronologische volgorde gezet van wanneer ze zijn uitgekomen en ze zitten per categorie bij elkaar:
 
-<img width="803" height="639" alt="Scherm­afbeelding 2026-09-28 om 22 08 23" src="https://github.com/user-attachments/assets/e1318fca-a48e-43e8-840c-e51308f8488f" />
+<img width="803" height="639" alt="Eindresultaat van alle gemaakte producten op Figma, alle consoles en cartridges." src="https://github.com/user-attachments/assets/e1318fca-a48e-43e8-840c-e51308f8488f" />
 
 Dit wil ik graag als SVG op mijn website zetten en gebruik van maken.
 
-<img width="1137" height="695" alt="Scherm­afbeelding 2026-09-22 om 19 11 15" src="https://github.com/user-attachments/assets/e931a946-0346-48a0-8cae-8b382c304937" />
+<img width="1137" height="695" alt="PSP 3004 svg in VS Codium toegevoegd." src="https://github.com/user-attachments/assets/e931a946-0346-48a0-8cae-8b382c304937" />
 
-<img width="482" height="903" alt="Scherm­afbeelding 2026-09-28 om 23 39 19" src="https://github.com/user-attachments/assets/173b525e-da92-4db8-a847-68424c4c8c18" />
+<img width="482" height="903" alt="Eerste versie van hoe de consoles op website stonden - onder elkaar." src="https://github.com/user-attachments/assets/173b525e-da92-4db8-a847-68424c4c8c18" />
 
 (Zo zag het er eerst uit ik heb het later natuurlijk veel mooier gemaakt met CSS)
 
 Nu ziet het er zo uit:
 
-<img width="1680" height="771" alt="Nieuwe consoles lay-out" src="https://github.com/user-attachments/assets/4c7a0361-5a05-45c5-8d84-dcfe26b8b1fe" />
+<img width="1680" height="771" alt="Tweede versie van hoe de consoles op website stonden - Grid Nieuwe consoles lay-out" src="https://github.com/user-attachments/assets/4c7a0361-5a05-45c5-8d84-dcfe26b8b1fe" />
 
-# SPRINT 2: Opdrachten
+
+# SPRINT 2 - Opdrachten:
 
 ## HTML Structuur extra uitleg:
 
@@ -926,35 +939,36 @@ Nu ziet het er zo uit:
 
 ## Opdracht in de les: Cookies Werkblad + Volkskrant (DPG) en Paradiso
 
-<img width="1007" height="692" alt="werkblad welingelichte cookie consent" src="https://github.com/user-attachments/assets/4e08dd83-407a-4d98-83ed-b75cc6a81bac" />
+<img width="1007" height="692" alt="Ingevulde template - Cookie consent en onderzoek naar verschillende websites - werkblad welingelichte cookie consent" src="https://github.com/user-attachments/assets/4e08dd83-407a-4d98-83ed-b75cc6a81bac" />
 
-<img width="576" height="799" alt="Scherm­afbeelding 2026-09-21 om 15 11 28" src="https://github.com/user-attachments/assets/7792dc5c-519b-48bc-97e9-a2ead9cd17a0" />
+<img width="576" height="799" alt="1 - DPG cookie pop-up." src="https://github.com/user-attachments/assets/7792dc5c-519b-48bc-97e9-a2ead9cd17a0" />
 
-<img width="469" height="633" alt="Scherm­afbeelding 2026-09-21 om 15 11 35" src="https://github.com/user-attachments/assets/40985128-d0eb-488d-8909-1cec53aed8d8" />
+<img width="469" height="633" alt="2 - DPG cookie pop-up." src="https://github.com/user-attachments/assets/40985128-d0eb-488d-8909-1cec53aed8d8" />
 
 Als je de cookies niet accepteert kan je de video niet bekijken:
 
-<img width="1100" height="709" alt="Scherm­afbeelding 2026-09-21 om 15 11 44" src="https://github.com/user-attachments/assets/4d160240-35c8-48dc-84b0-30873be51cf2" />
+<img width="1100" height="709" alt="Ticketmaster video." src="https://github.com/user-attachments/assets/4d160240-35c8-48dc-84b0-30873be51cf2" />
 
-<img width="384" height="117" alt="Scherm­afbeelding 2026-09-21 om 15 11 51" src="https://github.com/user-attachments/assets/94a84544-d72b-4527-be53-22ea0ccc6e5e" />
+<img width="384" height="117" alt="Ticketmaster cookie moet accepteren." src="https://github.com/user-attachments/assets/94a84544-d72b-4527-be53-22ea0ccc6e5e" />
 
 ## Human Consent Component:
 
 Notities gemaakt tijdens de college van Hans de Zwart. Het was informatief en leerzaam.
 
-<img width="598" height="731" alt="Scherm­afbeelding 2026-10-24 om 20 00 55" src="https://github.com/user-attachments/assets/bc0db1dc-a151-44aa-a3e2-78252484367b" />
+<img width="598" height="731" alt="1 - Notities privacy en hoorcollege." src="https://github.com/user-attachments/assets/bc0db1dc-a151-44aa-a3e2-78252484367b" />
 
-<img width="549" height="784" alt="Scherm­afbeelding 2026-10-24 om 20 01 05" src="https://github.com/user-attachments/assets/478bf369-a023-4de8-892f-e1fbf83d5506" />
+<img width="549" height="784" alt="2 - Notities privacy en hoorcollege." src="https://github.com/user-attachments/assets/478bf369-a023-4de8-892f-e1fbf83d5506" />
 
-<img width="557" height="820" alt="Scherm­afbeelding 2026-10-24 om 20 01 13" src="https://github.com/user-attachments/assets/552ac28b-0cf6-498a-9c87-1c3a8e375474" />
+<img width="557" height="820" alt="3 - Notities privacy en hoorcollege.
+" src="https://github.com/user-attachments/assets/552ac28b-0cf6-498a-9c87-1c3a8e375474" />
 
-<img width="780" height="250" alt="Scherm­afbeelding 2026-10-24 om 20 01 22" src="https://github.com/user-attachments/assets/af8d6136-6c5a-44bc-81eb-12b979157e36" />
+<img width="780" height="250" alt="4 - Notities privacy en hoorcollege." src="https://github.com/user-attachments/assets/af8d6136-6c5a-44bc-81eb-12b979157e36" />
 
 ## Wireframes + Dark Pattern herontwerp:
 
-<img width="1181" height="818" alt="Scherm­afbeelding 2026-10-17 om 19 14 00" src="https://github.com/user-attachments/assets/aceda837-0a84-4895-a42e-922318d48271" />
+<img width="1181" height="818" alt="Tekening - wireframes en dark pattern herontwerpen." src="https://github.com/user-attachments/assets/aceda837-0a84-4895-a42e-922318d48271" />
 
-<img width="366" height="378" alt="Scherm­afbeelding 2026-10-17 om 19 14 23" src="https://github.com/user-attachments/assets/31af79fc-9ca5-4980-822c-2442276e953d" />
+<img width="366" height="378" alt="Notitie - wireframes en dark pattern herontwerpen." src="https://github.com/user-attachments/assets/31af79fc-9ca5-4980-822c-2442276e953d" />
 
 ## Human Consent Component: Wat moet in je cookies staan?
 
@@ -976,13 +990,13 @@ Notities gemaakt tijdens de college van Hans de Zwart. Het was informatief en le
 
 ## Opdracht Human Consent Component (Wireframes en wireflows):
 
-<img width="878" height="646" alt="Scherm­afbeelding 2026-10-25 om 02 24 07" src="https://github.com/user-attachments/assets/7704cf76-e5db-4907-b72b-5f559f170683" />
+<img width="878" height="646" alt="Tekening - Wireframes en wireflows Human consent component." src="https://github.com/user-attachments/assets/7704cf76-e5db-4907-b72b-5f559f170683" />
 
 ## Cookies accepteren:
 
-<img width="1268" height="62" alt="Scherm­afbeelding 2026-09-26 om 16 56 53" src="https://github.com/user-attachments/assets/c6e60c2e-3ddb-4117-8f54-e9cd5bb7b82e" />
+<img width="1268" height="62" alt="Cookie pop-up website." src="https://github.com/user-attachments/assets/c6e60c2e-3ddb-4117-8f54-e9cd5bb7b82e" />
 
-<img width="1680" height="298" alt="Scherm­afbeelding 2026-09-26 om 16 56 45" src="https://github.com/user-attachments/assets/808d126e-8b3f-468e-8e90-3b6f5f56c070" />
+<img width="1680" height="298" alt="Cookie pop-up op mijn website." src="https://github.com/user-attachments/assets/808d126e-8b3f-468e-8e90-3b6f5f56c070" />
 
 (Zo zag het er eerst uit ik heb het later aangepast en volgens mijn huisstijl gemaakt)
 
@@ -990,7 +1004,7 @@ Notities gemaakt tijdens de college van Hans de Zwart. Het was informatief en le
 
 Ik heb mijn website gecheckt op wat ik gebruik tot nu: 1ste keer
 
-<img width="617" height="238" alt="Scherm­afbeelding 2026-09-28 om 13 08 46" src="https://github.com/user-attachments/assets/e9e58166-d22a-45e7-ac36-760eb1bcad69" />
+<img width="617" height="238" alt="1 - Compliance check codes." src="https://github.com/user-attachments/assets/e9e58166-d22a-45e7-ac36-760eb1bcad69" />
 
 Ik heb later na het toepassen van alle deepdives mijn website nog een keer gecheckt, aangezien ik nu veel meer codes heb:
 
@@ -1012,22 +1026,38 @@ Ik heb ook een aantal andere pagina's gecheckt en die zagen er wel allemaal goed
 
 <img width="1037" height="585" alt="Validatie suggest html" src="https://github.com/user-attachments/assets/b80fa0fe-4b98-4256-9ed3-7f4ab2845cb9" />
 
-### SPRINT 2. - Bi-weekly 2:
+
+### SPRINT 2 - Bi-weekly 2:
+
+#### Bi weekly 2 samenvatting artikelen: 
+Het internet bestaat niet alleen uit websites, apps en online platforms, maar ook met wetten en regels. Online activiteiten hebben juridische gevolgen, bijv. bij privacy, auteursrecht, illegale content en online veiligheid.
+
+Er is een Europese wet, Digital Services Act (DSA), die online verschillende platforms verantwoordelijk houdt voor illegale content, bescherming van de gebruikers, transparantie en nog veel meer. Een belangrijk onderdeel hiervan is de Digital Services Act (DSA). 
+
+Grote platforms met meer dan 45 miljoen maandelijkse gebruikers in de EU krijgen extra verplichtingen (in het artikel van de Financial Times worden ChatGPT, Reddit en Roblox als voorbeelden genoemd). Als de bedrijven de wetten niet aanhouden, dan kunnen ze boetes krijgen die tot wel 6% van hun wereldwijde omzet is. 
+
+Verder heb ik geleerd dat er nu met AI nieuwe juridische vragen komen.  AI chatbots kunnen bijv. onbetrouwbare informatie of Russische propaganda verspreiden. Er ontstaat nu de vraag hoe je de betrouwbaarheid van AI kan controleren en wie verantwoordelijk is voor de informatie die het geeft. 
+
+Verder gaat het ook over de bescherming van jongeren op het internet. In het artikel over meta gaat het over een discussie over de invloed die sociale media heeft op jongeren en of deze platforms zich ook bewust zijn van hun verslavende functies. Auteursrecht speelt hierbij ook een rol, want je mag niet zomaar afbeeldingen, teksten, andere content van het internet overnemen en op je eigen website gebruiken. 
+
+##### Wat neem ik hiervan mee?
+
+Het is dus dat het internet niet helemaal vrij of wetteloos is. Zowel gebruikers als bedrijven hebben verantwoordelijkheden. Het is vooral bij grote platforms en nieuwe technologieën zoals AI belangrijk om goed na te denken over de privacy, veiligheid, betrouwbaarheid en alle andere gevolgen op de samenleving. 
 
 UX HTML:
 UX = User Experience
 
-<img width="1011" height="772" alt="Scherm­afbeelding 2026-09-28 om 12 06 33" src="https://github.com/user-attachments/assets/95e4a231-6281-43db-8a4c-3e54d4d7975d" />
+<img width="1011" height="772" alt="Bi weekly geek 2 teamopdracht 1." src="https://github.com/user-attachments/assets/95e4a231-6281-43db-8a4c-3e54d4d7975d" />
 
-<img width="986" height="658" alt="Scherm­afbeelding 2026-09-28 om 12 06 45" src="https://github.com/user-attachments/assets/9434d0f1-dd70-4253-9126-4c8d9b5ce374" />
+<img width="986" height="658" alt="Bi weekly geek 2 teamopdracht 2." src="https://github.com/user-attachments/assets/9434d0f1-dd70-4253-9126-4c8d9b5ce374" />
 
 #### Spiekbrief: Screenreader
 
-<img width="718" height="550" alt="Scherm­afbeelding 2026-09-28 om 14 25 22" src="https://github.com/user-attachments/assets/5904c9b4-e20d-47c1-9747-2ebdff706a9d" />
+<img width="718" height="550" alt="Shortcuts voor voice over." src="https://github.com/user-attachments/assets/5904c9b4-e20d-47c1-9747-2ebdff706a9d" />
 
 #### User testing / Toegankelijkheid testen:
 
-Ik heb samen met Alara 3 testen gedaan
+Ik heb samen met een medestudent 3 testen gedaan:
 
 1. Screenreader
 2. Alleen-een-toetsenbord
@@ -1035,17 +1065,27 @@ Ik heb samen met Alara 3 testen gedaan
 
 Ik vond het persoonlijk geen fijne ervaring, het was erg lastig en vervelend om te gebruiken. Hierdoor zag ik wel in hoe lastig mensen het hebben met een disability.
 
-<img width="1678" height="960" alt="Scherm­afbeelding 2026-09-28 om 14 31 15" src="https://github.com/user-attachments/assets/81a656b2-ce81-45df-970c-35a044c4df4c" />
+<img width="1678" height="960" alt="NS voiceover start op macbook." src="https://github.com/user-attachments/assets/81a656b2-ce81-45df-970c-35a044c4df4c" />
 
 Ik vond het bijvoorbeeld erg lastig om mijn handen hiermee te bewegen en mijn laptop te gebruiken. Ik heb soms zelf ook wel krampen en last van mijn vingers, maar dit was natuurlijk op een heel ander niveau. Het was erg frustrerend en alles ging erg moeizaam. Hierdoor heb ik nu wel een beter begrip dat mensen die deze aandoening hebben ook snel vermoeid en gefrustreerd raken.
 
-<img width="608" height="805" alt="Scherm­afbeelding 2026-10-26 om 01 00 57" src="https://github.com/user-attachments/assets/48e82c4c-b630-4ab9-a791-93eca3a5d239" />
+<img width="608" height="805" alt="1 - Hand aandoening zelf aangedaan" src="https://github.com/user-attachments/assets/48e82c4c-b630-4ab9-a791-93eca3a5d239" />
 
-<img width="594" height="729" alt="Scherm­afbeelding 2026-10-26 om 01 01 12" src="https://github.com/user-attachments/assets/0c719a81-8e33-43d9-9270-e68d85cdc873" />
+<img width="594" height="729" alt="2 - Hand aandoening zelf aangedaan" src="https://github.com/user-attachments/assets/0c719a81-8e33-43d9-9270-e68d85cdc873" />
 
-<img width="593" height="691" alt="Scherm­afbeelding 2026-10-26 om 01 02 37" src="https://github.com/user-attachments/assets/14ad9af8-41a8-4a89-a199-bb8eb59d56fc" />
+<img width="593" height="691" alt="3 - Hand aandoening zelf aangedaan" src="https://github.com/user-attachments/assets/14ad9af8-41a8-4a89-a199-bb8eb59d56fc" />
 
-<img width="571" height="740" alt="Scherm­afbeelding 2026-10-26 om 01 02 54" src="https://github.com/user-attachments/assets/93d176c0-62b3-48d3-8f69-36fb06f80457" />
+<img width="571" height="740" alt="4 - Hand aandoening zelf aangedaan" src="https://github.com/user-attachments/assets/93d176c0-62b3-48d3-8f69-36fb06f80457" />
+
+<img width="500" height="670" alt="VoiceOver op Macbook aangedaan en papiertjes erop" src="https://github.com/user-attachments/assets/957ad6bf-8ed0-4c13-b381-0bb49072193e" />
+
+<img width="502" height="669" alt="Reis inplannen op NS met VoiceOver" src="https://github.com/user-attachments/assets/11934fc2-2137-4c3c-9689-a21caa9d504a" />
+
+<img width="504" height="662" alt="Reis inplannen op NS met VoiceOver - tijd kiezen" src="https://github.com/user-attachments/assets/a9cf28ec-57d5-4a10-bfd5-8bf063578acb" />
+
+<img width="502" height="670" alt="Reis inplannen op NS met VoiceOver - Datum kiezen" src="https://github.com/user-attachments/assets/01439818-f6cb-43da-8bea-0e4d66f9ad79" />
+
+<img width="499" height="664" alt="Reis inplannen op NS met VoiceOver - opties bekijken" src="https://github.com/user-attachments/assets/3179baa7-3379-4bc2-aa18-b1f51da726e8" />
 
 #### Toegankelijkheid testen:
 
@@ -1085,52 +1125,50 @@ Ik heb deze websites gebruikt om te kijken voor mensen die kleurenblind zijn:
 
 Protanopia:
 
-<img width="1361" height="692" alt="Kleurenblind test - Protanopia" src="https://github.com/user-attachments/assets/80b54576-dfe3-4236-b015-35e226691366" />
+<img width="1361" height="692" alt="Toegankelijkheid getest op eigen website - kleurenblind Protanopia." src="https://github.com/user-attachments/assets/80b54576-dfe3-4236-b015-35e226691366" />
 
 <img width="1358" height="378" alt="Kleurenblind test - Protanopia2" src="https://github.com/user-attachments/assets/fa2dac95-96ad-4c5e-b28f-02a290cf498c" />
 
 Tritanopia:
 
-<img width="920" height="680" alt="Kleurenblind test - Tritanopia" src="https://github.com/user-attachments/assets/43e5a48a-8433-4c9c-be4c-a35081278c7f" />
+<img width="920" height="680" alt="Toegankelijkheid getest op eigen website - kleurenblind Tritanopia." src="https://github.com/user-attachments/assets/43e5a48a-8433-4c9c-be4c-a35081278c7f" />
 
 Greyscale Achromatopsia:
 
-<img width="889" height="688" alt="Kleurenblind test -  Greyscale Achromatopsia " src="https://github.com/user-attachments/assets/4c2f63a9-2e9c-4d97-b252-001169842def" />
+<img width="889" height="688" alt="Toegankelijkheid getest op eigen website - kleurenblind Greyscale Achromatopsia." src="https://github.com/user-attachments/assets/4c2f63a9-2e9c-4d97-b252-001169842def" />
 
 Deuteranopia:
 
-<img width="926" height="737" alt="Kleurenblind test - Deuteranopia" src="https://github.com/user-attachments/assets/60bc72d7-22fc-42e5-8492-7a5e2b7f3339" />
+<img width="926" height="737" alt="Toegankelijkheid getest op eigen website - kleurenblind Deuteranopia." src="https://github.com/user-attachments/assets/60bc72d7-22fc-42e5-8492-7a5e2b7f3339" />
 
 Ik heb ook gekeken naar hoe het eruit ziet in donkere mode:
 
-<img width="959" height="627" alt="Kleurenblind test - Deuteranopia donkere mode intro" src="https://github.com/user-attachments/assets/1c1cedd0-8bdc-443e-bbf8-76988edbaa90" />
+<img width="959" height="627" alt="Toegankelijkheid getest op eigen website - donkere mode home kleurenblind." src="https://github.com/user-attachments/assets/1c1cedd0-8bdc-443e-bbf8-76988edbaa90" />
 
-<img width="979" height="778" alt="Kleurenblind test - Deuteranopia donkere mode consoles" src="https://github.com/user-attachments/assets/c383a824-2b8d-4298-9eaa-c19d655f8f39" />
+<img width="979" height="778" alt="Toegankelijkheid getest op eigen website - donkere mode consoles kleurenblind." src="https://github.com/user-attachments/assets/c383a824-2b8d-4298-9eaa-c19d655f8f39" />
 
 <img width="848" height="569" alt="Kleurenblind test - Deuteranopia donkere mode meer consoles " src="https://github.com/user-attachments/assets/b0c0294f-d75d-42d9-84c6-7482105fcc4b" />
 
 Resultaat bleek dat het 99,88% vriendelijk is voor mensen met deuteranopia:
 
-<img width="760" height="271" alt="Kleurenblind test - Deuteranopia donkere mode resultaat" src="https://github.com/user-attachments/assets/7d1805a1-9827-411e-a1bd-dc503246e787" />
+<img width="760" height="271" alt="Toegankelijkheid getest op eigen website - kleurenblind vriendelijkheid 99,88%." src="https://github.com/user-attachments/assets/7d1805a1-9827-411e-a1bd-dc503246e787" />
 
 #### Spiekbrief: Voice over uitschakelen
 
 - Command ingedrukt houden en 3x op ID knop klikken.
+
 
 # SPRINT 2 - Check Out:
 
 ### Sprint 2.1:
 
 1. Wat zijn HTML landmark role elements?
-
 - indicatoren om de structuur te herkennen.
 
 2. Wat zijn heading elementen en hoe horen deze 'genest' te worden?
-
 - Er moet altijd een hiërarchie zijn met een logische opeenvolgende structuur zijn. Bijv. H1, h2, h3, etc. Dit helpt ook alle zoekmachines om je opbouw te begrijpen
 
 3. Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
-
 - Ik weiger ze meestal. 8/10 keer. Als ik haast heb ben ik sneller geneigd om op accepteren te klikken dan wanneer ik rustig aan het scrollen ben.
 
 # Wat zit in mijn eigen cookies? Hoe kan ik dit toepassen? Mijn digital garden:
@@ -1145,44 +1183,37 @@ Ik kies voor cookie banner met een sticky knop. Er komt een een dialoogvenster t
 ### Sprint 2.2:
 
 1. Wat is een wireflow en wat heb je er aan?
-
 - Het laat zien hoe de gebruiker verschillende schermen eruit zien etc en geeft het visueel weer.
 
 2. Wat zijn dark UX patterns? Geef drie voorbeelden...
-
 - Fake Social Proof, obstruction en wording tricks.
 
 3. Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
-
 - Dat je alle informatie geeft, maar het wel duidelijk blijft en dat het overzichtelijk blijft.
 
 ### Sprint 2.2:
 
 1. Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
-
 - HTML validatie is het controleren of je HTML code aan de regels en standaarden voldoet. Het is belangrijk voor de toegankelijkheid, structuur en het onderhouden van je website. Dit heb ik kunnen checken met W3C HTML Checker, dit heeft mijn website gecontroleerd en naar de fouten en waarschuwingen heeft gekeken.
 
 2. Welke dingen vielen je op?
-
 - Het viel me op dat mijn website er goed uit kon zien, terwijl er toch fouten in mijn HTML-code zaten. Ik heb geleerd dat een browser fouten soms zelf herstelt, waardoor je niet altijd door hebt dat er iets mis is met je code.
 
 3. Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
+- Goed kijken wat handig is en wat wel/niet fijn is voor de gebruiker.
 
-- ### Wat heb ik veranderd na reflectie en feedback?
-  Ik ben later terug gekomen op mijn sticky header, het was erg vervelend tijdens het gebruiken van de website waardoor je de tekst soms niet goed kon lezen. Het idee was er, maar het bleek toch onhandig te zijn. Ik heb mijn cookie venster sticky gemaakt en dat bleek veel handiger te zijn.
+### Wat heb ik veranderd na reflectie en feedback?
+Ik ben later terug gekomen op mijn sticky header, het was erg vervelend tijdens het gebruiken van de website waardoor je de tekst soms niet goed kon lezen. Het idee was er, maar het bleek toch onhandig te zijn. Ik heb mijn cookie venster sticky gemaakt en dat bleek veel handiger te zijn.
 
 ### Sprint 2.3: Bi-weekly
 
 1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
-
 - Het gaat niet alleen daar om maar ook of het fijn is voor de gebruiker om het tet gebruiken.
 
 2. Wat voor type beperkingen hebben invloed op het gebruiken van websites?
-
 - Cognitief, auditief, visueel en motorisch.
 
 3. Noem drie manieren om door een website te navigeren met jouw screenreader.
-
 - Headings, links en landmarks.
 
 ### Sprint 2.4: Bi-weekly
@@ -1200,6 +1231,7 @@ Ik kies voor cookie banner met een sticky knop. Er komt een een dialoogvenster t
 - Ik vind het wel lastig om rekening te houden met mensen die moeite hebben met het zien van kleuren en contrasten. Ik kwam namelijk tijdens het testen erachter dat mijn roze tekst op een witte achtergrond niet genoeg contrast heeft. In de donkere modus zag het er wel beter uit, maar ik moet hierdoor wel gaan kijken hoe ik mijn lichte modus toegankelijker kan maken zonder dat ik mijn eigen stijl verlies.
 
 - Verder vind ik niet per se dat toegankelijkheid je beperkt in wat je allemaal kunt ontwerpen. Ik vind het juist wel fijn dat iedereen ongeacht hun disabillaty mijn website zouden kunnen gebruiken. Het is wel zo dat je soms alleen bepaalde keuzes zou moeten maken die je voorheen nooit zou hebben bedacht. Ik kan bijv. mijn roze kleuren blijven gebruiken voor accenten, maar voor langere teksten een andere kleur kiezen die beter leesbaar zal zijn. Zo kan ik mijn website er wel leuk laten uitzien, maar dat het tegelijkertijd toch toegankelijker is voor meer mensen.
+
 
 # SPRINT 2 - Deep Dives:
 
@@ -1234,29 +1266,29 @@ Ik kan dus deze nieuwe technieken gebruiken om mijn buttons duidelijker te maken
 
 Ik heb geleerd dat interactie niet alleen visueel mooi moet zijn, maar ook duidelijk en toegankelijk moet werken en door de verschillende states te stylen, krijgen de bezoekers gelijk feedback wanneer ze mijn website gebruiken.
 
-<img width="222" height="89" alt="Scherm­afbeelding 2026-10-17 om 20 12 07" src="https://github.com/user-attachments/assets/d53f2fda-bb88-4611-be76-83c08b2dad52" />
+<img width="222" height="89" alt="cookie knop variatie 1" src="https://github.com/user-attachments/assets/d53f2fda-bb88-4611-be76-83c08b2dad52" />
 
-<img width="220" height="81" alt="Scherm­afbeelding 2026-10-17 om 20 12 28" src="https://github.com/user-attachments/assets/17dbe6ef-178a-4cd2-9141-ba309f5e920e" />
+<img width="220" height="81" alt="cookie knop variatie 2" src="https://github.com/user-attachments/assets/17dbe6ef-178a-4cd2-9141-ba309f5e920e" />
 
-<img width="224" height="84" alt="Scherm­afbeelding 2026-10-17 om 20 12 43" src="https://github.com/user-attachments/assets/3587471a-6805-4c4c-95b9-256311db4b74" />
+<img width="224" height="84" alt="cookie knop variatie 3" src="https://github.com/user-attachments/assets/3587471a-6805-4c4c-95b9-256311db4b74" />
 
-<img width="219" height="78" alt="Scherm­afbeelding 2026-10-17 om 20 23 55" src="https://github.com/user-attachments/assets/9a68a62b-e8fd-4c10-b278-ae052b766910" />
+<img width="219" height="78" alt="cookie knop variatie 4" src="https://github.com/user-attachments/assets/9a68a62b-e8fd-4c10-b278-ae052b766910" />
 
-<img width="705" height="73" alt="Scherm­afbeelding 2026-10-17 om 20 41 07" src="https://github.com/user-attachments/assets/6b530f11-b30d-46b7-bb81-cb99664829a9" />
+<img width="705" height="73" alt="details knop 1" src="https://github.com/user-attachments/assets/6b530f11-b30d-46b7-bb81-cb99664829a9" />
 
-<img width="1673" height="106" alt="Scherm­afbeelding 2026-10-17 om 20 41 15" src="https://github.com/user-attachments/assets/2ce41d71-65cf-4854-83d8-054bd8920602" />
+<img width="1673" height="106" alt="details knop 2" src="https://github.com/user-attachments/assets/2ce41d71-65cf-4854-83d8-054bd8920602" />
 
-<img width="205" height="279" alt="Scherm­afbeelding 2026-10-17 om 20 40 52" src="https://github.com/user-attachments/assets/b5747921-6f8a-4043-bcaf-04e4183486c3" />
+<img width="205" height="279" alt="navigatie knoppen lay-out 1" src="https://github.com/user-attachments/assets/b5747921-6f8a-4043-bcaf-04e4183486c3" />
 
-<img width="591" height="70" alt="Scherm­afbeelding 2026-10-17 om 21 13 46" src="https://github.com/user-attachments/assets/b4721120-d430-488e-a636-3f7f30a33ab4" />
+<img width="591" height="70" alt="navigatie knoppen lay-out 2 donker mode" src="https://github.com/user-attachments/assets/b4721120-d430-488e-a636-3f7f30a33ab4" />
 
-<img width="587" height="64" alt="Scherm­afbeelding 2026-10-17 om 21 13 57" src="https://github.com/user-attachments/assets/26e57f3a-6c76-4ef9-8393-571264994b2d" />
+<img width="587" height="64" alt="navigatie knoppen lay-out 2 licht mode" src="https://github.com/user-attachments/assets/26e57f3a-6c76-4ef9-8393-571264994b2d" />
 
-<img width="1012" height="490" alt="Scherm­afbeelding 2026-10-18 om 01 24 53" src="https://github.com/user-attachments/assets/e80a77bd-8567-4b3f-b220-a916814fa2e8" />
+<img width="1012" height="490" alt="navigatie knoppen lay-out variatie 1" src="https://github.com/user-attachments/assets/e80a77bd-8567-4b3f-b220-a916814fa2e8" />
 
-<img width="1013" height="508" alt="Scherm­afbeelding 2026-10-18 om 01 24 58" src="https://github.com/user-attachments/assets/6836671a-61bd-4aa9-8dbc-785f9cf97394" />
+<img width="1013" height="508" alt="navigatie knoppen lay-out variatie 2" src="https://github.com/user-attachments/assets/6836671a-61bd-4aa9-8dbc-785f9cf97394" />
 
-<img width="1141" height="459" alt="Scherm­afbeelding 2026-10-18 om 01 24 43" src="https://github.com/user-attachments/assets/263024f3-b037-47a9-aa6c-84aa1595952c" />
+<img width="1141" height="459" alt="navigatie knoppen uiteindelijke lay-out" src="https://github.com/user-attachments/assets/263024f3-b037-47a9-aa6c-84aa1595952c" />
 
 ### S2 - Buttons + Dialogs (Sanne)
 
@@ -1309,15 +1341,15 @@ Ik kan buttons en dialogs gebruiken om extra informatie over mijn gameconsoles t
 
 Ik wil dus op mijn consoles pagina een knop toevoegen waarmee bezoekers kunnen kiezen tussen een lijst en een grid om mijn handheld consoles te bekijken. Ik had al een cookie instellingen venster op mijn website gemaakt. Dit is een voorbeeld van een dialog waarmee ik extra informatie aan bezoekers kan tonen.
 
-<img width="600" height="775" alt="Scherm­afbeelding 2026-10-18 om 20 35 24" src="https://github.com/user-attachments/assets/ed4b9c44-5548-44a5-9de4-61cd8f9dacfa" />
+<img width="600" height="775" alt="handheld consoles allemaal" src="https://github.com/user-attachments/assets/ed4b9c44-5548-44a5-9de4-61cd8f9dacfa" />
 
-<img width="1680" height="949" alt="Scherm­afbeelding 2026-10-18 om 20 43 59" src="https://github.com/user-attachments/assets/805fe054-05b3-41a8-8bdc-f932b02f706d" />
+<img width="1680" height="949" alt="handheld consoles in grids allemaal" src="https://github.com/user-attachments/assets/805fe054-05b3-41a8-8bdc-f932b02f706d" />
 
-<img width="1680" height="959" alt="Scherm­afbeelding 2026-10-18 om 20 44 31" src="https://github.com/user-attachments/assets/48e67bd7-335e-44dc-b4f2-5dce728ca389" />
+<img width="1680" height="959" alt="handheld consoles in grids allemaal met namen erbij" src="https://github.com/user-attachments/assets/48e67bd7-335e-44dc-b4f2-5dce728ca389" />
 
-<img width="1680" height="967" alt="Scherm­afbeelding 2026-10-18 om 20 44 40" src="https://github.com/user-attachments/assets/a3b75eff-8555-44a9-8b47-2aae0fe7b028" />
+<img width="1680" height="967" alt="handheld consoles in lijst allemaal" src="https://github.com/user-attachments/assets/a3b75eff-8555-44a9-8b47-2aae0fe7b028" />
 
-<img width="1680" height="782" alt="Scherm­afbeelding 2026-10-18 om 20 51 22" src="https://github.com/user-attachments/assets/b05cf0bc-cfc4-4e7e-a9b1-6464329f360b" />
+<img width="1680" height="782" alt="handheld consoles lay-out keuze grid of lijst." src="https://github.com/user-attachments/assets/b05cf0bc-cfc4-4e7e-a9b1-6464329f360b" />
 
 ### S2 - Position + Dialogs (Sanne)
 
@@ -1406,23 +1438,23 @@ Ik kan position: sticky gebruiken voor een navigatiebalk die zichtbaar blijft ti
 
 Ik ben later terug gekomen op mijn sticky header, het was erg vervelend tijdens het gebruiken van de website waardoor je de tekst soms niet goed kon lezen. Het idee was er, maar het bleek toch onhandig te zijn. Ik heb mijn cookie venster sticky gemaakt en dat bleek veel handiger te zijn.
 
-<img width="1102" height="736" alt="Scherm­afbeelding 2026-10-19 om 20 18 21" src="https://github.com/user-attachments/assets/401e61f1-30c7-4dcd-bc9f-f24981a29913" />
+<img width="1102" height="736" alt="sticky header bij console pagina" src="https://github.com/user-attachments/assets/401e61f1-30c7-4dcd-bc9f-f24981a29913" />
 
-<img width="310" height="109" alt="Scherm­afbeelding 2026-10-20 om 01 00 55" src="https://github.com/user-attachments/assets/c37dd54b-4780-4ee5-a964-cf42dd63f514" />
+<img width="310" height="109" alt="sticky cookie knop" src="https://github.com/user-attachments/assets/c37dd54b-4780-4ee5-a964-cf42dd63f514" />
 
-<img width="1672" height="557" alt="Scherm­afbeelding 2026-10-20 om 01 00 46" src="https://github.com/user-attachments/assets/0e6bb9fe-9980-4603-96c3-49efa3837ee2" />
+<img width="1672" height="557" alt="sticky cookie knop bij console pagina" src="https://github.com/user-attachments/assets/0e6bb9fe-9980-4603-96c3-49efa3837ee2" />
 
 #### Mijn nieuwe pagina's:
 
-<img width="1042" height="420" alt="Scherm­afbeelding 2026-10-20 om 00 54 56" src="https://github.com/user-attachments/assets/dc4bf315-94e7-463f-96cc-62d7d2e19b15" />
+<img width="1042" height="420" alt="uiteindelijke console grid lay-out met huisstijl" src="https://github.com/user-attachments/assets/dc4bf315-94e7-463f-96cc-62d7d2e19b15" />
 
-<img width="877" height="363" alt="Scherm­afbeelding 2026-10-19 om 20 40 18" src="https://github.com/user-attachments/assets/6a292fa2-66dd-456d-8ee6-2590f79ffae3" />
+<img width="877" height="363" alt="uiteindelijke console lijst lay-out met huisstijl" src="https://github.com/user-attachments/assets/6a292fa2-66dd-456d-8ee6-2590f79ffae3" />
 
-<img width="1674" height="405" alt="Scherm­afbeelding 2026-10-19 om 20 40 29" src="https://github.com/user-attachments/assets/7d591b4a-567e-4035-9725-1704638557c3" />
+<img width="1674" height="405" alt="uiteindelijke console grid 2 lay-out met huisstijl" src="https://github.com/user-attachments/assets/7d591b4a-567e-4035-9725-1704638557c3" />
 
-<img width="987" height="579" alt="Scherm­afbeelding 2026-10-19 om 20 40 41" src="https://github.com/user-attachments/assets/a2dc0a5a-1028-4bed-847f-aa7acd90b16a" />
+<img width="987" height="579" alt="nieuwe psp pagina na klikken op meer informatie knop" src="https://github.com/user-attachments/assets/a2dc0a5a-1028-4bed-847f-aa7acd90b16a" />
 
-<img width="996" height="293" alt="Scherm­afbeelding 2026-10-19 om 20 40 47" src="https://github.com/user-attachments/assets/87c9ef56-b107-49d0-9623-27fa0f9520cf" />
+<img width="996" height="293" alt="nieuwe knop ‘suggest a console'." src="https://github.com/user-attachments/assets/87c9ef56-b107-49d0-9623-27fa0f9520cf" />
 
 ### S2 - Meer interactie met HTML en CSS (Vasilis)
 
@@ -1476,17 +1508,15 @@ Door duidelijke labels, verplichte velden en focus-states toe te voegen, wordt h
 
 Ik ga deze technieken gebruiken voor mijn de links naar mijn gaming verhalen / extra informatie over mijn consoles. Dit ga ik doen door duidelijke labels, verplichte velden, goede focus states en herkenbare links toe te voegen. Dit zal mijn website makkelijker te gebruiken maken.
 
-<img width="259" height="80" alt="Scherm­afbeelding 2026-10-20 om 02 08 47" src="https://github.com/user-attachments/assets/d6ddeb18-f5c0-41f8-be09-0f42d83d6bf9" />
+<img width="259" height="80" alt="nieuwe pagina suggestions" src="https://github.com/user-attachments/assets/d6ddeb18-f5c0-41f8-be09-0f42d83d6bf9" />
 
-<img width="1679" height="833" alt="Scherm­afbeelding 2026-10-20 om 02 09 15" src="https://github.com/user-attachments/assets/ea3c29c9-5c55-456c-b8b3-b85ce71a7bee" />
+<img width="1679" height="833" alt="suggestions pagina formulier" src="https://github.com/user-attachments/assets/ea3c29c9-5c55-456c-b8b3-b85ce71a7bee" />
 
-<img width="615" height="493" alt="Scherm­afbeelding 2026-10-20 om 02 09 46" src="https://github.com/user-attachments/assets/317caab3-a1f5-4cce-ae4b-811fb8873977" />
+<img width="615" height="493" alt="suggestions pagina formulier knop" src="https://github.com/user-attachments/assets/317caab3-a1f5-4cce-ae4b-811fb8873977" />
 
-<img width="560" height="582" alt="Scherm­afbeelding 2026-10-20 om 02 11 08" src="https://github.com/user-attachments/assets/1893958e-6413-466f-a86c-fe62cd08bb17" />
+<img width="560" height="582" alt="suggestions pagina formulier met knop " src="https://github.com/user-attachments/assets/1893958e-6413-466f-a86c-fe62cd08bb17" />
 
-<img width="573" height="555" alt="Scherm­afbeelding 2026-10-20 om 02 12 59" src="https://github.com/user-attachments/assets/c1636e61-3633-47c1-af00-fc6aaed9257f" />
-
-# Probeer alle img een andere alt naam te geven ipv schermafbeelding 12345 etc x
+<img width="573" height="555" alt="suggestions pagina formulier donkere mode" src="https://github.com/user-attachments/assets/c1636e61-3633-47c1-af00-fc6aaed9257f" />
 
 # SPRINT 2 - Retrospective:
 
@@ -1502,7 +1532,7 @@ Gedurende sprint 2 heb ik veel geleerd over HTML, CSS, toegankelijkheid en het v
 
 
 
-# SPRINT 3: Digital Garden
+# SPRINT 3 - Digital Garden
 
 ## Wat heb ik aangepast? 
 - Na feedback kwam ik erachter dat mijn cookie instellingen niet op elke pagina hetzelfde bleek te zijn. Dat was voornamelijk bij al mijn extra informatie consoles en bij mijn suggesties pagina. Dit heb ik aangepast en nu staat het wel overal goed.
@@ -1570,6 +1600,19 @@ ik koos voor een knoopje die lijkt op de film Coraline, het is een van mijn favo
 
 <img width="1062" height="873" alt="Nieuwe knop - bewegings instelling sticky net als cookies" src="https://github.com/user-attachments/assets/2577c9e4-4258-4d11-9888-7e39b48d65d6" />
 
+- Mijn nieuwe home pagina:
+
+<img width="1085" height="695" alt="Home pagina met navigatie en roze PSP 3004" src="https://github.com/user-attachments/assets/0652115f-8be6-4e0c-b185-c8406b6adb27" />
+
+<img width="1123" height="518" alt="Homepagina als je verder scrollt met FAQ's (Frequently Asked Questions) die ik zelf heb bedacht" src="https://github.com/user-attachments/assets/7104c2a4-d5a4-4ce0-9792-be2d27b38ded" />
+
+
+# SPRINT 3 - Opdrachten:
+
+
+# SPRINT 3 - Check Out:
+
+
 # SPRINT 3 - Deep Dives:
 
 ### S3 - Interessantere layouts (Vasilis)
@@ -1597,7 +1640,6 @@ Ik heb geleerd dat je met container-type een element als container kunt instelle
 
 #### Wat heb ik toegepast?
 - Ik heb op mijn website container-type: inline-size toegevoegd aan de introductie. Hierdoor kan de breedte van deze container gebruikt worden om de grootte van de koptekst aan te passen. Met clamp() en cqi schaalt de koptekst mee met de beschikbare ruimte.
-
 
 ### S3 - Variabele fonts (Sanne)
 
@@ -1647,13 +1689,55 @@ Ik heb geleerd hoe ik een variabel lettertype kan toevoegen en hoe ik de vormgev
 
 <img width="871" height="153" alt="variabele font werkt niet - sans serif dun" src="https://github.com/user-attachments/assets/61748966-c998-41f1-a569-f775e004d40e" />
 
-
 ### S3 - CSS animaties (Sanne)
 
-#### Wat heb ik gedaan?
+#### Wat heb ik geleerd?
+Tijdens deze deepdive heb ik geleerd hoe ik animaties kan maken met CSS. Ik heb gekeken naar het verschil tussen transitions en animations, hoe @keyframes werkt en hoe ik het gedrag van een animatie kan aanpassen.
 
-nieuwe home pagina gemaakt:
+#### Properties: 
+- @keyframes -> hiermee bepaal je welke veranderingen een animatie tijdens het afspelen maakt.
+- animation -> hiermee stel je de animatie in, bijv. hoe lang deze duurt en hoe vaak deze wordt afgespeeld.
+- animation-duration -> bepaalt hoelang één animatie duurt.
+- animation-timing-function -> bepaalt hoe de animatie versnelt en vertraagt.
+- animation-iteration-count -> bepaalt hoe vaak de animatie wordt afgespeeld.
+- transform -> hiermee kan je een element verplaatsen of draaien.
+- transition -> hiermee laat je een verandering geleidelijk verlopen, bijv. wanneer een element van stijl verandert.
+- prefers-reduced-motion -> hiermee kan je rekening houden met gebruikers die liever minder beweging op een website zien.
+- Ook heb ik geleerd dat je met JavaScript een animatie of bewegingsvoorkeur kan aansturen. (Deze vond ik persoonlijk erg handig en belangrijk, omdat veel elementen op mijn website een animatie hebben en ik hierdoor gebruikers hun eigen voorkeur kan laten kiezen).
 
-<img width="1085" height="695" alt="Scherm­afbeelding 2026-10-27 om 23 53 05" src="https://github.com/user-attachments/assets/0652115f-8be6-4e0c-b185-c8406b6adb27" />
+#### Hoe heb ik dit toegepast op mijn website?
+Op mijn website heb ik de CSS animaties toegepast op de afbeeldingen van mijn game consoles. De consoles bewegen hierdoor rustig heen en weer en hebben een kleine draai. Dit geeft de afbeeldingen meer leven zonder dat de beweging te druk wordt en de bezoeker kan zelf ook de keuze maken voor geen beweging.
 
-<img width="1123" height="518" alt="Scherm­afbeelding 2026-10-27 om 23 53 13" src="https://github.com/user-attachments/assets/7104c2a4-d5a4-4ce0-9792-be2d27b38ded" />
+Ik heb hiervoor @keyframes gebruikt. Binnen de keyframes heb ik verschillende momenten ingesteld met 0%, 50% en 100%. Op die momenten verandert de positie en draaiing van de afbeelding met transform.
+
+Voor de animatie heb ik de volgende eigenschappen gebruikt:
+- animation-duration: 3s; -> de animatie duurt drie seconden.
+- animation-timing-function: ease-in-out; -> de beweging begint en eindigt rustig.
+- animation-iteration-count: infinite; – de animatie blijft zich herhalen.
+
+##### Bewegingsvoorkeuren:
+Niet iedereen vindt bewegende elementen prettig, daarom heb ik ook rekening gehouden met gebruikers die minder beweging willen.
+
+Ik heb hiervoor de klassen .reduce-motion en .normal-motion gebruikt. Met JavaScript kan de gebruiker via de bewegingsinstellingen aangeven of de animaties aan of uit moeten staan. Wanneer minder beweging is ingesteld, wordt de animatie gestopt. Wanneer normale beweging is ingesteld, wordt deze weer geactiveerd.
+
+##### SVG’s aangepast: 
+Naast de animatie heb ik de afmetingen van mijn SVG’s op de aparte console pagina's aangepast. Vooral bij de PSP afbeeldingen waren de details eerst niet goed zichtbaar, daarom heb ik de maximale breedte en hoogte vergroot.
+
+Met object-fit: contain blijven de volledige SVG afbeeldingen zichtbaar en wordt deze niet afgesneden. Ook heb ik de hoogte voor kleinere schermen aangepast met een @media-query, zodat het responsive blijft.
+
+#### Wat is het resultaat?
+De console afbeeldingen bewegen nu subtiel op de detailpagina's. De animatie blijft zich herhalen en kan worden uitgeschakeld wanneer een gebruiker minder beweging wil. Daarnaast zijn de SVG afbeeldingen groter weergegeven, waardoor de details van de consoles beter zichtbaar zijn.
+
+<img width="986" height="792" alt="PSP SVG die nu groter eruit ziet en een animatie heeft" src="https://github.com/user-attachments/assets/2bf1650c-f4b8-4127-b38b-e5dede7a2430" />
+
+
+# SPRINT 3 - Retrospective:
+
+
+
+
+# HERKANSING - Digital Garden:
+
+Ik was vanwege mijn privé omstandigheden vaak afwezig tijdens mijn eerste kans. Ik was al een eind gekomen, maar heb natuurlijk meer elementen toegevoegd. Ik heb Sprint 2 af en alles netjes bijgehouden. Ik heb voor Sprint 3 nu ook .... alle opdrachten staan erbij .... lyric challenge was leuk .... 
+
+# Als S3 af is dat toevoegen en nieuwe elementen etc hieronder zetten!!!
