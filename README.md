@@ -1065,17 +1065,17 @@ Ik heb samen met een medestudent 3 testen gedaan:
 
 Ik vond het persoonlijk geen fijne ervaring, het was erg lastig en vervelend om te gebruiken. Hierdoor zag ik wel in hoe lastig mensen het hebben met een disability.
 
-<img width="1678" height="960" alt="Scherm­afbeelding 2026-09-28 om 14 31 15" src="https://github.com/user-attachments/assets/81a656b2-ce81-45df-970c-35a044c4df4c" />
+<img width="1678" height="960" alt="NS voiceover start op macbook." src="https://github.com/user-attachments/assets/81a656b2-ce81-45df-970c-35a044c4df4c" />
 
 Ik vond het bijvoorbeeld erg lastig om mijn handen hiermee te bewegen en mijn laptop te gebruiken. Ik heb soms zelf ook wel krampen en last van mijn vingers, maar dit was natuurlijk op een heel ander niveau. Het was erg frustrerend en alles ging erg moeizaam. Hierdoor heb ik nu wel een beter begrip dat mensen die deze aandoening hebben ook snel vermoeid en gefrustreerd raken.
 
-<img width="608" height="805" alt="Scherm­afbeelding 2026-10-26 om 01 00 57" src="https://github.com/user-attachments/assets/48e82c4c-b630-4ab9-a791-93eca3a5d239" />
+<img width="608" height="805" alt="1 - Hand aandoening zelf aangedaan" src="https://github.com/user-attachments/assets/48e82c4c-b630-4ab9-a791-93eca3a5d239" />
 
-<img width="594" height="729" alt="Scherm­afbeelding 2026-10-26 om 01 01 12" src="https://github.com/user-attachments/assets/0c719a81-8e33-43d9-9270-e68d85cdc873" />
+<img width="594" height="729" alt="2 - Hand aandoening zelf aangedaan" src="https://github.com/user-attachments/assets/0c719a81-8e33-43d9-9270-e68d85cdc873" />
 
-<img width="593" height="691" alt="Scherm­afbeelding 2026-10-26 om 01 02 37" src="https://github.com/user-attachments/assets/14ad9af8-41a8-4a89-a199-bb8eb59d56fc" />
+<img width="593" height="691" alt="3 - Hand aandoening zelf aangedaan" src="https://github.com/user-attachments/assets/14ad9af8-41a8-4a89-a199-bb8eb59d56fc" />
 
-<img width="571" height="740" alt="Scherm­afbeelding 2026-10-26 om 01 02 54" src="https://github.com/user-attachments/assets/93d176c0-62b3-48d3-8f69-36fb06f80457" />
+<img width="571" height="740" alt="4 - Hand aandoening zelf aangedaan" src="https://github.com/user-attachments/assets/93d176c0-62b3-48d3-8f69-36fb06f80457" />
 
 <img width="500" height="670" alt="VoiceOver op Macbook aangedaan en papiertjes erop" src="https://github.com/user-attachments/assets/957ad6bf-8ed0-4c13-b381-0bb49072193e" />
 
@@ -1125,33 +1125,33 @@ Ik heb deze websites gebruikt om te kijken voor mensen die kleurenblind zijn:
 
 Protanopia:
 
-<img width="1361" height="692" alt="Kleurenblind test - Protanopia" src="https://github.com/user-attachments/assets/80b54576-dfe3-4236-b015-35e226691366" />
+<img width="1361" height="692" alt="Toegankelijkheid getest op eigen website - kleurenblind Protanopia." src="https://github.com/user-attachments/assets/80b54576-dfe3-4236-b015-35e226691366" />
 
 <img width="1358" height="378" alt="Kleurenblind test - Protanopia2" src="https://github.com/user-attachments/assets/fa2dac95-96ad-4c5e-b28f-02a290cf498c" />
 
 Tritanopia:
 
-<img width="920" height="680" alt="Kleurenblind test - Tritanopia" src="https://github.com/user-attachments/assets/43e5a48a-8433-4c9c-be4c-a35081278c7f" />
+<img width="920" height="680" alt="Toegankelijkheid getest op eigen website - kleurenblind Tritanopia." src="https://github.com/user-attachments/assets/43e5a48a-8433-4c9c-be4c-a35081278c7f" />
 
 Greyscale Achromatopsia:
 
-<img width="889" height="688" alt="Kleurenblind test -  Greyscale Achromatopsia " src="https://github.com/user-attachments/assets/4c2f63a9-2e9c-4d97-b252-001169842def" />
+<img width="889" height="688" alt="Toegankelijkheid getest op eigen website - kleurenblind Greyscale Achromatopsia." src="https://github.com/user-attachments/assets/4c2f63a9-2e9c-4d97-b252-001169842def" />
 
 Deuteranopia:
 
-<img width="926" height="737" alt="Kleurenblind test - Deuteranopia" src="https://github.com/user-attachments/assets/60bc72d7-22fc-42e5-8492-7a5e2b7f3339" />
+<img width="926" height="737" alt="Toegankelijkheid getest op eigen website - kleurenblind Deuteranopia." src="https://github.com/user-attachments/assets/60bc72d7-22fc-42e5-8492-7a5e2b7f3339" />
 
 Ik heb ook gekeken naar hoe het eruit ziet in donkere mode:
 
-<img width="959" height="627" alt="Kleurenblind test - Deuteranopia donkere mode intro" src="https://github.com/user-attachments/assets/1c1cedd0-8bdc-443e-bbf8-76988edbaa90" />
+<img width="959" height="627" alt="Toegankelijkheid getest op eigen website - donkere mode home kleurenblind." src="https://github.com/user-attachments/assets/1c1cedd0-8bdc-443e-bbf8-76988edbaa90" />
 
-<img width="979" height="778" alt="Kleurenblind test - Deuteranopia donkere mode consoles" src="https://github.com/user-attachments/assets/c383a824-2b8d-4298-9eaa-c19d655f8f39" />
+<img width="979" height="778" alt="Toegankelijkheid getest op eigen website - donkere mode consoles kleurenblind." src="https://github.com/user-attachments/assets/c383a824-2b8d-4298-9eaa-c19d655f8f39" />
 
 <img width="848" height="569" alt="Kleurenblind test - Deuteranopia donkere mode meer consoles " src="https://github.com/user-attachments/assets/b0c0294f-d75d-42d9-84c6-7482105fcc4b" />
 
 Resultaat bleek dat het 99,88% vriendelijk is voor mensen met deuteranopia:
 
-<img width="760" height="271" alt="Kleurenblind test - Deuteranopia donkere mode resultaat" src="https://github.com/user-attachments/assets/7d1805a1-9827-411e-a1bd-dc503246e787" />
+<img width="760" height="271" alt="Toegankelijkheid getest op eigen website - kleurenblind vriendelijkheid 99,88%." src="https://github.com/user-attachments/assets/7d1805a1-9827-411e-a1bd-dc503246e787" />
 
 #### Spiekbrief: Voice over uitschakelen
 
@@ -1266,29 +1266,29 @@ Ik kan dus deze nieuwe technieken gebruiken om mijn buttons duidelijker te maken
 
 Ik heb geleerd dat interactie niet alleen visueel mooi moet zijn, maar ook duidelijk en toegankelijk moet werken en door de verschillende states te stylen, krijgen de bezoekers gelijk feedback wanneer ze mijn website gebruiken.
 
-<img width="222" height="89" alt="Scherm­afbeelding 2026-10-17 om 20 12 07" src="https://github.com/user-attachments/assets/d53f2fda-bb88-4611-be76-83c08b2dad52" />
+<img width="222" height="89" alt="cookie knop variatie 1" src="https://github.com/user-attachments/assets/d53f2fda-bb88-4611-be76-83c08b2dad52" />
 
-<img width="220" height="81" alt="Scherm­afbeelding 2026-10-17 om 20 12 28" src="https://github.com/user-attachments/assets/17dbe6ef-178a-4cd2-9141-ba309f5e920e" />
+<img width="220" height="81" alt="cookie knop variatie 2" src="https://github.com/user-attachments/assets/17dbe6ef-178a-4cd2-9141-ba309f5e920e" />
 
-<img width="224" height="84" alt="Scherm­afbeelding 2026-10-17 om 20 12 43" src="https://github.com/user-attachments/assets/3587471a-6805-4c4c-95b9-256311db4b74" />
+<img width="224" height="84" alt="cookie knop variatie 3" src="https://github.com/user-attachments/assets/3587471a-6805-4c4c-95b9-256311db4b74" />
 
-<img width="219" height="78" alt="Scherm­afbeelding 2026-10-17 om 20 23 55" src="https://github.com/user-attachments/assets/9a68a62b-e8fd-4c10-b278-ae052b766910" />
+<img width="219" height="78" alt="cookie knop variatie 4" src="https://github.com/user-attachments/assets/9a68a62b-e8fd-4c10-b278-ae052b766910" />
 
-<img width="705" height="73" alt="Scherm­afbeelding 2026-10-17 om 20 41 07" src="https://github.com/user-attachments/assets/6b530f11-b30d-46b7-bb81-cb99664829a9" />
+<img width="705" height="73" alt="details knop 1" src="https://github.com/user-attachments/assets/6b530f11-b30d-46b7-bb81-cb99664829a9" />
 
-<img width="1673" height="106" alt="Scherm­afbeelding 2026-10-17 om 20 41 15" src="https://github.com/user-attachments/assets/2ce41d71-65cf-4854-83d8-054bd8920602" />
+<img width="1673" height="106" alt="details knop 2" src="https://github.com/user-attachments/assets/2ce41d71-65cf-4854-83d8-054bd8920602" />
 
-<img width="205" height="279" alt="Scherm­afbeelding 2026-10-17 om 20 40 52" src="https://github.com/user-attachments/assets/b5747921-6f8a-4043-bcaf-04e4183486c3" />
+<img width="205" height="279" alt="navigatie knoppen lay-out 1" src="https://github.com/user-attachments/assets/b5747921-6f8a-4043-bcaf-04e4183486c3" />
 
-<img width="591" height="70" alt="Scherm­afbeelding 2026-10-17 om 21 13 46" src="https://github.com/user-attachments/assets/b4721120-d430-488e-a636-3f7f30a33ab4" />
+<img width="591" height="70" alt="navigatie knoppen lay-out 2 donker mode" src="https://github.com/user-attachments/assets/b4721120-d430-488e-a636-3f7f30a33ab4" />
 
-<img width="587" height="64" alt="Scherm­afbeelding 2026-10-17 om 21 13 57" src="https://github.com/user-attachments/assets/26e57f3a-6c76-4ef9-8393-571264994b2d" />
+<img width="587" height="64" alt="navigatie knoppen lay-out 2 licht mode" src="https://github.com/user-attachments/assets/26e57f3a-6c76-4ef9-8393-571264994b2d" />
 
-<img width="1012" height="490" alt="Scherm­afbeelding 2026-10-18 om 01 24 53" src="https://github.com/user-attachments/assets/e80a77bd-8567-4b3f-b220-a916814fa2e8" />
+<img width="1012" height="490" alt="navigatie knoppen lay-out variatie 1" src="https://github.com/user-attachments/assets/e80a77bd-8567-4b3f-b220-a916814fa2e8" />
 
-<img width="1013" height="508" alt="Scherm­afbeelding 2026-10-18 om 01 24 58" src="https://github.com/user-attachments/assets/6836671a-61bd-4aa9-8dbc-785f9cf97394" />
+<img width="1013" height="508" alt="navigatie knoppen lay-out variatie 2" src="https://github.com/user-attachments/assets/6836671a-61bd-4aa9-8dbc-785f9cf97394" />
 
-<img width="1141" height="459" alt="Scherm­afbeelding 2026-10-18 om 01 24 43" src="https://github.com/user-attachments/assets/263024f3-b037-47a9-aa6c-84aa1595952c" />
+<img width="1141" height="459" alt="navigatie knoppen uiteindelijke lay-out" src="https://github.com/user-attachments/assets/263024f3-b037-47a9-aa6c-84aa1595952c" />
 
 ### S2 - Buttons + Dialogs (Sanne)
 
@@ -1341,15 +1341,15 @@ Ik kan buttons en dialogs gebruiken om extra informatie over mijn gameconsoles t
 
 Ik wil dus op mijn consoles pagina een knop toevoegen waarmee bezoekers kunnen kiezen tussen een lijst en een grid om mijn handheld consoles te bekijken. Ik had al een cookie instellingen venster op mijn website gemaakt. Dit is een voorbeeld van een dialog waarmee ik extra informatie aan bezoekers kan tonen.
 
-<img width="600" height="775" alt="Scherm­afbeelding 2026-10-18 om 20 35 24" src="https://github.com/user-attachments/assets/ed4b9c44-5548-44a5-9de4-61cd8f9dacfa" />
+<img width="600" height="775" alt="handheld consoles allemaal" src="https://github.com/user-attachments/assets/ed4b9c44-5548-44a5-9de4-61cd8f9dacfa" />
 
-<img width="1680" height="949" alt="Scherm­afbeelding 2026-10-18 om 20 43 59" src="https://github.com/user-attachments/assets/805fe054-05b3-41a8-8bdc-f932b02f706d" />
+<img width="1680" height="949" alt="handheld consoles in grids allemaal" src="https://github.com/user-attachments/assets/805fe054-05b3-41a8-8bdc-f932b02f706d" />
 
-<img width="1680" height="959" alt="Scherm­afbeelding 2026-10-18 om 20 44 31" src="https://github.com/user-attachments/assets/48e67bd7-335e-44dc-b4f2-5dce728ca389" />
+<img width="1680" height="959" alt="handheld consoles in grids allemaal met namen erbij" src="https://github.com/user-attachments/assets/48e67bd7-335e-44dc-b4f2-5dce728ca389" />
 
-<img width="1680" height="967" alt="Scherm­afbeelding 2026-10-18 om 20 44 40" src="https://github.com/user-attachments/assets/a3b75eff-8555-44a9-8b47-2aae0fe7b028" />
+<img width="1680" height="967" alt="handheld consoles in lijst allemaal" src="https://github.com/user-attachments/assets/a3b75eff-8555-44a9-8b47-2aae0fe7b028" />
 
-<img width="1680" height="782" alt="Scherm­afbeelding 2026-10-18 om 20 51 22" src="https://github.com/user-attachments/assets/b05cf0bc-cfc4-4e7e-a9b1-6464329f360b" />
+<img width="1680" height="782" alt="handheld consoles lay-out keuze grid of lijst." src="https://github.com/user-attachments/assets/b05cf0bc-cfc4-4e7e-a9b1-6464329f360b" />
 
 ### S2 - Position + Dialogs (Sanne)
 
