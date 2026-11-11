@@ -496,19 +496,19 @@ Ik vind het interessant hoe een website creatief kan zijn zonder dat de gebruike
 ### Opdracht 18, 19 en 20:
 
 Mijn eigen schets:
-<img width="350" height="650" alt="Mijn eigen schets voor mijzelf - Tekening mobiel beginscherm." src="https://github.com/user-attachments/assets/d0f12803-ffe7-4f10-9338-43000c82c277" />
+<img width="400" height="750" alt="Mijn eigen schets voor mijzelf - Tekening mobiel beginscherm." src="https://github.com/user-attachments/assets/d0f12803-ffe7-4f10-9338-43000c82c277" />
 
 Floortje's schets:
-<img width="350" height="650" alt="Floortje’s eigen schets voor haar eigen site - Tekening mobiel schermen." src="https://github.com/user-attachments/assets/637e4b98-480d-4b9f-87b9-702e9d020bce" />
+<img width="400" height="750" alt="Floortje’s eigen schets voor haar eigen site - Tekening mobiel schermen." src="https://github.com/user-attachments/assets/637e4b98-480d-4b9f-87b9-702e9d020bce" />
 
 Mijn idee voor haar:
-<img width="350" height="650" alt="Mijn schetsen voor Floortje - Tekening mobiel schermen." src="https://github.com/user-attachments/assets/5aba9762-6817-4805-a42a-49214277fb4e" />
+<img width="400" height="750" alt="Mijn schetsen voor Floortje - Tekening mobiel schermen." src="https://github.com/user-attachments/assets/5aba9762-6817-4805-a42a-49214277fb4e" />
 
 Seyi's schets:
-<img width="350" height="650" alt="Seyi’s eigen schets voor haar eigen site - Tekening mobiel schermen." src="https://github.com/user-attachments/assets/ea3aeba4-97db-4661-94df-4860774105d0" />
+<img width="400" height="750" alt="Seyi’s eigen schets voor haar eigen site - Tekening mobiel schermen." src="https://github.com/user-attachments/assets/ea3aeba4-97db-4661-94df-4860774105d0" />
 
 Mijn idee voor haar:
-<img width="350" height="650" alt="Mijn schetsen voor Seyi - Tekening mobiel schermen." src="https://github.com/user-attachments/assets/1c931ccf-ed28-4307-a76b-2331e54b7637" />
+<img width="400" height="750" alt="Mijn schetsen voor Seyi - Tekening mobiel schermen." src="https://github.com/user-attachments/assets/1c931ccf-ed28-4307-a76b-2331e54b7637" />
 
 ### Opdracht 21:
 
