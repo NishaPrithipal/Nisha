@@ -951,6 +951,38 @@ Als je de cookies niet accepteert kan je de video niet bekijken:
 
 <img width="384" height="117" alt="Ticketmaster cookie moet accepteren." src="https://github.com/user-attachments/assets/94a84544-d72b-4527-be53-22ea0ccc6e5e" />
 
+## Samenvatting artikelen: Microinteractions & Dark Patterns
+
+### Microinteractions = Kleine interacties op een website of app die feedback geven aan de gebruiker.
+
+Bijv. een button die van kleur verandert bij hover, een like button die een hartje laat zien, een loading animation, een success message na het versturen van een formulier, etc.
+
+Een micro interactie bestaat uit vier onderdelen:
+Trigger -> Start de interactie.
+Rules -> Bepalen wat er gebeurt.
+Feedback -> Laat zien wat er gebeurt.
+Loops & Modes -> Bepalen hoe de interactie zich herhaalt of verandert.
+
+### Dark Patterns = Design keuzes die gebruikers misleiden of manipuleren om iets te doen wat vooral gunstig is voor het bedrijf.
+
+Dit zijn een paar voorbeelden:
+- Hidden Costs -> Extra kosten verbergen.
+- Confirm-shaming -> Gebruikers een schuldgevoel geven bij weigeren.
+- Roach Motel -> Makkelijk aanmelden, moeilijk opzeggen.
+- Forced Continuity -> Een gratis trial automatisch omzetten naar een betaald abonnement.
+- Fake Urgency / FOMO -> Neppe tijdsdruk creëren.
+
+#### ! Hoe je dit kan voorkomen als ontwerper -> Wees transparant, geef duidelijke keuzes en maak accepteren en weigeren even makkelijk.
+
+### Deceptive Design Patterns (NN/g) = Misleidende design choices die bewust of onbewust kunnen ontstaan.
+
+Twee belangrijke aandachtspunten:
+Controleer of gebruikers je ontwerp goed begrijpen.
+Zorg dat gebruikers niet per ongeluk keuzes maken die ze eigenlijk niet willen.
+
+### ! Wat neem ik mee? Wat is het belangrijkste: 
+Goede UX draait om de gebruiker. Micro interacties maken een website duidelijker en prettiger, terwijl Dark Patterns het vertrouwen en de vrijheid van gebruikers beschadigen.
+
 ## Human Consent Component:
 
 Notities gemaakt tijdens de college van Hans de Zwart. Het was informatief en leerzaam.
