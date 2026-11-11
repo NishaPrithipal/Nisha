@@ -1438,23 +1438,23 @@ Ik kan position: sticky gebruiken voor een navigatiebalk die zichtbaar blijft ti
 
 Ik ben later terug gekomen op mijn sticky header, het was erg vervelend tijdens het gebruiken van de website waardoor je de tekst soms niet goed kon lezen. Het idee was er, maar het bleek toch onhandig te zijn. Ik heb mijn cookie venster sticky gemaakt en dat bleek veel handiger te zijn.
 
-<img width="1102" height="736" alt="Scherm­afbeelding 2026-10-19 om 20 18 21" src="https://github.com/user-attachments/assets/401e61f1-30c7-4dcd-bc9f-f24981a29913" />
+<img width="1102" height="736" alt="sticky header bij console pagina" src="https://github.com/user-attachments/assets/401e61f1-30c7-4dcd-bc9f-f24981a29913" />
 
-<img width="310" height="109" alt="Scherm­afbeelding 2026-10-20 om 01 00 55" src="https://github.com/user-attachments/assets/c37dd54b-4780-4ee5-a964-cf42dd63f514" />
+<img width="310" height="109" alt="sticky cookie knop" src="https://github.com/user-attachments/assets/c37dd54b-4780-4ee5-a964-cf42dd63f514" />
 
-<img width="1672" height="557" alt="Scherm­afbeelding 2026-10-20 om 01 00 46" src="https://github.com/user-attachments/assets/0e6bb9fe-9980-4603-96c3-49efa3837ee2" />
+<img width="1672" height="557" alt="sticky cookie knop bij console pagina" src="https://github.com/user-attachments/assets/0e6bb9fe-9980-4603-96c3-49efa3837ee2" />
 
 #### Mijn nieuwe pagina's:
 
-<img width="1042" height="420" alt="Scherm­afbeelding 2026-10-20 om 00 54 56" src="https://github.com/user-attachments/assets/dc4bf315-94e7-463f-96cc-62d7d2e19b15" />
+<img width="1042" height="420" alt="uiteindelijke console grid lay-out met huisstijl" src="https://github.com/user-attachments/assets/dc4bf315-94e7-463f-96cc-62d7d2e19b15" />
 
-<img width="877" height="363" alt="Scherm­afbeelding 2026-10-19 om 20 40 18" src="https://github.com/user-attachments/assets/6a292fa2-66dd-456d-8ee6-2590f79ffae3" />
+<img width="877" height="363" alt="uiteindelijke console lijst lay-out met huisstijl" src="https://github.com/user-attachments/assets/6a292fa2-66dd-456d-8ee6-2590f79ffae3" />
 
-<img width="1674" height="405" alt="Scherm­afbeelding 2026-10-19 om 20 40 29" src="https://github.com/user-attachments/assets/7d591b4a-567e-4035-9725-1704638557c3" />
+<img width="1674" height="405" alt="uiteindelijke console grid 2 lay-out met huisstijl" src="https://github.com/user-attachments/assets/7d591b4a-567e-4035-9725-1704638557c3" />
 
-<img width="987" height="579" alt="Scherm­afbeelding 2026-10-19 om 20 40 41" src="https://github.com/user-attachments/assets/a2dc0a5a-1028-4bed-847f-aa7acd90b16a" />
+<img width="987" height="579" alt="nieuwe psp pagina na klikken op meer informatie knop" src="https://github.com/user-attachments/assets/a2dc0a5a-1028-4bed-847f-aa7acd90b16a" />
 
-<img width="996" height="293" alt="Scherm­afbeelding 2026-10-19 om 20 40 47" src="https://github.com/user-attachments/assets/87c9ef56-b107-49d0-9623-27fa0f9520cf" />
+<img width="996" height="293" alt="nieuwe knop ‘suggest a console'." src="https://github.com/user-attachments/assets/87c9ef56-b107-49d0-9623-27fa0f9520cf" />
 
 ### S2 - Meer interactie met HTML en CSS (Vasilis)
 
@@ -1508,18 +1508,15 @@ Door duidelijke labels, verplichte velden en focus-states toe te voegen, wordt h
 
 Ik ga deze technieken gebruiken voor mijn de links naar mijn gaming verhalen / extra informatie over mijn consoles. Dit ga ik doen door duidelijke labels, verplichte velden, goede focus states en herkenbare links toe te voegen. Dit zal mijn website makkelijker te gebruiken maken.
 
-<img width="259" height="80" alt="Scherm­afbeelding 2026-10-20 om 02 08 47" src="https://github.com/user-attachments/assets/d6ddeb18-f5c0-41f8-be09-0f42d83d6bf9" />
+<img width="259" height="80" alt="nieuwe pagina suggestions" src="https://github.com/user-attachments/assets/d6ddeb18-f5c0-41f8-be09-0f42d83d6bf9" />
 
-<img width="1679" height="833" alt="Scherm­afbeelding 2026-10-20 om 02 09 15" src="https://github.com/user-attachments/assets/ea3c29c9-5c55-456c-b8b3-b85ce71a7bee" />
+<img width="1679" height="833" alt="suggestions pagina formulier" src="https://github.com/user-attachments/assets/ea3c29c9-5c55-456c-b8b3-b85ce71a7bee" />
 
-<img width="615" height="493" alt="Scherm­afbeelding 2026-10-20 om 02 09 46" src="https://github.com/user-attachments/assets/317caab3-a1f5-4cce-ae4b-811fb8873977" />
+<img width="615" height="493" alt="suggestions pagina formulier knop" src="https://github.com/user-attachments/assets/317caab3-a1f5-4cce-ae4b-811fb8873977" />
 
-<img width="560" height="582" alt="Scherm­afbeelding 2026-10-20 om 02 11 08" src="https://github.com/user-attachments/assets/1893958e-6413-466f-a86c-fe62cd08bb17" />
+<img width="560" height="582" alt="suggestions pagina formulier met knop " src="https://github.com/user-attachments/assets/1893958e-6413-466f-a86c-fe62cd08bb17" />
 
-<img width="573" height="555" alt="Scherm­afbeelding 2026-10-20 om 02 12 59" src="https://github.com/user-attachments/assets/c1636e61-3633-47c1-af00-fc6aaed9257f" />
-
-# !!!!!! Probeer alle img een andere alt naam te geven ipv schermafbeelding 12345 etc x !!!!!!!!!!!
-
+<img width="573" height="555" alt="suggestions pagina formulier donkere mode" src="https://github.com/user-attachments/assets/c1636e61-3633-47c1-af00-fc6aaed9257f" />
 
 # SPRINT 2 - Retrospective:
 
