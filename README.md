@@ -870,7 +870,7 @@ Ik wou besloot voor mijn light/dark modus om een poppetje te maken, ik dacht eer
 
 <img width="451" height="556" alt="Scherm­afbeelding 2026-09-28 om 21 10 36" src="https://github.com/user-attachments/assets/6d799233-99e0-4cb3-a9f1-21178ef00570" />
 
-(Mijn Kirby zag er ook een beetje eng uit vond ik)
+(Mijn Kirby zag er ook een beetje eng uit en vond het toch niet passend.)
 
 Maar kijk dit lijkt wel een beetje op mijn knuffel:
 
