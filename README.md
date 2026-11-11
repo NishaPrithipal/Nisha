@@ -1,9 +1,9 @@
 # SPRINT 0 - Kick Off, Learning Log:
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
-<img width="585" height="33" alt="Scherm­afbeelding 2026-09-10 om 20 54 21" src="https://github.com/user-attachments/assets/2d2485f8-723c-4592-a2e7-e2a5a0f0afcf" />
+<img width="585" height="33" alt="Custom domain DNS check succesvol gecontroleerd op GitHub." src="https://github.com/user-attachments/assets/2d2485f8-723c-4592-a2e7-e2a5a0f0afcf" />
 
-<img width="938" height="153" alt="Scherm­afbeelding 2026-08-31 om 14 49 48" src="https://github.com/user-attachments/assets/5dfaface-11de-45b8-80c5-4c5645e2c85e" />
+<img width="938" height="153" alt="Domino’s pagina waar je zelf je pizza kan samenstellen." src="https://github.com/user-attachments/assets/5dfaface-11de-45b8-80c5-4c5645e2c85e" />
 
 1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
 
@@ -67,9 +67,9 @@ Zie het niet als dit maar Maar zie het als een constante vraag tussen mens en ma
 
 Ik keek eerst naar hoe andere restaurants het doen. Ik vond bij Domino's een goed voorbeeld en ik keek naar welke lettertype het meest lijkt op die van het bedrijf.
 
-<img width="987" height="872" alt="Scherm­afbeelding 2026-09-02 om 09 55 42" src="https://github.com/user-attachments/assets/28a5b310-0ab8-456d-911e-cf18201ae1f9" />
+<img width="987" height="872" alt="Oswald lettertype die ik heb gebruikt voor Wok To Walk." src="https://github.com/user-attachments/assets/28a5b310-0ab8-456d-911e-cf18201ae1f9" />
 
-<img width="1541" height="563" alt="Scherm­afbeelding 2026-09-02 om 10 02 56" src="https://github.com/user-attachments/assets/de182436-0cbd-4381-b79a-cbb8eaca2d44" />
+<img width="1541" height="563" alt="Drie schermen met hoe het nieuwe Wok To Walk menu er visueel uit ziet." src="https://github.com/user-attachments/assets/de182436-0cbd-4381-b79a-cbb8eaca2d44" />
 
 Ik heb een aantal verschillende versies gemaakt van de menu van Wok To Walk. Ik dacht hierbij aan een Nederlandse en Engelse versie en een lichte en donkere modus die de gebruiker zou kunnen kiezen.
 
@@ -77,33 +77,35 @@ Ik heb een aantal verschillende versies gemaakt van de menu van Wok To Walk. Ik 
 2. Hoe verdeel je de content? Overzichtelijk, door 3/4 schermen. Aparte opties.
 3. Waar is er ruimte voor micro-interacties? Bij de knoppen of wanneer de volgende scherm in beeld komt. Wanneer de order gelukt is.
 
-<img width="1001" height="463" alt="Scherm­afbeelding 2026-09-10 om 20 48 49" src="https://github.com/user-attachments/assets/b72a6236-1fc0-41f7-93a5-d3127d05502f" />
+<img width="1001" height="463" alt="Twee schermen met de donkere mode van het nieuwe Wok To Walk menu." src="https://github.com/user-attachments/assets/b72a6236-1fc0-41f7-93a5-d3127d05502f" />
 
-<img width="658" height="459" alt="Scherm­afbeelding 2026-09-10 om 20 47 27" src="https://github.com/user-attachments/assets/30dcb978-b27c-4b48-9a04-71b0daac2ffa" />
+<img width="658" height="459" alt="CSS oefening een lap tekst over de quick brown dog en met een roze T." src="https://github.com/user-attachments/assets/30dcb978-b27c-4b48-9a04-71b0daac2ffa" />
 
 ### S0 - CSS: fonts met kleur en effecten (Sanne)
 
 #### Opdracht 1:
 
-<img width="509" height="560" alt="Scherm­afbeelding 2026-09-02 om 12 07 59" src="https://github.com/user-attachments/assets/a4621c91-e9ed-4cba-bd77-b7ca7f8021cf" />
+<img width="509" height="560" alt="Code die ik heb gebruikt voor de eerste oefening." src="https://github.com/user-attachments/assets/a4621c91-e9ed-4cba-bd77-b7ca7f8021cf" />
 
-<img width="372" height="274" alt="Scherm­afbeelding 2026-09-02 om 12 08 17" src="https://github.com/user-attachments/assets/4dba969a-4398-4831-8ee1-452b741f0419" />
+<img width="372" height="274" alt="Nog meer codes die ik heb gebruikt voor de eerste oefening." src="https://github.com/user-attachments/assets/4dba969a-4398-4831-8ee1-452b741f0419" />
 
-<img width="561" height="849" alt="Scherm­afbeelding 2026-09-02 om 12 08 26" src="https://github.com/user-attachments/assets/ab305ed4-fe6a-4794-883c-3bc276ccb59e" />
+<img width="561" height="849" alt="Opdracht twee tekst staat ‘You Go Girl’ in het blauw." src="https://github.com/user-attachments/assets/ab305ed4-fe6a-4794-883c-3bc276ccb59e" />
 
 #### Opdracht 2:
 
-<img width="64" height="93" alt="Scherm­afbeelding 2026-09-02 om 12 30 20" src="https://github.com/user-attachments/assets/9b276ebc-513a-4239-8075-3f01078092c9" />
+<img width="64" height="93" alt="Codes en een variatie van ‘You Go Girl’ in het blauw met witte schaduw.
+" src="https://github.com/user-attachments/assets/9b276ebc-513a-4239-8075-3f01078092c9" />
 
-<img width="629" height="257" alt="Scherm­afbeelding 2026-09-02 om 12 33 38" src="https://github.com/user-attachments/assets/9af8b8ae-ece2-441b-9538-1621a93c8608" />
+<img width="629" height="257" alt="Opdracht twee ‘You Go Girl’ eindresultaat." src="https://github.com/user-attachments/assets/9af8b8ae-ece2-441b-9538-1621a93c8608" />
 
-<img width="460" height="284" alt="Scherm­afbeelding 2026-09-02 om 12 43 56" src="https://github.com/user-attachments/assets/aa83a3f8-b5e8-4383-8234-2e2457141e25" />
+<img width="460" height="284" alt="You Go Girl eindresultaat." src="https://github.com/user-attachments/assets/aa83a3f8-b5e8-4383-8234-2e2457141e25" />
 
-<img width="503" height="840" alt="Scherm­afbeelding 2026-09-11 om 18 15 27" src="https://github.com/user-attachments/assets/4f3c0b4e-7081-40cd-a48d-28c036157174" />
+<img width="503" height="840" alt="Opdracht twee allebei de plaatjes eindresultaat ‘You Go Girl’ en ‘Good Vibes Only’.
+" src="https://github.com/user-attachments/assets/4f3c0b4e-7081-40cd-a48d-28c036157174" />
 
 #### Opdracht 3 en 4:
 
-<img width="384" height="117" alt="Scherm­afbeelding 2026-09-21 om 15 11 51" src="https://github.com/user-attachments/assets/94a84544-d72b-4527-be53-22ea0ccc6e5e" />
+<img width="384" height="117" alt="Opdracht 3 en 4 accept cookies to watch video." src="https://github.com/user-attachments/assets/94a84544-d72b-4527-be53-22ea0ccc6e5e" />
 
 # SPRINT 1 - Digital Garden:
 
